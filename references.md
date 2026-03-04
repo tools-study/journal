@@ -70,4 +70,16 @@ Lu Y et al. "Reprogramming to Recover Youthful Epigenetic Information and Restor
 What these papers collectively reveal
 Taken together, these ten landmark papers trace a coherent intellectual arc. The stem cell papers (Takahashi 2006, 2007; Thomson 1998) established that cell identity is programmable. PubMedGoogle Scholar The metabolic papers (Vander Heiden 2009; Hardie 2012; Imai 2000; Harrison 2009) revealed that cellular and systemic metabolism can be deliberately tuned through conserved nutrient-sensing pathways. The epigenetic clock (Horvath 2013) provided the measurement tool to quantify biological age. Max Planck InstituteWikipedia The Hallmarks of Aging (López-Otín 2013) unified these threads into a conceptual framework. PubMed Central And the senolytics work (Baker 2011) demonstrated that targeted elimination of damaged cells rejuvenates whole tissues.
 The most striking pattern across these papers is convergence. The sirtuin/NAD⁺ axis links to the epigenome. NaturePubMed Central mTOR connects to autophagy and stem cell function. PubMed Central Partial reprogramming resets the same methylation marks measured by epigenetic clocks. PubMed CentralPubMed Central Senescent cell clearance restores the tissue microenvironment that stem cells need to function. What began as isolated discoveries in yeast genetics, mouse metabolism, and embryology has cohered into a unified science of biological reprogramming—one that now targets not just individual pathways but the integrated state of whole organisms.
-RankPaperJournal, Year~CitationsCore Domain1Takahashi & Yamanaka – Mouse iPSCsCell, 200628,000–30,000Stem cell reprogramming2López-Otín et al. – Hallmarks of AgingCell, 201318,000–22,000Aging framework3Takahashi et al. – Human iPSCsCell, 200718,000–20,000Stem cell reprogramming4Thomson et al. – Human ESCsScience, 1998~15,600Stem cell biology5Vander Heiden et al. – Warburg effectScience, 2009~14,700Metabolic reprogramming6Horvath – Epigenetic clockGenome Biology, 201310,000–14,000Epigenetic aging7Hardie et al. – AMPKNat Rev Mol Cell Biol, 20125,000–6,500Metabolic sensing8Imai et al. – Sir2/NAD⁺Nature, 20004,500–5,500Sirtuins / NAD⁺9Harrison et al. – Rapamycin lifespanNature, 20094,500–5,000mTOR / pharmacological aging10Baker et al. – Senescent cell clearanceNature, 2011~2,950Senolytics / senescence
+
+RankPaperJournal, Year
+Citations
+Core Domain1Takahashi & Yamanaka – Mouse iPSCsCell, 200628,000–30,000Stem cell reprogramming2López-Otín et al. 
+– Hallmarks of AgingCell, 201318,000–22,000Aging framework3Takahashi et al.
+– Human iPSCsCell, 200718,000–20,000Stem cell reprogramming4Thomson et al. 
+– Human ESCsScience, 1998~15,600Stem cell biology5Vander Heiden et al. 
+– Warburg effectScience, 2009~14,700Metabolic reprogramming6Horvath 
+– Epigenetic clockGenome Biology, 201310,000–14,000Epigenetic aging7Hardie et al. 
+– AMPKNat Rev Mol Cell Biol, 20125,000–6,500Metabolic sensing8Imai et al. 
+– Sir2/NAD⁺Nature, 20004,500–5,500Sirtuins / NAD⁺9Harrison et al. 
+– Rapamycin lifespanNature, 20094,500–5,000mTOR / pharmacological aging10Baker et al. 
+– Senescent cell clearanceNature, 2011~2,950Senolytics / senescence
