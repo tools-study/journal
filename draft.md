@@ -1,8 +1,5 @@
 # Biological Reprogramming
 
-
----
-
 ## Abstract
 
 The systematic reprogramming of an entire organism—encompassing the reversal of epigenetic age, the reconfiguration of metabolic networks, the rewriting of bioelectric anatomical instructions, and the clearance of senescent cellular populations—has transitioned from theoretical speculation to a data-driven clinical pursuit. This dissertation provides a rigorous, mathematically grounded analysis of the foundational mechanisms, emerging paradigms, and convergent technologies that define whole-body reprogramming as a unified discipline. We formalize the Waddington epigenetic landscape as a quantitative potential energy surface, derive the stochastic dynamics governing cell fate transitions during reprogramming, and integrate these frameworks with the bioelectric, metabolic, and immunological layers of organismal control. Drawing upon the primary literature from Takahashi and Yamanaka (2006) through the chemical reprogramming breakthroughs of Deng and colleagues (2022–2025), the partial reprogramming paradigm of Ocampo et al. (2016), and the bioelectric morphogenetic code elucidated by Levin (2014–2025), we demonstrate that the convergence of these fields constitutes a programmable hierarchy of intervention capable of restoring systemic function across the full spectrum of mammalian tissues. The clinical translation of these principles—now underway at Altos Labs, NewLimit, and Retro Biosciences—positions whole-body reprogramming as the foundational technology of twenty-first-century regenerative medicine.
