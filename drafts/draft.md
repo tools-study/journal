@@ -488,22 +488,6 @@ where $\text{Age}_{bio}$ is the composite biological age (a weighted sum of orga
 
 This formulation makes explicit the fundamental trade-off of whole-body reprogramming: the intervention must be aggressive enough to achieve meaningful age reversal ($\text{Age}_{bio} \downarrow$) while remaining conservative enough to preserve cellular identity ($\text{Identity} \geq \text{Identity}_{min}$) and avoid oncogenic transformation ($R_{teratoma} \leq R_{max}$). The optimal solution occupies a narrow corridor in the control space—the "safe reprogramming window"—whose precise boundaries are determined by the kinetics of age marker erasure versus identity marker erasure, as empirically established by the Ocampo and Lu protocols.
 
-### 9.3 The 2026 Clinical Landscape
-
-The translation of whole-body reprogramming from preclinical models to human medicine is underway, with several organizations at the frontier:
-
-**Altos Labs** (founded 2022, $3B initial funding): Pursuing partial epigenetic reprogramming for age-related diseases. Published its first major peer-reviewed paper in *Cell* (2025) on mesenchymal drift mechanisms. Appointed Joan Mannick as Chief Medical Officer in 2025, signaling transition from preclinical research to human trials. Reported early human safety testing initiated in August 2025 for indications including idiopathic pulmonary fibrosis and neurodegeneration.
-
-**Retro Biosciences** (founded 2021, backed by Sam Altman): Partnered with OpenAI to redesign Sox2 and Klf4 transcription factors using GPT-4 language models, achieving a reported 50-fold improvement in pluripotency marker expression and increasing reprogramming efficiency from ~1% to potentially ~50%. The autophagy-inducing compound RTR242 entered Phase 1 trials in Australia in 2025.
-
-**NewLimit** (founded 2022 by Brian Armstrong): Developing epigenetic reprogramming therapies targeting liver hepatocytes. Announced proximity to a "clinic-bound" epigenetic reprogramming medicine in late 2025. Raised $130M Series B and an additional $45M from Eli Lilly, reportedly valuing the company at $1.62 billion. Plans to advance its lead candidate into human clinical studies within the next 2–3 years.
-
-**Turn Biotechnologies** (founded 2018): Developing mRNA-based ERA (Epigenetic Reprogramming of Aging) platform. Among the closest to near-term clinical trials for partial reprogramming, with an initial focus on dermatological aging (skin rejuvenation) as a lower-risk entry point.
-
-The convergence of these efforts with advances in AAV capsid engineering (BI-hTFR1, AAV-PHP.eB), LNP-mediated mRNA delivery (SORT nanoparticles), CRISPR base editing (YOLT-203), and AI-guided protein design suggests that the first clinically validated whole-body reprogramming therapies will reach Phase II/III trials by 2027–2028, with initial indications likely focused on age-related macular degeneration, idiopathic pulmonary fibrosis, and osteoarthritis—conditions where localized partial reprogramming offers a favorable risk-benefit ratio.
-
----
-
 ## 10. Conclusion: The Programmable Organism
 
 The discipline of whole-body reprogramming represents the convergence of five independently maturing fields—epigenetic reprogramming, quantitative biological age measurement, bioelectric morphogenetics, metabolic systems biology, and nucleic acid delivery engineering—into a unified framework for the active reconstruction of human health. The mathematical formalism developed in this dissertation—the quantitative Waddington landscape, the stochastic dynamics of cell fate transitions, the optimal control theory of multi-layer intervention—provides the theoretical foundation for designing reprogramming protocols that are simultaneously effective (achieving meaningful biological age reversal), safe (preserving cellular identity and avoiding oncogenesis), and durable (supported by a rejuvenated circulatory and metabolic milieu).
