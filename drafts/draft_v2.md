@@ -102,13 +102,7 @@ $$\frac{dN}{dt} = r \cdot N \cdot f_{expr}(N) \cdot [1 - s_{host}(N)] - \mu \cdo
 
 where $r$ is the intrinsic retrotransposition rate per active element per cell division, $f_{expr}(N)$ is a function describing the expression probability of each element (which decreases with increasing copy number due to epigenetic silencing by the KRAB-ZFP/KAP1/SETDB1 pathway), $s_{host}(N)$ represents the aggregate host suppression efficiency (including APOBEC3-mediated cytidine deamination, piRNA-directed silencing, and DNA methylation), and $\mu$ is the rate of inactivation by truncation, inversion, or point mutation.
 
-For the modern human genome, $N \approx 80–100$ retrotransposition-competent L1Hs elements (Brouha et al., 2003), with the majority of retrotransposition activity driven by a small number of highly active "hot" L1 elements. The retrotransposition rate in the human germline has been estimated at $r_{eff} \approx 1/20$ to $1/270$ births (Kazazian et al., 1988; Ewing and Kazazian, 2010), implying that host suppression mechanisms reduce the intrinsic rate by several orders of magnitude.
-
-The equilibrium between retrotransposition and host suppression can be formalized as a steady-state condition:
-
-$$N^* = \frac{r \cdot f_{expr}(N^*) \cdot [1 - s_{host}(N^*)]}{\mu}$$
-
-This equilibrium is dynamically maintained: too little host suppression leads to genomic instability and cancer; too much suppression would eliminate the retrotransposition that has, over evolutionary time, contributed essential regulatory sequences, including approximately 25% of human promoter elements (Faulkner et al., 2009).
+For the modern human genome, $N \approx 80–100$ retrotransposition-competent L1Hs elements (Brouha et al., 2003), with the majority of retrotransposition activity driven by a small number of highly active "hot" L1 elements. The retrotransposition rate in the human germline has been estimated at $r_{eff} \approx 1/20$ to $1/270$ births (Kazazian et al., 1988; Ewing and Kazazian, 2010), implying that host suppression mechanisms reduce the intrinsic rate by several orders of magnitude. The equilibrium between retrotransposition and host suppression can be formalized as a steady-state condition. This equilibrium is dynamically maintained: too little host suppression leads to genomic instability and cancer; too much suppression would eliminate the retrotransposition that has, over evolutionary time, contributed essential regulatory sequences, including approximately 25% of human promoter elements (Faulkner et al., 2009).
 
 ### 2.6 In Situ Structural Biology: Cryo-ET of Retrotransposon Particles
 
