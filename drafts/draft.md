@@ -603,5 +603,3 @@ Warren, L., et al. (2010). Highly efficient reprogramming to pluripotency and di
 Yu, J., et al. (2007). Induced pluripotent stem cell lines derived from human somatic cells. *Science* 318, 1917–1920.
 
 Zhu, Y., et al. (2015). The Achilles' heel of senescent cells: from transcriptome to senolytic drugs. *Aging Cell* 14, 644–658.
-
-Brixi, G., Durrant, M. G., Ku, J., Poli, M., Brockman, G., Chang, D., ... & Hie, B. L. (2025). Genome modeling and design across all domains of life with Evo 2. BioRxiv, 2025-02.
