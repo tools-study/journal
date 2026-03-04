@@ -1,7 +1,5 @@
 # Structural and Molecular Biology
 
-**March 2026**
-
 ---
 
 ## Abstract
