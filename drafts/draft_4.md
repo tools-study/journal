@@ -3089,8 +3089,6 @@ This work has focused on approaches that deliver editing machinery to existing c
 
 **In situ base editing without delivery.** A conceptually distinct approach would engineer endogenous cellular machinery to perform targeted editing without external delivery. For example, CRISPR arrays integrated into the genome (via HAC or safe harbor integration) could be transcribed and processed by endogenous Cas proteins, if such proteins were first introduced by any of the delivery approaches described here. This "seed-and-spread" strategy, where initial delivery establishes a self-propagating editing program, is a variant of the propagation cascade concept and faces similar safety concerns.
 
-**Whole-organism genetic reprogramming via germline editing.** For applications where the modification should be present in all cells from the earliest stages of development (e.g., preventive editing of high-risk polygenic variants in embryos), germline editing would be the most efficient approach. However, germline editing raises profound ethical and safety concerns, is subject to international moratoriums, and is not the focus of this work. The somatic approaches described here are explicitly designed to achieve whole-body modification without altering the germline.
-
 ### 15.4 Clinical Application Scenarios
 
 To illustrate how the multi-layer framework would be applied in practice, we describe three specific clinical scenarios with increasing complexity:
