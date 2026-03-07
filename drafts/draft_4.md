@@ -3223,11 +3223,9 @@ No single approach solves all five fundamental bottlenecks (dose, distribution, 
 
 The path from concept to clinic is long, uncertain, and fraught with challenges. But for the first time, the theoretical framework and the component technologies exist to make whole-body genetic engineering a scientifically tractable goal rather than a science fiction conceit. The question is no longer whether it is possible, but when and how it will be achieved.
 
-### 15.10 Final Remarks on Scientific Rigor and Truthfulness
+### 15.10 Final Remark
 
-This work has adhered to a strict standard of truthfulness and scientific rigor. Every claim made about existing technologies is supported by published, peer-reviewed evidence with specific citations to PMC/PubMed-indexed sources. Where we have projected future capabilities (improved bridge recombination efficiency, expanded eCIS cargo capacity, iPSC-derived CAR-M), we have clearly distinguished projections from established data and provided explicit rationale based on analogous engineering trajectories.
-
-The mathematical frameworks throughout this work are derived from first principles (thermodynamics, chemical kinetics, diffusion theory, percolation theory) and parameterized with experimentally measured values where available. Where parameters are estimated (e.g., EV production rates from engineered macrophages, cascade propagation coefficients), we have stated the assumptions and provided sensitivity analyses to assess the robustness of conclusions.
+Where we have projected future capabilities (improved bridge recombination efficiency, expanded eCIS cargo capacity, iPSC-derived CAR-M), we have clearly distinguished projections from established data and provided explicit rationale based on analogous engineering trajectories. The mathematical frameworks throughout this work are derived from first principles (thermodynamics, chemical kinetics, diffusion theory, percolation theory) and parameterized with experimentally measured values where available. Where parameters are estimated (e.g., EV production rates from engineered macrophages, cascade propagation coefficients), we have stated the assumptions and provided sensitivity analyses to assess the robustness of conclusions.
 
 Several important caveats must be acknowledged:
 
