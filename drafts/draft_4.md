@@ -2943,3 +2943,6 @@ Yarnall, M.T.N., Ioannidi, E.I., Schmitt-Ulms, C., Cho, M.J., et al. (2023). Dra
 Lanigan, T. M., Kopera, H. C., & Saunders, T. L. (2020). Principles of Genetic Engineering. Genes, 11(3), 291. https://doi.org/10.3390/genes11030291
 
 Craig W. Gambogi et al. ,Efficient formation of single-copy human artificial chromosomes.Science383,1344-1349(2024).DOI:10.1126/science.adj3566
+
+Kreitz, J., Friedrich, M.J., Guru, A. et al. Programmable protein delivery with a bacterial contractile injection system. Nature 616, 357–364 (2023). https://doi.org/10.1038/s41586-023-05870-7
+
