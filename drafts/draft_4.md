@@ -58,7 +58,7 @@ Each of the ten approaches presented in this work addresses a distinct subset of
 
 ### 1.4 Cell Count Considerations
 
-Note that only approximately 5 to 10 billion non-blood cells may need to be targeted in certain therapeutic contexts. This is an important distinction. The total nucleated cell count of $3.72 \times 10^{13}$ includes approximately $3 \times 10^{13}$ red blood cells (which are enucleated and thus not targets for nuclear genome editing) and approximately $3 \times 10^{11}$ white blood cells. The remaining non-blood nucleated cells---epithelial cells, endothelial cells, fibroblasts, adipocytes, myocytes, neurons, glia, and others---number approximately $3 \times 10^{13}$ in total. However, for many therapeutic applications, targeting a subset of 5--10 billion cells in critical tissues may suffice:
+Note that only approximately 5 to 10 billion non-blood cells may need to be targeted in certain therapeutic contexts. This is an important distinction. The total nucleated cell count of $3.72 \times 10^{13}$ includes approximately $3 \times 10^{13}$ red blood cells (which are enucleated and thus not targets for nuclear genome editing) and approximately $3 \times 10^{11}$ white blood cells. However, for many therapeutic applications, targeting a subset of 5 to 10 billion cells in critical tissues may suffice:
 
 - **Hepatocytes:** ~$10^{11}$ (liver function, metabolic disease)
 - **Cardiomyocytes:** ~$2 \times 10^{9}$ (cardiac function)
