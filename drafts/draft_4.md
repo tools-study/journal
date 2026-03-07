@@ -2941,3 +2941,5 @@ Toda, S., Blauch, L.R., Tang, S.K.Y., Morsut, L., and Lim, W.A. (2018). Programm
 Yarnall, M.T.N., Ioannidi, E.I., Schmitt-Ulms, C., Cho, M.J., et al. (2023). Drag-and-drop genome insertion of large sequences without double-strand DNA cleavage using CRISPR-directed integrases. *Nature Biotechnology* 41, 500--512.
 
 Lanigan, T. M., Kopera, H. C., & Saunders, T. L. (2020). Principles of Genetic Engineering. Genes, 11(3), 291. https://doi.org/10.3390/genes11030291
+
+Craig W. Gambogi et al. ,Efficient formation of single-copy human artificial chromosomes.Science383,1344-1349(2024).DOI:10.1126/science.adj3566
