@@ -38,8 +38,6 @@ The motivation for whole-body genetic engineering arises from three convergent i
 
 **Engineered biological enhancement.** Beyond disease treatment, the ability to introduce novel genetic circuits---biosensors, metabolic optimizations, synthetic immune functions---across all relevant tissues would enable biological capabilities not present in the unmodified human genome. This includes enhanced DNA repair fidelity, improved antioxidant defense, optimized mitochondrial efficiency, and synthetic immune receptors targeting novel pathogen classes.
 
-**Pandemic preparedness.** The COVID-19 pandemic demonstrated that existing vaccine development timelines (even the unprecedented 11-month mRNA vaccine development) are insufficient to prevent significant mortality from novel pathogens. Whole-body genetic engineering could provide a fundamentally different approach: pre-installing broadly protective genetic modifications (enhanced innate immune pathways, pan-coronavirus receptor decoys, constitutive expression of broadly neutralizing antibody frameworks) that provide protection against entire pathogen families rather than specific strains. This "genetic vaccination" approach would require whole-body distribution of the protective genetic circuits to achieve meaningful population-level protection.
-
 ### 1.3 The Five Fundamental Bottlenecks
 
 Achieving whole-body genetic engineering requires simultaneously solving five problems:
