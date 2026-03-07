@@ -2597,7 +2597,7 @@ suggest that AI will play a central role in accelerating the development of whol
 
 ### 13.6 Immunological Considerations for Multi-Modality Protocols
 
-The sequential administration of multiple delivery modalities in the multi-layer protocol (Section 11.4) creates a complex immunological landscape that requires careful management:
+The sequential administration of multiple delivery modalities in the multi-layer protocol creates a complex immunological landscape that requires careful management:
 
 **13.6.1 Adaptive Immune Cross-Talk**
 
