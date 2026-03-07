@@ -26,7 +26,7 @@ The current generation of gene therapies achieves meaningful genetic modificatio
 - **Systemic AAV9** (Zolgensma): The highest-dose systemic gene therapy in clinical use ($1.1 \times 10^{14}$ vector genomes/kg), yet efficient transduction is achieved primarily in motor neurons and liver, with limited penetration of most other tissues.
 - **Ex vivo HSC editing** (Casgevy): Modifies $10^6$--$10^8$ hematopoietic stem cells, which reconstitute the hematopoietic system but do not directly modify non-hematopoietic tissues.
 
-The gap between current capabilities and whole-body engineering spans 5--8 orders of magnitude. Closing this gap requires not incremental improvements to existing platforms but fundamentally new strategies that exploit biological amplification, novel editing mechanisms, endogenous distribution networks, and intercellular propagation.
+The gap between current capabilities and whole-body engineering spans 5--8 orders of magnitude. Closing this gap requires not incremental improvements to existing platforms but fundamentally new strategies that exploit biological amplification, novel editing mechanisms, and endogenous distribution networks.
 
 ### 1.2 Why Whole-Body Genetic Engineering?
 
