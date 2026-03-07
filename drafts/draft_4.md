@@ -3018,7 +3018,7 @@ While the approaches described here target somatic cells, any whole-body editing
 
 The same technologies that enable therapeutic genetic engineering could, in principle, be applied to non-therapeutic or harmful ends:
 
-- Enhancement beyond normal human function (cognitive, physical, sensory) raises questions about fairness in competitive contexts (athletics, military, academic)
+- Enhancement beyond normal human function (cognitive, physical, sensory) raises questions about fairness.
 - The propagation cascade concept, if adapted to spread between individuals (rather than within an organism), would constitute a human gene drive with catastrophic ethical implications. Ensuring that propagation cascades are physically incapable of inter-individual transmission is a critical safety requirement.
 - Manufacturing of editing components (saRNA, eVLPs, eCIS) uses standard molecular biology techniques accessible to academic and commercial laboratories. As costs decline, the barrier to entry for non-therapeutic applications decreases.
 
