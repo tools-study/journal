@@ -9,7 +9,7 @@ Here we present nine frontier approaches that, individually and in combination, 
 
 For each approach, we provide rigorous mechanistic analysis, mathematical modeling of scalability and efficiency, assessment of safety constraints, and evaluation of the path to clinical translation. We demonstrate that the combination of these nine approaches constitutes a multi-layered strategy capable of achieving whole-body genetic engineering with acceptable safety margins.
 
-**Keywords:** genetic engineering, self-amplifying RNA, bridge recombination, virus-like particles, contractile injection systems, erythrocyte delivery, extracellular vesicles, CAR-macrophage, mitochondrial editing, human artificial chromosomes, intercellular transfer, whole-body delivery, genome editing, scalable gene therapy
+**Keywords:** genetic engineering, self-amplifying RNA, bridge recombination, virus-like particles, contractile injection systems, erythrocyte delivery, extracellular vesicles, CAR-macrophage, mitochondrial editing, intercellular transfer, whole-body delivery, genome editing, scalable gene therapy
 
 ---
 
