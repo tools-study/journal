@@ -136,7 +136,7 @@ At approximately 1,000 mRNA molecules per LNP and a molecular weight of $\sim 10
 
 $$m_{mRNA} \approx 2.6 \times 10^{18} \times 10^3 \times 10^6 \times 1.66 \times 10^{-24} \approx 4.3 \text{ kg of mRNA}$$
 
-This is obviously infeasible. The calculation demonstrates that no incremental improvement in LNP formulation can bridge the scale gap; instead, fundamentally different strategies (amplification, biological distribution networks, cell-to-cell propagation) are required.
+This is obviously infeasible. The calculation demonstrates that no incremental improvement in LNP formulation can bridge the scale gap; instead, fundamentally different strategies (amplification, biological distribution networks) are required.
 
 **How the nine approaches solve the scale gap:**
 
@@ -2856,7 +2856,7 @@ Our multi-layer approach circumvents the AAV dose limitation by using multiple c
 
 The trillions-of-cells problem is not a wall. It is an engineering challenge, and the ten approaches presented here---self-amplifying RNA genome editors, bridge RNA-guided recombination, engineered virus-like particles, programmable contractile injection systems, red blood cell ghost delivery vehicles, immune cell-mediated delivery depots, chimeric antigen receptor macrophages, DddA-derived cytidine base editors and TALEDs for mitochondrial genome engineering, human artificial chromosomes---collectively constitute the first comprehensive strategy for solving it.
 
-No single approach solves all five fundamental bottlenecks (dose, distribution, editing mechanism, safety, durability). But their combination creates a multi-layered architecture where each component addresses the limitations of the others. The mathematical frameworks developed throughout this work---amplification kinetics (Section 2), recombination efficiency models (Section 3), pharmacokinetic models (Section 4), injection probability theory (Section 5), compartmental delivery models (Sections 6--8), heteroplasmy dynamics (Section 9), reaction-diffusion wave propagation (Section 11), and percolation theory (Section 12)---provide quantitative tools for engineering the optimal combination for each clinical application.
+No single approach solves all five fundamental bottlenecks (dose, distribution, editing mechanism, safety, durability). But their combination creates a multi-layered architecture where each component addresses the limitations of the others. The mathematical frameworks developed throughout this work---amplification kinetics (Section 2), recombination efficiency models (Section 3), pharmacokinetic models (Section 4), injection probability theory (Section 5), compartmental delivery models (Sections 6--8), heteroplasmy dynamics (Section 9), and percolation theory (Section 12)---provide quantitative tools for engineering the optimal combination for each clinical application.
 
 The path from concept to clinic is long, uncertain, and fraught with challenges. But for the first time, the theoretical framework and the component technologies exist to make whole-body genetic engineering a scientifically tractable goal rather than a science fiction conceit. The question is no longer whether it is possible, but when and how it will be achieved.
 
