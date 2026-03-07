@@ -2854,7 +2854,7 @@ Our multi-layer approach circumvents the AAV dose limitation by using multiple c
 
 ### 14.9 Conclusion
 
-The 37-trillion-cell problem is not a wall. It is an engineering challenge, and the ten approaches presented here---self-amplifying RNA genome editors, bridge RNA-guided recombination, engineered virus-like particles, programmable contractile injection systems, red blood cell ghost delivery vehicles, immune cell-mediated delivery depots, chimeric antigen receptor macrophages, DddA-derived cytidine base editors and TALEDs for mitochondrial genome engineering, human artificial chromosomes---collectively constitute the first comprehensive strategy for solving it.
+The trillions-of-cells problem is not a wall. It is an engineering challenge, and the ten approaches presented here---self-amplifying RNA genome editors, bridge RNA-guided recombination, engineered virus-like particles, programmable contractile injection systems, red blood cell ghost delivery vehicles, immune cell-mediated delivery depots, chimeric antigen receptor macrophages, DddA-derived cytidine base editors and TALEDs for mitochondrial genome engineering, human artificial chromosomes---collectively constitute the first comprehensive strategy for solving it.
 
 No single approach solves all five fundamental bottlenecks (dose, distribution, editing mechanism, safety, durability). But their combination creates a multi-layered architecture where each component addresses the limitations of the others. The mathematical frameworks developed throughout this work---amplification kinetics (Section 2), recombination efficiency models (Section 3), pharmacokinetic models (Section 4), injection probability theory (Section 5), compartmental delivery models (Sections 6--8), heteroplasmy dynamics (Section 9), reaction-diffusion wave propagation (Section 11), and percolation theory (Section 12)---provide quantitative tools for engineering the optimal combination for each clinical application.
 
@@ -2874,7 +2874,7 @@ Several important caveats must be acknowledged:
 
 4. **Publication bias**: Our assessment of existing technologies is based on published literature, which is subject to publication bias toward positive results. The true efficacy and safety profiles of these technologies may be less favorable than the published data suggest.
 
-Despite these caveats, the convergence of multiple independent technological breakthroughs---each addressing a distinct bottleneck of whole-body editing---creates a scientific moment of unprecedented opportunity. The ten approaches described here provide the first comprehensive toolkit for the 37-trillion-cell problem, and their systematic development and integration represents one of the most important engineering challenges of the coming decades.
+Despite these caveats, the convergence of multiple independent technological breakthroughs---each addressing a distinct bottleneck of whole-body editing---creates a scientific moment of unprecedented opportunity. The ten approaches described here provide the first comprehensive toolkit for the trillions-of-cells problem, and their systematic development and integration represents one of the most important engineering challenges of the coming decades.
 
 ---
 
