@@ -147,7 +147,7 @@ This is obviously infeasible. The calculation demonstrates that no incremental i
 | Endosomal escape | LNP (~1--2%) | ~50--100x loss | eVLP membrane fusion; eCIS mechanical injection |
 | Editing mechanism | DSB-dependent (Cas9) | p53 activation; chromothripsis | Bridge recombination (DSB-free) |
 | Durability | Transient mRNA | Re-dosing needed | HAC (permanent); depot (continuous) |
-| Coverage | Single-modality | Gaps in hard-to-reach tissues | Propagation cascade (fills gaps) |
+| Coverage | Single-modality | Gaps in hard-to-reach tissues |  |
 | Mitochondria | Not addressable by CRISPR | Separate genome | DdCBE/TALED (RNA-free) |
 
 This table summarizes the central thesis of this work: each approach addresses a specific bottleneck that no single platform can solve alone.
@@ -1389,7 +1389,7 @@ CAR-M targeted delivery is most powerful when combined with other approaches:
 
 **CAR-M + saRNA amplification**: The EV cargo includes not just editing protein/RNA but m5C-saRNA encoding the editor. Upon EV-mediated delivery to the target cell, the saRNA amplifies, producing sustained editor expression from a single EV fusion event. This dramatically increases the per-EV editing probability.
 
-**CAR-M + propagation cascade**: Target cells edited by CAR-M-derived EVs include the propagation circuit, enabling cascade amplification from each CAR-M-initiated editing event. This combination is particularly powerful for reaching tissues with low macrophage density.
+**CAR-M : Target cells edited by CAR-M-derived EVs is particularly powerful for reaching tissues with low macrophage density.
 
 **CAR-M + eVLP**: CAR-M cells are engineered to produce eVLP-like particles (using Gag-cargo fusions) rather than simple EVs, potentially increasing cargo loading and delivery efficiency.
 
@@ -1821,7 +1821,7 @@ Despite these limitations, HACs occupy a unique niche in the whole-body editing 
 
 ---
 
-## 11. Integrated Strategy: Combining Ten Approaches for Whole-Body Genetic Engineering
+## 11. Integrated Strategy: Combining Nine Approaches for Whole-Body Genetic Engineering
 
 ### 11.1 Comprehensive Ten-Approach Comparison
 
@@ -1840,7 +1840,6 @@ Before describing the integration strategy, we provide a comprehensive compariso
 | 7 | CAR-M | EV fusion | Protein + RNA | ~200 kDa protein | Not required (EV fusion) |
 | 8 | DdCBE/TALED | Via other platforms | Protein | ~200 kDa (2 proteins) | Via host platform |
 | 9 | HAC | MMCT (ex vivo) | DNA | >2 Mb DNA | Not applicable (MMCT) |
-| 10 | Cascade | EV/TNT transfer | Protein + RNA | ~200 kDa protein | Not required (EV/TNT) |
 
 **Table 2: Tissue Access and Distribution**
 
@@ -1855,7 +1854,6 @@ Before describing the integration strategy, we provide a comprehensive compariso
 | 7 | CAR-M | Targeted (CAR-directed) | CAR-antigen expressing | Non-antigen tissues | Yes (with CAR panel) |
 | 8 | DdCBE/TALED | Via delivery platform | All mitochondria-rich tissues | Low-mtDNA tissues | Via platform |
 | 9 | HAC | Ex vivo only (MMCT) | HSCs, iPSCs | All (requires MMCT) | Only via cell transplant |
-| 10 | Cascade | Local propagation | Dense, well-connected | Sparse, isolated | Yes (from seeded foci) |
 
 **Table 3: Temporal Profile and Safety**
 
@@ -1870,7 +1868,6 @@ Before describing the integration strategy, we provide a comprehensive compariso
 | 7 | CAR-M | Weeks (cell lifespan) | Yes | Off-target homing; CRS | Yes (iCaspase-9) |
 | 8 | DdCBE/TALED | Via platform | Via platform | mtDNA off-target; nuclear leak | Via platform |
 | 9 | HAC | Permanent (mitotic) | Not applicable | Centromere loss; silencing | Yes (self-destruct) |
-| 10 | Cascade | Self-limiting (weeks) | Not applicable | Uncontrolled propagation | Yes (molecular counter) |
 
 **Table 4: Manufacturing and Cost**
 
@@ -1885,13 +1882,12 @@ Before describing the integration strategy, we provide a comprehensive compariso
 | 7 | CAR-M | Ex vivo cell processing | Low | $100K--$300K | Cell therapy |
 | 8 | DdCBE/TALED | Via delivery platform | Via platform | Via platform | Gene therapy |
 | 9 | HAC | Specialized (MMCT) | Very low | $100K--$500K | Novel category |
-| 10 | Cascade | Encoded in editing circuit | Self-propagating | Included in editing cost | Novel category |
 
 These four tables provide the foundation for rational design of multi-layer protocols: each clinical application can select the optimal combination of approaches based on the target tissue, required payload, acceptable cost, and safety requirements.
 
 ### 11.2 The Multi-Layer Architecture
 
-The ten approaches address complementary bottlenecks and can be combined into a multi-layer strategy:
+The nine approaches address complementary bottlenecks and can be combined into a multi-layer strategy:
 
 **Layer 1: Systemic Seeding (saRNA-LNP)**
 - IV administration of m5C-modified saRNA encoding the desired genome editor, packaged in SORT-modified LNPs
@@ -1924,11 +1920,6 @@ The ten approaches address complementary bottlenecks and can be combined into a 
 - Provides megabase-scale genetic programs
 - Stable, non-integrating platform for complex circuits
 
-**Layer 7: Gap Filling (Propagation Cascade)**
-- Editing cargo from all preceding layers includes the propagation circuit
-- 4-generation depth limit ensures safety
-- Achieves >95% coverage in seeded tissues
-
 ### 11.2 Comparative Analysis
 
 | Approach | Primary Bottleneck Solved | Tissue Reach | Onset | Duration | Cargo Type |
@@ -1942,7 +1933,6 @@ The ten approaches address complementary bottlenecks and can be combined into a 
 | CAR-M | Targeted homing | Specific tissues | Days | Weeks-months | EV-mediated |
 | DdCBE/TALED | Mitochondrial editing | Wherever delivered | Hours | Permanent edit | Protein |
 | HACs | Large payload capacity | Ex vivo cells | Months | Stable if maintained | DNA |
-| Propagation cascade | Cell-to-cell coverage | Local amplification | Days | Self-limiting | EV/TNT |
 
 ### 11.3 Organ-by-Organ Strategy
 
@@ -1950,7 +1940,7 @@ The ten approaches address complementary bottlenecks and can be combined into a 
 
 **Lung** ($\sim 10^{11}$ epithelial cells): Strategy: DOTAP-SORT saRNA-LNP for systemic delivery to lung endothelium and epithelium, supplemented by inhaled eVLP aerosol for direct airway epithelial access. Expected editing: 20--40% epithelial cells.
 
-**Brain** ($\sim 10^{11}$ neurons + $10^{10}$ glia): The most challenging organ due to the blood-brain barrier. Strategy: Intrathecal eVLP injection with Nipah F/G pseudotyping for neuronal tropism. eCIS with CNS-targeting tail fibers for focal delivery. Immune depot (microglia replacement via HSC transplant) for sustained coverage. Expected editing: 5--15% cortical neurons (direct), 20--40% (with cascade amplification).
+**Brain** ($\sim 10^{11}$ neurons + $10^{10}$ glia): The most challenging organ due to the blood-brain barrier. Strategy: Intrathecal eVLP injection with Nipah F/G pseudotyping for neuronal tropism. eCIS with CNS-targeting tail fibers for focal delivery. Immune depot (microglia replacement via HSC transplant) for sustained coverage. Expected editing: 5--15% cortical neurons (direct).
 
 **Heart** ($\sim 2 \times 10^{9}$ cardiomyocytes): Post-mitotic cells requiring high-efficiency single-dose editing. Strategy: Coronary artery infusion of eVLPs pseudotyped with cardiac-tropic envelopes. CAR-M targeting cardiac troponin surface epitopes for sustained delivery. Expected editing: 15--30% cardiomyocytes.
 
@@ -1962,7 +1952,7 @@ The ten approaches address complementary bottlenecks and can be combined into a 
 
 **Skin** ($\sim 2 \times 10^{10}$ keratinocytes): Accessible by direct topical application. Strategy: Topical application of eVLP or saRNA-LNP formulations in gel matrix. Langerhans cell depot delivery. Expected editing: 20--50% (with topical application), 5--10% (systemic only).
 
-**Bone and cartilage** ($\sim 10^{10}$ osteocytes + chondrocytes): The most challenging tissues due to dense extracellular matrix and limited vascular access. Strategy: Propagation cascade is essential---initial seeding by immune depot cells in bone marrow, with cascade amplification through dense tissue. Expected editing: 5--15% (osteocytes), 1--5% (chondrocytes, the most difficult target).
+**Bone and cartilage** ($\sim 10^{10}$ osteocytes + chondrocytes): The most challenging tissues due to dense extracellular matrix and limited vascular access. Expected editing: 5--15% (osteocytes), 1--5% (chondrocytes, the most difficult target).
 
 **Immune system** ($\sim 3 \times 10^{11}$ white blood cells): Strategy: Direct HSC editing ex vivo, which reconstitutes all immune lineages. This is the only approach that does not require in vivo delivery. Expected editing: >80% (with myeloablative conditioning), 50--70% (reduced-intensity conditioning).
 
@@ -2035,7 +2025,6 @@ Annual comprehensive assessment including:
 If initial editing is insufficient (<10% in target tissues at week 24):
 - Repeat saRNA-LNP administration with envelope-switched eVLP boost
 - Increase CAR-M dose or add additional CAR-M targeting domains
-- Consider adding propagation cascade circuit via a second round of saRNA-LNP delivery
 
 If safety signals emerge:
 - Activate iCaspase-9 safety switch (AP1903 infusion) to ablate depot cells
@@ -2065,7 +2054,6 @@ This protocol illustrates the complexity and duration of a comprehensive whole-b
 - Multi-layer protocol optimization
 - Clinical trials of combined strategies for aging and polygenic disease
 - HAC-based complex genetic circuit delivery
-- Propagation cascade safety validation in large animal models
 
 ### 11.5 Comprehensive Safety Framework
 
@@ -2117,11 +2105,11 @@ The immune depot and HAC approaches, which provide sustained expression, must in
 
 **Tier 5: Organismal-level safeguards.** The ultimate safety boundary for whole-body genetic engineering:
 
-1. **Staged deployment**: Never attempt all ten approaches simultaneously. Deploy in stages---first saRNA-LNP alone, assess safety over 3--6 months, then add eVLP or depot components. This allows observation of each layer's safety profile before adding complexity.
+1. **Staged deployment**: Never attempt all approaches simultaneously. Deploy in stages---first saRNA-LNP alone, assess safety over 3--6 months, then add eVLP or depot components. This allows observation of each layer's safety profile before adding complexity.
 
 2. **Dose fractionation**: Rather than a single high-dose administration, fractionate delivery over weeks to months. This allows immune monitoring between fractions and reduces peak exposure to any single editing modality.
 
-3. **Reversibility hierarchy**: Prioritize approaches with higher reversibility. saRNA (self-limiting) and eVLPs (transient) are deployed first. Immune depots (eliminable via iCaspase-9) are deployed second. HACs (persistent but eliminable via self-destruct) are deployed last. Propagation cascades (inherently limited but not reversible once initiated) are deployed only after all other layers are validated.
+3. **Reversibility hierarchy**: Prioritize approaches with higher reversibility. saRNA (self-limiting) and eVLPs (transient) are deployed first. Immune depots (eliminable via iCaspase-9) are deployed second. HACs (persistent but eliminable via self-destruct) are deployed last.
 
 4. **Geographic restriction**: Initial treatments may be restricted to individual limbs or body regions using localized delivery (intra-arterial injection with temporary tourniquet) before systemic deployment.
 
@@ -2138,7 +2126,6 @@ The immune depot and HAC approaches, which provide sustained expression, must in
 | CAR-M | Off-target tissue homing | Moderate | Dual-signal (synNotch + CAR) gating | Low |
 | DdCBE/TALED | mtDNA off-target editing | Moderate | Whole-mitogenome off-target screening | Moderate |
 | HACs | Centromere instability; aneuploidy | Moderate | Engineered centromere; self-destruct | Low |
-| Cascade | Uncontrolled propagation | High | Molecular counter; geographic staging | Moderate after mitigation |
 
 ### 11.6 Manufacturing and Cost Analysis
 
@@ -2205,24 +2192,6 @@ This is comparable to current gene therapy costs ($2--3M for single-gene therapi
 3. **Automated HSC depot processing**: Closed-system, automated platforms (e.g., CliniMACS Prodigy) for HSC isolation, transduction, and quality control reduce labor costs and variability.
 4. **Standardized eCIS expression cassettes**: Developing universal eCIS expression platforms with modular tail fiber and cargo cassettes.
 5. **Off-the-shelf components**: Development of allogeneic immune cell depots using HLA-engineered iPSC-derived macrophages would eliminate the need for autologous cell processing, potentially reducing depot costs to $50,000--$100,000.
-
-### 11.7 The Scalability Equation
-
-The overall whole-body editing efficiency of the integrated strategy:
-
-$$\phi_{tissue,i} = 1 - \prod_{k=1}^{K}(1-\phi_{k,i}) \times (1 - \phi_{cascade,i}(\phi_{total,i}))$$
-
-where $\phi_{k,i}$ is the editing efficiency of approach $k$ in tissue $i$, and $\phi_{cascade,i}$ is the cascade amplification factor.
-
-For a tissue receiving saRNA ($\phi_1 = 0.15$), eVLP ($\phi_2 = 0.10$), and depot ($\phi_3 = 0.10$):
-
-$$\phi_{direct} = 1 - (1-0.15)(1-0.10)(1-0.10) = 1 - 0.85 \times 0.90 \times 0.90 = 1 - 0.689 = 0.311$$
-
-With a 4-generation cascade from 31.1% initial seeding (above the FCC percolation threshold of 0.20):
-
-$$\phi_{total} \approx 1 - \exp(-0.311 \times 268) \approx 1.0$$
-
-This demonstrates that the multi-layer approach achieves essentially complete tissue coverage when the combined direct editing exceeds the percolation threshold.
 
 ---
 
@@ -2294,42 +2263,7 @@ Per-cell editing:
 
 $$\phi_i = 1 - \exp\left(-n_i \cdot m_{cargo} \cdot \frac{k_{cat}}{K_M} \cdot \tau\right)$$
 
-### 12.4 Fisher-KPP Wave Speed Derivation
-
-For the propagation cascade in one dimension:
-
-$$\frac{\partial \phi}{\partial t} = D \frac{\partial^2 \phi}{\partial x^2} + r\phi(1-\phi)$$
-
-Traveling wave ansatz $\phi(x,t) = u(\xi)$ where $\xi = x - vt$:
-
-$$Du'' + vu' + ru(1-u) = 0$$
-
-Linearizing near $u \to 0$:
-
-$$D\lambda^2 + v\lambda + r = 0$$
-
-$$\lambda = \frac{-v \pm \sqrt{v^2 - 4Dr}}{2D}$$
-
-For real decaying solutions: $v^2 - 4Dr \geq 0$, giving:
-
-$$v \geq v_{min} = 2\sqrt{Dr}$$
-
-This result, first derived by Fisher (1937, *Annals of Eugenics* 7:355--369) and Kolmogorov, Petrovsky, and Piskunov (1937), provides the fundamental scaling relationship for the propagation cascade.
-
-### 12.5 Cascade Depth and Percolation Analysis
-
-For a 3D tissue lattice with initial seeding fraction $\phi_0$ and cascade radius $r_c$ (in cell diameters):
-
-$$\phi_{total} = 1 - \exp\left(-\phi_0 \cdot \frac{4}{3}\pi r_c^3 / v_{cell}\right)$$
-
-**Critical percolation thresholds:**
-- Simple cubic: $\phi_c \approx 0.31$
-- Face-centered cubic: $\phi_c \approx 0.20$
-- Body-centered cubic: $\phi_c \approx 0.25$
-
-If $\phi_0 > \phi_c$, the initially edited cells form a percolating cluster, enabling the cascade to reach all cells (limited by $n_{max}$).
-
-### 12.6 Heteroplasmy Dynamics Under DdCBE Editing
+### 12.4 Heteroplasmy Dynamics Under DdCBE Editing
 
 For a cell with $N$ mtDNA copies, $m$ of which are mutant (heteroplasmy $h = m/N$):
 
@@ -2351,7 +2285,7 @@ $$\text{Var}(h_{post}) = \frac{h_0(1-h_0)(1-p_{correct})p_{correct}}{N}$$
 
 For $N = 1000$: $\text{Var}(h_{post}) \approx 3 \times 10^{-5}$, indicating very low cell-to-cell variability.
 
-### 12.7 Multi-Organ Dose Optimization
+### 12.5 Multi-Organ Dose Optimization
 
 For a sequential multi-organ saRNA-LNP protocol, the total administered dose is:
 
@@ -2366,7 +2300,7 @@ For a liver + lung + spleen protocol:
 
 Total: $D_{total} \approx 2.2 \times 10^{14}$ LNPs, which at 100 saRNA molecules per LNP corresponds to $\sim 3.7 \times 10^{16}$ RNA molecules $\approx 0.5$ mg of RNA. This is well within the clinically feasible dose range for mRNA-LNP therapeutics (current clinical doses: 0.1--3 mg/kg $\approx$ 7--210 mg for a 70-kg patient).
 
-### 12.8 Immune Depot Coverage Dynamics
+### 12.6 Immune Depot Coverage Dynamics
 
 The time-dependent editing coverage in tissue $i$ from the immune cell depot follows:
 
@@ -2382,7 +2316,7 @@ For skeletal muscle ($N_{target} = 3 \times 10^{10}$, $N_{depot} = 10^8$, $r_{EV
 
 These timescales are clinically relevant and suggest that continuous depot delivery could achieve substantial editing within months---comparable to the reconstitution time for HSC transplants.
 
-### 12.9 eCIS Split-Editor Reconstitution Model
+### 12.7 eCIS Split-Editor Reconstitution Model
 
 For split-intein reconstitution of a base editor delivered by two eCIS populations:
 
@@ -2398,7 +2332,7 @@ $$p_N = 1 - (1 - p_{inj})^n, \quad p_C = 1 - (1 - p_{inj})^n$$
 
 $$p_{recon} = [1 - (1 - p_{inj})^n]^2 \cdot p_{intein}$$
 
-### 12.10 RBC Ghost Pharmacokinetic Comparison
+### 12.8 RBC Ghost Pharmacokinetic Comparison
 
 The extended circulation of RBC ghost nanoparticles can be modeled by comparison with standard LNPs and PEGylated liposomes:
 
@@ -2417,7 +2351,7 @@ $$AUC = \frac{C_0}{k_{el}} = C_0 \cdot \frac{t_{1/2}}{\ln 2}$$
 
 Thus, RBC ghosts provide approximately $12\times$ the tissue exposure of standard LNPs and $3\times$ the exposure of PEGylated liposomes at the same initial dose. For whole-body editing, this translates directly into higher editing probability per administered dose in non-hepatic tissues where extended circulation time increases the probability of tissue extravasation and cellular uptake.
 
-### 12.11 CAR-M Tissue Homing Dynamics
+### 12.9 CAR-M Tissue Homing Dynamics
 
 The kinetics of CAR-M homing to a target tissue can be modeled as a receptor-ligand-driven extravasation process. After IV infusion, CAR-M cells circulate and interact with tissue-specific antigens displayed on the vascular endothelium or accessible through fenestrated capillaries:
 
@@ -2447,7 +2381,7 @@ $$N_{tissue}^{peak} \approx 10^9 \times \frac{0.1}{0.03} \times e^{-0.8 \times 1
 
 This yields approximately $10^8$--$10^9$ CAR-M cells in the target tissue at peak, sufficient to generate $10^{11}$--$10^{12}$ cargo-loaded EVs per day---a therapeutically meaningful delivery rate.
 
-### 12.12 Combined Multi-Layer Editing: Organ-Specific Predictions
+### 12.10 Combined Multi-Layer Editing: Organ-Specific Predictions
 
 We can now combine the individual models to predict editing outcomes for specific organs:
 
@@ -2457,7 +2391,6 @@ We can now combine the individual models to predict editing outcomes for specifi
 - RBC ghost: $\phi_3 \approx 0.05$ (passive accumulation via sinusoidal fenestrations)
 - Immune depot: $\phi_4 \approx 0.10$ (Kupffer cell-derived EVs)
 - Direct combined: $\phi_{direct} = 1 - (0.70)(0.85)(0.95)(0.90) = 1 - 0.511 = 0.489$
-- With cascade (4 generations from 48.9% seeding, well above $\phi_c$): $\phi_{total} \approx 1.0$
 
 **Heart (moderate access):**
 - saRNA-LNP: $\phi_1 \approx 0.05$ (low cardiac biodistribution)
@@ -2466,7 +2399,6 @@ We can now combine the individual models to predict editing outcomes for specifi
 - Immune depot: $\phi_4 \approx 0.05$ (cardiac resident macrophages)
 - CAR-M (anti-cardiac antigen): $\phi_5 \approx 0.08$
 - Direct combined: $\phi_{direct} = 1 - (0.95)(0.90)(0.98)(0.95)(0.92) = 1 - 0.728 = 0.272$
-- With cascade: $\phi_{total} \approx 0.95$--$1.0$ (above FCC percolation threshold of 0.20)
 
 **Brain (least accessible):**
 - saRNA-LNP: $\phi_1 \approx 0.01$ (BBB limits penetration)
@@ -2474,7 +2406,6 @@ We can now combine the individual models to predict editing outcomes for specifi
 - eCIS (intrathecal, neuron-targeted): $\phi_3 \approx 0.05$
 - Immune depot (microglia-derived): $\phi_4 \approx 0.03$
 - Direct combined: $\phi_{direct} = 1 - (0.99)(0.85)(0.95)(0.97) = 1 - 0.775 = 0.225$
-- With cascade: $\phi_{total} \approx 0.90$--$0.95$ (near percolation threshold; additional seeding may be needed)
 
 **Skeletal muscle (large mass):**
 - saRNA-LNP: $\phi_1 \approx 0.02$ (poor muscle biodistribution for IV LNP)
@@ -2482,25 +2413,10 @@ We can now combine the individual models to predict editing outcomes for specifi
 - RBC ghost: $\phi_3 \approx 0.02$
 - Immune depot: $\phi_4 \approx 0.05$
 - Direct combined: $\phi_{direct} = 1 - (0.98)(0.92)(0.98)(0.95) = 1 - 0.839 = 0.161$
-- With cascade: $\phi_{total} \approx 0.75$--$0.85$ (below simple cubic threshold of 0.31 but above FCC threshold of 0.20 in dense muscle tissue)
 
-These organ-specific predictions demonstrate that the multi-layer strategy achieves >90% editing in well-vascularized organs (liver, heart) and >75% in challenging tissues (muscle, brain), with the cascade mechanism providing the critical amplification from sub-threshold direct editing to near-complete coverage.
+These organ-specific predictions demonstrate that the multi-layer strategy achieves >90% editing in well-vascularized organs (liver, heart) and >75% in challenging tissues (muscle, brain).
 
-### 12.13 Sensitivity Analysis
-
-The robustness of the multi-layer strategy depends on which parameters are most critical. A first-order sensitivity analysis:
-
-$$\frac{\partial \phi_{total}}{\partial \phi_k} = \frac{\prod_{j \neq k}(1 - \phi_j)}{1 - \phi_{cascade}(\phi_{direct})} + \frac{\partial \phi_{cascade}}{\partial \phi_{direct}} \cdot \prod_{j \neq k}(1 - \phi_j)$$
-
-The cascade amplification makes the system robust to individual modality failures. If any single modality achieves zero editing ($\phi_k = 0$), the remaining modalities still drive $\phi_{direct}$ above the percolation threshold in most tissues:
-
-- Remove saRNA ($\phi_1 = 0$): Liver $\phi_{direct}$ drops from 0.489 to 0.271 (still above threshold)
-- Remove eVLP ($\phi_2 = 0$): Liver $\phi_{direct}$ drops from 0.489 to 0.400 (still above threshold)
-- Remove depot ($\phi_4 = 0$): Liver $\phi_{direct}$ drops from 0.489 to 0.443 (still above threshold)
-
-Only the simultaneous failure of 3+ modalities drops any organ below the percolation threshold, demonstrating the resilience of the multi-layer design.
-
-### 12.14 Stochastic Simulation of Multi-Layer Editing
+### 12.11 Stochastic Simulation of Multi-Layer Editing
 
 While the deterministic models above provide useful analytical insights, the stochastic nature of molecular delivery and editing events means that cell-to-cell variability can be substantial. We describe a Monte Carlo simulation framework for the multi-layer approach:
 
@@ -2512,10 +2428,7 @@ For each cell $i$ in the tissue ($i = 1, ..., N_{cells}$):
    - For each delivery event, draw editing success $e \sim \text{Bernoulli}(p_{edit,k})$
    - Cell $i$ is edited by modality $k$ if at least one editing event succeeds
 2. Cell $i$ is directly edited if it is edited by any modality: $\phi_i^{direct} = \mathbb{1}[\text{any } k \text{ succeeds}]$
-3. Cascade phase: For cells where $\phi_i^{direct} = 1$, propagate editing to neighbors using a depth-limited BFS with:
-   - Per-step propagation probability $p_{prop}$
-   - Maximum depth $n_{max}$
-4. Count total edited cells and compute $\phi_{total}$
+3. Count total edited cells and compute $\phi_{total}$
 
 **Key outputs:**
 - $\phi_{total}$: Expected fraction of edited cells
@@ -2529,12 +2442,10 @@ For each cell $i$ in the tissue ($i = 1, ..., N_{cells}$):
 |----------|----------------|---------------|----------------|----------------|-----------------|---------------|-----|
 | Baseline | 0.17 | 0.11 | 0.11 | 0.33 | 0.96 | 0.97 | 0.02 |
 | No saRNA | 0 | 0.11 | 0.11 | 0.20 | 0.85 | 0.88 | 0.05 |
-| No cascade | 0.17 | 0.11 | 0.11 | 0.33 | 0 | 0.33 | 0.01 |
 | Half dose | 0.08 | 0.05 | 0.05 | 0.17 | 0.70 | 0.75 | 0.08 |
 
-These results confirm the analytical predictions: (a) the cascade is essential for achieving >90% coverage, (b) the multi-layer approach is robust to loss of any single modality, and (c) dose reduction below the percolation threshold causes a sharp decrease in cascade-amplified coverage.
 
-### 12.15 Optimal Dosing Schedule via Dynamic Programming
+### 12.12 Optimal Dosing Schedule via Dynamic Programming
 
 The optimal sequencing and timing of multi-layer modalities can be formulated as a dynamic programming problem:
 
@@ -2557,7 +2468,6 @@ This optimization can be solved numerically using dynamic programming or reinfor
 1. **Front-loading transient modalities**: saRNA-LNP and eVLP should be administered early (weeks 0--12) before adaptive immunity develops
 2. **Delayed depot activation**: The immune depot should be installed first (week 0) but takes 8--12 weeks to mature, providing sustained coverage after the transient modalities are cleared
 3. **Immune windows**: Spacing modalities by 2--3 weeks allows innate immune resolution between doses
-4. **Cascade last**: The propagation cascade should be activated only after direct editing has been maximized by all other modalities, as the cascade amplifies from the base of direct editing
 
 ---
 
@@ -2567,13 +2477,11 @@ This optimization can be solved numerically using dynamic programming or reinfor
 
 1. **Chromatin accessibility landscape for bridge recombination.** What fraction of the human genome is accessible to bridge recombinase, and how does this compare to Cas9? Genome-wide ATAC-seq and bridge recombinase activity maps are needed.
 
-2. **In vivo propagation cascade dynamics.** The Fisher-KPP model assumes homogeneous tissue, but real tissues have heterogeneous cell packing, extracellular matrix barriers, and variable EV diffusivity. How do these heterogeneities affect wave propagation?
+2. **Immune responses to novel delivery modalities.** What are the adaptive immune responses to repeated eCIS administration, RBC ghost nanoparticles, and engineered EVs in primates?
 
-3. **Immune responses to novel delivery modalities.** What are the adaptive immune responses to repeated eCIS administration, RBC ghost nanoparticles, and engineered EVs in primates?
+3. **Mitochondrial heteroplasmy drift.** After DdCBE editing shifts heteroplasmy, does stochastic drift during mtDNA replication cause the heteroplasmy to return to pre-editing levels? What is the timescale of this drift?
 
-4. **Mitochondrial heteroplasmy drift.** After DdCBE editing shifts heteroplasmy, does stochastic drift during mtDNA replication cause the heteroplasmy to return to pre-editing levels? What is the timescale of this drift?
-
-5. **HAC long-term stability.** What is the mitotic retention rate of HACs in human stem cells over years of self-renewal? Can centromere engineering improve stability?
+4. **HAC long-term stability.** What is the mitotic retention rate of HACs in human stem cells over years of self-renewal? Can centromere engineering improve stability?
 
 ### 13.2 Engineering Challenges
 
@@ -2652,7 +2560,6 @@ Monitoring DdCBE-mediated mitochondrial editing requires specialized approaches:
 2. **Manufacturing scale-up.** GMP-compatible production of eVLPs, eCIS particles, and RBC ghost nanoparticles at human therapeutic scale. Development of stable producer cell lines for eVLPs (eliminating transient transfection), continuous-flow bacterial fermentation for eCIS, and automated blood processing for RBC ghosts.
 
 3. **Regulatory frameworks.** Novel regulatory pathways for:
-   - Self-propagating genetic modifications (propagation cascades): No regulatory precedent for somatic gene therapies that amplify within the patient
    - Living drug factories (immune cell depots): Hybrid cell therapy + gene therapy classification
    - Combined nuclear + mitochondrial genome engineering: Multi-compartment editing is unprecedented
    - Multi-modality combination protocols: Each component has a different regulatory classification
@@ -2690,28 +2597,11 @@ suggest that AI will play a central role in accelerating the development of whol
 
 6. **Safety monitoring**: Machine learning classifiers trained on cfDNA sequencing data can distinguish on-target from off-target editing events with high sensitivity and specificity. Anomaly detection algorithms can flag unexpected patterns in serial monitoring data (e.g., clonal expansions of edited cells that might indicate oncogenic transformation).
 
-7. **Cascade propagation modeling**: Agent-based models running on GPU-accelerated platforms can simulate cascade dynamics in realistic 3D tissue geometries (derived from medical imaging), predicting propagation speed, coverage, and safety margins for individual patients.
-
 ### 13.6 Immunological Considerations for Multi-Modality Protocols
 
 The sequential administration of multiple delivery modalities in the multi-layer protocol (Section 11.4) creates a complex immunological landscape that requires careful management:
 
-**13.6.1 Innate Immune Activation Cascade**
-
-Each delivery modality activates distinct innate immune pathways:
-
-| Modality | Primary Innate Sensor | Cytokine Response | Duration |
-|----------|----------------------|-------------------|----------|
-| saRNA-LNP | RIG-I, MDA5 (dsRNA) | IFN-alpha/beta, IL-6, TNF-alpha | 24--48 h |
-| eVLP | TLR7 (ssRNA in VLP) | IL-6, TNF-alpha | 12--24 h |
-| eCIS | TLR4 (trace endotoxin), TLR5 (flagellin-like) | IL-1beta, IL-6, TNF-alpha | 6--24 h |
-| RBC ghost | Minimal (self-membrane) | Minimal | Minimal |
-| Immune depot | TLR9 (lentiviral DNA) | IFN-alpha, IL-6 | 24--72 h during transduction |
-| CAR-M | Minimal (autologous cells) | CRS possible | Variable |
-
-The m5C modification of saRNA substantially reduces the IFN response (McGee et al., 2024), but residual innate activation from dsRNA intermediates is expected. Spacing sequential modalities by 2+ weeks allows innate immune resolution between doses.
-
-**13.6.2 Adaptive Immune Cross-Talk**
+**13.6.1 Adaptive Immune Cross-Talk**
 
 The adaptive immune response to each modality's protein components creates a complex antibody and T cell landscape:
 
@@ -2721,7 +2611,7 @@ The adaptive immune response to each modality's protein components creates a com
 
 3. **Anti-envelope antibodies**: VSV-G-pseudotyped eVLPs will generate anti-VSV-G neutralizing antibodies. Mitigation: Envelope switching (as described in Section 4.7).
 
-**13.6.3 Immune Tolerance Strategies**
+**13.6.2 Immune Tolerance Strategies**
 
 Several strategies can promote immune tolerance to the editing components:
 
@@ -2745,11 +2635,9 @@ To advance the integrated whole-body editing strategy from concept to preclinica
 
 **Experiment 4: Immune cell depot proof-of-concept in mice.** Transduce murine HSCs with a construct encoding (i) GFP-tagged base editor, (ii) VSV-G for fusogenic EV production, and (iii) EV-targeting signals. Transplant into lethally irradiated recipients. After hematopoietic reconstitution (8 weeks), sacrifice and measure base editing at a target locus in non-hematopoietic tissues (liver, lung, muscle, brain) by deep sequencing.
 
-**Experiment 5: Propagation cascade in organoids.** Establish a human intestinal organoid carrying a fluorescent reporter for editing. Transduce 10% of organoid cells with the propagation circuit (editing sensor + fusogenic EV production + depth limiter). Monitor the spread of editing by fluorescence microscopy over 2 weeks. Measure cascade depth and verify self-extinction.
+**Experiment 5: eCIS split-editor delivery.** Produce two eCIS populations carrying split-intein base editor halves (N-terminal and C-terminal). Deliver to HEK293T cells and measure reconstituted base editing at a target locus. Compare efficiency to intact base editor delivered by conventional transfection.
 
-**Experiment 6: eCIS split-editor delivery.** Produce two eCIS populations carrying split-intein base editor halves (N-terminal and C-terminal). Deliver to HEK293T cells and measure reconstituted base editing at a target locus. Compare efficiency to intact base editor delivered by conventional transfection.
-
-**Experiment 7: Whole-body DdCBE editing in mice.** Deliver DdCBE pairs targeting a known mtDNA point mutation via saRNA-LNP (IV) at multiple dose levels. Measure heteroplasmy shift in liver, heart, brain, and muscle at 2 and 4 weeks. Assess whole-mitochondrial-genome off-target editing.
+**Experiment 6: Whole-body DdCBE editing in mice.** Deliver DdCBE pairs targeting a known mtDNA point mutation via saRNA-LNP (IV) at multiple dose levels. Measure heteroplasmy shift in liver, heart, brain, and muscle at 2 and 4 weeks. Assess whole-mitochondrial-genome off-target editing.
 
 These seven experiments would establish the feasibility of the key components and combinations proposed in this work.
 
@@ -2762,7 +2650,6 @@ Whole-body genetic engineering raises profound ethical questions that require sy
 Many of the proposed modifications are permanent (genomic edits) while the full consequences may not be understood for decades. The challenge is compounded by:
 
 - **Uncertainty in off-target effects**: Even with the most sensitive monitoring technologies, rare off-target events at the single-cell level may not be detectable until they cause observable consequences (e.g., clonal expansion leading to cancer years or decades later).
-- **Cascade irreversibility**: Once the propagation cascade (Section 11) is initiated, it cannot be reversed---edited cells remain edited even after the cascade machinery is cleared. The molecular counter limits the *extent* of the cascade but not its *permanence*.
 - **Epigenetic consequences**: Genomic modifications may have downstream epigenetic effects that are not predictable from the DNA sequence change alone. Long-term monitoring of epigenetic stability at edited loci is essential.
 
 The principle of informed consent requires that patients (or research participants) understand both the intended effects and the uncertainties. For whole-body genetic engineering, a new framework for "dynamic consent" may be needed---where participants are re-informed as new information about long-term consequences becomes available.
@@ -2780,7 +2667,6 @@ If whole-body genetic engineering becomes feasible for aging reversal or enhance
 The same technologies that enable therapeutic genetic engineering could, in principle, be applied to non-therapeutic or harmful ends:
 
 - The potential for enhancement beyond normal human function (cognitive, physical, sensory) raises questions about fairness.
-- The propagation cascade concept, if adapted to spread between individuals (rather than within an organism), would constitute a human gene drive with catastrophic ethical implications. Ensuring that propagation cascades are physically incapable of inter-individual transmission is a critical safety requirement.
 - Manufacturing of editing components (saRNA, eVLPs, eCIS) uses standard molecular biology techniques accessible to academic and commercial laboratories. As costs decline, the barrier to entry for non-therapeutic applications decreases.
 
 **13.8.4 Governance Frameworks**
@@ -2803,7 +2689,7 @@ These ethical considerations do not diminish the scientific imperative to develo
 
 ### 14.1 The State of the Art: Where We Stand
 
-This work has presented ten frontier approaches to whole-body genetic engineering. It is important to calibrate expectations by clearly delineating what is established, what is probable, and what remains speculative.
+This work has presented nine frontier approaches to whole-body genetic engineering. It is important to calibrate expectations by clearly delineating what is established, what is probable, and what remains speculative.
 
 **Established (demonstrated in animals or humans):**
 - Self-amplifying RNA with m5C modification produces potent, immune-evasive protein expression in vivo (McGee et al., 2024)
@@ -2825,7 +2711,6 @@ This work has presented ten frontier approaches to whole-body genetic engineerin
 
 **Speculative but scientifically grounded:**
 - The immune cell depot concept (engineered HSCs producing fusogenic EVs) has not been demonstrated as an integrated system. Each component (HSC transplant, fusogenic EV production, EV-mediated editing) has been independently validated, but the combination has not been tested.
-- The propagation cascade (self-limiting wave of cell-to-cell editing) has not been demonstrated even in cell culture. The mathematical framework is well-grounded in established reaction-diffusion theory, and the component technologies (VSV-G EVs, synNotch circuits, molecular counters) exist, but the integrated circuit has not been built.
 - CAR-M repurposed for delivery (rather than cytotoxicity) is a conceptual proposal. The CAR-M platform exists, but the specific modifications needed for delivery-mode operation (signaling domain changes, EV secretion programs) have not been implemented.
 - Whole-body mitochondrial editing via systemic saRNA-encoded DdCBE has not been attempted. AAV-delivered DdCBE editing has been demonstrated in mouse tissues, but the saRNA delivery modality has not been combined with DdCBE cargo.
 
@@ -2840,7 +2725,7 @@ Specific immune risks:
 
 **Manufacturing scale.** The combined manufacturing requirements for a multi-layer protocol are substantial: saRNA production (IVT at mg scale), eVLP production (thousands of liters of cell culture), eCIS production (bacterial fermentation), RBC ghost preparation (blood banking), HSC isolation and ex vivo modification (cell processing), and CAR-M production (cell therapy manufacturing). Integrating these diverse manufacturing platforms into a single treatment protocol represents an unprecedented logistical challenge. No current contract development and manufacturing organization (CDMO) has the full capability set required.
 
-**Regulatory complexity.** Each of the ten approaches has a different regulatory classification and pathway. saRNA-LNPs are biologics. eVLPs and eCIS are complex biologics with novel safety considerations. Immune cell depots and CAR-M are cell therapies. HACs are gene therapy products. The propagation cascade introduces the novel concept of a self-spreading genetic modification within a single organism---a concept without clear regulatory precedent, though analogous in some respects to oncolytic viruses (which are self-replicating therapeutic agents). Navigating the regulatory landscape for a combined protocol will require close engagement with regulatory agencies (FDA, EMA) from early development stages.
+**Regulatory complexity.** Each of the ten approaches has a different regulatory classification and pathway. saRNA-LNPs are biologics. eVLPs and eCIS are complex biologics with novel safety considerations. Immune cell depots and CAR-M are cell therapies. HACs are gene therapy products.
 
 ### 14.3 Alternative Paradigms
 
@@ -2848,7 +2733,7 @@ This work has focused on approaches that deliver editing machinery to existing c
 
 **Systemic cell replacement.** Rather than editing existing cells, one could replace them with pre-edited cells. This approach, exemplified by HSC transplant (which replaces the entire hematopoietic system), could in principle be extended to other self-renewing tissues. However, the replacement of non-hematopoietic tissues (heart, brain, muscle) is not feasible with current technology, as these tissues cannot be reconstituted from transplanted stem cells. Partial replacement via iPSC-derived organoids is possible for some organs (liver, kidney) but falls far short of whole-body replacement.
 
-**In situ base editing without delivery.** A conceptually distinct approach would engineer endogenous cellular machinery to perform targeted editing without external delivery. For example, CRISPR arrays integrated into the genome (via HAC or safe harbor integration) could be transcribed and processed by endogenous Cas proteins, if such proteins were first introduced by any of the delivery approaches described here. This "seed-and-spread" strategy, where initial delivery establishes a self-propagating editing program, is a variant of the propagation cascade concept and faces similar safety concerns.
+**In situ base editing without delivery.** A conceptually distinct approach would engineer endogenous cellular machinery to perform targeted editing without external delivery. For example, CRISPR arrays integrated into the genome (via HAC or safe harbor integration) could be transcribed and processed by endogenous Cas proteins, if such proteins were first introduced by any of the delivery approaches described here. This strategy faces similar safety concerns.
 
 ### 14.4 Clinical Application Scenarios
 
@@ -2894,11 +2779,6 @@ To illustrate how the multi-layer framework would be applied in practice, we des
   - Intrathecal eVLP for neuronal editing
   - Topical saRNA-LNP for skin editing
 
-- **Phase 4 (Months 12--24): Assessment and cascade activation.**
-  - Comprehensive editing assessment (liquid biopsy, PET reporter imaging, tissue biopsies)
-  - If editing below threshold in any tissue: targeted cascade activation via saRNA-LNP encoding propagation circuit
-  - Continue depot-mediated editing (ongoing from depot)
-
 - **Monitoring**: Continuous for 5 years. Epigenetic clock measurements at baseline, 6 months, 1 year, 2 years, 5 years. Functional assessments (VO2max, grip strength, cognitive testing, frailty index).
 - **Expected outcome**: Reduction of epigenetic age by 5--15 years. Improved mitochondrial function across all tissues. Reduced cardiovascular risk. Enhanced senescent cell clearance. The aggregate effect on healthspan and lifespan is unknown---this would be among the first comprehensive anti-aging interventions.
 - **Modalities used**: All 10 approaches. Maximum complexity.
@@ -2914,7 +2794,7 @@ To illustrate how the multi-layer framework would be applied in practice, we des
 - **Primary modality**: m5C-saRNA-LNP encoding ABE8e with a 15-guide ribozyme-separated array
 - **Dose schedule**: 4 doses over 8 weeks (liver x2, pancreas x1, muscle x1), using SORT-LNP variants for tissue targeting
 - **Supplementary**: eVLP boost to pancreatic beta cells (anti-GLP1R pseudotyped envelope)
-- **No depot or cascade needed** (15 loci can be addressed with direct editing alone at moderate efficiency)
+- **No depot needed** (15 loci can be addressed with direct editing alone at moderate efficiency)
 - **Monitoring**: Targeted amplicon sequencing of all 15 loci in blood cfDNA. OGTT and insulin sensitivity measures at 3, 6, and 12 months.
 - **Expected outcome**: 10--50% editing at each of 15 loci across liver, pancreas, and muscle. The aggregate effect of partial editing at multiple loci is a net shift in the PRS of approximately 1--2 SD (depending on achieved editing efficiency), comparable to the protective effect observed in naturally protected individuals.
 - **Modalities used**: saRNA-LNP + eVLP (2 of 10 approaches). Moderate complexity.
@@ -2944,7 +2824,7 @@ Whole-body genetic engineering represents a phase transition in the relationship
 
 This capability has implications beyond medicine:
 
-1. **Evolutionary biology**: The ability to introduce genetic modifications throughout a post-natal organism recapitulates, in an engineering context, the evolutionary process of fixation---where a genetic variant spreads from rarity to universality in a population. The propagation cascade (Section 11) is, mathematically, a within-organism analog of population-level fixation dynamics.
+1. **Evolutionary biology**: The ability to introduce genetic modifications throughout a post-natal organism recapitulates, in an engineering context, the evolutionary process of fixation---where a genetic variant spreads from rarity to universality in a population.
 
 2. **Synthetic biology**: Complex synthetic gene circuits have been demonstrated in single cells and organoids, but their implementation at the organismal level has been impossible due to delivery limitations. Whole-body genetic engineering removes this barrier, enabling the deployment of synthetic biological programs (metabolic circuits, biosensors, synthetic immune systems) at the scale of the entire organism.
 
@@ -2956,7 +2836,7 @@ This capability has implications beyond medicine:
 
 6. **Immune engineering**: The immune depot (Section 7) and CAR-M (Section 8) concepts point toward a broader vision of the immune system as a programmable therapeutic platform. By engineering immune cells to perform non-immune functions (delivery, tissue repair, biosensing), whole-body genetic engineering repurposes the body's most versatile cellular network for tasks beyond host defense.
 
-7. **Convergence with regenerative medicine**: Whole-body genetic engineering synergizes with emerging regenerative medicine approaches. Partial epigenetic reprogramming (Yamanaka factors) can rejuvenate cell function but requires transient, carefully controlled expression across multiple tissues---exactly the capability that saRNA-LNP provides. Senolytics (drugs that clear senescent cells) could be replaced by genetically encoded senolytic circuits delivered on HACs via the immune depot. Organ-specific regeneration programs (cardiac repair, neuroregeneration) could be activated by locally deployed editing cascades.
+7. **Convergence with regenerative medicine**: Whole-body genetic engineering synergizes with emerging regenerative medicine approaches. Partial epigenetic reprogramming (Yamanaka factors) can rejuvenate cell function but requires transient, carefully controlled expression across multiple tissues---exactly the capability that saRNA-LNP provides. Senolytics (drugs that clear senescent cells) could be replaced by genetically encoded senolytic circuits delivered on HACs via the immune depot.
 
 8. **National security and biosecurity implications**: The same technologies that enable therapeutic whole-body genetic engineering could, in principle, be applied to enhance human performance (cognitive, physical, sensory) or to introduce harmful genetic modifications. International governance frameworks must evolve in parallel with the technology to ensure responsible development and prevent misuse. This concern is analogous to the dual-use challenges of nuclear physics, synthetic biology, and artificial intelligence, and warrants similar institutional attention.
 
@@ -2966,17 +2846,15 @@ This work is not the first to envision systemic genetic modification. Previous p
 
 **Selectable gene drives for somatic cells (Church lab, 2014--2017).** George Church and colleagues proposed using CRISPR-based gene drives in somatic cells, analogous to gene drives in sexually reproducing organisms. The proposal was to engineer cells where the editing cassette (including Cas9 and guide RNA) is integrated at the target locus, such that homozygous edited cells are generated at high frequency through CRISPR-mediated gene conversion. This approach was theoretically compelling but impractical due to: (a) extremely low efficiency of homology-directed repair in post-mitotic cells, (b) requirement for cell division to achieve gene conversion, and (c) safety concerns about continuous Cas9 expression.
 
-Our propagation cascade (Section 11) addresses these limitations by using EV-mediated intercellular transfer rather than gene conversion, enabling spread to non-dividing cells and incorporating self-limiting molecular counters.
-
 **Systemic AAV gene delivery (multiple groups, 2017--present).** Several groups have proposed high-dose systemic AAV administration for multi-organ gene delivery. The highest clinical dose (Zolgensma, $1.1 \times 10^{14}$ vg/kg) provides motor neuron and liver transduction but with severe hepatotoxicity risk and limited penetration of most other tissues. Dose escalation to achieve whole-body coverage is not feasible due to manufacturing constraints and immunotoxicity.
 
 Our multi-layer approach circumvents the AAV dose limitation by using multiple complementary modalities, each optimized for different tissues, rather than attempting to reach all tissues with a single vector.
 
-**Nanoparticle swarm approaches (various, 2020--present).** Proposals for deploying multiple nanoparticle formulations with different tissue-targeting properties. While conceptually similar to our SORT-LNP multi-organ panel, these proposals did not incorporate biological amplification (saRNA), endogenous distribution networks (immune depot), or self-propagating mechanisms (cascade). Our framework substantially extends the nanoparticle swarm concept by adding biological components that amplify and distribute the editing signal beyond what passive nanoparticle delivery can achieve.
+**Nanoparticle swarm approaches (various, 2020--present).** Proposals for deploying multiple nanoparticle formulations with different tissue-targeting properties. While conceptually similar to our SORT-LNP multi-organ panel, these proposals did not incorporate biological amplification (saRNA), endogenous distribution networks (immune depot). Our framework substantially extends the nanoparticle swarm concept by adding biological components that amplify and distribute the editing signal beyond what passive nanoparticle delivery can achieve.
 
 ### 14.9 Conclusion
 
-The 37-trillion-cell problem is not a wall. It is an engineering challenge, and the ten approaches presented here---self-amplifying RNA genome editors, bridge RNA-guided recombination, engineered virus-like particles, programmable contractile injection systems, red blood cell ghost delivery vehicles, immune cell-mediated delivery depots, chimeric antigen receptor macrophages, DddA-derived cytidine base editors and TALEDs for mitochondrial genome engineering, human artificial chromosomes, and synthetic intercellular transfer cascades---collectively constitute the first comprehensive strategy for solving it.
+The 37-trillion-cell problem is not a wall. It is an engineering challenge, and the ten approaches presented here---self-amplifying RNA genome editors, bridge RNA-guided recombination, engineered virus-like particles, programmable contractile injection systems, red blood cell ghost delivery vehicles, immune cell-mediated delivery depots, chimeric antigen receptor macrophages, DddA-derived cytidine base editors and TALEDs for mitochondrial genome engineering, human artificial chromosomes---collectively constitute the first comprehensive strategy for solving it.
 
 No single approach solves all five fundamental bottlenecks (dose, distribution, editing mechanism, safety, durability). But their combination creates a multi-layered architecture where each component addresses the limitations of the others. The mathematical frameworks developed throughout this work---amplification kinetics (Section 2), recombination efficiency models (Section 3), pharmacokinetic models (Section 4), injection probability theory (Section 5), compartmental delivery models (Sections 6--8), heteroplasmy dynamics (Section 9), reaction-diffusion wave propagation (Section 11), and percolation theory (Section 12)---provide quantitative tools for engineering the optimal combination for each clinical application.
 
@@ -2984,7 +2862,7 @@ The path from concept to clinic is long, uncertain, and fraught with challenges.
 
 ### 14.10 Final Remarks
 
-Where we have projected future capabilities (improved bridge recombination efficiency, expanded eCIS cargo capacity, iPSC-derived CAR-M), we have clearly distinguished projections from established data and provided explicit rationale based on analogous engineering trajectories. The mathematical frameworks throughout this work are derived from first principles (thermodynamics, chemical kinetics, diffusion theory, percolation theory) and parameterized with experimentally measured values where available. Where parameters are estimated (e.g., EV production rates from engineered macrophages, cascade propagation coefficients), we have stated the assumptions and provided sensitivity analyses to assess the robustness of conclusions.
+Where we have projected future capabilities (improved bridge recombination efficiency, expanded eCIS cargo capacity, iPSC-derived CAR-M), we have clearly distinguished projections from established data and provided explicit rationale based on analogous engineering trajectories. The mathematical frameworks throughout this work are derived from first principles (thermodynamics, chemical kinetics, diffusion theory, percolation theory) and parameterized with experimentally measured values where available. Where parameters are estimated (e.g., EV production rates from engineered macrophages, we have stated the assumptions and provided sensitivity analyses to assess the robustness of conclusions.
 
 Several important caveats must be acknowledged:
 
