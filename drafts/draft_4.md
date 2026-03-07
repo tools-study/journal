@@ -2941,3 +2941,5 @@ Suh, S., Choi, E.H., Leinber, H., Kim, S.Y., Kim, S., Suh, T., et al. (2023). Re
 Toda, S., Blauch, L.R., Tang, S.K.Y., Morsut, L., and Lim, W.A. (2018). Programming self-organizing multicellular structures with synthetic cell-cell signaling. *Science* 361, 156--162.
 
 Yarnall, M.T.N., Ioannidi, E.I., Schmitt-Ulms, C., Cho, M.J., et al. (2023). Drag-and-drop genome insertion of large sequences without double-strand DNA cleavage using CRISPR-directed integrases. *Nature Biotechnology* 41, 500--512.
+
+Lanigan, T. M., Kopera, H. C., & Saunders, T. L. (2020). Principles of Genetic Engineering. Genes, 11(3), 291. https://doi.org/10.3390/genes11030291
