@@ -1758,7 +1758,7 @@ The cost of gene therapy is the single greatest barrier to global access. Curren
 
 - **CAR-T therapies:** $373,000 (Kymriah) to $500,000+ per patient, plus hospitalization costs. Manufacturing requires 3-5 weeks of patient-specific (autologous) cell processing, creating an inherent cost floor that cannot be reduced by economies of scale.
 
-- **LNP-based therapies:** Onpattro (patisiran): ~$450,000/year for chronic dosing. COVID-19 mRNA vaccines demonstrated that LNP manufacturing can scale to billions of doses at low per-unit cost (~$15-25/dose), but this required massive capital investment and applies to a simple mRNA payload, not a complex gene-editing formulation.
+- **LNP-based therapies:** Onpattro (patisiran): about $450,000/year for chronic dosing. COVID-19 mRNA vaccines demonstrated that LNP manufacturing can scale to billions of doses at low per-unit cost (~$15-25/dose), but this required massive capital investment and applies to a simple mRNA payload, not a complex gene-editing formulation.
 
 #### 4.5.2 A Cost-per-Corrected-Cell Model
 
