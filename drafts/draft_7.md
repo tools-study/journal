@@ -508,16 +508,6 @@ where:
 - **u**(t) = ([W₁](t), [W₂](t), ...) is the control vector (writer enzyme concentrations over time)
 - λ₁, λ₂ are weighting parameters (λ₁/λ₂ = specificity/efficiency tradeoff)
 
-By **Pontryagin's Minimum Principle**, the optimal control satisfies:
-
-$$\mathbf{u}^*(t) = \arg\min_{\mathbf{u}} H(\mathbf{x}^*(t), \mathbf{u}, \boldsymbol{\psi}^*(t))$$
-
-where H is the Hamiltonian and ψ*(t) is the costate vector (adjoint variables) satisfying:
-
-$$\frac{d\boldsymbol{\psi}}{dt} = -\frac{\partial H}{\partial \mathbf{x}}\bigg|_{\mathbf{x}^*,\mathbf{u}^*}$$
-
-For the linear-in-state model of Section 5.3, this yields a linear feedback control law (optimal writer concentration as a linear function of the costate), with bang-bang switching for the control constraint [W] ∈ [0, W_max]. The bang-bang nature of the optimal solution has a practical interpretation: **the optimal epitranscriptomic reprogramming strategy is to deliver writer enzyme at maximum concentration for an initial burst, then switch off** — consistent with the transient mRNA delivery strategy already used in therapeutic RNA delivery.
-
 ### 9.2 Monte Carlo Simulations of Stochastic Modification Noise
 
 To assess circuit reliability in the presence of stochastic noise, we performed Monte Carlo simulations of a minimal circuit (2-transcript AND gate) using Gillespie's direct stochastic simulation algorithm (SSA).
