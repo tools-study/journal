@@ -1269,7 +1269,7 @@ The coming decade will determine which of these strategies achieve their extraor
 
 18. Shay TF, Sullivan EE, Ding X, et al. Primate-conserved carbonic anhydrase IV and murine-restricted LY6C1 enable blood-brain barrier crossing by engineered viral vectors. *Science Advances.* 2023. **(PMID: 37075114)**
 
-19. Deverman BE, Pravdo PL, Simpson BP, et al. Cre-dependent selection yields AAV variants for widespread gene transfer to the adult brain. *Nature Biotechnology.* 2016;34(2):204–209. *(Author/Year citation; CREATE method foundational reference)*
+19. Deverman BE, Pravdo PL, Simpson BP, et al. Cre-dependent selection yields AAV variants for widespread gene transfer to the adult brain. *Nature Biotechnology.* 2016;34(2):204–209.
 
 20. Azevedo FAC, Carvalho LRB, Grinberg LT, et al. Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. *Journal of Comparative Neurology.* 2009;513(5):532–541. *(Cell count reference)*
 
