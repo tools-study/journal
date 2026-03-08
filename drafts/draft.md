@@ -6,7 +6,7 @@ The systematic reprogramming of an entire organism—encompassing the reversal o
 
 ---
 
-## 1. Introduction: From the Central Dogma to Programmable Biology
+## 1. Introduction: Programmable Biology
 
 ### 1.1 The Molecular Basis of Cellular Identity
 
