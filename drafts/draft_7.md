@@ -1,4 +1,4 @@
-# Programmable Epitranscriptomic Circuits
+# Synthetic Epitranscriptomic Circuits
 
 ## Abstract
 
