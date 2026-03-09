@@ -740,5 +740,7 @@ The outstanding challenges — modification crosstalk, single-cell heterogeneity
 
 55. **Zhao BS, Nachtergaele S, Roundtree IA, He C.** (2018). Our views of dynamic N6-methyladenosine RNA methylation. *RNA* 24(3):268–272. PMID: 29305388
 
-56. **Lim, S.L.Y., Gialamoidou, S., Kaur, R. et al.** Mammalian synthetic gene circuits for biopharmaceutical development & manufacture. npj Syst Biol Appl 12, 1 (2026). https://doi.org/10.1038/s41540-025-00621-y
+56. **Lim, S. L. Y., Gialamoidou, S., Kaur, R., & Jimenez Del Val, I.** (2025). Mammalian synthetic gene circuits for biopharmaceutical development & manufacture. NPJ systems biology and applications, 12(1), 1. https://doi.org/10.1038/s41540-025-00621-y
+
+57. **Santos-Moreno, J., Tasiudi, E., Stelling, J., & Schaerli, Y.** (2020). Multistable and dynamic CRISPRi-based synthetic circuits. Nature communications, 11(1), 2746. https://doi.org/10.1038/s41467-020-16574-1
 
