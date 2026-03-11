@@ -1,4 +1,4 @@
-# Towards Genetic Engineering of the Human Nervous System
+# Towards Genetic Engineering of the Nervous System
 
 ---
 
