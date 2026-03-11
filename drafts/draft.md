@@ -488,7 +488,7 @@ where $\text{Age}_{bio}$ is the composite biological age (a weighted sum of orga
 
 This formulation makes explicit the fundamental trade-off of whole-body reprogramming: the intervention must be aggressive enough to achieve meaningful age reversal ($\text{Age}_{bio} \downarrow$) while remaining conservative enough to preserve cellular identity ($\text{Identity} \geq \text{Identity}_{min}$) and avoid oncogenic transformation ($R_{teratoma} \leq R_{max}$). The optimal solution occupies a narrow corridor in the control space—the "safe reprogramming window"—whose precise boundaries are determined by the kinetics of age marker erasure versus identity marker erasure, as empirically established by the Ocampo and Lu protocols.
 
-## 10. Conclusion: The Programmable Organism
+## 10. Conclusion: Programmable Multicellular Systems
 
 The discipline of whole-body reprogramming represents the convergence of five independently maturing fields—epigenetic reprogramming, quantitative biological age measurement, bioelectric morphogenetics, metabolic systems biology, and nucleic acid delivery engineering—into a unified framework for the active reconstruction of human health. The mathematical formalism developed in this dissertation—the quantitative Waddington landscape, the stochastic dynamics of cell fate transitions, the optimal control theory of multi-layer intervention—provides the theoretical foundation for designing reprogramming protocols that are simultaneously effective (achieving meaningful biological age reversal), safe (preserving cellular identity and avoiding oncogenesis), and durable (supported by a rejuvenated circulatory and metabolic milieu).
 
