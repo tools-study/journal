@@ -295,7 +295,7 @@ This predicts that **IC₅₀ increases with nutritional status**: well-fed orga
 
 $$M^*_{\text{combined}} = \frac{k_{AA} \cdot f_{AA} \cdot [AA]_{\max} \cdot k_E \cdot f_E \cdot [ATP]_{\max}}{k_{AA} \cdot f_{AA} \cdot [AA]_{\max} \cdot k_E \cdot f_E \cdot [ATP]_{\max} + k_{\text{inh}} \cdot [R] + K_{\text{off}}}$$
 
-where $f_{AA}, f_E \in (0,1)$ are the fractional reductions in amino acid and energy inputs due to CR. The interaction is **multiplicative, not additive**: $M^*_{\text{combined}} < M^*_{\text{rapa}} \cdot M^*_{\text{CR}} / M^*_{\text{fed}}$, demonstrating the synergy.
+where $f_{AA}, f_E \in (0,1)$ are the fractional reductions in amino acid and energy inputs due to CR.
 
 **Age-dependent mTOR dysregulation.** With age, both the sensitivity of amino acid sensing ($k_{AA}$) and the efficiency of AMPK-mediated energy sensing ($k_E$) decrease [46], while basal mTORC1 activity ($K_{\text{off}}$ decreases, i.e., less spontaneous inactivation) may increase due to chronic low-grade inflammation activating the PI3K/AKT pathway. This shifts the mTORC1 setpoint upward with age, contributing to the progressive decline in autophagy and the accumulation of damaged organelles and protein aggregates.
 
@@ -609,9 +609,9 @@ The translation of longevity research to clinical practice raises profound ethic
 
 **Equity and access.** If longevity interventions prove effective, they will initially be expensive and available only to wealthy populations, exacerbating existing health disparities. Rapamycin and metformin are notable exceptions — both are generic, inexpensive drugs that could be deployed globally. However, gene therapy-based approaches (AAV-TERT, OSK reprogramming) are currently priced at $1–2 million per treatment, raising concerns about a "longevity divide" between rich and poor nations.
 
-**Population-level consequences.** Significant lifespan extension would strain pension systems, healthcare infrastructure, and intergenerational resource allocation. Economic models suggest that healthy lifespan extension (compressed morbidity) may actually reduce healthcare costs by delaying the expensive end-of-life period [110], but this benefit depends critically on whether interventions extend healthspan proportionally to lifespan.
-
 **Informed consent and long-term risk.** Interventions like epigenetic reprogramming and telomerase activation modify fundamental cellular programs with unknown long-term consequences. The 30-year horizon of this review means that patients enrolled in early trials may face risks that emerge only decades later. This argues for conservative dose escalation, long-term follow-up registries, and a preference for reversible interventions (pharmacological) over irreversible ones (gene therapy) in initial human studies.
+
+**Population-level consequences.** Significant lifespan extension would strain pension systems, healthcare infrastructure, and intergenerational resource allocation. Economic models suggest that healthy lifespan extension (compressed morbidity) may actually reduce healthcare costs by delaying the expensive end-of-life period [110], but this benefit depends critically on whether interventions extend healthspan proportionally to lifespan.
 
 ---
 
