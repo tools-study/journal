@@ -617,7 +617,7 @@ The translation of longevity research to clinical practice raises profound ethic
 
 ## 9. Conclusion
 
-The five research frontiers reviewed here — epigenetic reprogramming, senolytic therapy, mTOR inhibition, NAD⁺ metabolism, and telomere biology — represent the most promising avenues for achieving clinically meaningful human life extension within a 30-year horizon. Each addresses a distinct, causally validated hallmark of aging with demonstrated lifespan extension in model organisms and emerging human clinical evidence.
+The five research frontiers reviewed here — epigenetic reprogramming, senolytic therapy, mTOR inhibition, NAD⁺ metabolism, and telomere biology — represent the most promising avenues for achieving considerable human life extension within a 30-year horizon. Each addresses a distinct, causally validated hallmark of aging with demonstrated lifespan extension in model organisms and emerging human clinical evidence.
 
 Our ranking reflects a hierarchy from root cause to downstream consequence: epigenetic information loss appears to be the most upstream driver of aging, with senescent cell accumulation, nutrient sensing dysregulation, NAD⁺ depletion, and telomere attrition as partially independent but interconnected downstream mediators. The novel mathematical frameworks presented here — KL-divergence epigenetic drift, senescent cell accumulation ODE, mTORC1 nutrient-sensing AND-gate, NAD⁺ flux balance, and Hayflick-TERT replicative capacity models — provide quantitative foundations for intervention design and optimization.
 
