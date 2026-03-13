@@ -375,9 +375,7 @@ $$V_{\text{con}}(N) = \sum_{j} V_{\max}^{(j)} \cdot \frac{N}{K_m^{(j)} + N}$$
 
 where $j \in \{\text{SIRT1, SIRT2, SIRT3, PARP1, PARP2, CD38, SARM1, ...}\}$, each with its own $V_{\max}$ and $K_m$. Critically, $V_{\max}^{\text{CD38}}$ and $V_{\max}^{\text{PARP1}}$ increase with age (inflammation and DNA damage, respectively), while $K_m$ values remain approximately constant.
 
-**Steady-state NAD⁺ level.** Setting $dN/dt = 0$:
-
-$$V_{\text{syn}}(t) = V_{\text{con}}(N^*) + k_{\text{deg}} \cdot N^*$$
+**Steady-state NAD⁺ level.** 
 
 For the simplified case where total consumption follows first-order kinetics ($V_{\text{con}} \approx k_{\text{con}}^{\text{total}}(t) \cdot N$ when $N \ll K_m$ for all consumers):
 
