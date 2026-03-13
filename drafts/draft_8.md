@@ -571,7 +571,7 @@ $$\Delta E[T] = \int_0^\infty \left[S_{\text{comb}}(t) - S_{\text{baseline}}(t)\
 - Epigenetic reprogramming alone ($\Delta t = 5$): +5 years
 - **All combined**: +22 years (median lifespan ~104 years)
 
-The combined effect (+22 years) exceeds the sum of individual effects (+18 years) because the exponential structure of Gompertz mortality creates **superadditive interactions**: reducing $C$ amplifies the benefit of reducing $B$, and biological age reversal ($\Delta t$) amplifies the benefit of slowing acceleration ($f_C$). This provides a quantitative rationale for combinatorial longevity strategies.
+The combined effect (+22 years) exceeds the sum of individual effects (+18 years) because the exponential structure of Gompertz mortality creates potentially additive interactions: reducing $C$ amplifies the benefit of reducing $B$, and biological age reversal ($\Delta t$) amplifies the benefit of slowing acceleration ($f_C$). This provides a quantitative rationale for combinatorial longevity strategies.
 
 ### 7.2 Synergistic Combinations
 
