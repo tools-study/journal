@@ -700,8 +700,10 @@ Each of the five frontiers examined in this document sits at the intersection of
 
 [68] Brixi, G., et al. (2025). Genome modeling and design across all domains of life with Evo 2. BioRxiv, 2025-02.
 
-[69] Zeming Lin et al. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model.Science379,1123-1130.DOI:10.1126/science.ade2574
+[69] Zeming Lin, et al. (2023). Evolutionary-scale prediction of atomic-level protein structure with a language model.Science379,1123-1130.DOI:10.1126/science.ade2574
 
 [70] Kleiman, D. E., Feng, J., Xue, Z., & Shukla, D. (2025). ESMDynamic: Fast and Accurate Prediction of Protein Dynamic Contact Maps from Single Sequences. bioRxiv : the preprint server for biology, 2025.08.20.671365. https://doi.org/10.1101/2025.08.20.671365
+
+[71] Avsec, Ž., Latysheva, N., Cheng, J. et al. Advancing regulatory variant effect prediction with AlphaGenome. Nature 649, 1206–1218 (2026). https://doi.org/10.1038/s41586-025-10014-0
 
 
