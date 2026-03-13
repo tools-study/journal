@@ -627,7 +627,7 @@ The integrative Gompertz-Makeham multi-intervention model demonstrates that comb
 
 The 30-year window from 2025 to 2055 is realistic for initial clinical translation of all five approaches: epigenetic reprogramming and senolytic clinical trials are already underway, rapamycin longevity trials are in planning, NMN/NR supplementation trials are reporting human data, and TERT gene therapy has been demonstrated in mice. The greatest barriers are not scientific but regulatory (establishing aging as a treatable indication), economic (ensuring equitable access), and ethical (navigating the profound societal consequences of significant life extension).
 
-The ultimate goal — arbitrary life extension — remains beyond the 30-year horizon. Achieving escape velocity, the point at which scientific progress extends remaining life expectancy faster than time passes, will require breakthroughs beyond the five interventions reviewed here, potentially including complete cellular reprogramming, synthetic biology approaches to age-resistant tissues, and AI-driven optimization of multi-intervention regimens. But the scientific foundations laid in the next three decades will determine whether — and when — that goal becomes achievable.
+The ultimate goal — considerable life extension — remains beyond the 30-year horizon. Breakthroughs beyond the five interventions reviewed here, potentially including complete cellular reprogramming, synthetic biology approaches to age-resistant tissues, and AI-driven optimization of multi-intervention regimens. But the scientific foundations laid in the next three decades will determine whether — and when — that goal becomes achievable.
 
 ---
 
