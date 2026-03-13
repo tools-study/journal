@@ -496,8 +496,6 @@ The transition from the treatment of isolated diseases to the orchestration of s
 
 The resources and paradigms analyzed in this dissertation—from the Yamanaka factors to chemical reprogramming, from the Horvath clock to organ-specific imaging clocks, from bioelectric pattern memory to synNotch-driven synthetic morphogenesis—collectively define the toolkit with which the next generation of physicians and bioengineers will approach the fundamental challenge of human aging and tissue repair. The goal is not merely the extension of lifespan but the expansion of healthspan: the maintenance of full physiological function, cognitive capacity, and structural integrity across the human lifetime.
 
-Biological decay is becoming optional. Anatomical repair is becoming autonomous. The era of programmable biology has begun.
-
 ---
 
 ## References
