@@ -148,7 +148,7 @@ Several critical questions must be resolved before epigenetic reprogramming can 
 
 5. **Species translation.** The Gompertz acceleration constant $C$ differs between mice ($C \approx 0.3$/year) and humans ($C \approx 0.085$/year), meaning that reprogramming dynamics may operate on fundamentally different timescales. The duty cycle and factor expression levels optimized for mice may not translate directly [24].
 
-Despite these challenges, epigenetic reprogramming is the most promising longevity intervention because it addresses the root cause — epigenetic information loss — rather than a downstream consequence. With Altos Labs ($3 billion, founded 2022), Calico (Google/Alphabet), and Retro Biosciences (funded by Sam Altman) all investing heavily in this space, the 30-year window is realistic for initial human clinical results.
+Despite these challenges, epigenetic reprogramming is the most promising longevity intervention because it addresses the root cause — epigenetic information loss — rather than a downstream consequence. With Altos Labs, Calico, and Retro Biosciences all investing heavily in this space, the 30-year window is realistic for initial human clinical results.
 
 ---
 
