@@ -878,8 +878,10 @@ Signficant life extension remains beyond the 30-year horizon. Breakthroughs beyo
 
 128. Robin JD, Ludlow AT, Batten K, et al. Telomere position effect: regulation of gene expression with progressive telomere shortening over long distances. *Genes Dev*. 2014;28(22):2464-2476. PMID: 25403178.
 
-129. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
+129. Myers, K. C., Davies, S. M., et al. (2025). Clinical use of zscan4 for telomere elongation in hematopoietic stem cells. NEJM evidence, 4(3), EVIDoa2400252.
 
-130. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
+130. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
 
-131. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
+131. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
+
+132. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
