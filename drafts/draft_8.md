@@ -878,14 +878,12 @@ Signficant life extension could remain beyond the 30-year horizon. Breakthroughs
 
 129. Myers, K. C., Davies, S. M., et al. (2025). Clinical use of zscan4 for telomere elongation in hematopoietic stem cells. NEJM evidence, 4(3), EVIDoa2400252.
 
-130. Shammas M. A. (2011). Telomeres, lifestyle, cancer, and aging. Current opinion in clinical nutrition and metabolic care, 14(1), 28–34. https://doi.org/10.1097/MCO.0b013e32834121b1
+130. Jiang, Y., Zhou, Y., et al. (2025). Telomerase dynamics in stem cells: Unraveling the molecular nexus of cellular aging and regeneration. Ageing research reviews, 112, 102853. https://doi.org/10.1016/j.arr.2025.102853
 
-131. Jiang, Y., Zhou, Y., et al. (2025). Telomerase dynamics in stem cells: Unraveling the molecular nexus of cellular aging and regeneration. Ageing research reviews, 112, 102853. https://doi.org/10.1016/j.arr.2025.102853
+131. Aubert, G., & Lansdorp, P. M. (2008). Telomeres and aging. Physiological reviews.
 
-132. Aubert, G., & Lansdorp, P. M. (2008). Telomeres and aging. Physiological reviews.
+132. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
 
-133. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
+133. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
 
-134. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
-
-135. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
+134. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
