@@ -880,7 +880,7 @@ Signficant life extension could remain beyond the 30-year horizon. Breakthroughs
 
 130. Jiang, Y., Zhou, Y., et al. (2025). Telomerase dynamics in stem cells: Unraveling the molecular nexus of cellular aging and regeneration. Ageing research reviews, 112, 102853. https://doi.org/10.1016/j.arr.2025.102853
 
-131. Aubert, G., & Lansdorp, P. M. (2008). Telomeres and aging. Physiological reviews.
+131. Aubert, G., & Lansdorp, P. M. (2008). Telomeres and aging. Physiological reviews, 88(2), 557–579. https://doi.org/10.1152/physrev.00026.2007
 
 132. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
 
