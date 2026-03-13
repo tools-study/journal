@@ -1,5 +1,4 @@
-
-# Genetic Engineering for the Nervous System
+# Genetic Engineering of the Nervous System
 
 ## Abstract
 
