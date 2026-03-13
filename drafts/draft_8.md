@@ -562,16 +562,7 @@ The expected lifespan gain from combining all interventions:
 
 $$\Delta E[T] = \int_0^\infty \left[S_{\text{comb}}(t) - S_{\text{baseline}}(t)\right] dt$$
 
-**Numerical estimation.** Using human parameters ($A = 0.0004$/year, $B = 0.00003$/year, $C = 0.085$/year) and conservative intervention effect sizes ($f_A = 0.15$, $f_B = 0.10$, $f_C = 0.12$, $\Delta t = 5$ years):
-
-- Baseline median lifespan: ~82 years
-- Senolytics alone ($f_A = 0.15$): +2 years
-- NAD⁺ alone ($f_B = 0.10$): +3 years
-- Rapamycin alone ($f_C = 0.12$): +8 years
-- Epigenetic reprogramming alone ($\Delta t = 5$): +5 years
-- **All combined**: +22 years (median lifespan ~104 years)
-
-The combined effect (+22 years) exceeds the sum of individual effects (+18 years) because the exponential structure of Gompertz mortality creates potentially additive interactions: reducing $C$ amplifies the benefit of reducing $B$, and biological age reversal ($\Delta t$) amplifies the benefit of slowing acceleration ($f_C$). This provides a quantitative rationale for combinatorial longevity strategies.
+Reducing $C$ amplifies the benefit of reducing $B$, and biological age reversal ($\Delta t$) amplifies the benefit of slowing acceleration ($f_C$). This provides a quantitative rationale for combinatorial longevity strategies.
 
 ### 7.2 Synergistic Combinations
 
@@ -621,7 +612,7 @@ The five research frontiers reviewed here — epigenetic reprogramming, senolyti
 
 Our ranking reflects a hierarchy from root cause to downstream consequence: epigenetic information loss appears to be the most upstream driver of aging, with senescent cell accumulation, nutrient sensing dysregulation, NAD⁺ depletion, and telomere attrition as partially independent but interconnected downstream mediators. The novel mathematical frameworks presented here — KL-divergence epigenetic drift, senescent cell accumulation ODE, mTORC1 nutrient-sensing AND-gate, NAD⁺ flux balance, and Hayflick-TERT replicative capacity models — provide quantitative foundations for intervention design and optimization.
 
-The integrative Gompertz-Makeham multi-intervention model demonstrates that combinatorial approaches targeting orthogonal aging mechanisms yield lifespan gains (**theoretical hypothesis**), with conservative parameter estimates suggesting that a five-intervention strategy could extend median human lifespan to approximately 104 years — a 27% increase over current levels. While this estimate is necessarily approximate, it provides a quantitative framework for prioritizing research investment and designing clinical trials.
+The integrative Gompertz-Makeham multi-intervention model demonstrates that combinatorial approaches targeting orthogonal aging mechanisms could yield lifespan gains (**theoretical hypothesis**), with conservative parameter estimates suggesting that a five-intervention strategy could extend median human lifespan. This provides a quantitative framework for prioritizing research investment and designing clinical trials.
 
 The 30-year window from 2025 to 2055 is realistic for initial clinical translation of all five approaches: epigenetic reprogramming and senolytic clinical trials are already underway, rapamycin longevity trials are in planning, NMN/NR supplementation trials are reporting human data, and TERT gene therapy has been demonstrated in mice. The greatest barriers are not scientific but regulatory (establishing aging as a treatable indication), economic (ensuring equitable access), and ethical (navigating the profound societal consequences of significant life extension).
 
