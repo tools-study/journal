@@ -884,8 +884,10 @@ Signficant life extension remains beyond the 30-year horizon. Breakthroughs beyo
 
 131. Jiang, Y., Zhou, Y., et al. (2025). Telomerase dynamics in stem cells: Unraveling the molecular nexus of cellular aging and regeneration. Ageing research reviews, 112, 102853. https://doi.org/10.1016/j.arr.2025.102853
 
-132. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
+132. Razgonova, M. P., Zakharenko, A. M., Golokhvast, K. S., Thanasoula, M., Sarandi, E., Nikolouzakis, K., Fragkiadaki, P., Tsoukalas, D., Spandidos, D. A., & Tsatsakis, A. (2020). Telomerase and telomeres in aging theory and chronographic aging theory (Review). Molecular medicine reports, 22(3), 1679–1694. https://doi.org/10.3892/mmr.2020.11274
 
-133. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
+133. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
 
-134. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
+134. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
+
+135. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
