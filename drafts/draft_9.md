@@ -323,7 +323,9 @@ The bistable G0/G1 model provides a unified framework for understanding why diff
 
 The model also predicts a clinically relevant phenomenon: **hysteresis in cell cycle re-entry.** Because the bistable system exhibits hysteresis, the mitogenic signal required to push a cell from G0 into G1 (the forward bifurcation M**) is greater than the signal required to maintain it in G1 once it has entered (above M*). This means that a transient, high-intensity intervention (e.g., a bolus of 4F expression or a two-week pulse of YAP5SA) can push cells past the bifurcation into G1, after which they may remain cycling even after the intervention is withdrawn — provided the ambient mitogenic signal exceeds M*. This is precisely what is observed in the CM-YAPon pig experiments: two weeks of YAP activation followed by withdrawal resulted in sustained cardiac improvement, suggesting that newly generated CMs remained viable and functional after YAP was turned off. The hysteresis of the bistable switch provides the mechanistic basis for this "hit-and-run" therapeutic strategy.
 
+---
 
+*End of Part I. Part II will address chromosome segregation fidelity, the spindle assembly checkpoint, cohesin biology, and the cohesin exponential decay model of age-dependent oocyte aneuploidy.*
 ## PART II: Chromosome Segregation Fidelity and Aneuploidy
 
 ---
@@ -690,61 +692,6 @@ At age 40, restoring $N_{\text{cent}}$ from the depleted value of ~350 to the in
 
 ---
 
-### References (Part II)
-
-1. Luo, X., et al. (2004). Structure of the Mad2 spindle assembly checkpoint protein and its interaction with Cdc20. *Molecular Cell*, 13(4), 483-496. PMID: 15175153.
-2. Mapelli, M., et al. (2007). The Mad2 conformational dimer: structure and implications for the spindle assembly checkpoint. *Current Biology*, 17(3), 237-244. PMID: 17306539.
-3. Piano, V., et al. (2023). The MAD1/MAD2 tetramer is a catalytic platform for checkpoint signaling. *Current Biology*, 33(3). PMID: 36934097.
-4. Chao, W. C., et al. (2012). Structure of the mitotic checkpoint complex. *Nature*, 484(7393), 208-213. PMID: 22885699.
-5. Yamaguchi, M., et al. (2016). Cryo-EM of mitotic checkpoint complex-bound APC/C reveals reciprocal and conformational regulation of ubiquitin ligation. *Molecular Cell*, 63(4), 593-607. PMID: 27746019.
-6. Hiruma, Y., et al. (2015). Competition between MPS1 and microtubules at kinetochores regulates spindle checkpoint signaling. *Science*, 348(6240), 1264-1267. PMID: 26228149.
-7. Jelluma, N., et al. (2008). Mps1 phosphorylates Borealin to control Aurora B activity and chromosome alignment. *Cell*, 132(2), 233-246. PMID: 18984155.
-8. Primorac, I., et al. (2013). Bub3 reads phosphorylated MELT repeats to promote spindle assembly checkpoint signaling. *eLife*, 2, e01030. PMID: 24066225.
-9. Faesen, A. C., et al. (2017). Basis of catalytic assembly of the mitotic checkpoint complex. *Molecular Cell*, 67(5), 831-842. PMID: 29100053.
-10. Ye, Q., et al. (2015). TRIP13 is a protein-remodeling AAA+ ATPase that catalyzes MAD2 conformation switching. *Molecular Cell*, 60(2), 360-371. PMID: 26257283.
-11. Mason, J. M., et al. (2017). Functional characterization of CFI-402257, a potent and selective Mps1/TTK kinase inhibitor, for the treatment of cancer. *Molecular Cancer Therapeutics*, 16(11), 2513-2524. PMID: 28864681.
-12. Mackenzie, K. J., et al. (2017). cGAS surveillance of micronuclei links genome instability to innate immunity. *Nature*, 548(7668), 461-465. PMID: 28738408.
-13. Hatch, E. M., et al. (2013). Catastrophic nuclear envelope collapse in cancer cell micronuclei. *Cell*, 154(1), 47-60. PMID: 23954782.
-14. Bakhoum, S. F., et al. (2018). Chromosomal instability drives metastasis through a cytosolic DNA response. *Nature*, 553(7689), 467-472. PMID: 29342134.
-15. Losada, A., et al. (2000). Identification of Xenopus SMC protein complexes required for sister chromatid cohesion. *Genes & Development*, 14(18), 2224-2230. PMID: 10995388.
-16. Haering, C. H., et al. (2008). The cohesin ring concatenates sister DNA molecules. *Nature*, 454(7202), 297-301. PMID: 18946472.
-17. Ciosk, R., et al. (2000). Cohesin's binding to chromosomes depends on a separate complex consisting of Scc2 and Scc4 proteins. *Molecular Cell*, 5(2), 243-254. PMID: 10882111.
-18. Collier, J. E., et al. (2020). Transport of DNA within cohesin involves clamping on top of engaged heads by SCC2 and entrapment within the ring by SCC3. *Nature*, 7(1), 1-16. PMID: 33230294.
-19. Rolef Ben-Shahar, T., et al. (2008). Eco1-dependent cohesin acetylation during establishment of sister chromatid cohesion. *Science*, 321(5888), 563-566. PMID: 18614985.
-20. Kueng, S., et al. (2006). Wapl controls the dynamic association of cohesin with chromatin. *Cell*, 127(5), 955-967. PMID: 16814720.
-21. Nishiyama, T., et al. (2010). Sororin mediates sister chromatid cohesion by antagonizing Wapl. *Cell*, 143(5), 737-749. PMID: 20059999.
-22. Kawashima, S. A., et al. (2010). Shugoshin enables tension-generating attachment of kinetochores by loading Aurora to centromeres. *Science*, 327(5972), 172-177. PMID: 20093473.
-23. McGuinness, B. E., et al. (2005). Shugoshin prevents dissociation of cohesin from centromeres during mitosis in vertebrate cells. *Current Biology*, 15(4), 303-313. PMID: 16159952.
-24. Uhlmann, F., et al. (1999). Cleavage of cohesin by the CD clan protease separin triggers anaphase in yeast. *Cell*, 103(3), 375-386. PMID: 10612394.
-25. Kline, A. D., et al. (2018). Diagnosis and management of Cornelia de Lange syndrome: first international consensus statement. *American Journal of Medical Genetics Part C*, 178(2), 155-171. PMID: 30024097.
-26. Schwarzer, W., et al. (2017). Two independent modes of chromatin organization revealed by cohesin removal. *Nature*, 551(7678), 51-56. PMID: 29094699.
-27. Ono, T., et al. (2003). Differential contributions of condensin I and condensin II to mitotic chromosome architecture in vertebrate cells. *Cell*, 115(1), 109-121. PMID: 14675533.
-28. Gibcus, J. H., et al. (2018). A pathway for mitotic chromosome formation. *Science*, 359(6376), eaao6135. PMID: 29348367.
-29. Ganji, M., et al. (2018). Real-time imaging of DNA loop extrusion by condensin. *Science*, 360(6384), 102-105. PMID: 29472443.
-30. Hirano, T. (2024). Condensin and cohesin: drivers of chromosome dynamics. *Genes & Development*. PMID: 38659940.
-31. Yang, Y., et al. (2008). An Ndc80 complex variant required for generating kinetochore-microtubule attachments in S. cerevisiae. *Molecular Cell*, 32(4), 571-583. PMID: 18242115.
-32. Ciferri, C., et al. (2008). Implications for kinetochore-microtubule attachment from the structure of an engineered Ndc80 complex. *Cell*, 133(3), 427-439. PMID: 18662540.
-33. Zahm, J. A., et al. (2023). Structure of the Ndc80 complex bound to the microtubule lattice. *Nature Structural & Molecular Biology*. PMID: 38459127.
-34. McEwen, B. F., et al. (2001). Kinetochore fiber maturation in PtK1 cells and its implications for the mechanisms of chromosome congression and anaphase onset. *Journal of Cell Biology*, 153(6), 1209-1226. PMID: 11425895.
-35. Yamagishi, Y., et al. (2010). Two histone marks establish the inner centromere and chromosome bi-orientation. *Science*, 330(6001), 239-243. PMID: 20929775.
-36. Liu, D., et al. (2010). Regulated targeting of protein phosphatase 1 to the outer kinetochore by KNL1 opposes Aurora B kinase. *Science*, 123(20), 3367-3375. PMID: 20647469.
-37. Cimini, D., et al. (2003). Merotelic kinetochore orientation occurs frequently during early mitosis in mammalian tissue cells and error correction is achieved by two different mechanisms. *Journal of Cell Biology*, 153(3), 517-527. PMID: 12695553.
-38. Ganem, N. J., et al. (2009). A mechanism linking extra centrosomes to chromosomal instability. *Nature*, 460(7252), 278-282. PMID: 19005469.
-39. Hook, E. B. (1981). Rates of chromosome abnormalities at different maternal ages. *Obstetrics & Gynecology*, 58(3), 282-285. PMID: 7279340.
-40. Revenkova, E., et al. (2004). Cohesin SMC1β is required for meiotic chromosome dynamics, sister chromatid cohesion, and DNA recombination. *Molecular Cell*, 16(4), 583-594. PMID: 15610739.
-41. Hodges, C. A., et al. (2005). SMC1β-deficient female mice provide evidence that cohesins are a missing link in age-related nondisjunction. *Current Biology*, 15(15), 1552-1556. PMID: 16303561.
-42. Zielinska, A. P., et al. (2024). Age-dependent loss of shugoshin from pericentromeric regions in mouse oocytes. *Current Biology*. PMID: 38134935.
-43. Loh, P. R., et al. (2018). Insights into clonal haematopoiesis from 8,342 mosaic chromosomal alterations. *Nature*, 559(7714), 350-355. PMID: 30305520.
-44. Forsberg, L. A., et al. (2014). Mosaic loss of chromosome Y in peripheral blood is associated with shorter survival and higher risk of cancer. *Science*, 6(237), 237ra68. PMID: 24925909.
-45. Genovese, G., et al. (2014). Clonal hematopoiesis and blood-cancer risk inferred from blood DNA sequence. *New England Journal of Medicine*, 371(26), 2477-2487. PMID: 25426837.
-46. Li, J., et al. (2023). Non-canonical STING signalling drives cytokine-dependent cancer cell survival. *Nature*, 624(7992), 558-567. PMID: 37821698.
-47. Stephens, P. J., et al. (2011). Massive genomic rearrangement acquired in a single catastrophic event during cancer development. *Cell*, 144(1), 27-40. PMID: 21215367.
-48. Cortés-Ciriano, I., et al. (2020). Comprehensive analysis of chromothripsis in 2,658 human cancers using whole-genome sequencing. *Nature Genetics*, 52(3), 331-341. PMID: 32025003.
-49. Bhargava, R., et al. (2025). N4BP2 is the endonuclease responsible for chromothripsis in micronuclei. *Science*. PMID: 41379955.
-50. Marquis, C., et al. (2021). Chromosomally unstable tumor cells specifically require KIF18A for proliferation. *eLife*, 10, e69694. PMID: 33783356.
-51. Drews, R. M., et al. (2025). A pan-cancer compendium of chromosomal instability. *Nature Genetics*. PMID: 40551015.
-
-
 ## PART III: Synthetic Mitotic Control Circuits
 
 ---
@@ -1062,6 +1009,9 @@ Several design principles emerge from this comparative analysis. First, response
 
 The mathematical framework presented here provides quantitative design criteria for the next generation of synthetic cell therapies. The key parameters — per-input failure rate p, number of orthogonal inputs n, and total expected cell divisions N — define a three-dimensional design space in which the iso-safety contour P(escape) = P_threshold traces out the minimum circuit complexity required for a given application. Short-term cell therapies (low N, e.g., ~10⁵ divisions for a single CAR-T infusion with limited expansion) may safely employ two-input systems; lifelong cell replacement therapies (high N, e.g., ~10¹² divisions for iPSC-derived beta cells over decades) demand four or more orthogonal inputs. By rendering these design tradeoffs quantitatively explicit, the formalism enables rational, application-specific safety engineering — moving the field from ad hoc kill switch selection to principled circuit design.
 
+---
+
+*End of Part III. Part IV will address the comprehensive mechanistic biology of mitosis from prophase through cytokinesis, integrating structural, biochemical, and biophysical perspectives on each mitotic stage.*
 ## PART IV: Comprehensive Mitotic Biology — From Centrosome Duplication Through Cytokinesis
 
 ---
@@ -1526,7 +1476,108 @@ Over 100 primary citations, spanning from the foundational discoveries of cyclin
 
 [110] Mochida, S. et al., "Regulated activity of PP2A-B55 delta is crucial for controlling entry into and exit from mitosis in Xenopus egg extracts," *Nature*, 2010; PMID: 20364130
 
-[111] Csikász-Nagy A, Novák B, Tyson JJ. Reverse Engineering Models of Cell Cycle Regulation. In: Madame Curie Bioscience Database [Internet]. Austin (TX): Landes Bioscience; 2000-2013. Available from: https://www.ncbi.nlm.nih.gov/books/NBK6057/
+[111] Csikász-Nagy, A. et al., "Reverse engineering models of cell cycle regulation," *Madame Curie Bioscience Database*, Landes Bioscience, 2000-2013. Available from: https://www.ncbi.nlm.nih.gov/books/NBK6057/
 
-[112] Olivi, L., Berger, M., Creyghton, R.N.P. et al. Towards a synthetic cell cycle. Nat Commun 12, 4531 (2021). https://doi.org/10.1038/s41467-021-24772-8
+[112] Olivi, L. et al., "Towards a synthetic cell cycle," *Nature Communications*, 2021; DOI: 10.1038/s41467-021-24772-8
 
+[113] Luo, X. et al., "Structure of the Mad2 spindle assembly checkpoint protein and its interaction with Cdc20," *Molecular Cell*, 2004; PMID: 15175153
+
+[114] Mapelli, M. et al., "The Mad2 conformational dimer: structure and implications for the spindle assembly checkpoint," *Current Biology*, 2007; PMID: 17306539
+
+[115] Piano, V. et al., "The MAD1/MAD2 tetramer is a catalytic platform for checkpoint signaling," *Current Biology*, 2023; PMID: 36934097
+
+[116] Chao, W.C. et al., "Structure of the mitotic checkpoint complex," *Nature*, 2012; PMID: 22885699
+
+[117] Yamaguchi, M. et al., "Cryo-EM of mitotic checkpoint complex-bound APC/C reveals reciprocal and conformational regulation of ubiquitin ligation," *Molecular Cell*, 2016; PMID: 27746019
+
+[118] Hiruma, Y. et al., "Competition between MPS1 and microtubules at kinetochores regulates spindle checkpoint signaling," *Science*, 2015; PMID: 26228149
+
+[119] Jelluma, N. et al., "Mps1 phosphorylates Borealin to control Aurora B activity and chromosome alignment," *Cell*, 2008; PMID: 18984155
+
+[120] Primorac, I. et al., "Bub3 reads phosphorylated MELT repeats to promote spindle assembly checkpoint signaling," *eLife*, 2013; PMID: 24066225
+
+[121] Faesen, A.C. et al., "Basis of catalytic assembly of the mitotic checkpoint complex," *Molecular Cell*, 2017; PMID: 29100053
+
+[122] Ye, Q. et al., "TRIP13 is a protein-remodeling AAA+ ATPase that catalyzes MAD2 conformation switching," *Molecular Cell*, 2015; PMID: 26257283
+
+[123] Mason, J.M. et al., "Functional characterization of CFI-402257, a potent and selective Mps1/TTK kinase inhibitor, for the treatment of cancer," *Molecular Cancer Therapeutics*, 2017; PMID: 28864681
+
+[124] Mackenzie, K.J. et al., "cGAS surveillance of micronuclei links genome instability to innate immunity," *Nature*, 2017; PMID: 28738408
+
+[125] Hatch, E.M. et al., "Catastrophic nuclear envelope collapse in cancer cell micronuclei," *Cell*, 2013; PMID: 23954782
+
+[126] Bakhoum, S.F. et al., "Chromosomal instability drives metastasis through a cytosolic DNA response," *Nature*, 2018; PMID: 29342134
+
+[127] Losada, A. et al., "Identification of Xenopus SMC protein complexes required for sister chromatid cohesion," *Genes & Development*, 2000; PMID: 10995388
+
+[128] Haering, C.H. et al., "The cohesin ring concatenates sister DNA molecules," *Nature*, 2008; PMID: 18946472
+
+[129] Ciosk, R. et al., "Cohesin's binding to chromosomes depends on a separate complex consisting of Scc2 and Scc4 proteins," *Molecular Cell*, 2000; PMID: 10882111
+
+[130] Collier, J.E. et al., "Transport of DNA within cohesin involves clamping on top of engaged heads by SCC2 and entrapment within the ring by SCC3," *Nature Communications*, 2020; PMID: 33230294
+
+[131] Rolef Ben-Shahar, T. et al., "Eco1-dependent cohesin acetylation during establishment of sister chromatid cohesion," *Science*, 2008; PMID: 18614985
+
+[132] Kueng, S. et al., "Wapl controls the dynamic association of cohesin with chromatin," *Cell*, 2006; PMID: 16814720
+
+[133] Nishiyama, T. et al., "Sororin mediates sister chromatid cohesion by antagonizing Wapl," *Cell*, 2010; PMID: 20059999
+
+[134] Kawashima, S.A. et al., "Shugoshin enables tension-generating attachment of kinetochores by loading Aurora to centromeres," *Science*, 2010; PMID: 20093473
+
+[135] McGuinness, B.E. et al., "Shugoshin prevents dissociation of cohesin from centromeres during mitosis in vertebrate cells," *Current Biology*, 2005; PMID: 16159952
+
+[136] Uhlmann, F. et al., "Cleavage of cohesin by the CD clan protease separin triggers anaphase in yeast," *Cell*, 1999; PMID: 10612394
+
+[137] Kline, A.D. et al., "Diagnosis and management of Cornelia de Lange syndrome: first international consensus statement," *American Journal of Medical Genetics Part C*, 2018; PMID: 30024097
+
+[138] Schwarzer, W. et al., "Two independent modes of chromatin organization revealed by cohesin removal," *Nature*, 2017; PMID: 29094699
+
+[139] Ono, T. et al., "Differential contributions of condensin I and condensin II to mitotic chromosome architecture in vertebrate cells," *Cell*, 2003; PMID: 14675533
+
+[140] Gibcus, J.H. et al., "A pathway for mitotic chromosome formation," *Science*, 2018; PMID: 29348367
+
+[141] Ganji, M. et al., "Real-time imaging of DNA loop extrusion by condensin," *Science*, 2018; PMID: 29472443
+
+[142] Hirano, T., "Condensin and cohesin: drivers of chromosome dynamics," *Genes & Development*, 2024; PMID: 38659940
+
+[143] Yang, Y. et al., "An Ndc80 complex variant required for generating kinetochore-microtubule attachments in S. cerevisiae," *Molecular Cell*, 2008; PMID: 18242115
+
+[144] Ciferri, C. et al., "Implications for kinetochore-microtubule attachment from the structure of an engineered Ndc80 complex," *Cell*, 2008; PMID: 18662540
+
+[145] Zahm, J.A. et al., "Structure of the Ndc80 complex bound to the microtubule lattice," *Nature Structural & Molecular Biology*, 2023; PMID: 38459127
+
+[146] McEwen, B.F. et al., "Kinetochore fiber maturation in PtK1 cells and its implications for the mechanisms of chromosome congression and anaphase onset," *Journal of Cell Biology*, 2001; PMID: 11425895
+
+[147] Yamagishi, Y. et al., "Two histone marks establish the inner centromere and chromosome bi-orientation," *Science*, 2010; PMID: 20929775
+
+[148] Liu, D. et al., "Regulated targeting of protein phosphatase 1 to the outer kinetochore by KNL1 opposes Aurora B kinase," *Journal of Cell Science*, 2010; PMID: 20647469
+
+[149] Cimini, D. et al., "Merotelic kinetochore orientation occurs frequently during early mitosis in mammalian tissue cells and error correction is achieved by two different mechanisms," *Journal of Cell Biology*, 2003; PMID: 12695553
+
+[150] Ganem, N.J. et al., "A mechanism linking extra centrosomes to chromosomal instability," *Nature*, 2009; PMID: 19005469
+
+[151] Hook, E.B., "Rates of chromosome abnormalities at different maternal ages," *Obstetrics & Gynecology*, 1981; PMID: 7279340
+
+[152] Revenkova, E. et al., "Cohesin SMC1β is required for meiotic chromosome dynamics, sister chromatid cohesion, and DNA recombination," *Molecular Cell*, 2004; PMID: 15610739
+
+[153] Hodges, C.A. et al., "SMC1β-deficient female mice provide evidence that cohesins are a missing link in age-related nondisjunction," *Current Biology*, 2005; PMID: 16303561
+
+[154] Zielinska, A.P. et al., "Age-dependent loss of shugoshin from pericentromeric regions in mouse oocytes," *Current Biology*, 2024; PMID: 38134935
+
+[155] Loh, P.R. et al., "Insights into clonal haematopoiesis from 8,342 mosaic chromosomal alterations," *Nature*, 2018; PMID: 30305520
+
+[156] Forsberg, L.A. et al., "Mosaic loss of chromosome Y in peripheral blood is associated with shorter survival and higher risk of cancer," *Science Translational Medicine*, 2014; PMID: 24925909
+
+[157] Genovese, G. et al., "Clonal hematopoiesis and blood-cancer risk inferred from blood DNA sequence," *New England Journal of Medicine*, 2014; PMID: 25426837
+
+[158] Li, J. et al., "Non-canonical STING signalling drives cytokine-dependent cancer cell survival," *Nature*, 2023; PMID: 37821698
+
+[159] Stephens, P.J. et al., "Massive genomic rearrangement acquired in a single catastrophic event during cancer development," *Cell*, 2011; PMID: 21215367
+
+[160] Cortés-Ciriano, I. et al., "Comprehensive analysis of chromothripsis in 2,658 human cancers using whole-genome sequencing," *Nature Genetics*, 2020; PMID: 32025003
+
+[161] Bhargava, R. et al., "N4BP2 is the endonuclease responsible for chromothripsis in micronuclei," *Science*, 2025; PMID: 41379955
+
+[162] Marquis, C. et al., "Chromosomally unstable tumor cells specifically require KIF18A for proliferation," *eLife*, 2021; PMID: 33783356
+
+[163] Drews, R.M. et al., "A pan-cancer compendium of chromosomal instability," *Nature Genetics*, 2025; PMID: 40551015
