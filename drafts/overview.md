@@ -68,9 +68,9 @@ The landmark review by Laplante and Sabatini (2012) identifies the mTOR signalin
 
 The scientific utility of this resource is found in its systemic reach. Because the mTOR pathway is involved in the pathology of diverse diseases—including cancer, diabetes, and neurodegeneration—it serves as a universal target for whole-body metabolic reprogramming. Pharmacological modulation of this pathway, primarily through the use of rapamycin and its analogs, has been shown to slow the decline of multiple organ systems, improve immune function, and extend healthspan by shifting the body from a "growth" state to a "preservation" state.
 
-### Systemic Metabolic Advances in 2025
+### Systemic Metabolic Advances
 
-By 2025, metabolic research has moved toward increasingly precise and integrated medicine. Landmark studies have shown that metabolism is no longer viewed through isolated pathways but as a dynamic, "programmable system" spanning gene editing, nutrient signaling, and redox biology. This includes the use of GLP-1 agonists and other weight-loss drugs that not only alter body composition but also reprogram systemic insulin sensitivity and inflammatory profiles. These advances position metabolic regulation as a foundational pillar of whole-body reprogramming, allowing for the durable modification of human metabolic pathways.
+Metabolic research has moved toward increasingly precise and integrated medicine. Landmark studies have shown that metabolism is no longer viewed through isolated pathways but as a dynamic, "programmable system" spanning gene editing, nutrient signaling, and redox biology. This includes the use of GLP-1 agonists and other weight-loss drugs that not only alter body composition but also reprogram systemic insulin sensitivity and inflammatory profiles. These advances position metabolic regulation as a foundational pillar of whole-body reprogramming, allowing for the durable modification of human metabolic pathways.
 
 | Metabolic Pathway | Reprogramming Target | Systemic Effect |
 |---|---|---|
@@ -177,7 +177,7 @@ The scientific utility of this framework is found in its ability to treat system
 
 ### The Vicious Cycle of Immunometabolic Dysfunction
 
-By 2025, an integrative framework has emerged that identifies an "age-dependent immunometabolic vicious cycle" as the driver of progressive diseases like MASLD (metabolic dysfunction-associated steatotic liver disease). This cycle links immunosenescence (the decline of the immune system) with metabolic rewiring, leading to chronic low-grade inflammation.
+An integrative framework has emerged that identifies an "age-dependent immunometabolic vicious cycle" as the driver of progressive diseases like MASLD (metabolic dysfunction-associated steatotic liver disease). This cycle links immunosenescence (the decline of the immune system) with metabolic rewiring, leading to chronic low-grade inflammation.
 
 Targeting the key nodes of this cycle—such as mitochondrial electron transport or nutrient sensing—offers novel strategies for breaking the therapeutic bottleneck in systemic diseases. This integrative approach positions metabolism not as a static network of pathways, but as a "dynamic, programmable system" that can be reshaped to ensure durability and clinical relevance throughout the organism's life.
 
