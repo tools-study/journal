@@ -244,7 +244,7 @@ The synthesis of these scientific landmarks suggests a hierarchy of intervention
 4. **Metabolic Layer:** Orchestrating the mTOR and AMPK pathways to balance systemic growth with repair and autophagy.
 5. **Environmental Layer:** Modulating the circulatory milieu to provide the humoral signals necessary for resident stem cell activation.
 
-By 2026, the technology is rapidly moving into the clinic. Multiple biotechnology companies are focusing on partial epigenetic reprogramming using OSK to treat age-related and injury-induced degradations without the risk of cellular reset. Gene therapy advances have enabled potentially curative medicines for neurological and metabolic disorders through direct administration to the target organs.
+The technology is rapidly moving into the clinic. Multiple biotechnology companies are focusing on partial epigenetic reprogramming using OSK to treat age-related and injury-induced degradations without the risk of cellular reset. Gene therapy advances have enabled potentially curative medicines for neurological and metabolic disorders through direct administration to the target organs.
 
 ## Conclusion
 
