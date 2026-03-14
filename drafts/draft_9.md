@@ -323,9 +323,7 @@ The bistable G0/G1 model provides a unified framework for understanding why diff
 
 The model also predicts a clinically relevant phenomenon: **hysteresis in cell cycle re-entry.** Because the bistable system exhibits hysteresis, the mitogenic signal required to push a cell from G0 into G1 (the forward bifurcation M**) is greater than the signal required to maintain it in G1 once it has entered (above M*). This means that a transient, high-intensity intervention (e.g., a bolus of 4F expression or a two-week pulse of YAP5SA) can push cells past the bifurcation into G1, after which they may remain cycling even after the intervention is withdrawn — provided the ambient mitogenic signal exceeds M*. This is precisely what is observed in the CM-YAPon pig experiments: two weeks of YAP activation followed by withdrawal resulted in sustained cardiac improvement, suggesting that newly generated CMs remained viable and functional after YAP was turned off. The hysteresis of the bistable switch provides the mechanistic basis for this "hit-and-run" therapeutic strategy.
 
----
 
-*End of Part I. Part II will address chromosome segregation fidelity, the spindle assembly checkpoint, cohesin biology, and the cohesin exponential decay model of age-dependent oocyte aneuploidy.*
 ## PART II: Chromosome Segregation Fidelity and Aneuploidy
 
 ---
@@ -745,6 +743,8 @@ At age 40, restoring $N_{\text{cent}}$ from the depleted value of ~350 to the in
 49. Bhargava, R., et al. (2025). N4BP2 is the endonuclease responsible for chromothripsis in micronuclei. *Science*. PMID: 41379955.
 50. Marquis, C., et al. (2021). Chromosomally unstable tumor cells specifically require KIF18A for proliferation. *eLife*, 10, e69694. PMID: 33783356.
 51. Drews, R. M., et al. (2025). A pan-cancer compendium of chromosomal instability. *Nature Genetics*. PMID: 40551015.
+
+
 ## PART III: Synthetic Mitotic Control Circuits
 
 ---
@@ -1062,9 +1062,6 @@ Several design principles emerge from this comparative analysis. First, response
 
 The mathematical framework presented here provides quantitative design criteria for the next generation of synthetic cell therapies. The key parameters — per-input failure rate p, number of orthogonal inputs n, and total expected cell divisions N — define a three-dimensional design space in which the iso-safety contour P(escape) = P_threshold traces out the minimum circuit complexity required for a given application. Short-term cell therapies (low N, e.g., ~10⁵ divisions for a single CAR-T infusion with limited expansion) may safely employ two-input systems; lifelong cell replacement therapies (high N, e.g., ~10¹² divisions for iPSC-derived beta cells over decades) demand four or more orthogonal inputs. By rendering these design tradeoffs quantitatively explicit, the formalism enables rational, application-specific safety engineering — moving the field from ad hoc kill switch selection to principled circuit design.
 
----
-
-*End of Part III. Part IV will address the comprehensive mechanistic biology of mitosis from prophase through cytokinesis, integrating structural, biochemical, and biophysical perspectives on each mitotic stage.*
 ## PART IV: Comprehensive Mitotic Biology — From Centrosome Duplication Through Cytokinesis
 
 ---
