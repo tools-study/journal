@@ -1573,3 +1573,5 @@ Over 100 primary citations, spanning from the foundational discoveries of cyclin
 [162] Marquis, C. et al., "Chromosomally unstable tumor cells specifically require KIF18A for proliferation," *eLife*, 2021; PMID: 33783356
 
 [163] Drews, R.M. et al., "A pan-cancer compendium of chromosomal instability," *Nature Genetics*, 2025; PMID: 40551015
+
+[164] Goel, V.Y., Aboreden, N.G., Jusuf, J.M. et al. Dynamics of microcompartment formation at the mitosis-to-G1 transition. Nat Struct Mol Biol 32, 2614–2627 (2025). https://doi.org/10.1038/s41594-025-01687-2
