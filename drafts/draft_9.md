@@ -1574,4 +1574,6 @@ Over 100 primary citations, spanning from the foundational discoveries of cyclin
 
 [163] Drews, R.M. et al., "A pan-cancer compendium of chromosomal instability," *Nature Genetics*, 2025; PMID: 40551015
 
-[164] Goel, V.Y., Aboreden, N.G., Jusuf, J.M. et al. Dynamics of microcompartment formation at the mitosis-to-G1 transition. Nat Struct Mol Biol 32, 2614–2627 (2025). https://doi.org/10.1038/s41594-025-01687-2
+[164] Mashaghi, A., & Dekker, C. (2014). Systems and synthetic biology approaches to cell division. Systems and synthetic biology, 8(3), 173–178. https://doi.org/10.1007/s11693-014-9132-z
+
+[165] Goel, V.Y., Aboreden, N.G., Jusuf, J.M. et al. Dynamics of microcompartment formation at the mitosis-to-G1 transition. Nat Struct Mol Biol 32, 2614–2627 (2025). https://doi.org/10.1038/s41594-025-01687-2
