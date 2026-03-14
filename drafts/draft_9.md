@@ -325,10 +325,7 @@ The model also predicts a clinically relevant phenomenon: **hysteresis in cell c
 
 ---
 
-*End of Part I. Part II will address chromosome segregation fidelity, the spindle assembly checkpoint, cohesin biology, and the cohesin exponential decay model of age-dependent oocyte aneuploidy.*
 ## PART II: Chromosome Segregation Fidelity and Aneuploidy
-
----
 
 ### 6. The Spindle Assembly Checkpoint: Molecular Architecture and Clinical Targeting
 
@@ -694,8 +691,6 @@ At age 40, restoring $N_{\text{cent}}$ from the depleted value of ~350 to the in
 
 ## PART III: Synthetic Mitotic Control Circuits
 
----
-
 ### 12. The CDK Oscillator: Biology's Master Clock
 
 The eukaryotic cell cycle is, at its mathematical core, a biochemical oscillator — a self-sustaining, autonomous system of coupled positive and negative feedback loops that generates periodic fluctuations in cyclin-dependent kinase (CDK) activity with remarkable precision. Unlike developmental signaling cascades that converge on stable steady states, the cell cycle engine operates in a regime of limit-cycle oscillation, in which the system traverses a closed trajectory in phase space and returns to its starting point with each division. The molecular substrate of this oscillation is the CDK1-cyclin B / APC/C (anaphase-promoting complex/cyclosome) negative feedback loop, embedded within which are two bistable switches — the Wee1/Cdc25 toggle and the Greatwall-ENSA-PP2A-B55 axis — that convert the smooth oscillation into a series of sharp, switch-like transitions. Understanding the quantitative architecture of this oscillator is prerequisite to any serious attempt at synthetic mitotic control, for it defines the parameter space within which engineered circuits must operate and the failure modes against which they must be robust.
@@ -1011,10 +1006,7 @@ The mathematical framework presented here provides quantitative design criteria 
 
 ---
 
-*End of Part III. Part IV will address the comprehensive mechanistic biology of mitosis from prophase through cytokinesis, integrating structural, biochemical, and biophysical perspectives on each mitotic stage.*
 ## PART IV: Comprehensive Mitotic Biology — From Centrosome Duplication Through Cytokinesis
-
----
 
 ### 18. Centrosome Biology and the Centriole Duplication Cycle
 
