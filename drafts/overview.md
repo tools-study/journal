@@ -173,12 +173,6 @@ A significant breakthrough in this field was the study by Toda et al. (2018), wh
 
 The scientific utility of this resource is found in its potential for tissue and organ regeneration. Instead of trying to "print" complex organs, researchers can program stem cells with the developmental logic they need to "grow" the correct connections to the rest of the body. This approach leverages the innate self-organization properties of cells to achieve complex anatomical repairs that were previously thought impossible.
 
-### Synthetic Living Systems and Xenobots
-
-The work of Michael Levin and colleagues on "Xenobots"—synthetic living machines built from frog skin and heart cells—represents the extreme end of this programming. These bio-engineered collectives can be programmed for specific behaviors, such as cleaning up microplastics or delivering drugs, by altering their anatomical design rather than their genes.
-
-By 2025, the field has evolved to include "AI-enabled organoids" and "hybrid living materials" that integrate synthetic biology with 3D/4D printing. These tools allow for the creation of next-generation biomaterials that not only support tissue regeneration but actively participate in the repair process by responding to environmental stimuli. This represents a shift from "passive" medical implants to "active" programmed tissues that can regrow and self-repair within the whole body.
-
 | Synthetic Bio Tool | Function in Reprogramming | Application in Repair |
 |---|---|---|
 | synNotch | Customizable cell signaling | Directing self-organization |
