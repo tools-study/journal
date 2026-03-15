@@ -1302,7 +1302,6 @@ Several unifying themes emerge from this analysis:
 159. Motlagh, H. N. et al. The ensemble nature of allostery. *Nature* **508**, 331–339 (2014). PMID: 24759209
 160. Xu, J. et al. Gain of function of mutant p53 by coaggregation with multiple tumor suppressors. *Nature Chemical Biology* **7**, 285–295 (2011). PMID: 21892185
 161. Ghosh, S. et al. Cryo-EM structure of p53 amyloid filaments. *Nature Communications* **15**, 1321 (2024). PMID: 38443350
-
 162. Hershko, A. et al. Proposed role of ATP in protein breakdown: conjugation of proteins with multiple chains of the polypeptide of ATP-dependent proteolysis. *Proceedings of the National Academy of Sciences* **77**, 1783–1786 (1980). PMID: 6990414
 163. Thrower, J. S. et al. Recognition of the polyubiquitin proteolytic signal. *EMBO Journal* **19**, 94–102 (2000). PMID: 10619848
 164. Chau, V. et al. A multiubiquitin chain is confined to specific lysine in a targeted short-lived protein. *Science* **243**, 1576–1583 (1989). PMID: 2538923
@@ -1322,4 +1321,6 @@ Several unifying themes emerge from this analysis:
 178. Fink, E. C. et al. Crbn I391V is sufficient to confer in vivo sensitivity to thalidomide and its derivatives in mice. *Blood* **132**, 1535–1544 (2018). PMID: 30185426
 179. Alley, E. C. et al. Unified rational protein engineering with sequence-based deep representation learning. *Nature Methods* **16**, 1315–1322 (2019). PMID: 31636460
 180. Tcw, J. et al. Cholesterol and matrisome pathways dysregulated in astrocytes and microglia. *Cell* **185**, 2392–2408 (2022). PMID: 35120649
+181. Sarah Lewis et al. Scalable emulation of protein equilibrium ensembles with generative deep learning.Science389,eadv9817(2025).DOI:10.1126/science.adv9817
+182. Blaabjerg, L.M., Jonsson, N., Boomsma, W. et al. SSEmb: A joint embedding of protein sequence and structure enables robust variant effect predictions. Nat Commun 15, 9646 (2024). https://doi.org/10.1038/s41467-024-53982-z
 
