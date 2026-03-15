@@ -192,11 +192,7 @@ Solving for $u^*$:
 
 $$u^*(t) = \frac{\lambda_E(t) \, \beta \, E(t) + \lambda_I(t) \Big(\gamma \, I(t) - \frac{\delta}{u_{\max}}(I_{ss} - I(t))\Big)}{2\Big(w_4 + \lambda_T(t) \, \kappa \, (1 - T(t))\Big)}$$
 
-subject to the constraint $u^*(t) \in [0, u_{\max}]$, which is enforced by projection:
-
-$$u^*(t) = \max\Big\{0, \min\Big\{u_{\max}, \, u^*_{\text{interior}}(t)\Big\}\Big\}$$
-
-The denominator of $u^*_{\text{interior}}$ contains the term $\lambda_T(t) \kappa (1-T(t))$, which represents the *shadow cost* of teratoma risk: as teratoma risk approaches the safety constraint ($T \to T_{\text{safe}}$), the multiplier $\eta$ becomes positive, driving $\lambda_T$ to large negative values, which increases the denominator and suppresses $u^*$ toward zero. This is the mathematical expression of the intuitive principle that reprogramming factors should be withdrawn when teratoma risk approaches its safety limit.
+subject to the constraint $u^*(t) \in [0, u_{\max}]$.
 
 #### 1.7.6 Emergence of Pulsatile (Bang-Bang) Optimal Control
 
