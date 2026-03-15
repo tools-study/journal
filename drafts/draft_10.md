@@ -531,9 +531,9 @@ This scaling has profound implications for CRISPRoff target selection:
 | Target class | Typical $n_{\text{CpG}}$ | $\tau_{\text{escape}}$ (cell divisions) | Durability |
 |---|---|---|---|
 | CpG-dense island (e.g., PCSK9 promoter) | 50-80 | $>10^{12}$ | Effectively permanent |
-| Moderate CpG island (e.g., HTT promoter) | 20-40 | $10^{6}$-$10^{10}$ | Years to decades |
-| CpG-poor enhancer (e.g., BCL11A +58) | 3-8 | $10^{2}$-$10^{4}$ | Weeks to months |
-| Isolated CpG (non-island promoter) | 1-2 | $10^{1}$-$10^{2}$ | Days to weeks |
+| Moderate CpG island (e.g., HTT promoter) | 20-40 | $10^{6}$ - $10^{10}$ | Years to decades |
+| CpG-poor enhancer (e.g., BCL11A +58) | 3-8 | $10^{2}$ - $10^{4}$ | Weeks to months |
+| Isolated CpG (non-island promoter) | 1-2 | $10^{1}$ - $10^{2}$ | Days to weeks |
 
 ### 2.8.6 Parameterization from Experimental Data
 
@@ -541,7 +541,7 @@ We calibrate the model against two key experimental datasets:
 
 **(i) CRISPRoff in iPSCs [Nunez et al., Cell 2021; PMID: 33838111].** For iPSCs dividing approximately every 24 hours, with CRISPRoff targeting a CpG island promoter ($n_{\text{CpG}} \approx 40$), silencing was maintained for >450 days (~450 divisions). Setting $\tau_{\text{escape}} > 450$ divisions and using measured values of $\sigma_0 \approx 0.03$, the model constrains $\alpha/\beta > 3.2$ and $\Delta\Phi_{\text{total}} > 0.4$, consistent with DNMT1 fidelity measurements.
 
-**(ii) CRISPRoff at CpG-poor loci [Nunez et al., Cell 2021; PMID: 33838111].** For targets with $n_{\text{CpG}} = 3$-$5$ and no CpG island, silencing was lost within 2-4 weeks of editor clearance (~14-28 divisions). The model predicts $\tau_{\text{escape}} \approx 10^{1.5}$-$10^{2}$ divisions for $n_{\text{CpG}} = 4$ and $\alpha/\beta \approx 2$, closely matching experimental observations.
+**(ii) CRISPRoff at CpG-poor loci [Nunez et al., Cell 2021; PMID: 33838111].** For targets with $n_{\text{CpG}} = 3$-$5$ and no CpG island, silencing was lost within 2-4 weeks of editor clearance (~14-28 divisions). The model predicts $\tau_{\text{escape}} \approx 10^{1.5}$ - $10^{2}$ divisions for $n_{\text{CpG}} = 4$ and $\alpha/\beta \approx 2$, closely matching experimental observations.
 
 **(iii) Post-mitotic neurons.** In neurons, the cell cycle term vanishes, but replication-independent DNMT1/DNMT3A activity provides a reduced $\alpha_{\text{neuron}}$. Using $\alpha_{\text{neuron}} \approx 0.1/\text{day}$ and $\beta_{\text{neuron}} \approx 0.02/\text{day}$ (estimated from the slow turnover of neuronal 5mC marks [Lister et al., Science 2013; PMID: 23828890]), the model predicts $\tau_{\text{escape}} > 10^5$ days (>270 years) for CpG island targets in neurons--consistent with the observed decades-long stability of neuronal DNA methylation patterns.
 
