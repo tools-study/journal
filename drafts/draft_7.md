@@ -14,8 +14,6 @@ We further analyze three foundational challenges: (a) the kinetics of TfR1 compe
 
 The payload frontier is addressed through split-intein dual-AAV delivery of prime editors and adenine base editors, which have achieved 42% unenriched editing efficiency in mouse cortex (PMID: 37142705). Emerging lipid nanoparticle platforms capable of crossing the BBB via receptor-mediated transcytosis (PMID: 39962245) and intrathecal LNPs achieving 29.6% neuronal transduction in the mouse brain (Advanced Materials 2025) are analyzed as re-dosable, immunologically naïve complements to AAV-based primary delivery.
 
-Forty-seven primary references are cited in support of specific quantitative claims. All mathematical models presented are novel to this analysis and do not replicate models from prior documents in this series.
-
 ---
 
 ## 1. Introduction: The Human Translation Crisis in Neuronal Gene Delivery
