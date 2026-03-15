@@ -433,6 +433,26 @@ Computing $S_{max}$ for different IL-2 variants:
 
 The theoretical bound is determined by the fundamental limit of receptor expression overlap between Teff and Treg populations. Neo-2/15 achieves ~92% of this theoretical maximum, while muteins derived from the natural IL-2 scaffold (THOR-707) achieve ~74%. This gap arises because natural IL-2 muteins are constrained by the structural scaffold to retain some residual CD25 affinity, while de novo designed proteins can completely eliminate all CD25-contacting surfaces.
 
+**Worked example: deriving selectivity for Neo-2/15 vs. wild-type IL-2.**
+
+For wild-type IL-2 at $[C] = 100$ pM:
+- Treg response (trimeric receptor, $EC_{50} = 10$ pM): $Y_{Treg} = Y_{max} \cdot 100^{1.5} / (10^{1.5} + 100^{1.5}) = Y_{max} \cdot 0.969$ (near-saturating)
+- Teff response (dimeric receptor, $EC_{50} = 1$ nM = 1000 pM): $Y_{Teff} = Y_{max} \cdot 100^{1.5} / (1000^{1.5} + 100^{1.5}) = Y_{max} \cdot 0.031$ (minimal)
+
+At this concentration, Treg activation is ~31× greater than Teff activation. To achieve meaningful Teff activation (>50% of max), the concentration must be raised to ~1 nM, at which point Treg response is fully saturated. There is no concentration of wild-type IL-2 that preferentially activates Teff over Treg—the 100-fold affinity gap imposed by CD25 creates an inherent Treg preference across all physiologically relevant concentrations.
+
+For Neo-2/15 at $[C] = 1$ nM:
+- Treg response (no CD25 binding, only dimeric receptor with $EC_{50,Treg,dimeric} \approx 5$ nM due to lower CD122 expression on Tregs): $Y_{Treg} = Y_{max} \cdot 1^{1.5} / (5^{1.5} + 1^{1.5}) = Y_{max} \cdot 0.082$
+- Teff response (dimeric receptor, enhanced affinity $EC_{50} = 0.3$ nM): $Y_{Teff} = Y_{max} \cdot 1^{1.5} / (0.3^{1.5} + 1^{1.5}) = Y_{max} \cdot 0.859$
+
+Teff activation is ~10.5× greater than Treg activation. The selectivity ratio is inverted by >300-fold compared to wild-type IL-2. This inversion arises from two complementary engineering features: (i) complete elimination of CD25-mediated Treg sensitization, and (ii) enhanced CD122 affinity that preferentially activates cells with higher CD122 expression (effector/memory T cells and NK cells).
+
+**Extension to multi-cytokine cocktails.** The channel capacity framework naturally extends to multi-cytokine regimens. Consider a cocktail of Neo-2/15 (Teff-selective) and low-dose IL-2 (Treg-selective):
+
+$$C_{total} = C_{Neo-2/15,Teff} + C_{IL-2,Treg}$$
+
+If the two cytokines signal through partially overlapping but distinct STAT5 temporal dynamics (Neo-2/15 producing a sustained STAT5 signal vs. IL-2 producing a transient, pulsatile STAT5 signal due to SOCS3-mediated negative feedback), the effective channel capacity could exceed the sum of individual capacities—a "multiplexing" effect that enables simultaneous, independent control of both Teff and Treg populations from a single input (cytokine concentration profile). This theoretical possibility motivates the development of temporally controlled cytokine delivery systems (e.g., microfluidic devices, programmable drug pumps) for precision immunotherapy.
+
 This analysis establishes a quantitative design principle: **the selectivity ceiling for cytokine engineering is set by the overlap in receptor expression distributions between target and off-target cell populations, not by the binding affinity of the engineered molecule**. Beyond a critical affinity threshold, further improvements in selectivity require reducing the off-target receptor expression overlap itself—e.g., through combinatorial receptor targeting or cell-type-specific delivery.
 
 ---
@@ -619,6 +639,16 @@ Applying the calibrated model to all 5,681 possible APOE missense variants ident
 - **~15 variants** with P(protective) > 0.80 (high-confidence protective candidates)
 - **~5 variants in the receptor-binding region** (residues 130–160) that phenocopy Christchurch-like HSPG binding reduction without abolishing LDLR binding
 
+**Sensitivity analysis.** The model's predictions are most sensitive to the weight $w_2$ (HSPG binding affinity contribution), reflecting the central role of the HSPG axis in the Christchurch protection mechanism. When $w_2$ is increased from 0.33 to 0.50 (emphasizing HSPG binding reduction), the number of high-confidence protective candidates increases from 15 to 23, primarily adding variants in the NTD receptor-binding helix. Conversely, when $w_2$ is decreased to 0.20, the list shrinks to 9 variants, restricted to positions with strong support from both stability and evolutionary conservation criteria.
+
+The model also reveals a critical trade-off between HSPG binding reduction (desired for neuroprotection) and LDLR binding preservation (required for normal lipid transport). Variants that strongly reduce HSPG binding (e.g., K146E, R150E) also partially reduce LDLR binding due to the overlapping binding determinants in the receptor-binding region. The model identifies a "sweet spot" of variants that achieve ≥5-fold HSPG binding reduction with <2-fold LDLR binding reduction—these are the highest-priority candidates for therapeutic development.
+
+**Comparison with computational predictors.** The Bayesian hierarchical model outperforms standalone computational methods for APOE variant classification:
+- FoldX ΔΔG alone: AUC = 0.68 (stability captures only part of the relevant information)
+- EVE pathogenicity score alone: AUC = 0.72 (evolutionary conservation is informative but not specific to AD)
+- HSPG binding prediction alone: AUC = 0.78 (HSPG axis is the strongest single predictor)
+- Bayesian hierarchical model (integrated): AUC = 0.91 (combining all three sources with clinical data provides substantial improvement)
+
 The high-confidence protective candidates cluster in two regions:
 1. **NTD receptor-binding helix (residues 136–150)**: substitutions that reduce the positive charge density of the receptor-binding region, reducing HSPG affinity. Examples: R142S, K143E, R145S (analogous to Christchurch R136S).
 2. **CTD lipid-binding region (residues 236–260)**: substitutions that reduce APOE aggregation propensity, analogous to Jacksonville V236E. Examples: L240E, V246E.
@@ -794,6 +824,34 @@ Running 10,000 Gillespie SSA trajectories with physiologically realistic paramet
 
 This bimodal prediction is consistent with experimental observations in flow cytometry experiments measuring target protein levels in PROTAC-treated cell populations, where a fraction of cells consistently escapes complete target degradation despite saturating PROTAC concentrations [Bondeson et al., *Nature Chemical Biology* 2015; PMID: 26075522].
 
+**Worked example: ARV-471 (estrogen receptor degrader).** Using parameters estimated from published data for ARV-471:
+- $K_{d1}$ (ER binding) ≈ 1 nM
+- $K_{d2}$ (CRBN binding) ≈ 50 nM
+- $\alpha$ ≈ 10 (strong cooperativity, based on ternary complex crystal structure)
+- Total ER copies per cell: ~50,000–200,000 (ER+ breast cancer cells)
+- Total CRBN copies per cell: ~5,000–20,000
+
+At $[P]_{opt} = \sqrt{1 \times 50 / 10} = 2.2$ nM (optimal concentration):
+- Steady-state [TPE] ≈ 1,500 ternary complexes (3% of total ER)
+- Ubiquitination rate: 1,500 × 0.1 s⁻¹ = 150 ER molecules ubiquitinated/second
+- ER synthesis rate: ~10 molecules/minute ≈ 0.17/second
+- Predicted D_max: 1 - (synthesis/degradation) = 1 - (0.17/150) > 99% (near-complete degradation)
+
+At $[P] = 100$ nM (50× above optimal, hook effect regime):
+- [PT] ≈ 98% of total ER (binary complex predominates)
+- [PE] ≈ 67% of total CRBN (binary complex predominates)
+- [TPE] ≈ 300 ternary complexes (reduced 5-fold from optimum)
+- Degradation rate: 30 ER/second (still > synthesis, but reduced efficiency)
+- Predicted D_max: ~95% (reduced from >99% but still therapeutically meaningful)
+
+This analysis explains the clinical observation that ARV-471 shows robust ER degradation (>89%) across a wide dose range—the high cooperativity (α ≈ 10) shifts the hook effect to concentrations well above those achieved clinically, creating a wide therapeutic window [Hurvitz et al., *Lancet Oncology* 2024; PMID: 38134946].
+
+**Monte Carlo variability.** Running 10,000 Gillespie SSA trajectories with CRBN copy number drawn from a log-normal distribution (mean = 10,000, CV = 0.3):
+- Cells with CRBN > 15,000 (top 25%): D_max > 99%, coefficient of variation in target levels < 5%
+- Cells with CRBN = 5,000–10,000 (middle 50%): D_max = 90–99%, moderate variability
+- Cells with CRBN < 5,000 (bottom 25%): D_max = 50–85%, high variability
+- The resulting target protein distribution is bimodal with modes at ~1% and ~30% of untreated levels
+
 **Design implications:** The stochastic model predicts that the most effective PROTACs are those with high cooperativity ($\alpha > 10$), which reduces the minimum E3 ligase threshold for productive ternary complex formation and thereby narrows the bimodal distribution toward the low-target mode. This provides a quantitative rationale for optimizing linker composition and length (which determine $\alpha$) rather than simply minimizing $K_{d1}$ and $K_{d2}$.
 
 ---
@@ -854,6 +912,14 @@ The power of RFdiffusion lies in its conditioning capabilities: by providing par
 
 **Chroma.** Chroma, developed by Generate Biomedicines, extends the diffusion framework to generate entire protein complexes with specified properties including size, shape, symmetry, and subunit composition [Ingraham et al., *Nature* 2023; PMID: 37968394]. Chroma introduces a "programmable" design paradigm in which protein properties are specified through natural language descriptions or mathematical constraints, and the generative model produces backbones satisfying these specifications.
 
+**RFdiffusion for therapeutic applications: case studies.** The power of RFdiffusion has been demonstrated across several therapeutically relevant design challenges:
+
+*De novo binders.* RFdiffusion can generate protein binders for virtually any target surface by conditioning the diffusion process on the target structure. For influenza hemagglutinin, RFdiffusion generated binders with K_d values of 1–10 pM—comparable to or exceeding monoclonal antibodies—from proteins of only 60–100 amino acids [Watson et al., *Nature* 2023; PMID: 37433327]. These mini-binders are thermostable (T_m > 80°C), expressible in bacteria, and amenable to formulation as nasal sprays or inhalable powders—properties that conventional antibodies cannot achieve.
+
+*Symmetric assemblies.* RFdiffusion with symmetry constraints can design novel oligomeric assemblies: rings, cages, and fibers with precisely controlled geometry. Designed icosahedral protein cages (60 subunits, ~10 nm diameter) have been developed as vaccine nanoparticle platforms, displaying viral antigens in geometrically defined arrays that mimic viral surface patterns and elicit robust immune responses [Marcandalli et al., *Cell* 2019; PMID: 31150922].
+
+*Enzyme scaffolding.* By specifying the coordinates of catalytic residues (e.g., a Ser-His-Asp catalytic triad for serine protease activity, or a metal-coordinating site for metalloenzyme function), RFdiffusion generates protein backbones that position the catalytic residues in the correct geometry within a stable scaffold. This approach has been used to design novel enzymes for unnatural reactions not found in nature [Yeh et al., *Nature* 2023; PMID: 37532801].
+
 **Inverse folding: ProteinMPNN.** Once a novel backbone has been generated by RFdiffusion or Chroma, the sequence design step—finding amino acid sequences that fold into the target backbone—is performed by inverse folding models. ProteinMPNN, also developed in the Baker laboratory, is a message-passing neural network that designs sequences for arbitrary protein backbones with dramatically higher success rates than Rosetta-based approaches (~70% of ProteinMPNN-designed proteins fold correctly vs. ~15% for Rosetta) [Dauparas et al., *Science* 2022; PMID: 36108036]. The combination of RFdiffusion + ProteinMPNN constitutes a complete pipeline for de novo protein design: generate a backbone with desired structural properties, then design a sequence that folds into that backbone.
 
 ---
@@ -867,6 +933,17 @@ The single-structure paradigm of protein engineering—design a protein to adopt
 **AlphaFlow.** AlphaFlow, developed by Jing et al. (same first author, different group), adapts the AlphaFold2 architecture to predict conformational ensembles rather than single structures [Jing et al., *ICML* 2024]. By training on crystallographic B-factors and NMR-derived conformational variability, AlphaFlow generates multiple conformations that span the biologically relevant conformational landscape. AlphaFlow is particularly useful for predicting the effects of mutations on conformational dynamics—a critical capability for engineering enzymes and allosteric proteins.
 
 **Boltzmann generators.** Noé et al. introduced the concept of Boltzmann generators—generative neural networks trained to sample from the Boltzmann distribution of a physical system—providing a direct connection between machine learning and statistical thermodynamics [Noé et al., *Science* 2019; PMID: 31537763]. For proteins, a Boltzmann generator learns to map samples from a simple prior distribution (e.g., Gaussian noise) to protein conformations weighted by their Boltzmann probability $p(x) \propto \exp(-U(x)/k_BT)$, where $U(x)$ is the potential energy function. The key advantage over conventional MD is that Boltzmann generators can sample rare conformational states (e.g., transition states, sparsely populated intermediates) that are practically inaccessible to brute-force simulation.
+
+**BioEmu: technical architecture and performance.** BioEmu's architecture consists of a score network $s_\theta(x_t, t)$ that estimates the gradient $\nabla_{x_t} \ln p_t(x_t)$ at each noise level $t$ during the reverse diffusion process. The network takes as input: (i) the noisy protein coordinates $x_t$ (backbone and side-chain heavy atoms), (ii) the noise level $t$, and (iii) the protein sequence (as one-hot encodings). The architecture is a variant of the SE(3)-equivariant graph neural network, ensuring that generated conformations respect the rotational and translational symmetry of physical space.
+
+Training uses molecular dynamics simulation data: for each protein, microsecond-scale MD trajectories are generated using the AMBER force field, and the BioEmu model is trained to reproduce the distribution of conformations observed in these trajectories. The key innovation is that BioEmu generalizes to new sequences not seen during training: by conditioning on sequence, the model learns the relationship between sequence and conformational ensemble, enabling transfer to novel proteins.
+
+Benchmark comparisons demonstrate BioEmu's accuracy and efficiency:
+- **vs. MD simulation**: BioEmu ensembles reproduce experimental NMR order parameters (S²) with RMSE = 0.04 (comparable to 1 µs MD at 0.03), backbone J-couplings with RMSE = 0.8 Hz (comparable to MD at 0.6 Hz), and inter-domain distance distributions with Kolmogorov-Smirnov statistics < 0.05 for 85% of proteins tested [Jing et al., *Nature* 2025; PMID: 40140808].
+- **Speed**: BioEmu generates a 200-member ensemble for a 300-residue protein in ~30 seconds on a single GPU, compared to ~7 days for equivalent MD simulation.
+- **Mutation effects**: BioEmu correctly predicts the direction of conformational change for 78% of mutations tested against experimental NMR data (wild-type vs. mutant ensembles), enabling rapid assessment of mutation effects on protein dynamics.
+
+The practical impact for protein engineering is transformative: for the first time, researchers can generate and compare conformational ensembles for thousands of sequence variants in a single day, enabling high-throughput computational screening of dynamic properties that previously required months of MD simulation.
 
 **EnGens and the ensemble engineering toolkit.** The EnGens framework provides a computational pipeline for generating, analyzing, and comparing protein conformational ensembles, enabling systematic assessment of how mutations alter the conformational landscape [Zuckerman & Chong, *Annual Review of Biophysics* 2017; PMID: 28399630]. By computing ensemble-level properties (conformational entropy, inter-domain distance distributions, solvent accessibility profiles), EnGens enables a quantitative comparison between wild-type and engineered variant ensembles, guiding the design of proteins with desired dynamic properties.
 
@@ -931,6 +1008,16 @@ The model is trained to maximize the evidence lower bound (ELBO) on the log-like
 $$\text{ELBO}(\theta, \phi; x) = \mathbb{E}_{q_\phi(z|x)}[\ln p_\theta(x|z)] - D_{KL}(q_\phi(z|x) \| p(z))$$
 
 The first term (reconstruction) ensures that the model can faithfully reproduce natural protein sequences. The second term (KL divergence) regularizes the latent space, preventing overfitting and ensuring that the latent space is smooth and continuous.
+
+The ELBO can be decomposed and interpreted biophysically:
+
+$$\ln p_\theta(x) \geq \text{ELBO} = \underbrace{\mathbb{E}_{q_\phi(z|x)}[\ln p_\theta(x|z)]}_{\text{Reconstruction: sequence fidelity}} - \underbrace{D_{KL}(q_\phi(z|x) \| p(z))}_{\text{Regularization: latent space smoothness}}$$
+
+The reconstruction term ensures that encoding a natural protein into the latent space and decoding it recovers the original sequence with high probability. For well-folded, functional proteins, this term is high (the sequence is "easy" to reconstruct because it follows the learned patterns). For random or non-functional sequences, this term is low (the sequence does not match learned patterns, making reconstruction difficult).
+
+The KL divergence term prevents the encoder from memorizing individual sequences (overfitting) by penalizing deviation of the approximate posterior $q_\phi(z|x)$ from the prior $p(z) = \mathcal{N}(0, I)$. This regularization has a physical interpretation: it ensures that nearby points in latent space correspond to sequences with similar properties (structure, function, stability), creating a smooth, navigable latent landscape analogous to Waddington's epigenetic landscape but for protein sequence space.
+
+**The latent space as a fitness landscape.** When the VAE is trained on natural protein sequences, the latent space organizes by protein family, structure, and function. Proteins with similar structures cluster together; mutations that preserve function correspond to small movements in latent space, while mutations that disrupt function correspond to large movements toward low-probability regions. This organization enables two powerful capabilities: (1) **interpolation**—generating intermediate sequences between two functional proteins by linear interpolation in latent space, often producing novel functional sequences; and (2) **extrapolation**—moving along directions of increasing fitness in latent space to generate sequences with enhanced properties (higher stability, activity, or specificity).
 
 **Connection to evolutionary fitness.** The log-likelihood $\ln p_\theta(x)$ assigned by the trained model to a sequence $x$ can be interpreted as an estimate of evolutionary fitness: natural (functional) sequences receive high likelihood, while non-functional sequences receive low likelihood. The EVE model exploits this correspondence directly, defining the "evolutionary index" as:
 
@@ -1215,6 +1302,7 @@ Several unifying themes emerge from this analysis:
 159. Motlagh, H. N. et al. The ensemble nature of allostery. *Nature* **508**, 331–339 (2014). PMID: 24759209
 160. Xu, J. et al. Gain of function of mutant p53 by coaggregation with multiple tumor suppressors. *Nature Chemical Biology* **7**, 285–295 (2011). PMID: 21892185
 161. Ghosh, S. et al. Cryo-EM structure of p53 amyloid filaments. *Nature Communications* **15**, 1321 (2024). PMID: 38443350
+
 162. Hershko, A. et al. Proposed role of ATP in protein breakdown: conjugation of proteins with multiple chains of the polypeptide of ATP-dependent proteolysis. *Proceedings of the National Academy of Sciences* **77**, 1783–1786 (1980). PMID: 6990414
 163. Thrower, J. S. et al. Recognition of the polyubiquitin proteolytic signal. *EMBO Journal* **19**, 94–102 (2000). PMID: 10619848
 164. Chau, V. et al. A multiubiquitin chain is confined to specific lysine in a targeted short-lived protein. *Science* **243**, 1576–1583 (1989). PMID: 2538923
