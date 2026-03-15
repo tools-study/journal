@@ -882,8 +882,11 @@ Signficant life extension could remain beyond the 30-year horizon. Breakthroughs
 
 131. Aubert, G., & Lansdorp, P. M. (2008). Telomeres and aging. Physiological reviews, 88(2), 557–579. https://doi.org/10.1152/physrev.00026.2007
 
-132. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
+132. Schumacher, B., Pothof, J., et al. (2021). The central role of DNA damage in the ageing process. Nature, 592(7856), 695–703. https://doi.org/10.1038/s41586-021-03307-7
 
-133. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
+133. Blagosklonny MV. Cell cycle arrest is not yet senescence, which is not just cell cycle arrest: terminology for TOR-driven aging. *Aging (Albany NY)*. 2012;4(3):159-165. PMID: 22394614.
 
-134. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
+134. Olshansky, S.J., Willcox, B.J., Demetrius, L. et al. Implausibility of radical life extension in humans in the twenty-first century. Nat Aging 4, 1635–1642 (2024). https://doi.org/10.1038/s43587-024-00702-3
+
+135. Kordowitzki, P., & Ying, K. (2026). The pursuit of understanding human longevity. npj aging, 12(1), 25. https://doi.org/10.1038/s41514-026-00339-z
+
