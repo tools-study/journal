@@ -1321,6 +1321,6 @@ Several unifying themes emerge from this analysis:
 178. Fink, E. C. et al. Crbn I391V is sufficient to confer in vivo sensitivity to thalidomide and its derivatives in mice. *Blood* **132**, 1535–1544 (2018). PMID: 30185426
 179. Alley, E. C. et al. Unified rational protein engineering with sequence-based deep representation learning. *Nature Methods* **16**, 1315–1322 (2019). PMID: 31636460
 180. Tcw, J. et al. Cholesterol and matrisome pathways dysregulated in astrocytes and microglia. *Cell* **185**, 2392–2408 (2022). PMID: 35120649
-181. Sarah Lewis et al. Scalable emulation of protein equilibrium ensembles with generative deep learning.Science389,eadv9817(2025).DOI:10.1126/science.adv9817
+181. Lewis, S. et al. Scalable emulation of protein equilibrium ensembles with generative deep learning.Science389,eadv9817(2025).DOI:10.1126/science.adv9817
 182. Blaabjerg, L.M., Jonsson, N., Boomsma, W. et al. SSEmb: A joint embedding of protein sequence and structure enables robust variant effect predictions. Nat Commun 15, 9646 (2024). https://doi.org/10.1038/s41467-024-53982-z
 
