@@ -152,11 +152,7 @@ reflecting the combined decline in proteasome activity (PMID: 11578955), autopha
 
 $$\rho(t) = \frac{\lambda(t)}{c(t) \cdot \mu} = \frac{\lambda_0(1 + \varepsilon t + \eta t^2)}{c_0 \mu \cdot e^{-\kappa t}}$$
 
-**Critical age** $t^*$ when $\rho(t^*) = 1$: the system transitions from stable (finite queue) to overloaded (unbounded aggregate accumulation). Setting $\rho = 1$:
-
-$$\lambda_0(1 + \varepsilon t^* + \eta t^{*2}) = c_0 \mu \cdot e^{-\kappa t^*}$$
-
-Using representative parameters—$\lambda_0 = 100$ proteins/cell/hour, $c_0 \mu = 150$ proteins/cell/hour (50% overcapacity in youth), $\varepsilon = 0.005$/year, $\eta = 0.0001$/year², $\kappa = 0.007$/year—numerical solution yields $t^* \approx 65$ years. This coincides with the clinical onset window for age-related proteinopathies: Alzheimer's disease (65+), Parkinson's disease (60+), age-related macular degeneration (60+), and inclusion body myositis (50+).
+**Critical age** $t^*$ when $\rho(t^*) = 1$: the system transitions from stable (finite queue) to overloaded (unbounded aggregate accumulation).
 
 **Expected queue length** (aggregate burden) follows the Erlang-C formula:
 
@@ -412,13 +408,7 @@ where:
 - $r_M$ is the memory-to-effector conversion rate upon re-encounter with targets
 - $K_E$, $K_M$ are half-saturation constants for proliferation and memory reactivation
 
-**Steady-state senescent cell burden under CAR-T immunosurveillance.** Setting $dS/dt = 0$ and $dE/dt = 0$ in the memory-only regime (effectors have contracted, $E$ sustained by memory reactivation):
-
-$$S^* = \frac{\sigma(a)}{\delta_S + k_{\text{kill}} \cdot E^*(S^*) / (K_S + S^*)}$$
-
-For sustained control ($S^* < S_{\text{threshold}}$, the pathological senescent cell burden), we require:
-
-$$k_{\text{kill}} \cdot E^*_{\text{memory}} > \sigma(a) - \delta_S \cdot S_{\text{threshold}}$$
+**Steady-state senescent cell burden under CAR-T immunosurveillance.** Setting $dS/dt = 0$ and $dE/dt = 0$ in the memory-only regime (effectors have contracted, $E$ sustained by memory reactivation).
 
 **Single-treatment durability.** The Amor et al. (2024) data showing months-long efficacy implies that $M$ is maintained at sufficient levels to sustain immunosurveillance. The memory pool declines slowly ($M(t) = M_0 e^{-\delta_M t}$ with $\delta_M \approx 0.001$/day for long-lived CAR-T memory). The duration of effective immunosurveillance is:
 
