@@ -12,7 +12,7 @@ The nine hallmarks of aging—genomic instability, telomere attrition, epigeneti
 
 A central lesson of the past five years is that these hallmarks are not independent. Cellular senescence drives chronic inflammation via the senescence-associated secretory phenotype (SASP) (PMID: 38654098). Mitochondrial dysfunction amplifies genomic instability through reactive oxygen species (ROS)-mediated DNA damage (PMID: 21307849). Stem cell exhaustion follows from the cumulative burden of somatic mutations and niche deterioration (PMID: 32669714). This interconnection implies that single-target interventions will yield diminishing returns, and that systems-level approaches are necessary for meaningful rejuvenation.
 
-This paper examines six frontiers where the biology has matured sufficiently to support translational engineering. We deliberately exclude topics covered in depth in prior analyses. Each section identifies the most promising research directions ranked by likelihood of clinical translation and impact on human health.
+This paper examines six frontiers where the biology has matured sufficiently to support translational engineering. We deliberately exclude topics covered in prior analyses. Each section identifies promising research directions ranked by likelihood of clinical translation and impact on human health.
 
 ---
 
