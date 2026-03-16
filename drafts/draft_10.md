@@ -1651,4 +1651,6 @@ Each paradigm faces distinct translational challenges. For reprogramming: the sa
 
 [182] Cerneckis, J. et al. (2024). Induced pluripotent stem cells (iPSCs): molecular mechanisms of induction and applications. Signal Transduction and Targeted Therapy, 9(1), 112.
 
+[183] Raj, B., et al. (2018). Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain. Nature biotechnology, 36(5), 442–450. https://doi.org/10.1038/nbt.4103
 
+[184] Schier A. F. (2020). Single-cell biology: beyond the sum of its parts. Nature methods, 17(1), 17–20. https://doi.org/10.1038/s41592-019-0693-3
