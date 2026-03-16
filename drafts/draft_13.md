@@ -283,11 +283,7 @@ where *B* is the Beta function.
 
 The beta-binomial model reveals that for dominant loss-of-function knockdown (PCSK9), cell-to-cell variability has minimal impact because even monoallelic disruption is sufficient. However, for recessive diseases requiring biallelic correction, overdispersion significantly reduces the effective correction rate, and strategies to improve delivery uniformity become critical.
 
-**Minimum editing threshold.** For a recessive disease where therapeutic benefit requires correction of at least a fraction *f** of target cells (e.g., *f** = 0.30 for GSDIa based on enzymatic threshold for metabolic correction), the minimum mean allelic editing efficiency required under the beta-binomial model is:
-
-$$e^*_{\text{biallelic}} = 1 - \sqrt{1 - f^*} + \delta(\rho)$$
-
-where $\delta(\rho) > 0$ is a correction term that increases with overdispersion. For *f** = 0.30 and $\rho$ = 0.1, $e^* \approx 0.20$ under the binomial but $e^* \approx 0.25$ under the beta-binomial, requiring approximately 25% higher population-level editing to achieve the same clinical benefit.
+**Minimum editing threshold.** For a recessive disease where therapeutic benefit requires correction of at least a fraction *f** of target cells (e.g., *f** = 0.30 for GSDIa based on enzymatic threshold for metabolic correction).
 
 ### 3.6 Off-Target Assessment: Methods and Clinical Significance Thresholds
 
@@ -386,12 +382,6 @@ $$M_{nadir} \approx \frac{k_{syn}}{k_{deg} + V_{max} \cdot R(0) / K_m}$$
 For PCSK9 (mRNA half-life ~2 hours, *k_deg* ≈ 0.35 hr⁻¹; protein half-life ~2–3 days, *k_p,deg* ≈ 0.01 hr⁻¹), the model predicts:
 
 - **Time to protein nadir**: $t_{nadir} \approx \frac{\ln(k_{deg}/k_{p,deg})}{k_{deg} - k_{p,deg}} \approx \frac{\ln(35)}{0.34} \approx 10.5$ hours for mRNA nadir, then $\approx 3 \times t_{1/2,protein} \approx 7$ days for protein nadir. Clinically, PCSK9 protein nadir is observed at approximately 14 days post-dose.
-
-- **Duration of >50% knockdown**: Protein levels remain below 50% of baseline as long as mRNA synthesis is substantially suppressed. The duration is primarily governed by RISC half-life:
-
-$$t_{50\%} \approx t_{1/2,R} \cdot \log_2\left(\frac{R(0)}{R_{50\%}}\right)$$
-
-where $R_{50\%}$ is the RISC concentration at which mRNA levels recover to 50% of baseline. For inclisiran with a 4-week RISC half-life and sufficient initial loading, this predicts >50% PCSK9 knockdown for approximately 20–24 weeks, consistent with the observed 6-month dosing interval.
 
 - **Optimal dosing interval**: The model predicts that the optimal dosing interval equals approximately 5 RISC half-lives (~20 weeks for ESC+ chemistry), at which point >95% of the initial RISC has been eliminated and re-dosing avoids RISC accumulation that could increase off-target effects.
 
