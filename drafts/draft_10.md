@@ -1654,3 +1654,7 @@ Each paradigm faces distinct translational challenges. For reprogramming: the sa
 [183] Raj, B., et al. (2018). Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain. Nature biotechnology, 36(5), 442–450. https://doi.org/10.1038/nbt.4103
 
 [184] Schier A. F. (2020). Single-cell biology: beyond the sum of its parts. Nature methods, 17(1), 17–20. https://doi.org/10.1038/s41592-019-0693-3
+
+[185] Jindal, K., et al. Single-cell lineage capture across genomic modalities with CellTag-multi reveals fate-specific gene regulatory changes. Nat Biotechnol 42, 946–959 (2024). https://doi.org/10.1038/s41587-023-01931-4
+
+[186] Junyao Jiang, et al. scLTdb: a comprehensive single-cell lineage tracing database, Nucleic Acids Research, Volume 53, Issue D1, 6 January 2025, Pages D1173–D1185, https://doi.org/10.1093/nar/gkae913
