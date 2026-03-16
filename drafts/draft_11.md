@@ -1323,4 +1323,5 @@ Several unifying themes emerge from this analysis:
 180. Tcw, J. et al. Cholesterol and matrisome pathways dysregulated in astrocytes and microglia. *Cell* **185**, 2392–2408 (2022). PMID: 35120649
 181. Lewis, S. et al. Scalable emulation of protein equilibrium ensembles with generative deep learning.Science389,eadv9817(2025).DOI:10.1126/science.adv9817
 182. Blaabjerg, L.M., Jonsson, N., Boomsma, W. et al. SSEmb: A joint embedding of protein sequence and structure enables robust variant effect predictions. Nat Commun 15, 9646 (2024). https://doi.org/10.1038/s41467-024-53982-z
+183. Yadav Schmid, S., Helfrecht, B., Stegmann, A. et al. Impact of solvent forces and broken symmetry on the assembly of designed proteins at a liquid-solid interface. Nat Commun 17, 2446 (2026). https://doi.org/10.1038/s41467-026-69170-0
 
