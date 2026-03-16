@@ -52,7 +52,7 @@ Recent structural and biophysical analyses have revealed that interfacial frustr
 
 ### 2.3 Ubiquitinability Geometry
 
-The concept of ubiquitinability — the geometric accessibility of target protein lysines to the E2~ubiquitin conjugate within the ternary complex — provides a structural framework for predicting degradation efficiency independent of ternary complex affinity (PMID: 39392888). Cryo-EM structures of the VHL-CRL2 E3 ligase in complex with the PROTAC MZ1 and the target BRD4 bromodomain 2 (BD2) revealed that Lys456 of BRD4 is positioned at the optimal distance (~10 Å) and orientation for nucleophilic attack on the E2~Ub thioester (PMID: 39392888).
+The concept of ubiquitinability — the geometric accessibility of target protein lysines to the E2 ~ ubiquitin conjugate within the ternary complex — provides a structural framework for predicting degradation efficiency independent of ternary complex affinity (PMID: 39392888). Cryo-EM structures of the VHL-CRL2 E3 ligase in complex with the PROTAC MZ1 and the target BRD4 bromodomain 2 (BD2) revealed that Lys456 of BRD4 is positioned at the optimal distance (~ 10 Å) and orientation for nucleophilic attack on the E2 ~ Ub thioester (PMID: 39392888).
 
 We define a surface accessibility integral that quantifies the fraction of ternary complex orientations placing at least one target lysine within the ubiquitination zone:
 
