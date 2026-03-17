@@ -2948,6 +2948,4 @@ Kreitz, J., Friedrich, M.J., Guru, A. et al. Programmable protein delivery with 
 
 Hołyst, R., Bubak, G., Kalwarczyk, T., et al. (2024). Living Cell as a Self-Synchronized Chemical Reactor. The journal of physical chemistry letters, 15(13), 3559–3570. https://doi.org/10.1021/acs.jpclett.4c00190
 
-Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. Catalysis and the Use of Energy by Cells. Available from: https://www.ncbi.nlm.nih.gov/books/NBK26838/
-
 
