@@ -1658,3 +1658,5 @@ Each paradigm faces distinct translational challenges. For reprogramming: the sa
 [185] Jindal, K., et al. Single-cell lineage capture across genomic modalities with CellTag-multi reveals fate-specific gene regulatory changes. Nat Biotechnol 42, 946–959 (2024). https://doi.org/10.1038/s41587-023-01931-4
 
 [186] Junyao Jiang, et al. scLTdb: a comprehensive single-cell lineage tracing database, Nucleic Acids Research, Volume 53, Issue D1, 6 January 2025, Pages D1173–D1185, https://doi.org/10.1093/nar/gkae913
+
+[187] Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. Catalysis and the Use of Energy by Cells. Available from: https://www.ncbi.nlm.nih.gov/books/NBK26838/
