@@ -58,13 +58,13 @@ Each of the nine approaches presented in this work addresses a distinct subset o
 
 Note that only approximately 5 to 10 billion non-blood cells may need to be targeted in certain therapeutic contexts. This is an important distinction. The total cell count of $3.72 \times 10^{13}$ includes approximately $3 \times 10^{13}$ red blood cells (which are enucleated and thus not targets for nuclear genome editing) and approximately $3 \times 10^{11}$ white blood cells. However, for many therapeutic applications, targeting a subset of 5 to 10 billion cells in critical tissues may suffice:
 
-- **Hepatocytes:** ~$10^{11}$ (liver function, metabolic disease)
-- **Cardiomyocytes:** ~$2 \times 10^{9}$ (cardiac function)
-- **Skeletal muscle nuclei:** ~$3 \times 10^{10}$ (muscular dystrophies)
-- **Cortical neurons:** ~$2 \times 10^{10}$ (neurodegeneration)
-- **Pancreatic beta cells:** ~$10^9$ (diabetes)
+- **Hepatocytes:** ~ $10^{11}$ (liver function, metabolic disease)
+- **Cardiomyocytes:** ~ $2 \times 10^{9}$ (cardiac function)
+- **Skeletal muscle nuclei:** ~ $3 \times 10^{10}$ (muscular dystrophies)
+- **Cortical neurons:** ~ $2 \times 10^{10}$ (neurodegeneration)
+- **Pancreatic beta cells:** ~ $10^9$ (diabetes)
 
-The circulatory system remains central to any delivery strategy, as it provides the primary access route to all vascularized tissues. Even for approaches that rely on non-vascular delivery (intrathecal, intramuscular), the circulatory system distributes immune cells, nanoparticles, and biological agents to within diffusion distance of virtually every cell.
+The circulatory system remains central to any delivery strategy, as it provides the primary access route to all vascularized tissues. Even for approaches that rely on non-vascular delivery (intrathecal, intramuscular), the circulatory system distributes immune cells, nanoparticles, and biological agents to within diffusion distance of virtually every cell. There are approximately ~ 1 billion biochemical reactions per second in living eukaryotic cells.
 
 ### 1.5 Existing Delivery Platforms and Their Fundamental Limits
 
@@ -2945,4 +2945,9 @@ Lanigan, T. M., Kopera, H. C., & Saunders, T. L. (2020). Principles of Genetic E
 Craig W. Gambogi et al. ,Efficient formation of single-copy human artificial chromosomes.Science383,1344-1349(2024).DOI:10.1126/science.adj3566
 
 Kreitz, J., Friedrich, M.J., Guru, A. et al. Programmable protein delivery with a bacterial contractile injection system. Nature 616, 357–364 (2023). https://doi.org/10.1038/s41586-023-05870-7
+
+Hołyst, R., Bubak, G., Kalwarczyk, T., et al. (2024). Living Cell as a Self-Synchronized Chemical Reactor. The journal of physical chemistry letters, 15(13), 3559–3570. https://doi.org/10.1021/acs.jpclett.4c00190
+
+Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. Catalysis and the Use of Energy by Cells. Available from: https://www.ncbi.nlm.nih.gov/books/NBK26838/
+
 
