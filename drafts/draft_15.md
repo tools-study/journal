@@ -669,3 +669,4 @@ The trajectory from descriptive genomics through predictive computational modeli
 210. Fatumo, S., et al. H3Africa, GenomeAsia 100K, and All of Us: diverse data for equitable models. *Nature Genetics* 58, 511–524 (2026). PMID: 42398018
 211. Fatumo, S., et al. Fine-tuning AlphaMissense on African-ancestry ClinVar variants improves equity. *American Journal of Human Genetics* 113, 513–527 (2026). PMID: 42435024
 212. Fatumo, S., et al. Population-specific fine-tuning approaches for equitable variant classification. *Genome Medicine* 18, 67 (2026). PMID: 42478017
+213. Qu, Y., et al. CRISPR-GPT for agentic automation of gene-editing experiments. Nat. Biomed. Eng 10, 245–258 (2026). https://doi.org/10.1038/s41551-025-01463-z
