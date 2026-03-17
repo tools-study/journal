@@ -64,7 +64,7 @@ Note that only approximately 5 to 10 billion non-blood cells may need to be targ
 - **Cortical neurons:** ~ $2 \times 10^{10}$ (neurodegeneration)
 - **Pancreatic beta cells:** ~ $10^9$ (diabetes)
 
-The circulatory system remains central to any delivery strategy, as it provides the primary access route to all vascularized tissues. Even for approaches that rely on non-vascular delivery (intrathecal, intramuscular), the circulatory system distributes immune cells, nanoparticles, and biological agents to within diffusion distance of virtually every cell.
+The circulatory system remains central to any delivery strategy, as it provides the primary access route to all vascularized tissues. Even for approaches that rely on non-vascular delivery (intrathecal, intramuscular), the circulatory system distributes immune cells, nanoparticles, and biological agents to within diffusion distance of virtually every cell. There are approximately ~ 1 billion biochemical reactions per second in living eukaryotic cells.
 
 ### 1.5 Existing Delivery Platforms and Their Fundamental Limits
 
