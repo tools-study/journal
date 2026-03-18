@@ -362,6 +362,8 @@ Zhang, Y., Collins, K., et al. (2025). Avian A-clade R2 proteins for transgene i
 
 Zilberzwige-Tal, S., et al. (2025). RNA-targeting CRISPR from toxin-antitoxin modules. *Cell*. doi: 10.1016/j.cell.2025.01.034
 
+Evanoff, M., et al. Precise, minimally evolved adenine base editors generated through mutation reversion analysis. Nat Biotechnol (2026). https://doi.org/10.1038/s41587-026-03045-z.
+
 Chen, L., Hong, M., et al. Efficient mitochondrial A-to-G base editors for the generation of mitochondrial disease models. Nat Biotechnol 44, 418–429 (2026). https://doi.org/10.1038/s41587-025-02685-x
 
 Hu, J., Guo, M., et al. QBEmax is a sequence-permuted and internally protected base editor. Nat Biotechnol 44, 387–393 (2026). https://doi.org/10.1038/s41587-025-02641-9
