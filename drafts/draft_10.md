@@ -1659,4 +1659,9 @@ Each paradigm faces distinct translational challenges. For reprogramming: the sa
 
 [186] Junyao Jiang, et al. scLTdb: a comprehensive single-cell lineage tracing database, Nucleic Acids Research, Volume 53, Issue D1, 6 January 2025, Pages D1173–D1185, https://doi.org/10.1093/nar/gkae913
 
-[187] Alberts B, Johnson A, Lewis J, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. Catalysis and the Use of Energy by Cells. Available from: https://www.ncbi.nlm.nih.gov/books/NBK26838/
+[187] Alberts B, et al. Molecular Biology of the Cell. 4th edition. New York: Garland Science; 2002. Catalysis and the Use of Energy by Cells. Available from: https://www.ncbi.nlm.nih.gov/books/NBK26838/
+
+[188] Hu, Y., et al. H3K9me2 is a determinant for the mitosis-to-meiosis transition in female germ cells. Cell Death Dis (2026). https://doi.org/10.1038/s41419-026-08473-y
+
+[189] Yin, Q., et al. Transcription factor ZNF263 primes human embryonic stem cells for pluripotency dissolution and lineage commitment. Nat Commun 16, 9757 (2025). https://doi.org/10.1038/s41467-025-64290-5
+
