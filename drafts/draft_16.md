@@ -361,3 +361,5 @@ Zhang, F., et al. (2025). OMEGAoff compact epigenetic repressor. *Nature Biotech
 Zhang, Y., Collins, K., et al. (2025). Avian A-clade R2 proteins for transgene insertion. *Nature Biotechnology*.
 
 Zilberzwige-Tal, S., Altae-Tran, H., et al. (2025). RNA-targeting CRISPR from toxin-antitoxin modules. *Cell*. doi: 10.1016/j.cell.2025.01.034
+
+Chen, L., Hong, M., Luan, C. et al. Efficient mitochondrial A-to-G base editors for the generation of mitochondrial disease models. Nat Biotechnol 44, 418–429 (2026). https://doi.org/10.1038/s41587-025-02685-x
