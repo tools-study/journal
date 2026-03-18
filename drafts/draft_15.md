@@ -64,7 +64,7 @@ Parseval's theorem guarantees that the total phenotypic variance decomposes as:
 
 $$V_{total} = \sum_{S \neq \emptyset} \hat{f}(S)^2 = \sum_{k=1}^{L} V_k$$
 
-where $V_k = \sum_{|S|=k} \hat{f}(S)^2$ is the variance attributable to order-$k$ epistasis.
+where $V_k = \sum_{|S|=k} \hat{f}(S)^2$ is the variance attributable to order - $k$ epistasis.
 
 Empirical estimation of $D_e$ from deep mutational scanning (DMS) data reveals striking regularities. Analysis of 37 complete combinatorial mutagenesis datasets from ProteinGym spanning diverse protein families yielded $D_e$ values of 1 (purely additive) for 8 proteins, 2 (pairwise epistasis sufficient) for 19 proteins, 3 for 7 proteins, and $\geq$4 for only 3 proteins (PMID: 40385219). This finding has profound implications for foundation model architecture: if 78% of protein fitness landscapes are well-approximated by effects up to order 2, then models with pairwise interaction capacity (such as attention heads computing outer products of position embeddings) should capture the vast majority of functional variation — explaining the empirical success of relatively simple architectures on variant effect prediction benchmarks (PMID: 40385219).
 
