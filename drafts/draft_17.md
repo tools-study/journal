@@ -178,7 +178,7 @@ A significant regulatory shift occurred in December 2025: the FDA announced that
 
 -----
 
-## Conclusion: Synthetic Biology Has Entered the Therapeutic Mainstream
+## Conclusion
 
 This review reveals a field in transition. The fifteen topic areas surveyed share a common trajectory: from proof-of-concept toward clinical deployment, with AI acceleration compressing timelines at every stage.
 
