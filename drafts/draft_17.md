@@ -312,4 +312,3 @@ Nevertheless, the evidence compiled here supports a strong conclusion: synthetic
 1. Lisocabtagene maraleucel (Breyanzi) seventh indication approval. (December 2025).
 1. Mahat, D.B. et al. “FDA shift to randomized controlled trials for CAR-T approvals.” *JAMA* (2025).
 1. Engineered living therapeutics and CAR-T therapy market projections. (2025).
-1. Evanoff, M., et al. Precise, minimally evolved adenine base editors generated through mutation reversion analysis.Nat Biotechnol (2026). https://doi.org/10.1038/s41587-026-03045-z.
