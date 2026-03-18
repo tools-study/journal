@@ -346,6 +346,8 @@ Thawani, A., Collins, K., et al. (2025). Cryo-EM of R2 retrotransposon mechanism
 
 Tou, C. J., Kleinstiver, B. P., et al. (2026). INSTALL for large DNA integration in vivo. *Nature*. doi: 10.1038/s41586-026-10241-z
 
+Tou, C.J., Xie, K., et al. (2026). Immune evasive DNA donors and recombinases license kilobase-scale writing. *Nature*. doi: 10.1038/s41586-026-10241-z
+
 Vakulskas, C. A., et al. (2018). HiFi Cas9 variant. *Nature Medicine*. PMID: 30082871
 
 Vera, M. K., Raines, R. T., et al. (2025). LFN-Acr/PA protein-based anti-CRISPR delivery. *PNAS*. PMID: 40758882
