@@ -157,7 +157,9 @@ The twelve challenges outlined here converge on a single meta-problem: **partial
 
 The trajectory is clear: from Takahashi and Yamanaka’s original demonstration that four transcription factors can reset cellular identity (Cell, 2006; PMID: 16904174), through Ocampo’s proof that partial reset can rejuvenate without dedifferentiating (Cell, 2016; PMID: 27984723), to Life Biosciences’ first human trial in 2026, the field has moved from impossible to implausible to investigational in two decades. The challenges are formidable but increasingly well-characterized. What was once a binary switch—differentiated or pluripotent—is revealing itself as a tunable dial. Learning to turn that dial with precision is the defining challenge of the next decade of aging biology.
 
-# References
+-----
+
+## References
 
 1. Takahashi K, Yamanaka S. Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. *Cell*. 2006;126(4):663-676. PMID: 16904174 
 1. Ocampo A, Reddy P, Martinez-Redondo P, et al. In vivo amelioration of age-associated hallmarks by partial reprogramming. *Cell*. 2016;167(7):1719-1733.e12. PMID: 27984723 
