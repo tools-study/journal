@@ -451,18 +451,22 @@ Recent experimental and theoretical work provides strong support for the Ising/P
 
 The mathematical frameworks of Sections 2–5 converge on a unified closed-loop control architecture for precision partial reprogramming:
 
-```
-┌─────────────┐    ┌──────────────┐    ┌────────────┐    ┌──────────────┐
-│   SENSORS   │───▶│  ESTIMATOR   │───▶│ CONTROLLER │───▶│   ACTUATOR   │
-│             │    │   (HMM)      │    │            │    │              │
-│ Clock CpGs  │    │ Forward alg. │    │ Threshold  │    │ synNotch     │
-│ Surface     │    │ P(S₃∪S₄|O)   │    │ logic      │    │ miRNA switch │
-│ Secretome   │    │              │    │            │    │ Optogenetics │
-│ ATAC peaks  │    │              │    │            │    │              │
-└─────────────┘    └──────────────┘    └────────────┘    └──────────────┘
-       ▲                                                        │
-       └────────────────────────────────────────────────────────┘
-                          Feedback loop
+```mermaid
+graph LR
+    S["<b>SENSORS</b><br/>Clock CpGs<br/>Surface<br/>Secretome<br/>ATAC peaks"]
+    E["<b>ESTIMATOR</b><br/>(HMM)<br/>Forward alg.<br/>P(S₃∪S₄|O)"]
+    C["<b>CONTROLLER</b><br/>Threshold logic"]
+    A["<b>ACTUATOR</b><br/>synNotch<br/>miRNA switch<br/>Optogenetics"]
+
+    S --> E
+    E --> C
+    C --> A
+    A -- "Feedback loop" --> S
+
+    style S text-align:left
+    style E text-align:left
+    style C text-align:left
+    style A text-align:left
 ```
 
 The controller's objective is to keep the system trajectory within the **smooth rejuvenation region** of the cusp surface—the region between the upper fold (rejuvenation onset) and the lower fold (dedifferentiation threshold)—and to withdraw factors before any significant fraction of cells cross the lower fold.
