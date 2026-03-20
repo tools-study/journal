@@ -1,4 +1,4 @@
- # Partial Cellular Reprogramming Review
+ # Partial Reprogramming Review
 
 The central obstacle to therapeutic partial reprogramming is the narrow margin between rejuvenation and dedifferentiation—a dosage-control problem compounded by oncogenic risk, tissue heterogeneity, and delivery constraints that together define the field’s critical path. Since Ocampo et al. demonstrated in 2016 that cyclic OSKM expression could ameliorate age-associated hallmarks in progeroid mice   (Cell, 2016; PMID: 27984723), the field has advanced rapidly: Lu et al. restored vision via OSK in aged mice   (Nature, 2020; PMID: 33268865),   Gill et al. rejuvenated human fibroblasts by ~30 epigenetic years (eLife, 2022; PMID: 35390271),  and in January 2026, Life Biosciences’ ER-100 became the first partial epigenetic reprogramming therapy to receive FDA IND clearance for human trials.  Yet fundamental challenges remain. This review ranks twelve interrelated challenges by priority for achieving safe, identity-preserving partial reprogramming of non-hematopoietic human tissues.
 
