@@ -4,7 +4,7 @@
 
 ## Abstract
 
-Protein function is not a scalar property assignable from a single static structure but a high-dimensional manifold embedded in sequence space, shaped by conformational dynamics, evolutionary history, allosteric coupling, and intrinsic disorder. While structure prediction has been effectively solved by AlphaFold-class models, the mapping from sequence to *function* — catalytic activity, binding specificity, allosteric regulation, phase behavior — remains one of the central unsolved problem in molecular biology. This document examines seven frontiers of the sequence-to-function problem through the lens of recent advances (2022–2026): (I) conformational ensemble modeling via ML force fields and cryo-EM heterogeneity analysis; (II) mechanistic interpretability of protein language models; (III) the challenge of intrinsically disordered proteins and biomolecular condensates; (IV) ancestral sequence reconstruction as a tool for evolutionary trajectory engineering; (V) allosteric communication networks analyzed through spectral graph theory; (VI) the inverse design problem — engineering sequences for specified enzymatic and therapeutic functions; and (VII) therapeutic translation of computationally designed proteins. Each section introduces a novel mathematical framework (F144–F157) drawn from random matrix theory, information geometry, polymer physics, optimal transport, spectral graph theory, variational inference, and competing-risks survival analysis. Together, these frameworks provide a unified geometric perspective on the protein function manifold and establish quantitative foundations for the emerging discipline of function-first protein engineering.
+Protein function is not a scalar property assignable from a single static structure but a high-dimensional manifold embedded in sequence space, shaped by conformational dynamics, evolutionary history, allosteric coupling, and intrinsic disorder. While structure prediction has been effectively solved by AlphaFold-class models, the mapping from sequence to *function* — catalytic activity, binding specificity, allosteric regulation, phase behavior — remains the central unsolved problem in molecular biology. This paper examines seven frontiers of the sequence-to-function problem through the lens of recent advances (2022–2026): (I) conformational ensemble modeling via ML force fields and cryo-EM heterogeneity analysis; (II) mechanistic interpretability of protein language models; (III) the challenge of intrinsically disordered proteins and biomolecular condensates; (IV) ancestral sequence reconstruction as a tool for evolutionary trajectory engineering; (V) allosteric communication networks analyzed through spectral graph theory; (VI) the inverse design problem — engineering sequences for specified enzymatic and therapeutic functions; and (VII) therapeutic translation of computationally designed proteins. Each section introduces a novel mathematical framework (F144–F157) drawn from random matrix theory, information geometry, polymer physics, optimal transport, spectral graph theory, variational inference, and competing-risks survival analysis. Together, these frameworks provide a unified geometric perspective on the protein function manifold and establish quantitative foundations for the emerging discipline of function-first protein engineering.
 
 ---
 
@@ -657,7 +657,9 @@ The convergence of high-throughput experimentation, ML-guided design, and automa
 
 The inverse sequence-function mapping problem can be formulated as Bayesian inference: given a desired function *f**, compute the posterior distribution over sequences:
 
-$$P(s \mid f = f^{\ast}) = \frac{P(f^{\ast} \mid s) \cdot P_{evo}(s)}{Z(f^{\ast})}$$
+```math
+$$P(s \mid f = f^*) = \frac{P(f^* \mid s) \cdot P_{evo}(s)}{Z(f^*)}$$
+```
 
 where *P*(*f** | *s*) is the likelihood of achieving function *f** given sequence *s* (modeled by a trained fitness predictor), *P*_evo(*s*) is the evolutionary prior (the PLM's learned sequence distribution), and *Z*(*f**) = ∫ *P*(*f** | *s*) · *P*_evo(*s*) d*s* is the evidence (partition function).
 
@@ -814,7 +816,7 @@ $$\int_0^{\tau_{clin}} S(t; s) \, dt \geq \text{AUC}_{min}$$
 A sequence *s** is Pareto-optimal if no other sequence *s*' improves any objective without worsening at least one other. The Pareto frontier is the set of all Pareto-optimal sequences:
 
 ```math
-$$\mathcal{P} = \{ s_{ \_ } \in S : \nexists s' \text{ s.t. } F_{i}(s') \geq F_{i}(s_{ \_ }), \forall i \text{ and } F_{j}(s') > F_{j}(s_{ \_ }) \text{ for some } j \}$$
+$$\mathcal{P} = \{s^* \in S : \nexists s' \text{ with } F_i(s') \geq F_i(s^*) \, \forall i \text{ and } F_j(s') > F_j(s^*) \text{ for some } j\}$$
 ```
 
 **Variable definitions:**
