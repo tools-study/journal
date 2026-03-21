@@ -1004,295 +1004,295 @@ The stakes extend beyond academic understanding. Engineered proteins are central
 
 ## References
 
-1. Terwilliger TC et al. (2024) The power and pitfalls of AlphaFold2 for structure prediction beyond rigid globular proteins. *Nature Structural & Molecular Biology* 31, 1237–1249. PMID:38907110. https://pubmed.ncbi.nlm.nih.gov/38907110/
-2. Henzler-Wildman KA et al. (2007) Intrinsic motions along an enzymatic reaction trajectory. *Nature* 450, 838–844. PMID:18075575. https://pubmed.ncbi.nlm.nih.gov/18075575/
-3. Manglik A & Kruse AC (2017) Structural basis for G protein-coupled receptor activation. *Biochemistry* 56, 5628–5634. PMID:28253370. https://pubmed.ncbi.nlm.nih.gov/28253370/
-4. Batatia I et al. (2024) A foundation model for atomistic simulation. *Science* 386, 1122–1127. PMID:38532988. https://pubmed.ncbi.nlm.nih.gov/38532988/
-5. Musaelian A et al. (2023) Learning local equivariant representations for large-scale atomistic dynamics. *Nature Communications* 14, 579. PMID:36737620. https://pubmed.ncbi.nlm.nih.gov/36737620/
-6. Batzner S et al. (2022) E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials. *Nature Communications* 13, 2453. PMID:35508450. https://pubmed.ncbi.nlm.nih.gov/35508450/
-7. Wohlwend J et al. (2025) Boltz-2: Towards accurate and efficient binding affinity prediction. *bioRxiv*. PMID:40667369. https://pubmed.ncbi.nlm.nih.gov/40667369/
-8. Wohlwend J et al. (2024) Boltz-1: Democratizing biomolecular interaction modeling. *bioRxiv*. PMID:39605745. https://pubmed.ncbi.nlm.nih.gov/39605745/
-9. Kovacs DP et al. (2025) MACE-OFF: Short-range transferable machine learning force fields for organic molecules. *Journal of the American Chemical Society* 147, 17598–17611. PMID:40387214. https://pubmed.ncbi.nlm.nih.gov/40387214/
-10. Mehdi S et al. (2024) Enhanced sampling with machine learning: a review. *Annual Review of Physical Chemistry* 75, 347–370. PMID:38382572. https://pubmed.ncbi.nlm.nih.gov/38382572/
-11. Wayment-Steele HK et al. (2024) Predicting multiple conformations via sequence clustering and AlphaFold2. *Nature* 625, 832–839. PMID:37956700. https://pubmed.ncbi.nlm.nih.gov/37956700/
-12. Guo HB et al. (2025) Deep learning–guided design of dynamic proteins. *Science* 388, eadr7094. PMID:39071443. https://pubmed.ncbi.nlm.nih.gov/39071443/
-13. Zhong ED et al. (2021) CryoDRGN: reconstruction of heterogeneous cryo-EM structures using neural networks. *Nature Methods* 18, 176–185. PMID:33542510. https://pubmed.ncbi.nlm.nih.gov/33542510/
-14. Levy A et al. (2025) CryoDRGN-AI: neural ab initio reconstruction of challenging cryo-EM datasets. *Nature Methods* 22, 1486–1494. PMID:40571741. https://pubmed.ncbi.nlm.nih.gov/40571741/
-15. Schwab J et al. (2024) DynaMight: estimating molecular motions from cryo-EM images. *Nature Methods* 21, 1855–1862. PMID:39123079. https://pubmed.ncbi.nlm.nih.gov/39123079/
-16. Punjani A & Fleet DJ (2023) 3DFlex: determining structure and motion of flexible proteins from cryo-EM. *Nature Methods* 20, 860–870. PMID:37169929. https://pubmed.ncbi.nlm.nih.gov/37169929/
-17. Kneller DW et al. (2022) Structural, electronic, and electrostatic determinants for SARS-CoV-2 Mpro cryptic pocket opening. *Structure* 30, 151–163. PMID:35017415. https://pubmed.ncbi.nlm.nih.gov/35017415/
-18. Ostrem JM et al. (2013) K-Ras(G12C) inhibitors allosterically control GTP affinity and effector interactions. *Nature* 503, 548–551. PMID:24291791. https://pubmed.ncbi.nlm.nih.gov/24291791/
-19. Cimermancic P et al. (2016) CryptoSite: expanding the druggable proteome. *Journal of Molecular Biology* 428, 709–719. PMID:27014979. https://pubmed.ncbi.nlm.nih.gov/27014979/
-20. Meller A et al. (2023) Predicting locations of cryptic pockets from single protein structures using PocketMiner. *Nature Communications* 14, 1177. PMID:36859488. https://pubmed.ncbi.nlm.nih.gov/36859488/
-21. Hess B (2002) Convergence of sampling in protein simulations. *Physical Review E* 65, 031910. PMID:12382299. https://pubmed.ncbi.nlm.nih.gov/12382299/
-22. Blaabjerg LM et al. (2024) SSEmb: a joint embedding of protein sequence and structure enables robust variant effect predictions. *Nature Communications* 15, 9646. PMID:39511177. https://pubmed.ncbi.nlm.nih.gov/39511177/
-23. Elnaggar A et al. (2022) ProtTrans: toward understanding the language of life through self-supervised learning. *IEEE TPAMI* 44, 7112–7127. PMID:34232869. https://pubmed.ncbi.nlm.nih.gov/34232869/
-24. Vig J et al. (2021) BERTology meets biology: interpreting attention in protein language models. *ICLR 2021*. PMID:33324078. https://pubmed.ncbi.nlm.nih.gov/33324078/
-25. Nayar A et al. (2025) Paying attention to attention: high attention sites as indicators of protein function. *PLOS Computational Biology* 21, e1013424. PMID:40938959. https://pubmed.ncbi.nlm.nih.gov/40938959/
-26. Su J et al. (2024) SaProt: protein language modeling with structure-aware vocabulary. *ICLR 2024*. PMID:38942797. https://pubmed.ncbi.nlm.nih.gov/38942797/
-27. Bepler T & Berger B (2021) Learning the protein language: evolution, structure, and function. *Cell Systems* 12, 654–669. PMID:34117846. https://pubmed.ncbi.nlm.nih.gov/34117846/
-28. Rao R et al. (2019) Evaluating protein transfer learning with TAPE. *NeurIPS 2019*. PMID:33390839. https://pubmed.ncbi.nlm.nih.gov/33390839/
-29. Simon GA & Zou J (2025) InterPLM: discovering interpretable features in protein language models via sparse autoencoders. *Nature Methods* 22, 2107–2117. PMID:41023434. https://pubmed.ncbi.nlm.nih.gov/41023434/
-30. Gujral T et al. (2025) Sparse autoencoders uncover biologically interpretable features in PLM representations. *PNAS* 122, e2506316122. PMID:40828027. https://pubmed.ncbi.nlm.nih.gov/40828027/
-31. Zhang Y et al. (2024) Protein language models learn evolutionary statistics of interacting sequence motifs. *PNAS* 121, e2406285121. PMID:39467119. https://pubmed.ncbi.nlm.nih.gov/39467119/
-32. Schmirler R et al. (2024) Fine-tuning protein language models boosts predictions across diverse tasks. *Nature Communications* 15, 7407. PMID:39198457. https://pubmed.ncbi.nlm.nih.gov/39198457/
-33. Gelman S et al. (2025) Biophysics-based protein language models for protein engineering. *Nature Methods* 22, 1868–1879. PMID:40935922. https://pubmed.ncbi.nlm.nih.gov/40935922/
-34. Rao R et al. (2021) MSA Transformer. *ICML 2021*. PMID:33876751. https://pubmed.ncbi.nlm.nih.gov/33876751/
-35. Brandes N et al. (2022) ProteinBERT: a universal deep-learning model of protein sequence and function. *Bioinformatics* 38, 2102–2110. PMID:35020774. https://pubmed.ncbi.nlm.nih.gov/35020774/
-36. Brandes N et al. (2023) Genome-wide prediction of disease variant effects with a deep protein language model. *Nature Genetics* 55, 1512–1522. PMID:37563329. https://pubmed.ncbi.nlm.nih.gov/37563329/
-37. Notin P et al. (2024) TranceptEVE: combining family-specific and family-agnostic models for variant effect prediction. *Nature Genetics*. PMID:38382398. https://pubmed.ncbi.nlm.nih.gov/38382398/
-38. Laine E et al. (2019) GEMME: a simple and fast global epistatic model predicting mutational effects. *Molecular Biology and Evolution* 36, 2604–2619. PMID:31493822. https://pubmed.ncbi.nlm.nih.gov/31493822/
-39. Meier J et al. (2021) Language models enable zero-shot prediction of the effects of mutations on protein function. *NeurIPS 2021*. PMID:34697933. https://pubmed.ncbi.nlm.nih.gov/34697933/
-40. Oldfield CJ & Dunker AK (2014) Intrinsically disordered proteins and intrinsically disordered protein regions. *Annual Review of Biochemistry* 83, 553–584. PMID:24867238. https://pubmed.ncbi.nlm.nih.gov/24867238/
-41. Ruff KM & Pappu RV (2021) AlphaFold and implications for intrinsically disordered proteins. *Journal of Molecular Biology* 433, 167208. PMID:34704686. https://pubmed.ncbi.nlm.nih.gov/34704686/
-42. Holehouse AS & Kragelund BB (2024) The molecular basis for cellular function of intrinsically disordered protein regions. *Nature Reviews Molecular Cell Biology* 25, 187–211. PMID:37957331. https://pubmed.ncbi.nlm.nih.gov/37957331/
-43. Das RK & Pappu RV (2013) Conformations of intrinsically disordered proteins are influenced by linear sequence distributions of oppositely charged residues. *PNAS* 110, 13392–13397. PMID:24070613. https://pubmed.ncbi.nlm.nih.gov/24070613/
-44. Sawle L & Ghosh K (2015) A theoretical method to compute sequence dependent configurational properties in charged polymers and proteins. *Journal of Chemical Physics* 143, 085101. PMID:26262757. https://pubmed.ncbi.nlm.nih.gov/26262757/
-45. Pappu RV et al. (2023) Phase transitions of associative biomacromolecules. *Chemical Reviews* 123, 8945–8987. PMID:36881934. https://pubmed.ncbi.nlm.nih.gov/36881934/
-46. Choi JM et al. (2020) Physical principles underlying the complex biology of intracellular phase transitions. *Annual Review of Biophysics* 49, 107–133. PMID:32511381. https://pubmed.ncbi.nlm.nih.gov/32511381/
-47. Wang J et al. (2018) A molecular grammar governing the driving forces for phase separation of prion-like RNA binding proteins. *Cell* 174, 688–699. PMID:29727660. https://pubmed.ncbi.nlm.nih.gov/29727660/
-48. Martin EW et al. (2020) Valence and patterning of aromatic residues determine the phase behavior of prion-like domains. *Science* 367, 694–699. PMID:33068549. https://pubmed.ncbi.nlm.nih.gov/33068549/
-49. Qamar S et al. (2018) FUS phase separation is modulated by a molecular chaperone and methylation of arginine cation-π interactions. *Cell* 173, 720–734. PMID:29985483. https://pubmed.ncbi.nlm.nih.gov/29985483/
-50. Ling SC et al. (2013) Converging mechanisms in ALS and FTD: disrupted RNA and protein homeostasis. *Neuron* 79, 416–438. PMID:23732506. https://pubmed.ncbi.nlm.nih.gov/23732506/
-51. Mann JR et al. (2019) RNA binding antagonizes neurotoxic phase transitions of TDP-43. *Neuron* 102, 321–338. PMID:31474365. https://pubmed.ncbi.nlm.nih.gov/31474365/
-52. Fernandez-Ramirez M et al. (2024) TDP-43 nuclear condensation and neurodegenerative proteinopathies. *Trends in Neurosciences* 47, 931–945. PMID:39327159. https://pubmed.ncbi.nlm.nih.gov/39327159/
-53. Wegmann S et al. (2018) Tau protein liquid-liquid phase separation can initiate tau aggregation. *EMBO Journal* 37, e98049. PMID:29930037. https://pubmed.ncbi.nlm.nih.gov/29930037/
-54. Boyko S et al. (2022) Regulatory mechanisms of tau protein fibrillation under the conditions of liquid-liquid phase separation. *PNAS* 119, e2121791119. PMID:35594497. https://pubmed.ncbi.nlm.nih.gov/35594497/
-55. Jeon P et al. (2025) Emerging regulatory mechanisms and functions of biomolecular condensates. *Signal Transduction and Targeted Therapy* 10, 1–31. PMID:39757214. https://pubmed.ncbi.nlm.nih.gov/39757214/
-56. Bolognesi B et al. (2016) A concentration-dependent liquid phase separation can cause toxicity upon increased protein expression. *Cell Reports* 16, 222–231. PMID:27614077. https://pubmed.ncbi.nlm.nih.gov/27614077/
-57. Hatos A et al. (2022) FuzDrop on AlphaFold: visualizing the sequence-dependent propensity of liquid-liquid phase separation and aggregation of proteins. *Nucleic Acids Research* 50, W337–W344. PMID:35025994. https://pubmed.ncbi.nlm.nih.gov/35025994/
-58. Ginell GM et al. (2025) Sequence-based prediction of intermolecular interactions driven by disordered regions. *Science* 388, eadq8381. PMID:40403066. https://pubmed.ncbi.nlm.nih.gov/40403066/
-59. Pesce F et al. (2024) Design of intrinsically disordered protein variants with diverse structural properties. *Science Advances* 10, eadm9926. PMID:39196930. https://pubmed.ncbi.nlm.nih.gov/39196930/
-60. Sun Y et al. (2024) Precise prediction of phase-separation key residues by machine learning. *Nature Communications* 15, 2662. PMID:38531854. https://pubmed.ncbi.nlm.nih.gov/38531854/
-61. Dignon GL et al. (2025) Prediction of phase-separation propensities of disordered proteins from sequence. *PNAS* 122, e2417920122. PMID:40131954. https://pubmed.ncbi.nlm.nih.gov/40131954/
-62. Lotthammer JM et al. (2025) Protein language model identifies disordered, conserved motifs implicated in phase separation. *eLife* 14, e105309. PMID:40777465. https://pubmed.ncbi.nlm.nih.gov/40777465/
-63. Kumar M et al. (2022) The Eukaryotic Linear Motif resource: 2022 release. *Nucleic Acids Research* 50, D497–D507. PMID:34718738. https://pubmed.ncbi.nlm.nih.gov/34718738/
-64. Davey NE et al. (2010) SLiMFinder: a web server to find novel, significantly over-represented, short protein motifs. *Nucleic Acids Research* 38, W534–W539. PMID:19914167. https://pubmed.ncbi.nlm.nih.gov/19914167/
-65. Yin R et al. (2024) Benchmarking AlphaFold for protein complex modeling reveals accuracy determinants. *Protein Science* 33, e4379. PMID:38659555. https://pubmed.ncbi.nlm.nih.gov/38659555/
-66. Wheeler LC et al. (2016) The thermostability and specificity of ancient proteins. *Current Opinion in Structural Biology* 38, 37–43. PMID:27339561. https://pubmed.ncbi.nlm.nih.gov/27339561/
-67. Risso VA et al. (2013) Hyperstability and substrate promiscuity in laboratory resurrections of Precambrian β-lactamases. *Journal of the American Chemical Society* 135, 2899–2902. PMID:24043779. https://pubmed.ncbi.nlm.nih.gov/24043779/
-68. Gumulya Y et al. (2018) Engineering highly functional thermostable proteins using ancestral sequence reconstruction. *Nature Catalysis* 1, 878–888. PMID:29420690. https://pubmed.ncbi.nlm.nih.gov/29420690/
-69. Foley G et al. (2022) Engineering indel and substitution variants of diverse and ancient enzymes using Graphical Representation of Ancestral Sequence Predictions (GRASP). *PLOS Computational Biology* 18, e1010633. PMID:35640156. https://pubmed.ncbi.nlm.nih.gov/35640156/
-70. Musil M et al. (2021) FireProt-ASR: a web server for ancestral sequence reconstruction. *Nucleic Acids Research* 49, W475–W481. PMID:33556160. https://pubmed.ncbi.nlm.nih.gov/33556160/
-71. Huelsenbeck JP & Bollback JP (2001) Empirical and hierarchical Bayesian estimation of ancestral sequences. *Systematic Biology* 50, 351–366. PMID:11230543. https://pubmed.ncbi.nlm.nih.gov/11230543/
-72. Steipe B et al. (1994) Sequence statistics reliably predict stabilizing mutations in a protein domain. *Journal of Molecular Biology* 240, 188–192. PMID:8048155. https://pubmed.ncbi.nlm.nih.gov/8048155/
-73. Porebski BT & Buckle AM (2016) Consensus protein design. *Protein Engineering, Design and Selection* 29, 245–251. PMID:26785684. https://pubmed.ncbi.nlm.nih.gov/26785684/
-74. Esvelt KM et al. (2011) A system for the continuous directed evolution of biomolecules. *Nature* 472, 499–503. PMID:21478873. https://pubmed.ncbi.nlm.nih.gov/21478873/
-75. Halperin SO et al. (2018) CRISPR-guided DNA polymerases enable diversification of all nucleotides in a tunable window. *Nature* 560, 248–252. PMID:29702637. https://pubmed.ncbi.nlm.nih.gov/29702637/
-76. Thuronyi BW et al. (2019) Continuous evolution of base editors with expanded target compatibility and improved activity. *Nature Biotechnology* 37, 1070–1079. PMID:31189960. https://pubmed.ncbi.nlm.nih.gov/31189960/
-77. Bryson DI et al. (2017) Continuous directed evolution of aminoacyl-tRNA synthetases. *Nature Chemical Biology* 13, 1253–1260. PMID:28971967. https://pubmed.ncbi.nlm.nih.gov/28971967/
-78. Packer MS et al. (2017) Phage-assisted continuous evolution of proteases with altered substrate specificity. *Nature Communications* 8, 956. PMID:28100640. https://pubmed.ncbi.nlm.nih.gov/28100640/
-79. Richter MF et al. (2020) Phage-assisted evolution of an adenine base editor with improved Cas domain compatibility and activity. *Nature Biotechnology* 38, 883–891. PMID:32424326. https://pubmed.ncbi.nlm.nih.gov/32424326/
-80. Wittmann BJ et al. (2021) Informed training set design enables efficient machine learning-assisted directed protein evolution. *Cell Systems* 12, 1026–1045. PMID:33844576. https://pubmed.ncbi.nlm.nih.gov/33844576/
-81. Weinreich DM et al. (2006) Darwinian evolution can follow only very few mutational paths to fitter proteins. *Science* 312, 111–114. PMID:16601193. https://pubmed.ncbi.nlm.nih.gov/16601193/
-82. Gong LI et al. (2013) Stability-mediated epistasis constrains the evolution of an influenza protein. *eLife* 2, e00631. PMID:23580527. https://pubmed.ncbi.nlm.nih.gov/23580527/
-83. Wu NC et al. (2016) Adaptation in protein fitness landscapes is facilitated by indirect paths. *eLife* 5, e16965. PMID:27338137. https://pubmed.ncbi.nlm.nih.gov/27338137/
-84. Motlagh HN et al. (2014) The ensemble nature of allostery. *Nature* 508, 331–339. PMID:25411042. https://pubmed.ncbi.nlm.nih.gov/25411042/
-85. del Sol A et al. (2009) The origin of allosteric functional modulation: multiple pre-existing pathways. *Structure* 17, 1042–1050. PMID:19427316. https://pubmed.ncbi.nlm.nih.gov/19427316/
-86. Bahar I et al. (1997) Direct evaluation of thermal fluctuations in proteins using a single-parameter harmonic potential. *Folding and Design* 2, 173–181. PMID:9326618. https://pubmed.ncbi.nlm.nih.gov/9326618/
-87. Atilgan AR et al. (2001) Anisotropy of fluctuation dynamics of proteins with an elastic network model. *Biophysical Journal* 80, 505–515. PMID:11254622. https://pubmed.ncbi.nlm.nih.gov/11254622/
-88. Bakan A et al. (2014) ProDy: protein dynamics inferred from theory and experiments. *Bioinformatics* 27, 1575–1577. PMID:24586136. https://pubmed.ncbi.nlm.nih.gov/24586136/
-89. Kaynak BT et al. (2022) Predicting allosteric communication pathways in GPCRs. *PLOS Computational Biology* 18, e1010817. PMID:35413150. https://pubmed.ncbi.nlm.nih.gov/35413150/
-90. Guarnera E & Berezovsky IN (2019) Structure-based statistical mechanical model accounts for the causality and energetics of allosteric communication. *PLOS Computational Biology* 12, e1004678. PMID:31057600. https://pubmed.ncbi.nlm.nih.gov/31057600/
-91. Tan ZW et al. (2023) AlloSigMA 2: paving the way to designing allosteric effectors and to exploring allosteric effects of mutations. *Nucleic Acids Research* 51, W265–W270. PMID:37248383. https://pubmed.ncbi.nlm.nih.gov/37248383/
-92. Tian H et al. (2023) PASSer: prediction of allosteric sites server. *Nucleic Acids Research* 51, W333–W338. PMID:36866619. https://pubmed.ncbi.nlm.nih.gov/36866619/
-93. Gunasekaran K et al. (2004) Is allostery an intrinsic property of all dynamic proteins? *Proteins* 57, 433–443. PMID:14985572. https://pubmed.ncbi.nlm.nih.gov/14985572/
-94. Huang Z et al. (2015) Allosite: a method for predicting allosteric sites. *Bioinformatics* 31, 3014–3016. PMID:25921590. https://pubmed.ncbi.nlm.nih.gov/25921590/
-95. Bauer MR et al. (2019) Targeting cavity-creating p53 cancer mutations with small-molecule stabilizers. *ACS Chemical Biology* 15, 657–668. PMID:31363000. https://pubmed.ncbi.nlm.nih.gov/31363000/
-96. Raman S et al. (2014) Evolution-guided optimization of biosynthetic pathways. *PNAS* 111, 17803–17808. PMID:24970076. https://pubmed.ncbi.nlm.nih.gov/24970076/
-97. Skoulidis F et al. (2021) Sotorasib for lung cancers with KRAS p.G12C mutation. *New England Journal of Medicine* 384, 2371–2381. PMID:34096690. https://pubmed.ncbi.nlm.nih.gov/34096690/
-98. Jänne PA et al. (2022) Adagrasib in non-small-cell lung cancer harboring a KRASG12C mutation. *New England Journal of Medicine* 387, 120–131. PMID:36200978. https://pubmed.ncbi.nlm.nih.gov/36200978/
-99. Kessler D et al. (2019) Drugging an undruggable pocket on KRAS. *PNAS* 116, 15823–15829. PMID:31406373. https://pubmed.ncbi.nlm.nih.gov/31406373/
-100. Holderfield M et al. (2024) RMC-6236 in RAS-addicted cancers. *New England Journal of Medicine* 391, 2086–2098. PMID:39133542. https://pubmed.ncbi.nlm.nih.gov/39133542/
-101. LaMarche MJ et al. (2020) Identification of TNO155, an allosteric SHP2 inhibitor for the treatment of cancer. *Journal of Medicinal Chemistry* 63, 13578–13594. PMID:32207897. https://pubmed.ncbi.nlm.nih.gov/32207897/
-102. Langan RA et al. (2019) De novo design of bioactive protein switches. *Nature* 572, 205–210. PMID:31666701. https://pubmed.ncbi.nlm.nih.gov/31666701/
-103. Quijano-Rubio A et al. (2021) De novo design of modular and tunable protein biosensors. *Nature* 591, 482–487. PMID:33859033. https://pubmed.ncbi.nlm.nih.gov/33859033/
-104. Fink T et al. (2023) Designed protease-based signaling networks. *Nature Chemical Biology* 19, 1105–1113. PMID:37735578. https://pubmed.ncbi.nlm.nih.gov/37735578/
-105. Chen Z et al. (2023) Programmable protein circuit design. *Cell* 184, 2284–2301. PMID:37669541. https://pubmed.ncbi.nlm.nih.gov/37669541/
-106. Kuhlman B et al. (2003) Design of a novel globular protein fold with atomic-level accuracy. *Science* 302, 1364–1368. PMID:14631033. https://pubmed.ncbi.nlm.nih.gov/14631033/
-107. Dauparas J et al. (2022) Robust deep learning-based protein sequence design using ProteinMPNN. *Science* 378, 49–56. PMID:36108065. https://pubmed.ncbi.nlm.nih.gov/36108065/
-108. Dauparas J et al. (2025) Atomic context-conditioned protein sequence design using LigandMPNN. *Nature Methods* 22, 781–789. PMID:40155723. https://pubmed.ncbi.nlm.nih.gov/40155723/
-109. Röthlisberger D et al. (2008) Kemp elimination catalysts by computational enzyme design. *Nature* 453, 190–195. PMID:18323453. https://pubmed.ncbi.nlm.nih.gov/18323453/
-110. Siegel JB et al. (2010) Computational design of an enzyme catalyst for a stereoselective bimolecular Diels-Alder reaction. *Science* 329, 309–313. PMID:20651057. https://pubmed.ncbi.nlm.nih.gov/20651057/
-111. Kroll A et al. (2023) Turnover number predictions for kinetically uncharacterized enzymes using machine and deep learning. *Nature Communications* 14, 4139. PMID:37828081. https://pubmed.ncbi.nlm.nih.gov/37828081/
-112. Finnigan W et al. (2021) RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades. *Nature Catalysis* 4, 98–104. PMID:33977260. https://pubmed.ncbi.nlm.nih.gov/33977260/
-113. Colin PY et al. (2015) Ultrahigh-throughput discovery of promiscuous enzymes by picodroplet functional metagenomics. *Nature Communications* 6, 10008. PMID:26065899. https://pubmed.ncbi.nlm.nih.gov/26065899/
-114. Kong X et al. (2023) Conditional antibody design as 3D equivariant graph translation. *ICLR 2023*. PMID:38004078. https://pubmed.ncbi.nlm.nih.gov/38004078/
-115. Ruffolo JA et al. (2023) Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies. *Nature Communications* 14, 2389. PMID:36652895. https://pubmed.ncbi.nlm.nih.gov/36652895/
-116. Cohen T et al. (2022) NanoNet: rapid and accurate end-to-end nanobody modeling by deep learning. *Frontiers in Immunology* 13, 958584. PMID:35862509. https://pubmed.ncbi.nlm.nih.gov/35862509/
-117. Yeh AH et al. (2023) De novo design of luciferases using deep learning. *Nature* 614, 774–780. PMID:37099615. https://pubmed.ncbi.nlm.nih.gov/37099615/
-118. Nijkamp E et al. (2023) ProGen2: exploring the boundaries of protein language models. *Cell Systems* 14, 968–978. PMID:37909046. https://pubmed.ncbi.nlm.nih.gov/37909046/
-119. Case JB et al. (2025) Designed miniproteins potently inhibit and protect against MERS-CoV. *Nature* 634, 489–496. PMID:40450691. https://pubmed.ncbi.nlm.nih.gov/40450691/
-120. Silva DA et al. (2019) De novo design of potent and selective mimics of IL-2 and IL-15. *Nature* 565, 186–191. PMID:31634899. https://pubmed.ncbi.nlm.nih.gov/31634899/
-121. Saxton RA et al. (2021) Structure-based decoupling of the pro- and anti-inflammatory functions of interleukin-10. *Science* 371, eabc8433. PMID:33436502. https://pubmed.ncbi.nlm.nih.gov/33436502/
-122. Wu Z et al. (2019) Machine learning-assisted directed protein evolution with combinatorial libraries. *PNAS* 116, 8852–8858. PMID:31127258. https://pubmed.ncbi.nlm.nih.gov/31127258/
-123. Hsia Y et al. (2016) Design of a hyperstable 60-subunit protein icosahedron. *Nature* 535, 136–139. PMID:27626386. https://pubmed.ncbi.nlm.nih.gov/27626386/
-124. Walls AC et al. (2020) Elicitation of potent neutralizing antibody responses by designed protein nanoparticle vaccines for SARS-CoV-2. *Cell* 183, 1367–1382. PMID:33082295. https://pubmed.ncbi.nlm.nih.gov/33082295/
-125. Lv L et al. (2024) Vepdegestrant (ARV-471) is highly efficacious as monotherapy and in combination in preclinical ER+ breast cancer models. *Clinical Cancer Research* 30, 3549–3563. PMID:38819400. https://pubmed.ncbi.nlm.nih.gov/38819400/
-126. Hamilton EP et al. (2024) ARV-471 in ER+/HER2- advanced breast cancer. *New England Journal of Medicine* 390, 1069–1081. PMID:38684015. https://pubmed.ncbi.nlm.nih.gov/38684015/
-127. Benjamin ER et al. (2017) The pharmacological chaperone 1-deoxygalactonojirimycin increases α-galactosidase A levels in Fabry patient cell lines. *Journal of Inherited Metabolic Disease* 32, 424–440. PMID:27657681. https://pubmed.ncbi.nlm.nih.gov/27657681/
-128. Lukas J et al. (2016) Functional characterisation of alpha-galactosidase A mutations as a basis for a new classification system in Fabry disease. *PLOS Genetics* 12, e1005820. PMID:27099417. https://pubmed.ncbi.nlm.nih.gov/27099417/
-129. Reynisson B et al. (2020) NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation. *Nucleic Acids Research* 48, W449–W454. PMID:32406916. https://pubmed.ncbi.nlm.nih.gov/32406916/
-130. Podust VN et al. (2016) Extension of in vivo half-life of biologically active molecules by XTEN protein polymers. *Journal of Controlled Release* 240, 52–66. PMID:26776894. https://pubmed.ncbi.nlm.nih.gov/26776894/
-131. Dall'Acqua WF et al. (2006) Properties of human IgG1s engineered for enhanced binding to the neonatal Fc receptor (FcRn). *Journal of Biological Chemistry* 281, 23514–23524. PMID:16469980. https://pubmed.ncbi.nlm.nih.gov/16469980/
-132. Lu H et al. (2022) Machine learning-aided engineering of hydrolases for PET decontamination. *Nature* 604, 662–667. PMID:35177837. https://pubmed.ncbi.nlm.nih.gov/35177837/
-133. Notin P et al. (2023) ProteinGym: large-scale benchmarks for protein design and fitness prediction. *NeurIPS 2023*. PMID:38106144. https://pubmed.ncbi.nlm.nih.gov/38106144/
-134. Ibrahim AY et al. (2023) Intrinsically disordered regions that drive phase separation form a robustly distinct protein class. *Journal of Biological Chemistry* 299, 102801. PMID:36528065. https://pubmed.ncbi.nlm.nih.gov/36528065/
-135. Hurtle BT et al. (2023) Disrupting pathologic phase transitions in neurodegeneration. *Journal of Clinical Investigation* 133, e168549. PMID:37395272. https://pubmed.ncbi.nlm.nih.gov/37395272/
-136. Lisanza SL et al. (2025) Multistate and functional protein design using RoseTTAFold sequence space diffusion. *Nature Biotechnology* 43, 271–281. PMID:39322764. https://pubmed.ncbi.nlm.nih.gov/39322764/
-137. Yim J et al. (2024) De novo protein design with a denoising diffusion network independent of pretrained structure prediction models. *Nature Methods* 21, 2245–2253. PMID:39384986. https://pubmed.ncbi.nlm.nih.gov/39384986/
-139. Tsuboyama K et al. (2023) Mega-scale experimental analysis of protein folding stability in biology and design. *Nature* 620, 434–444. PMID:37468638. https://pubmed.ncbi.nlm.nih.gov/37468638/
-140. Notin P et al. (2024) Machine learning for functional protein design. *Nature Biotechnology* 42, 216–228. PMID:38361118. https://pubmed.ncbi.nlm.nih.gov/38361118/
-141. Vázquez Torres S et al. (2024) De novo design of high-affinity binders of bioactive helical peptides. *Nature* 626, 435–442. PMID:38109936. https://pubmed.ncbi.nlm.nih.gov/38109936/
-142. Marchand A et al. (2024) An end-to-end framework for the de novo design of polypeptide binders. *Science* 385, 349–355. PMID:39024440. https://pubmed.ncbi.nlm.nih.gov/39024440/
-143. Sgarbossa D et al. (2024) Generative protein design by direct coupling analysis. *PNAS* 121, e2315044121. PMID:38691592. https://pubmed.ncbi.nlm.nih.gov/38691592/
-144. Widatalla T et al. (2024) Emerging approaches for enzyme engineering. *ACS Catalysis* 14, 11841–11861. PMID:39220627. https://pubmed.ncbi.nlm.nih.gov/39220627/
-145. Krishna R et al. (2024) Generalized biomolecular modeling and design with RoseTTAFold All-Atom. *Science* 384, eadl2528. PMID:38452047. https://pubmed.ncbi.nlm.nih.gov/38452047/
-146. Bennett NR et al. (2024) Atomically accurate de novo design of antibodies with RFdiffusion. *bioRxiv*. PMID:38585733. https://pubmed.ncbi.nlm.nih.gov/38585733/
-147. Shen T et al. (2024) Accurate structure prediction of immune proteins using parameter-efficient transfer learning. *Cell Systems* 15, 775–787. PMID:39168124. https://pubmed.ncbi.nlm.nih.gov/39168124/
-148. Dallago C et al. (2024) ProteinNPT: improving protein property prediction and design with non-parametric transformers. *Nature Communications* 15, 10481. PMID:39627193. https://pubmed.ncbi.nlm.nih.gov/39627193/
-149. Biswas S et al. (2021) Low-N protein engineering with data-efficient deep learning. *Nature Methods* 18, 389–396. PMID:33828272. https://pubmed.ncbi.nlm.nih.gov/33828272/
-150. Romero PA & Arnold FH (2009) Exploring protein fitness landscapes by directed evolution. *Nature Reviews Molecular Cell Biology* 10, 866–876. PMID:19935669. https://pubmed.ncbi.nlm.nih.gov/19935669/
-151. Arnold FH (2018) Directed evolution: bringing new chemistry to life. *Angewandte Chemie International Edition* 57, 4143–4148. PMID:29064156. https://pubmed.ncbi.nlm.nih.gov/29064156/
-152. Yang KK et al. (2024) Machine-learning-guided directed evolution for protein engineering. *Nature Methods* 16, 687–694. PMID:31308553. https://pubmed.ncbi.nlm.nih.gov/31308553/
-153. Ouyang Y et al. (2024) Predicting multiple conformational states of proteins with AlphaFold. *Nature Methods*. PMID:39025938. https://pubmed.ncbi.nlm.nih.gov/39025938/
-155. Zheng SQ et al. (2024) Predicting equilibrium distributions for molecular systems with deep learning. *Nature Machine Intelligence* 6, 558–567. https://doi.org/10.1038/s42256-024-00837-3
-156. Jing B et al. (2024) AlphaFold meets flow matching for generating protein ensembles. *ICML 2024*. https://arxiv.org/abs/2402.04845
-157. Packer MS & Liu DR (2015) Methods for the directed evolution of proteins. *Nature Reviews Genetics* 16, 379–394. PMID:26055155. https://pubmed.ncbi.nlm.nih.gov/26055155/
-158. Stanton S et al. (2024) Closed-loop machine learning for discovery of novel antibiotics. *Nature* 633, 337–343. PMID:39232151. https://pubmed.ncbi.nlm.nih.gov/39232151/
-161. Zheng Z et al. (2024) Molecular glue degrader for tumor treatment. *Biochemical Pharmacology* 230, 116539. PMID:39531623. https://pubmed.ncbi.nlm.nih.gov/39531623/
-162. Cao L et al. (2022) Design of protein-binding proteins from the target structure alone. *Nature* 605, 551–560. PMID:35332283. https://pubmed.ncbi.nlm.nih.gov/35332283/
-163. Wang S et al. (2024) Scaffolding protein functional sites using deep learning. *Science* 377, 387–394. PMID:35862514. https://pubmed.ncbi.nlm.nih.gov/35862514/
-164. Anishchenko I et al. (2021) De novo protein design by deep network hallucination. *Nature* 600, 547–552. PMID:34853475. https://pubmed.ncbi.nlm.nih.gov/34853475/
-165. Pan X et al. (2024) Machine learning for enzyme engineering. *Nature Chemical Biology* 20, 36–48. PMID:37735561. https://pubmed.ncbi.nlm.nih.gov/37735561/
-166. Kortemme T (2024) De novo protein design — from new structures to programmable functions. *Cell* 187, 526–544. PMID:38306989. https://pubmed.ncbi.nlm.nih.gov/38306989/
-167. Lutz ID et al. (2023) Top-down design of protein architectures with reinforcement learning. *Science* 380, 266–273. PMID:37079683. https://pubmed.ncbi.nlm.nih.gov/37079683/
-168. Norn C et al. (2021) Protein sequence design by conformational landscape optimization. *PNAS* 118, e2017228118. PMID:33593900. https://pubmed.ncbi.nlm.nih.gov/33593900/
-170. Hayes T et al. (2024) Simulating 500 million years of evolution with a language model. *Science* 386, eads0018. PMID:39574400. https://pubmed.ncbi.nlm.nih.gov/39574400/
-171. Ferruz N et al. (2022) ProtGPT2 is a deep unsupervised language model for protein design. *Nature Communications* 13, 4348. PMID:35896542. https://pubmed.ncbi.nlm.nih.gov/35896542/
-173. Mayr LM & Bojanic D (2009) Novel trends in high-throughput screening. *Current Opinion in Pharmacology* 9, 580–588. PMID:19775937. https://pubmed.ncbi.nlm.nih.gov/19775937/
-175. Lee JM et al. (2023) CRISPR-based saturation mutagenesis in clinical and population genetics. *Nature Reviews Genetics* 24, 382–398. PMID:36550324. https://pubmed.ncbi.nlm.nih.gov/36550324/
-176. Dunham AS & Bharat TAM (2024) Protein engineering beyond AlphaFold2. *Current Opinion in Structural Biology* 85, 102791. PMID:38518581. https://pubmed.ncbi.nlm.nih.gov/38518581/
-178. Bryant P et al. (2024) Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search. *Nature Communications* 13, 6028. PMID:36229440. https://pubmed.ncbi.nlm.nih.gov/36229440/
-179. Wu K et al. (2024) Protein structure generation via folding diffusion. *Nature Communications* 15, 1059. PMID:38316771. https://pubmed.ncbi.nlm.nih.gov/38316771/
-180. Hsu C et al. (2022) Learning inverse folding from millions of predicted structures. *ICML 2022*. PMID:36991186. https://pubmed.ncbi.nlm.nih.gov/36991186/
-181. Verkuil R et al. (2022) Language models generalize beyond natural proteins. *bioRxiv*. https://doi.org/10.1101/2022.12.21.521521
-182. Li Z et al. (2024) Protein language models for protein design. *Annual Review of Biomedical Data Science* 7, 443–468. PMID:39159023. https://pubmed.ncbi.nlm.nih.gov/39159023/
-183. Ovchinnikov S & Huang PS (2024) Structure-based protein design with deep learning. *Current Opinion in Chemical Biology* 65, 136–144. PMID:34454175. https://pubmed.ncbi.nlm.nih.gov/34454175/
-184. Strokach A & Kim PM (2022) Deep generative modeling for protein design. *Current Opinion in Structural Biology* 72, 226–236. PMID:34963082. https://pubmed.ncbi.nlm.nih.gov/34963082/
-185. Nayfach S et al. (2024) A genomic catalog of Earth's microbiomes. *Nature Biotechnology* 39, 499–509. PMID:33169036. https://pubmed.ncbi.nlm.nih.gov/33169036/
-186. Stein RA & McHaourab HS (2022) SPEACH_AF: sampling protein ensembles and conformational heterogeneity with AlphaFold2. *PLOS Computational Biology* 18, e1010483. PMID:35960766. https://pubmed.ncbi.nlm.nih.gov/35960766/
-187. Del Alamo D et al. (2022) Sampling alternative conformational states of transporters and receptors with AlphaFold2. *eLife* 11, e75751. PMID:35238773. https://pubmed.ncbi.nlm.nih.gov/35238773/
-188. Khakzad H et al. (2023) A new age in protein design empowered by deep learning. *Cell Systems* 14, 925–939. PMID:38035899. https://pubmed.ncbi.nlm.nih.gov/38035899/
-189. Gainza P et al. (2023) De novo design of protein interactions with learned surface fingerprints. *Nature* 617, 176–184. PMID:37100897. https://pubmed.ncbi.nlm.nih.gov/37100897/
-190. Senior AW et al. (2020) Improved protein structure prediction using potentials from deep learning. *Nature* 577, 706–710. PMID:31942072. https://pubmed.ncbi.nlm.nih.gov/31942072/
-191. Baek M et al. (2024) Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA. *Nature Methods* 21, 117–121. PMID:38036854. https://pubmed.ncbi.nlm.nih.gov/38036854/
-192. Trinquier J et al. (2021) Efficient generative modeling of protein sequences using simple autoregressive models. *Nature Communications* 12, 5800. PMID:34611143. https://pubmed.ncbi.nlm.nih.gov/34611143/
-193. Nussinov R et al. (2022) AlphaFold, allosteric, and orthosteric drug discovery. *Drug Discovery Today* 27, 103551. PMID:35944850. https://pubmed.ncbi.nlm.nih.gov/35944850/
-194. Saldaño T et al. (2022) Impact of protein conformational diversity on AlphaFold predictions. *Bioinformatics* 38, 2742–2748. PMID:35561197. https://pubmed.ncbi.nlm.nih.gov/35561197/
-196. Hunt AC et al. (2024) Multivalent designed proteins neutralize SARS-CoV-2 variants of concern and confer protection against infection in mice. *Science Translational Medicine* 14, eabn1252. PMID:35014856. https://pubmed.ncbi.nlm.nih.gov/35014856/
-198. Norn C et al. (2024) Rosetta and AlphaFold partnership in protein design. *ACS Central Science* 10, 1442–1455. PMID:39220699. https://pubmed.ncbi.nlm.nih.gov/39220699/
-199. Pak MA et al. (2023) Using AlphaFold to predict the impact of single mutations on protein stability and function. *PLOS ONE* 18, e0282689. PMID:36917576. https://pubmed.ncbi.nlm.nih.gov/36917576/
-200. Rollins NJ et al. (2024) Comprehensive epistatic interaction data from deep mutational scanning. *Science* 382, 1321–1327. PMID:37940550. https://pubmed.ncbi.nlm.nih.gov/37940550/
-201. Tack DS et al. (2024) The genotype-phenotype landscape of an allosteric protein. *Molecular Systems Biology* 20, 358–377. PMID:37593804. https://pubmed.ncbi.nlm.nih.gov/37593804/
-203. Zheng S et al. (2024) Structure-informed language models for protein design. *Nature Machine Intelligence* 6, 814–823. https://doi.org/10.1038/s42256-024-00863-1
-204. Bryant DH et al. (2024) Deep diversification of an AAV capsid protein by machine learning. *Nature Biotechnology* 39, 691–696. PMID:33574611. https://pubmed.ncbi.nlm.nih.gov/33574611/
-205. Wicky BIM et al. (2022) Hallucinating symmetric protein assemblies. *Science* 378, 56–61. PMID:36108048. https://pubmed.ncbi.nlm.nih.gov/36108048/
-206. Chowdhury R et al. (2022) Single-sequence protein structure prediction using a language model and deep learning. *Nature Biotechnology* 40, 1617–1623. PMID:36192636. https://pubmed.ncbi.nlm.nih.gov/36192636/
-207. Frank C et al. (2024) Efficient and scalable de novo protein design using a relaxed sequence space. *Nature Communications* 15, 7199. PMID:39174537. https://pubmed.ncbi.nlm.nih.gov/39174537/
-208. Moffat L et al. (2024) Design of closed-backbone proteins with predefined structures using ESM. *bioRxiv*. PMID:38328161. https://pubmed.ncbi.nlm.nih.gov/38328161/
-209. Marquet C et al. (2022) Embeddings from protein language models predict conservation and variant effects. *Human Genetics* 141, 1629–1647. PMID:35353227. https://pubmed.ncbi.nlm.nih.gov/35353227/
-210. Akdel M et al. (2022) A structural biology community assessment of AlphaFold2 applications. *Nature Structural & Molecular Biology* 29, 1056–1067. PMID:36344848. https://pubmed.ncbi.nlm.nih.gov/36344848/
-211. Barducci A et al. (2008) Well-tempered metadynamics: a smoothly converging and tunable free-energy method. *Physical Review Letters* 100, 020603. PMID:18205451. https://pubmed.ncbi.nlm.nih.gov/18205451/
-212. Kohlhoff KJ et al. (2014) Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways. *Nature Chemistry* 6, 15–21. PMID:24411500. https://pubmed.ncbi.nlm.nih.gov/24411500/
-213. Sultan MM & Pande VS (2017) tICA-metadynamics: accelerating metadynamics by using kinetically selected collective variables. *Journal of Chemical Theory and Computation* 13, 2440–2447. PMID:28832810. https://pubmed.ncbi.nlm.nih.gov/28832810/
-214. Miao Y et al. (2014) Gaussian accelerated molecular dynamics: unconstrained enhanced sampling and free energy calculation. *Journal of Chemical Theory and Computation* 11, 3584–3595. PMID:25329365. https://pubmed.ncbi.nlm.nih.gov/25329365/
-215. Jawerth L et al. (2020) Protein condensates as aging Maxwell fluids. *Science* 370, 1317–1323. PMID:31723095. https://pubmed.ncbi.nlm.nih.gov/31723095/
-216. Sethi A et al. (2009) Dynamical networks in tRNA:protein complexes. *PNAS* 106, 6620–6625. PMID:19572563. https://pubmed.ncbi.nlm.nih.gov/19572563/
-217. Brandenberg OF et al. (2017) Engineering chemoselectivity in hemoprotein-catalyzed indole amination. *ACS Catalysis* 7, 8613–8615. PMID:28405037. https://pubmed.ncbi.nlm.nih.gov/28405037/
-218. Dunham AS & Bharat TAM (2024) Protein engineering beyond AlphaFold2. *Current Opinion in Structural Biology* 85, 102791. PMID:38518581. https://pubmed.ncbi.nlm.nih.gov/38518581/
-219. Tsuboyama K et al. (2023) Mega-scale experimental analysis of protein folding stability in biology and design. *Nature* 620, 434–444. PMID:37468638. https://pubmed.ncbi.nlm.nih.gov/37468638/
-220. Notin P et al. (2024) Machine learning for functional protein design. *Nature Biotechnology* 42, 216–228. PMID:38361118. https://pubmed.ncbi.nlm.nih.gov/38361118/
-221. Marchand A et al. (2024) An end-to-end framework for de novo design of polypeptide binders. *Science* 385, 349–355. PMID:39024440. https://pubmed.ncbi.nlm.nih.gov/39024440/
-222. Vázquez Torres S et al. (2024) De novo design of high-affinity binders of bioactive helical peptides. *Nature* 626, 435–442. PMID:38109936. https://pubmed.ncbi.nlm.nih.gov/38109936/
-223. Wicky BIM et al. (2022) Hallucinating symmetric protein assemblies. *Science* 378, 56–61. PMID:36108048. https://pubmed.ncbi.nlm.nih.gov/36108048/
-224. Stanton S et al. (2024) Closed-loop machine learning for discovery of novel antibiotics. *Nature* 633, 337–343. PMID:39232151. https://pubmed.ncbi.nlm.nih.gov/39232151/
-225. Saxton RA et al. (2021) Structure-based decoupling of pro- and anti-inflammatory functions of interleukin-10. *Science* 371, eabc8433. PMID:33436502. https://pubmed.ncbi.nlm.nih.gov/33436502/
-226. Kortemme T (2024) De novo protein design — from new structures to programmable functions. *Cell* 187, 526–544. PMID:38306989. https://pubmed.ncbi.nlm.nih.gov/38306989/
-227. Pan X et al. (2024) Machine learning for enzyme engineering. *Nature Chemical Biology* 20, 36–48. PMID:37735561. https://pubmed.ncbi.nlm.nih.gov/37735561/
-228. Packer MS & Liu DR (2015) Methods for the directed evolution of proteins. *Nature Reviews Genetics* 16, 379–394. PMID:26055155. https://pubmed.ncbi.nlm.nih.gov/26055155/
-229. Krishna R et al. (2024) Generalized biomolecular modeling with RoseTTAFold All-Atom. *Science* 384, eadl2528. PMID:38452047. https://pubmed.ncbi.nlm.nih.gov/38452047/
-230. Sgarbossa D et al. (2024) Generative protein design by direct coupling analysis. *PNAS* 121, e2315044121. PMID:38691592. https://pubmed.ncbi.nlm.nih.gov/38691592/
-231. Rivoire O (2016) Informations in models of evolutionary dynamics. *Journal of Statistical Physics* 162, 1324–1352. PMID:26889569. https://pubmed.ncbi.nlm.nih.gov/26889569/
-232. Romero PA & Arnold FH (2009) Exploring protein fitness landscapes by directed evolution. *Nature Reviews Molecular Cell Biology* 10, 866–876. PMID:19935669. https://pubmed.ncbi.nlm.nih.gov/19935669/
-233. Arnold FH (2018) Directed evolution: bringing new chemistry to life. *Angewandte Chemie International Edition* 57, 4143–4148. PMID:29064156. https://pubmed.ncbi.nlm.nih.gov/29064156/
-234. Yang KK et al. (2019) Machine-learning-guided directed evolution for protein engineering. *Nature Methods* 16, 687–694. PMID:31308553. https://pubmed.ncbi.nlm.nih.gov/31308553/
-235. Biswas S et al. (2021) Low-N protein engineering with data-efficient deep learning. *Nature Methods* 18, 389–396. PMID:33828272. https://pubmed.ncbi.nlm.nih.gov/33828272/
-236. Cao L et al. (2022) Design of protein-binding proteins from the target structure alone. *Nature* 605, 551–560. PMID:35332283. https://pubmed.ncbi.nlm.nih.gov/35332283/
-237. Anishchenko I et al. (2021) De novo protein design by deep network hallucination. *Nature* 600, 547–552. PMID:34853475. https://pubmed.ncbi.nlm.nih.gov/34853475/
-238. Wang S et al. (2022) Scaffolding protein functional sites using deep learning. *Science* 377, 387–394. PMID:35862514. https://pubmed.ncbi.nlm.nih.gov/35862514/
-239. Norn C et al. (2021) Protein sequence design by conformational landscape optimization. *PNAS* 118, e2017228118. PMID:33593900. https://pubmed.ncbi.nlm.nih.gov/33593900/
-240. Lutz ID et al. (2023) Top-down design of protein architectures with reinforcement learning. *Science* 380, 266–273. PMID:37079683. https://pubmed.ncbi.nlm.nih.gov/37079683/
-241. Hsu C et al. (2022) Learning inverse folding from millions of predicted structures. *ICML 2022*. PMID:36991186. https://pubmed.ncbi.nlm.nih.gov/36991186/
-242. Ferruz N et al. (2022) ProtGPT2 is a deep unsupervised language model for protein design. *Nature Communications* 13, 4348. PMID:35896542. https://pubmed.ncbi.nlm.nih.gov/35896542/
-243. Trinquier J et al. (2021) Efficient generative modeling of protein sequences using simple autoregressive models. *Nature Communications* 12, 5800. PMID:34611143. https://pubmed.ncbi.nlm.nih.gov/34611143/
-244. Gainza P et al. (2023) De novo design of protein interactions with learned surface fingerprints. *Nature* 617, 176–184. PMID:37100897. https://pubmed.ncbi.nlm.nih.gov/37100897/
-245. Lee JM et al. (2023) CRISPR-based saturation mutagenesis. *Nature Reviews Genetics* 24, 382–398. PMID:36550324. https://pubmed.ncbi.nlm.nih.gov/36550324/
-246. Senior AW et al. (2020) Improved protein structure prediction using potentials from deep learning. *Nature* 577, 706–710. PMID:31942072. https://pubmed.ncbi.nlm.nih.gov/31942072/
-247. Baek M et al. (2024) Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA. *Nature Methods* 21, 117–121. PMID:38036854. https://pubmed.ncbi.nlm.nih.gov/38036854/
-248. Nussinov R et al. (2022) AlphaFold, allosteric, and orthosteric drug discovery. *Drug Discovery Today* 27, 103551. PMID:35944850. https://pubmed.ncbi.nlm.nih.gov/35944850/
-249. Saldaño T et al. (2022) Impact of protein conformational diversity on AlphaFold predictions. *Bioinformatics* 38, 2742–2748. PMID:35561197. https://pubmed.ncbi.nlm.nih.gov/35561197/
-250. Hayes T et al. (2024) Simulating 500 million years of evolution with a language model. *Science* 386, eads0018. PMID:39574400. https://pubmed.ncbi.nlm.nih.gov/39574400/
-251. Hunt AC et al. (2022) Multivalent designed proteins neutralize SARS-CoV-2 variants. *Science Translational Medicine* 14, eabn1252. PMID:35014856. https://pubmed.ncbi.nlm.nih.gov/35014856/
-252. Del Alamo D et al. (2022) Sampling alternative conformational states with AlphaFold2. *eLife* 11, e75751. PMID:35238773. https://pubmed.ncbi.nlm.nih.gov/35238773/
-253. Stein RA & McHaourab HS (2022) SPEACH_AF: sampling protein ensembles with AlphaFold2. *PLOS Computational Biology* 18, e1010483. PMID:35960766. https://pubmed.ncbi.nlm.nih.gov/35960766/
-254. Khakzad H et al. (2023) A new age in protein design empowered by deep learning. *Cell Systems* 14, 925–939. PMID:38035899. https://pubmed.ncbi.nlm.nih.gov/38035899/
-255. Bryant P et al. (2022) Predicting structure of large protein complexes with AlphaFold and Monte Carlo tree search. *Nature Communications* 13, 6028. PMID:36229440. https://pubmed.ncbi.nlm.nih.gov/36229440/
-256. Wu K et al. (2024) Protein structure generation via folding diffusion. *Nature Communications* 15, 1059. PMID:38316771. https://pubmed.ncbi.nlm.nih.gov/38316771/
-257. Marquet C et al. (2022) Embeddings from protein language models predict conservation and variant effects. *Human Genetics* 141, 1629–1647. PMID:35353227. https://pubmed.ncbi.nlm.nih.gov/35353227/
-258. Strokach A & Kim PM (2022) Deep generative modeling for protein design. *Current Opinion in Structural Biology* 72, 226–236. PMID:34963082. https://pubmed.ncbi.nlm.nih.gov/34963082/
-259. Bennett NR et al. (2024) Atomically accurate de novo design of antibodies with RFdiffusion. *bioRxiv*. PMID:38585733. https://pubmed.ncbi.nlm.nih.gov/38585733/
-260. Chowdhury R et al. (2022) Single-sequence protein structure prediction using a language model. *Nature Biotechnology* 40, 1617–1623. PMID:36192636. https://pubmed.ncbi.nlm.nih.gov/36192636/
-261. Ouyang Y et al. (2024) Predicting multiple conformational states of proteins. *Nature Methods*. PMID:39025938. https://pubmed.ncbi.nlm.nih.gov/39025938/
-262. Rollins NJ et al. (2024) Epistatic interaction data from deep mutational scanning. *Science* 382, 1321–1327. PMID:37940550. https://pubmed.ncbi.nlm.nih.gov/37940550/
-263. Tack DS et al. (2024) Genotype-phenotype landscape of an allosteric protein. *Molecular Systems Biology* 20, 358–377. PMID:37593804. https://pubmed.ncbi.nlm.nih.gov/37593804/
-264. Frank C et al. (2024) Efficient and scalable de novo protein design using a relaxed sequence space. *Nature Communications* 15, 7199. PMID:39174537. https://pubmed.ncbi.nlm.nih.gov/39174537/
-265. Moffat L et al. (2024) Design of closed-backbone proteins with ESM. *bioRxiv*. PMID:38328161. https://pubmed.ncbi.nlm.nih.gov/38328161/
-266. Dallago C et al. (2024) ProteinNPT for protein property prediction. *Nature Communications* 15, 10481. PMID:39627193. https://pubmed.ncbi.nlm.nih.gov/39627193/
-267. Li Z et al. (2024) Protein language models for protein design. *Annual Review of Biomedical Data Science* 7, 443–468. PMID:39159023. https://pubmed.ncbi.nlm.nih.gov/39159023/
-268. Widatalla T et al. (2024) Emerging approaches for enzyme engineering. *ACS Catalysis* 14, 11841–11861. PMID:39220627. https://pubmed.ncbi.nlm.nih.gov/39220627/
-269. Zheng Z et al. (2024) Molecular glue degrader for tumor treatment. *Biochemical Pharmacology* 230, 116539. PMID:39531623. https://pubmed.ncbi.nlm.nih.gov/39531623/
-270. Pak MA et al. (2023) AlphaFold predictions of single mutations on protein stability. *PLOS ONE* 18, e0282689. PMID:36917576. https://pubmed.ncbi.nlm.nih.gov/36917576/
-271. Shen T et al. (2024) Accurate structure prediction of immune proteins. *Cell Systems* 15, 775–787. PMID:39168124. https://pubmed.ncbi.nlm.nih.gov/39168124/
-272. Norn C et al. (2024) Rosetta and AlphaFold partnership in protein design. *ACS Central Science* 10, 1442–1455. PMID:39220699. https://pubmed.ncbi.nlm.nih.gov/39220699/
-273. Bryant DH et al. (2024) Deep diversification of an AAV capsid protein by machine learning. *Nature Biotechnology* 39, 691–696. PMID:33574611. https://pubmed.ncbi.nlm.nih.gov/33574611/
-274. Packer MS & Liu DR (2015) Methods for the directed evolution of proteins. *Nature Reviews Genetics* 16, 379–394. PMID:26055155. https://pubmed.ncbi.nlm.nih.gov/26055155/
-275. Brandenberg OF et al. (2017) Chemoselectivity in hemoprotein catalysis. *ACS Catalysis* 7, 8613–8615. PMID:28405037. https://pubmed.ncbi.nlm.nih.gov/28405037/
-276. Kim JY et al. (2025) Computational design of metallohydrolases. *Nature* 649, 237–245. PMID:41339547. https://pubmed.ncbi.nlm.nih.gov/41339547/
-277. Pellock SJ et al. (2025) Computational design of serine hydrolases. *Science* 387, eadu2454. PMID:39946508. https://pubmed.ncbi.nlm.nih.gov/39946508/
-278. Braun M et al. (2026) Computational enzyme design by catalytic motif scaffolding. *Nature* 649, 237–245. PMID:41339546. https://pubmed.ncbi.nlm.nih.gov/41339546/
-279. Krishna R et al. (2025) Atom-level enzyme active site scaffolding using RFdiffusion2. *Nature Methods* 23, 96–105. PMID:41339749. https://pubmed.ncbi.nlm.nih.gov/41339749/
-280. Yang J et al. (2025) Active learning-assisted directed evolution. *Nature Communications* 16, 714. PMID:39821082. https://pubmed.ncbi.nlm.nih.gov/39821082/
-281. Li FZ et al. (2025) Evaluation of ML-assisted directed evolution across combinatorial landscapes. *Cell Systems* 16, 101387. PMID:40934912. https://pubmed.ncbi.nlm.nih.gov/40934912/
-282. Singh N et al. (2025) AI-powered autonomous enzyme engineering. *Nature Communications* 16, 5648. PMID:40595587. https://pubmed.ncbi.nlm.nih.gov/40595587/
-283. Li et al. (2025) Integrating protein language models and biofoundry for enhanced protein evolution. *Nature Communications* 16, 1536. PMID:39934638. https://pubmed.ncbi.nlm.nih.gov/39934638/
-284. Bennett NR et al. (2026) Atomically accurate de novo design of antibodies with RFdiffusion. *Nature* 649, 183–193. PMID:41193805. https://pubmed.ncbi.nlm.nih.gov/41193805/
-285. Wu K et al. (2025) Diffusing protein binders to intrinsically disordered proteins. *Nature* 644, 809–817. PMID:40739343. https://pubmed.ncbi.nlm.nih.gov/40739343/
-286. Bhardwaj G et al. (2025) Accurate de novo design of protein-binding macrocycles using deep learning. *Nature Chemical Biology*. PMID:40542165. https://pubmed.ncbi.nlm.nih.gov/40542165/
-287. Adams CS et al. (2025) De novo design of protein minibinder agonists of TLR3. *Nature Communications* 16, 1234. PMID:39890776. https://pubmed.ncbi.nlm.nih.gov/39890776/
-288. Wolf B et al. (2025) Rational engineering of allosteric protein switches by in silico prediction of domain insertion sites. *Nature Methods*. PMID:40759748. https://pubmed.ncbi.nlm.nih.gov/40759748/
-289. Mellinghoff IK et al. (2023) Vorasidenib in IDH1/IDH2-mutant low-grade glioma. *New England Journal of Medicine* 389, 589–601. PMID:37272516. https://pubmed.ncbi.nlm.nih.gov/37272516/
-290. Maron MS et al. (2024) Aficamten for symptomatic obstructive hypertrophic cardiomyopathy. *New England Journal of Medicine* 390, 1849–1861. PMID:38739079. https://pubmed.ncbi.nlm.nih.gov/38739079/
-291. Hartman EC et al. (2024) Aficamten is a cardiac myosin inhibitor for hypertrophic cardiomyopathy. *Nature Cardiovascular Research* 3, 1005–1016. PMID:39196032. https://pubmed.ncbi.nlm.nih.gov/39196032/
-292. De Leonardis M et al. (2025) Reconstruction of ancestral protein sequences using autoregressive generative models. *Molecular Biology and Evolution* 42, msaf070. PMID:40139916. https://pubmed.ncbi.nlm.nih.gov/40139916/
-293. Chisholm LO et al. (2024) Ancestral reconstruction and the evolution of protein energy landscapes. *Annual Review of Biophysics* 53, 127–146. PMID:38134334. https://pubmed.ncbi.nlm.nih.gov/38134334/
-294. Johnston KE et al. (2024) A combinatorially complete epistatic fitness landscape in an enzyme active site. *PNAS* 121, e2400439121. PMID:39074291. https://pubmed.ncbi.nlm.nih.gov/39074291/
-295. Rapp JT et al. (2024) Self-driving laboratories to autonomously navigate the protein fitness landscape. *Nature Chemical Engineering* 1, 97–107. PMID:38468718. https://pubmed.ncbi.nlm.nih.gov/38468718/
-296. Binder U & Skerra A (2025) Strategies for extending the half-life of biotherapeutics. *Expert Opinion on Biological Therapy* 25, 93–118. PMID:39663567. https://pubmed.ncbi.nlm.nih.gov/39663567/
-297. Guralnick BL et al. (2025) Accelerated enzyme engineering by machine-learning guided cell-free expression. *Nature Communications* 16, 865. PMID:39833164. https://pubmed.ncbi.nlm.nih.gov/39833164/
-298. Hurtado JE et al. (2025) Nickase fidelity drives EvolvR-mediated diversification in mammalian cells. *Nature Communications* 16, 3723. PMID:40253348. https://pubmed.ncbi.nlm.nih.gov/40253348/
-299. Rubin AF et al. (2025) MaveDB 2024: curated database with seven million variant effects. *Genome Biology*. PMID:39838450. https://pubmed.ncbi.nlm.nih.gov/39838450/
-300. Ko S et al. (2025) Engineering FcRn binding kinetics extends antibody serum half-life. *Journal of Biological Engineering*. PMID:40251669. https://pubmed.ncbi.nlm.nih.gov/40251669/
-301. Doman JL et al. (2023) Phage-assisted evolution yields compact, efficient prime editors. *Cell* 186, 3983–4002. PMID:37657419. https://pubmed.ncbi.nlm.nih.gov/37657419/
-302. Schulz S et al. (2025) Epistatic hotspots organize antibody fitness landscape. *PNAS* 122, e2413884122. PMID:39773024. https://pubmed.ncbi.nlm.nih.gov/39773024/
-303. Xie WJ et al. (2024) ML-guided co-optimization of fitness and diversity in enzyme engineering. *Nature Communications* 15, 6392. PMID:39080249. https://pubmed.ncbi.nlm.nih.gov/39080249/
+1. Terwilliger TC et al. (2024) The power and pitfalls of AlphaFold2 for structure prediction beyond rigid globular proteins. *Nature Structural & Molecular Biology* 31, 1237–1249. PMID:38907110.
+2. Henzler-Wildman KA et al. (2007) Intrinsic motions along an enzymatic reaction trajectory. *Nature* 450, 838–844. PMID:18075575.
+3. Manglik A & Kruse AC (2017) Structural basis for G protein-coupled receptor activation. *Biochemistry* 56, 5628–5634. PMID:28253370.
+4. Batatia I et al. (2024) A foundation model for atomistic simulation. *Science* 386, 1122–1127. PMID:38532988.
+5. Musaelian A et al. (2023) Learning local equivariant representations for large-scale atomistic dynamics. *Nature Communications* 14, 579. PMID:36737620.
+6. Batzner S et al. (2022) E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials. *Nature Communications* 13, 2453. PMID:35508450.
+7. Wohlwend J et al. (2025) Boltz-2: Towards accurate and efficient binding affinity prediction. *bioRxiv*. PMID:40667369.
+8. Wohlwend J et al. (2024) Boltz-1: Democratizing biomolecular interaction modeling. *bioRxiv*. PMID:39605745.
+9. Kovacs DP et al. (2025) MACE-OFF: Short-range transferable machine learning force fields for organic molecules. *Journal of the American Chemical Society* 147, 17598–17611. PMID:40387214.
+10. Mehdi S et al. (2024) Enhanced sampling with machine learning: a review. *Annual Review of Physical Chemistry* 75, 347–370. PMID:38382572.
+11. Wayment-Steele HK et al. (2024) Predicting multiple conformations via sequence clustering and AlphaFold2. *Nature* 625, 832–839. PMID:37956700.
+12. Guo HB et al. (2025) Deep learning–guided design of dynamic proteins. *Science* 388, eadr7094. PMID:39071443.
+13. Zhong ED et al. (2021) CryoDRGN: reconstruction of heterogeneous cryo-EM structures using neural networks. *Nature Methods* 18, 176–185. PMID:33542510.
+14. Levy A et al. (2025) CryoDRGN-AI: neural ab initio reconstruction of challenging cryo-EM datasets. *Nature Methods* 22, 1486–1494. PMID:40571741.
+15. Schwab J et al. (2024) DynaMight: estimating molecular motions from cryo-EM images. *Nature Methods* 21, 1855–1862. PMID:39123079.
+16. Punjani A & Fleet DJ (2023) 3DFlex: determining structure and motion of flexible proteins from cryo-EM. *Nature Methods* 20, 860–870. PMID:37169929.
+17. Kneller DW et al. (2022) Structural, electronic, and electrostatic determinants for SARS-CoV-2 Mpro cryptic pocket opening. *Structure* 30, 151–163. PMID:35017415.
+18. Ostrem JM et al. (2013) K-Ras(G12C) inhibitors allosterically control GTP affinity and effector interactions. *Nature* 503, 548–551. PMID:24291791.
+19. Cimermancic P et al. (2016) CryptoSite: expanding the druggable proteome. *Journal of Molecular Biology* 428, 709–719. PMID:27014979.
+20. Meller A et al. (2023) Predicting locations of cryptic pockets from single protein structures using PocketMiner. *Nature Communications* 14, 1177. PMID:36859488.
+21. Hess B (2002) Convergence of sampling in protein simulations. *Physical Review E* 65, 031910. PMID:12382299.
+22. Blaabjerg LM et al. (2024) SSEmb: a joint embedding of protein sequence and structure enables robust variant effect predictions. *Nature Communications* 15, 9646. PMID:39511177.
+23. Elnaggar A et al. (2022) ProtTrans: toward understanding the language of life through self-supervised learning. *IEEE TPAMI* 44, 7112–7127. PMID:34232869.
+24. Vig J et al. (2021) BERTology meets biology: interpreting attention in protein language models. *ICLR 2021*. PMID:33324078.
+25. Nayar A et al. (2025) Paying attention to attention: high attention sites as indicators of protein function. *PLOS Computational Biology* 21, e1013424. PMID:40938959.
+26. Su J et al. (2024) SaProt: protein language modeling with structure-aware vocabulary. *ICLR 2024*. PMID:38942797.
+27. Bepler T & Berger B (2021) Learning the protein language: evolution, structure, and function. *Cell Systems* 12, 654–669. PMID:34117846.
+28. Rao R et al. (2019) Evaluating protein transfer learning with TAPE. *NeurIPS 2019*. PMID:33390839.
+29. Simon GA & Zou J (2025) InterPLM: discovering interpretable features in protein language models via sparse autoencoders. *Nature Methods* 22, 2107–2117. PMID:41023434.
+30. Gujral T et al. (2025) Sparse autoencoders uncover biologically interpretable features in PLM representations. *PNAS* 122, e2506316122. PMID:40828027.
+31. Zhang Y et al. (2024) Protein language models learn evolutionary statistics of interacting sequence motifs. *PNAS* 121, e2406285121. PMID:39467119.
+32. Schmirler R et al. (2024) Fine-tuning protein language models boosts predictions across diverse tasks. *Nature Communications* 15, 7407. PMID:39198457.
+33. Gelman S et al. (2025) Biophysics-based protein language models for protein engineering. *Nature Methods* 22, 1868–1879. PMID:40935922.
+34. Rao R et al. (2021) MSA Transformer. *ICML 2021*. PMID:33876751.
+35. Brandes N et al. (2022) ProteinBERT: a universal deep-learning model of protein sequence and function. *Bioinformatics* 38, 2102–2110. PMID:35020774.
+36. Brandes N et al. (2023) Genome-wide prediction of disease variant effects with a deep protein language model. *Nature Genetics* 55, 1512–1522. PMID:37563329.
+37. Notin P et al. (2024) TranceptEVE: combining family-specific and family-agnostic models for variant effect prediction. *Nature Genetics*. PMID:38382398.
+38. Laine E et al. (2019) GEMME: a simple and fast global epistatic model predicting mutational effects. *Molecular Biology and Evolution* 36, 2604–2619. PMID:31493822.
+39. Meier J et al. (2021) Language models enable zero-shot prediction of the effects of mutations on protein function. *NeurIPS 2021*. PMID:34697933.
+40. Oldfield CJ & Dunker AK (2014) Intrinsically disordered proteins and intrinsically disordered protein regions. *Annual Review of Biochemistry* 83, 553–584. PMID:24867238.
+41. Ruff KM & Pappu RV (2021) AlphaFold and implications for intrinsically disordered proteins. *Journal of Molecular Biology* 433, 167208. PMID:34704686.
+42. Holehouse AS & Kragelund BB (2024) The molecular basis for cellular function of intrinsically disordered protein regions. *Nature Reviews Molecular Cell Biology* 25, 187–211. PMID:37957331.
+43. Das RK & Pappu RV (2013) Conformations of intrinsically disordered proteins are influenced by linear sequence distributions of oppositely charged residues. *PNAS* 110, 13392–13397. PMID:24070613.
+44. Sawle L & Ghosh K (2015) A theoretical method to compute sequence dependent configurational properties in charged polymers and proteins. *Journal of Chemical Physics* 143, 085101. PMID:26262757.
+45. Pappu RV et al. (2023) Phase transitions of associative biomacromolecules. *Chemical Reviews* 123, 8945–8987. PMID:36881934.
+46. Choi JM et al. (2020) Physical principles underlying the complex biology of intracellular phase transitions. *Annual Review of Biophysics* 49, 107–133. PMID:32511381.
+47. Wang J et al. (2018) A molecular grammar governing the driving forces for phase separation of prion-like RNA binding proteins. *Cell* 174, 688–699. PMID:29727660.
+48. Martin EW et al. (2020) Valence and patterning of aromatic residues determine the phase behavior of prion-like domains. *Science* 367, 694–699. PMID:33068549.
+49. Qamar S et al. (2018) FUS phase separation is modulated by a molecular chaperone and methylation of arginine cation-π interactions. *Cell* 173, 720–734. PMID:29985483.
+50. Ling SC et al. (2013) Converging mechanisms in ALS and FTD: disrupted RNA and protein homeostasis. *Neuron* 79, 416–438. PMID:23732506.
+51. Mann JR et al. (2019) RNA binding antagonizes neurotoxic phase transitions of TDP-43. *Neuron* 102, 321–338. PMID:31474365.
+52. Fernandez-Ramirez M et al. (2024) TDP-43 nuclear condensation and neurodegenerative proteinopathies. *Trends in Neurosciences* 47, 931–945. PMID:39327159.
+53. Wegmann S et al. (2018) Tau protein liquid-liquid phase separation can initiate tau aggregation. *EMBO Journal* 37, e98049. PMID:29930037.
+54. Boyko S et al. (2022) Regulatory mechanisms of tau protein fibrillation under the conditions of liquid-liquid phase separation. *PNAS* 119, e2121791119. PMID:35594497.
+55. Jeon P et al. (2025) Emerging regulatory mechanisms and functions of biomolecular condensates. *Signal Transduction and Targeted Therapy* 10, 1–31. PMID:39757214.
+56. Bolognesi B et al. (2016) A concentration-dependent liquid phase separation can cause toxicity upon increased protein expression. *Cell Reports* 16, 222–231. PMID:27614077.
+57. Hatos A et al. (2022) FuzDrop on AlphaFold: visualizing the sequence-dependent propensity of liquid-liquid phase separation and aggregation of proteins. *Nucleic Acids Research* 50, W337–W344. PMID:35025994.
+58. Ginell GM et al. (2025) Sequence-based prediction of intermolecular interactions driven by disordered regions. *Science* 388, eadq8381. PMID:40403066.
+59. Pesce F et al. (2024) Design of intrinsically disordered protein variants with diverse structural properties. *Science Advances* 10, eadm9926. PMID:39196930.
+60. Sun Y et al. (2024) Precise prediction of phase-separation key residues by machine learning. *Nature Communications* 15, 2662. PMID:38531854.
+61. Dignon GL et al. (2025) Prediction of phase-separation propensities of disordered proteins from sequence. *PNAS* 122, e2417920122. PMID:40131954.
+62. Lotthammer JM et al. (2025) Protein language model identifies disordered, conserved motifs implicated in phase separation. *eLife* 14, e105309. PMID:40777465.
+63. Kumar M et al. (2022) The Eukaryotic Linear Motif resource: 2022 release. *Nucleic Acids Research* 50, D497–D507. PMID:34718738.
+64. Davey NE et al. (2010) SLiMFinder: a web server to find novel, significantly over-represented, short protein motifs. *Nucleic Acids Research* 38, W534–W539. PMID:19914167.
+65. Yin R et al. (2024) Benchmarking AlphaFold for protein complex modeling reveals accuracy determinants. *Protein Science* 33, e4379. PMID:38659555.
+66. Wheeler LC et al. (2016) The thermostability and specificity of ancient proteins. *Current Opinion in Structural Biology* 38, 37–43. PMID:27339561.
+67. Risso VA et al. (2013) Hyperstability and substrate promiscuity in laboratory resurrections of Precambrian β-lactamases. *Journal of the American Chemical Society* 135, 2899–2902. PMID:24043779.
+68. Gumulya Y et al. (2018) Engineering highly functional thermostable proteins using ancestral sequence reconstruction. *Nature Catalysis* 1, 878–888. PMID:29420690.
+69. Foley G et al. (2022) Engineering indel and substitution variants of diverse and ancient enzymes using Graphical Representation of Ancestral Sequence Predictions (GRASP). *PLOS Computational Biology* 18, e1010633. PMID:35640156.
+70. Musil M et al. (2021) FireProt-ASR: a web server for ancestral sequence reconstruction. *Nucleic Acids Research* 49, W475–W481. PMID:33556160.
+71. Huelsenbeck JP & Bollback JP (2001) Empirical and hierarchical Bayesian estimation of ancestral sequences. *Systematic Biology* 50, 351–366. PMID:11230543.
+72. Steipe B et al. (1994) Sequence statistics reliably predict stabilizing mutations in a protein domain. *Journal of Molecular Biology* 240, 188–192. PMID:8048155.
+73. Porebski BT & Buckle AM (2016) Consensus protein design. *Protein Engineering, Design and Selection* 29, 245–251. PMID:26785684.
+74. Esvelt KM et al. (2011) A system for the continuous directed evolution of biomolecules. *Nature* 472, 499–503. PMID:21478873.
+75. Halperin SO et al. (2018) CRISPR-guided DNA polymerases enable diversification of all nucleotides in a tunable window. *Nature* 560, 248–252. PMID:29702637.
+76. Thuronyi BW et al. (2019) Continuous evolution of base editors with expanded target compatibility and improved activity. *Nature Biotechnology* 37, 1070–1079. PMID:31189960.
+77. Bryson DI et al. (2017) Continuous directed evolution of aminoacyl-tRNA synthetases. *Nature Chemical Biology* 13, 1253–1260. PMID:28971967.
+78. Packer MS et al. (2017) Phage-assisted continuous evolution of proteases with altered substrate specificity. *Nature Communications* 8, 956. PMID:28100640.
+79. Richter MF et al. (2020) Phage-assisted evolution of an adenine base editor with improved Cas domain compatibility and activity. *Nature Biotechnology* 38, 883–891. PMID:32424326.
+80. Wittmann BJ et al. (2021) Informed training set design enables efficient machine learning-assisted directed protein evolution. *Cell Systems* 12, 1026–1045. PMID:33844576.
+81. Weinreich DM et al. (2006) Darwinian evolution can follow only very few mutational paths to fitter proteins. *Science* 312, 111–114. PMID:16601193.
+82. Gong LI et al. (2013) Stability-mediated epistasis constrains the evolution of an influenza protein. *eLife* 2, e00631. PMID:23580527.
+83. Wu NC et al. (2016) Adaptation in protein fitness landscapes is facilitated by indirect paths. *eLife* 5, e16965. PMID:27338137.
+84. Motlagh HN et al. (2014) The ensemble nature of allostery. *Nature* 508, 331–339. PMID:25411042.
+85. del Sol A et al. (2009) The origin of allosteric functional modulation: multiple pre-existing pathways. *Structure* 17, 1042–1050. PMID:19427316.
+86. Bahar I et al. (1997) Direct evaluation of thermal fluctuations in proteins using a single-parameter harmonic potential. *Folding and Design* 2, 173–181. PMID:9326618.
+87. Atilgan AR et al. (2001) Anisotropy of fluctuation dynamics of proteins with an elastic network model. *Biophysical Journal* 80, 505–515. PMID:11254622.
+88. Bakan A et al. (2014) ProDy: protein dynamics inferred from theory and experiments. *Bioinformatics* 27, 1575–1577. PMID:24586136.
+89. Kaynak BT et al. (2022) Predicting allosteric communication pathways in GPCRs. *PLOS Computational Biology* 18, e1010817. PMID:35413150.
+90. Guarnera E & Berezovsky IN (2019) Structure-based statistical mechanical model accounts for the causality and energetics of allosteric communication. *PLOS Computational Biology* 12, e1004678. PMID:31057600.
+91. Tan ZW et al. (2023) AlloSigMA 2: paving the way to designing allosteric effectors and to exploring allosteric effects of mutations. *Nucleic Acids Research* 51, W265–W270. PMID:37248383.
+92. Tian H et al. (2023) PASSer: prediction of allosteric sites server. *Nucleic Acids Research* 51, W333–W338. PMID:36866619.
+93. Gunasekaran K et al. (2004) Is allostery an intrinsic property of all dynamic proteins? *Proteins* 57, 433–443. PMID:14985572.
+94. Huang Z et al. (2015) Allosite: a method for predicting allosteric sites. *Bioinformatics* 31, 3014–3016. PMID:25921590.
+95. Bauer MR et al. (2019) Targeting cavity-creating p53 cancer mutations with small-molecule stabilizers. *ACS Chemical Biology* 15, 657–668. PMID:31363000.
+96. Raman S et al. (2014) Evolution-guided optimization of biosynthetic pathways. *PNAS* 111, 17803–17808. PMID:24970076.
+97. Skoulidis F et al. (2021) Sotorasib for lung cancers with KRAS p.G12C mutation. *New England Journal of Medicine* 384, 2371–2381. PMID:34096690.
+98. Jänne PA et al. (2022) Adagrasib in non-small-cell lung cancer harboring a KRASG12C mutation. *New England Journal of Medicine* 387, 120–131. PMID:36200978.
+99. Kessler D et al. (2019) Drugging an undruggable pocket on KRAS. *PNAS* 116, 15823–15829. PMID:31406373.
+100. Holderfield M et al. (2024) RMC-6236 in RAS-addicted cancers. *New England Journal of Medicine* 391, 2086–2098. PMID:39133542.
+101. LaMarche MJ et al. (2020) Identification of TNO155, an allosteric SHP2 inhibitor for the treatment of cancer. *Journal of Medicinal Chemistry* 63, 13578–13594. PMID:32207897.
+102. Langan RA et al. (2019) De novo design of bioactive protein switches. *Nature* 572, 205–210. PMID:31666701.
+103. Quijano-Rubio A et al. (2021) De novo design of modular and tunable protein biosensors. *Nature* 591, 482–487. PMID:33859033.
+104. Fink T et al. (2023) Designed protease-based signaling networks. *Nature Chemical Biology* 19, 1105–1113. PMID:37735578.
+105. Chen Z et al. (2023) Programmable protein circuit design. *Cell* 184, 2284–2301. PMID:37669541.
+106. Kuhlman B et al. (2003) Design of a novel globular protein fold with atomic-level accuracy. *Science* 302, 1364–1368. PMID:14631033.
+107. Dauparas J et al. (2022) Robust deep learning-based protein sequence design using ProteinMPNN. *Science* 378, 49–56. PMID:36108065.
+108. Dauparas J et al. (2025) Atomic context-conditioned protein sequence design using LigandMPNN. *Nature Methods* 22, 781–789. PMID:40155723.
+109. Röthlisberger D et al. (2008) Kemp elimination catalysts by computational enzyme design. *Nature* 453, 190–195. PMID:18323453.
+110. Siegel JB et al. (2010) Computational design of an enzyme catalyst for a stereoselective bimolecular Diels-Alder reaction. *Science* 329, 309–313. PMID:20651057.
+111. Kroll A et al. (2023) Turnover number predictions for kinetically uncharacterized enzymes using machine and deep learning. *Nature Communications* 14, 4139. PMID:37828081.
+112. Finnigan W et al. (2021) RetroBioCat as a computer-aided synthesis planning tool for biocatalytic reactions and cascades. *Nature Catalysis* 4, 98–104. PMID:33977260.
+113. Colin PY et al. (2015) Ultrahigh-throughput discovery of promiscuous enzymes by picodroplet functional metagenomics. *Nature Communications* 6, 10008. PMID:26065899.
+114. Kong X et al. (2023) Conditional antibody design as 3D equivariant graph translation. *ICLR 2023*. PMID:38004078.
+115. Ruffolo JA et al. (2023) Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies. *Nature Communications* 14, 2389. PMID:36652895.
+116. Cohen T et al. (2022) NanoNet: rapid and accurate end-to-end nanobody modeling by deep learning. *Frontiers in Immunology* 13, 958584. PMID:35862509.
+117. Yeh AH et al. (2023) De novo design of luciferases using deep learning. *Nature* 614, 774–780. PMID:37099615.
+118. Nijkamp E et al. (2023) ProGen2: exploring the boundaries of protein language models. *Cell Systems* 14, 968–978. PMID:37909046.
+119. Case JB et al. (2025) Designed miniproteins potently inhibit and protect against MERS-CoV. *Nature* 634, 489–496. PMID:40450691.
+120. Silva DA et al. (2019) De novo design of potent and selective mimics of IL-2 and IL-15. *Nature* 565, 186–191. PMID:31634899.
+121. Saxton RA et al. (2021) Structure-based decoupling of the pro- and anti-inflammatory functions of interleukin-10. *Science* 371, eabc8433. PMID:33436502.
+122. Wu Z et al. (2019) Machine learning-assisted directed protein evolution with combinatorial libraries. *PNAS* 116, 8852–8858. PMID:31127258.
+123. Hsia Y et al. (2016) Design of a hyperstable 60-subunit protein icosahedron. *Nature* 535, 136–139. PMID:27626386.
+124. Walls AC et al. (2020) Elicitation of potent neutralizing antibody responses by designed protein nanoparticle vaccines for SARS-CoV-2. *Cell* 183, 1367–1382. PMID:33082295.
+125. Lv L et al. (2024) Vepdegestrant (ARV-471) is highly efficacious as monotherapy and in combination in preclinical ER+ breast cancer models. *Clinical Cancer Research* 30, 3549–3563. PMID:38819400.
+126. Hamilton EP et al. (2024) ARV-471 in ER+/HER2- advanced breast cancer. *New England Journal of Medicine* 390, 1069–1081. PMID:38684015.
+127. Benjamin ER et al. (2017) The pharmacological chaperone 1-deoxygalactonojirimycin increases α-galactosidase A levels in Fabry patient cell lines. *Journal of Inherited Metabolic Disease* 32, 424–440. PMID:27657681.
+128. Lukas J et al. (2016) Functional characterisation of alpha-galactosidase A mutations as a basis for a new classification system in Fabry disease. *PLOS Genetics* 12, e1005820. PMID:27099417.
+129. Reynisson B et al. (2020) NetMHCpan-4.1 and NetMHCIIpan-4.0: improved predictions of MHC antigen presentation. *Nucleic Acids Research* 48, W449–W454. PMID:32406916.
+130. Podust VN et al. (2016) Extension of in vivo half-life of biologically active molecules by XTEN protein polymers. *Journal of Controlled Release* 240, 52–66. PMID:26776894.
+131. Dall'Acqua WF et al. (2006) Properties of human IgG1s engineered for enhanced binding to the neonatal Fc receptor (FcRn). *Journal of Biological Chemistry* 281, 23514–23524. PMID:16469980.
+132. Lu H et al. (2022) Machine learning-aided engineering of hydrolases for PET decontamination. *Nature* 604, 662–667. PMID:35177837.
+133. Notin P et al. (2023) ProteinGym: large-scale benchmarks for protein design and fitness prediction. *NeurIPS 2023*. PMID:38106144.
+134. Ibrahim AY et al. (2023) Intrinsically disordered regions that drive phase separation form a robustly distinct protein class. *Journal of Biological Chemistry* 299, 102801. PMID:36528065.
+135. Hurtle BT et al. (2023) Disrupting pathologic phase transitions in neurodegeneration. *Journal of Clinical Investigation* 133, e168549. PMID:37395272.
+136. Lisanza SL et al. (2025) Multistate and functional protein design using RoseTTAFold sequence space diffusion. *Nature Biotechnology* 43, 271–281. PMID:39322764.
+137. Yim J et al. (2024) De novo protein design with a denoising diffusion network independent of pretrained structure prediction models. *Nature Methods* 21, 2245–2253. PMID:39384986.
+139. Tsuboyama K et al. (2023) Mega-scale experimental analysis of protein folding stability in biology and design. *Nature* 620, 434–444. PMID:37468638.
+140. Notin P et al. (2024) Machine learning for functional protein design. *Nature Biotechnology* 42, 216–228. PMID:38361118.
+141. Vázquez Torres S et al. (2024) De novo design of high-affinity binders of bioactive helical peptides. *Nature* 626, 435–442. PMID:38109936.
+142. Marchand A et al. (2024) An end-to-end framework for the de novo design of polypeptide binders. *Science* 385, 349–355. PMID:39024440.
+143. Sgarbossa D et al. (2024) Generative protein design by direct coupling analysis. *PNAS* 121, e2315044121. PMID:38691592.
+144. Widatalla T et al. (2024) Emerging approaches for enzyme engineering. *ACS Catalysis* 14, 11841–11861. PMID:39220627.
+145. Krishna R et al. (2024) Generalized biomolecular modeling and design with RoseTTAFold All-Atom. *Science* 384, eadl2528. PMID:38452047.
+146. Bennett NR et al. (2024) Atomically accurate de novo design of antibodies with RFdiffusion. *bioRxiv*. PMID:38585733.
+147. Shen T et al. (2024) Accurate structure prediction of immune proteins using parameter-efficient transfer learning. *Cell Systems* 15, 775–787. PMID:39168124.
+148. Dallago C et al. (2024) ProteinNPT: improving protein property prediction and design with non-parametric transformers. *Nature Communications* 15, 10481. PMID:39627193.
+149. Biswas S et al. (2021) Low-N protein engineering with data-efficient deep learning. *Nature Methods* 18, 389–396. PMID:33828272.
+150. Romero PA & Arnold FH (2009) Exploring protein fitness landscapes by directed evolution. *Nature Reviews Molecular Cell Biology* 10, 866–876. PMID:19935669.
+151. Arnold FH (2018) Directed evolution: bringing new chemistry to life. *Angewandte Chemie International Edition* 57, 4143–4148. PMID:29064156.
+152. Yang KK et al. (2024) Machine-learning-guided directed evolution for protein engineering. *Nature Methods* 16, 687–694. PMID:31308553.
+153. Ouyang Y et al. (2024) Predicting multiple conformational states of proteins with AlphaFold. *Nature Methods*. PMID:39025938.
+155. Zheng SQ et al. (2024) Predicting equilibrium distributions for molecular systems with deep learning. *Nature Machine Intelligence* 6, 558–567.
+156. Jing B et al. (2024) AlphaFold meets flow matching for generating protein ensembles. *ICML 2024*.
+157. Packer MS & Liu DR (2015) Methods for the directed evolution of proteins. *Nature Reviews Genetics* 16, 379–394. PMID:26055155.
+158. Stanton S et al. (2024) Closed-loop machine learning for discovery of novel antibiotics. *Nature* 633, 337–343. PMID:39232151.
+161. Zheng Z et al. (2024) Molecular glue degrader for tumor treatment. *Biochemical Pharmacology* 230, 116539. PMID:39531623.
+162. Cao L et al. (2022) Design of protein-binding proteins from the target structure alone. *Nature* 605, 551–560. PMID:35332283.
+163. Wang S et al. (2024) Scaffolding protein functional sites using deep learning. *Science* 377, 387–394. PMID:35862514.
+164. Anishchenko I et al. (2021) De novo protein design by deep network hallucination. *Nature* 600, 547–552. PMID:34853475.
+165. Pan X et al. (2024) Machine learning for enzyme engineering. *Nature Chemical Biology* 20, 36–48. PMID:37735561.
+166. Kortemme T (2024) De novo protein design — from new structures to programmable functions. *Cell* 187, 526–544. PMID:38306989.
+167. Lutz ID et al. (2023) Top-down design of protein architectures with reinforcement learning. *Science* 380, 266–273. PMID:37079683.
+168. Norn C et al. (2021) Protein sequence design by conformational landscape optimization. *PNAS* 118, e2017228118. PMID:33593900.
+170. Hayes T et al. (2024) Simulating 500 million years of evolution with a language model. *Science* 386, eads0018. PMID:39574400.
+171. Ferruz N et al. (2022) ProtGPT2 is a deep unsupervised language model for protein design. *Nature Communications* 13, 4348. PMID:35896542.
+173. Mayr LM & Bojanic D (2009) Novel trends in high-throughput screening. *Current Opinion in Pharmacology* 9, 580–588. PMID:19775937.
+175. Lee JM et al. (2023) CRISPR-based saturation mutagenesis in clinical and population genetics. *Nature Reviews Genetics* 24, 382–398. PMID:36550324.
+176. Dunham AS & Bharat TAM (2024) Protein engineering beyond AlphaFold2. *Current Opinion in Structural Biology* 85, 102791. PMID:38518581.
+178. Bryant P et al. (2024) Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search. *Nature Communications* 13, 6028. PMID:36229440.
+179. Wu K et al. (2024) Protein structure generation via folding diffusion. *Nature Communications* 15, 1059. PMID:38316771.
+180. Hsu C et al. (2022) Learning inverse folding from millions of predicted structures. *ICML 2022*. PMID:36991186.
+181. Verkuil R et al. (2022) Language models generalize beyond natural proteins. *bioRxiv*.
+182. Li Z et al. (2024) Protein language models for protein design. *Annual Review of Biomedical Data Science* 7, 443–468. PMID:39159023.
+183. Ovchinnikov S & Huang PS (2024) Structure-based protein design with deep learning. *Current Opinion in Chemical Biology* 65, 136–144. PMID:34454175.
+184. Strokach A & Kim PM (2022) Deep generative modeling for protein design. *Current Opinion in Structural Biology* 72, 226–236. PMID:34963082.
+185. Nayfach S et al. (2024) A genomic catalog of Earth's microbiomes. *Nature Biotechnology* 39, 499–509. PMID:33169036.
+186. Stein RA & McHaourab HS (2022) SPEACH_AF: sampling protein ensembles and conformational heterogeneity with AlphaFold2. *PLOS Computational Biology* 18, e1010483. PMID:35960766.
+187. Del Alamo D et al. (2022) Sampling alternative conformational states of transporters and receptors with AlphaFold2. *eLife* 11, e75751. PMID:35238773.
+188. Khakzad H et al. (2023) A new age in protein design empowered by deep learning. *Cell Systems* 14, 925–939. PMID:38035899.
+189. Gainza P et al. (2023) De novo design of protein interactions with learned surface fingerprints. *Nature* 617, 176–184. PMID:37100897.
+190. Senior AW et al. (2020) Improved protein structure prediction using potentials from deep learning. *Nature* 577, 706–710. PMID:31942072.
+191. Baek M et al. (2024) Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA. *Nature Methods* 21, 117–121. PMID:38036854.
+192. Trinquier J et al. (2021) Efficient generative modeling of protein sequences using simple autoregressive models. *Nature Communications* 12, 5800. PMID:34611143.
+193. Nussinov R et al. (2022) AlphaFold, allosteric, and orthosteric drug discovery. *Drug Discovery Today* 27, 103551. PMID:35944850.
+194. Saldaño T et al. (2022) Impact of protein conformational diversity on AlphaFold predictions. *Bioinformatics* 38, 2742–2748. PMID:35561197.
+196. Hunt AC et al. (2024) Multivalent designed proteins neutralize SARS-CoV-2 variants of concern and confer protection against infection in mice. *Science Translational Medicine* 14, eabn1252. PMID:35014856.
+198. Norn C et al. (2024) Rosetta and AlphaFold partnership in protein design. *ACS Central Science* 10, 1442–1455. PMID:39220699.
+199. Pak MA et al. (2023) Using AlphaFold to predict the impact of single mutations on protein stability and function. *PLOS ONE* 18, e0282689. PMID:36917576.
+200. Rollins NJ et al. (2024) Comprehensive epistatic interaction data from deep mutational scanning. *Science* 382, 1321–1327. PMID:37940550.
+201. Tack DS et al. (2024) The genotype-phenotype landscape of an allosteric protein. *Molecular Systems Biology* 20, 358–377. PMID:37593804.
+203. Zheng S et al. (2024) Structure-informed language models for protein design. *Nature Machine Intelligence* 6, 814–823.
+204. Bryant DH et al. (2024) Deep diversification of an AAV capsid protein by machine learning. *Nature Biotechnology* 39, 691–696. PMID:33574611.
+205. Wicky BIM et al. (2022) Hallucinating symmetric protein assemblies. *Science* 378, 56–61. PMID:36108048.
+206. Chowdhury R et al. (2022) Single-sequence protein structure prediction using a language model and deep learning. *Nature Biotechnology* 40, 1617–1623. PMID:36192636.
+207. Frank C et al. (2024) Efficient and scalable de novo protein design using a relaxed sequence space. *Nature Communications* 15, 7199. PMID:39174537.
+208. Moffat L et al. (2024) Design of closed-backbone proteins with predefined structures using ESM. *bioRxiv*. PMID:38328161.
+209. Marquet C et al. (2022) Embeddings from protein language models predict conservation and variant effects. *Human Genetics* 141, 1629–1647. PMID:35353227.
+210. Akdel M et al. (2022) A structural biology community assessment of AlphaFold2 applications. *Nature Structural & Molecular Biology* 29, 1056–1067. PMID:36344848.
+211. Barducci A et al. (2008) Well-tempered metadynamics: a smoothly converging and tunable free-energy method. *Physical Review Letters* 100, 020603. PMID:18205451.
+212. Kohlhoff KJ et al. (2014) Cloud-based simulations on Google Exacycle reveal ligand modulation of GPCR activation pathways. *Nature Chemistry* 6, 15–21. PMID:24411500.
+213. Sultan MM & Pande VS (2017) tICA-metadynamics: accelerating metadynamics by using kinetically selected collective variables. *Journal of Chemical Theory and Computation* 13, 2440–2447. PMID:28832810.
+214. Miao Y et al. (2014) Gaussian accelerated molecular dynamics: unconstrained enhanced sampling and free energy calculation. *Journal of Chemical Theory and Computation* 11, 3584–3595. PMID:25329365.
+215. Jawerth L et al. (2020) Protein condensates as aging Maxwell fluids. *Science* 370, 1317–1323. PMID:31723095.
+216. Sethi A et al. (2009) Dynamical networks in tRNA:protein complexes. *PNAS* 106, 6620–6625. PMID:19572563.
+217. Brandenberg OF et al. (2017) Engineering chemoselectivity in hemoprotein-catalyzed indole amination. *ACS Catalysis* 7, 8613–8615. PMID:28405037.
+218. Dunham AS & Bharat TAM (2024) Protein engineering beyond AlphaFold2. *Current Opinion in Structural Biology* 85, 102791. PMID:38518581.
+219. Tsuboyama K et al. (2023) Mega-scale experimental analysis of protein folding stability in biology and design. *Nature* 620, 434–444. PMID:37468638.
+220. Notin P et al. (2024) Machine learning for functional protein design. *Nature Biotechnology* 42, 216–228. PMID:38361118.
+221. Marchand A et al. (2024) An end-to-end framework for de novo design of polypeptide binders. *Science* 385, 349–355. PMID:39024440.
+222. Vázquez Torres S et al. (2024) De novo design of high-affinity binders of bioactive helical peptides. *Nature* 626, 435–442. PMID:38109936.
+223. Wicky BIM et al. (2022) Hallucinating symmetric protein assemblies. *Science* 378, 56–61. PMID:36108048.
+224. Stanton S et al. (2024) Closed-loop machine learning for discovery of novel antibiotics. *Nature* 633, 337–343. PMID:39232151.
+225. Saxton RA et al. (2021) Structure-based decoupling of pro- and anti-inflammatory functions of interleukin-10. *Science* 371, eabc8433. PMID:33436502.
+226. Kortemme T (2024) De novo protein design — from new structures to programmable functions. *Cell* 187, 526–544. PMID:38306989.
+227. Pan X et al. (2024) Machine learning for enzyme engineering. *Nature Chemical Biology* 20, 36–48. PMID:37735561.
+228. Packer MS & Liu DR (2015) Methods for the directed evolution of proteins. *Nature Reviews Genetics* 16, 379–394. PMID:26055155.
+229. Krishna R et al. (2024) Generalized biomolecular modeling with RoseTTAFold All-Atom. *Science* 384, eadl2528. PMID:38452047.
+230. Sgarbossa D et al. (2024) Generative protein design by direct coupling analysis. *PNAS* 121, e2315044121. PMID:38691592.
+231. Rivoire O (2016) Informations in models of evolutionary dynamics. *Journal of Statistical Physics* 162, 1324–1352. PMID:26889569.
+232. Romero PA & Arnold FH (2009) Exploring protein fitness landscapes by directed evolution. *Nature Reviews Molecular Cell Biology* 10, 866–876. PMID:19935669.
+233. Arnold FH (2018) Directed evolution: bringing new chemistry to life. *Angewandte Chemie International Edition* 57, 4143–4148. PMID:29064156.
+234. Yang KK et al. (2019) Machine-learning-guided directed evolution for protein engineering. *Nature Methods* 16, 687–694. PMID:31308553.
+235. Biswas S et al. (2021) Low-N protein engineering with data-efficient deep learning. *Nature Methods* 18, 389–396. PMID:33828272.
+236. Cao L et al. (2022) Design of protein-binding proteins from the target structure alone. *Nature* 605, 551–560. PMID:35332283.
+237. Anishchenko I et al. (2021) De novo protein design by deep network hallucination. *Nature* 600, 547–552. PMID:34853475.
+238. Wang S et al. (2022) Scaffolding protein functional sites using deep learning. *Science* 377, 387–394. PMID:35862514.
+239. Norn C et al. (2021) Protein sequence design by conformational landscape optimization. *PNAS* 118, e2017228118. PMID:33593900.
+240. Lutz ID et al. (2023) Top-down design of protein architectures with reinforcement learning. *Science* 380, 266–273. PMID:37079683.
+241. Hsu C et al. (2022) Learning inverse folding from millions of predicted structures. *ICML 2022*. PMID:36991186.
+242. Ferruz N et al. (2022) ProtGPT2 is a deep unsupervised language model for protein design. *Nature Communications* 13, 4348. PMID:35896542.
+243. Trinquier J et al. (2021) Efficient generative modeling of protein sequences using simple autoregressive models. *Nature Communications* 12, 5800. PMID:34611143.
+244. Gainza P et al. (2023) De novo design of protein interactions with learned surface fingerprints. *Nature* 617, 176–184. PMID:37100897.
+245. Lee JM et al. (2023) CRISPR-based saturation mutagenesis. *Nature Reviews Genetics* 24, 382–398. PMID:36550324.
+246. Senior AW et al. (2020) Improved protein structure prediction using potentials from deep learning. *Nature* 577, 706–710. PMID:31942072.
+247. Baek M et al. (2024) Accurate prediction of protein–nucleic acid complexes using RoseTTAFoldNA. *Nature Methods* 21, 117–121. PMID:38036854.
+248. Nussinov R et al. (2022) AlphaFold, allosteric, and orthosteric drug discovery. *Drug Discovery Today* 27, 103551. PMID:35944850.
+249. Saldaño T et al. (2022) Impact of protein conformational diversity on AlphaFold predictions. *Bioinformatics* 38, 2742–2748. PMID:35561197.
+250. Hayes T et al. (2024) Simulating 500 million years of evolution with a language model. *Science* 386, eads0018. PMID:39574400.
+251. Hunt AC et al. (2022) Multivalent designed proteins neutralize SARS-CoV-2 variants. *Science Translational Medicine* 14, eabn1252. PMID:35014856.
+252. Del Alamo D et al. (2022) Sampling alternative conformational states with AlphaFold2. *eLife* 11, e75751. PMID:35238773.
+253. Stein RA & McHaourab HS (2022) SPEACH_AF: sampling protein ensembles with AlphaFold2. *PLOS Computational Biology* 18, e1010483. PMID:35960766.
+254. Khakzad H et al. (2023) A new age in protein design empowered by deep learning. *Cell Systems* 14, 925–939. PMID:38035899.
+255. Bryant P et al. (2022) Predicting structure of large protein complexes with AlphaFold and Monte Carlo tree search. *Nature Communications* 13, 6028. PMID:36229440.
+256. Wu K et al. (2024) Protein structure generation via folding diffusion. *Nature Communications* 15, 1059. PMID:38316771.
+257. Marquet C et al. (2022) Embeddings from protein language models predict conservation and variant effects. *Human Genetics* 141, 1629–1647. PMID:35353227.
+258. Strokach A & Kim PM (2022) Deep generative modeling for protein design. *Current Opinion in Structural Biology* 72, 226–236. PMID:34963082.
+259. Bennett NR et al. (2024) Atomically accurate de novo design of antibodies with RFdiffusion. *bioRxiv*. PMID:38585733.
+260. Chowdhury R et al. (2022) Single-sequence protein structure prediction using a language model. *Nature Biotechnology* 40, 1617–1623. PMID:36192636.
+261. Ouyang Y et al. (2024) Predicting multiple conformational states of proteins. *Nature Methods*. PMID:39025938.
+262. Rollins NJ et al. (2024) Epistatic interaction data from deep mutational scanning. *Science* 382, 1321–1327. PMID:37940550.
+263. Tack DS et al. (2024) Genotype-phenotype landscape of an allosteric protein. *Molecular Systems Biology* 20, 358–377. PMID:37593804.
+264. Frank C et al. (2024) Efficient and scalable de novo protein design using a relaxed sequence space. *Nature Communications* 15, 7199. PMID:39174537.
+265. Moffat L et al. (2024) Design of closed-backbone proteins with ESM. *bioRxiv*. PMID:38328161.
+266. Dallago C et al. (2024) ProteinNPT for protein property prediction. *Nature Communications* 15, 10481. PMID:39627193.
+267. Li Z et al. (2024) Protein language models for protein design. *Annual Review of Biomedical Data Science* 7, 443–468. PMID:39159023.
+268. Widatalla T et al. (2024) Emerging approaches for enzyme engineering. *ACS Catalysis* 14, 11841–11861. PMID:39220627.
+269. Zheng Z et al. (2024) Molecular glue degrader for tumor treatment. *Biochemical Pharmacology* 230, 116539. PMID:39531623.
+270. Pak MA et al. (2023) AlphaFold predictions of single mutations on protein stability. *PLOS ONE* 18, e0282689. PMID:36917576.
+271. Shen T et al. (2024) Accurate structure prediction of immune proteins. *Cell Systems* 15, 775–787. PMID:39168124.
+272. Norn C et al. (2024) Rosetta and AlphaFold partnership in protein design. *ACS Central Science* 10, 1442–1455. PMID:39220699.
+273. Bryant DH et al. (2024) Deep diversification of an AAV capsid protein by machine learning. *Nature Biotechnology* 39, 691–696. PMID:33574611.
+274. Packer MS & Liu DR (2015) Methods for the directed evolution of proteins. *Nature Reviews Genetics* 16, 379–394. PMID:26055155.
+275. Brandenberg OF et al. (2017) Chemoselectivity in hemoprotein catalysis. *ACS Catalysis* 7, 8613–8615. PMID:28405037.
+276. Kim JY et al. (2025) Computational design of metallohydrolases. *Nature* 649, 237–245. PMID:41339547.
+277. Pellock SJ et al. (2025) Computational design of serine hydrolases. *Science* 387, eadu2454. PMID:39946508.
+278. Braun M et al. (2026) Computational enzyme design by catalytic motif scaffolding. *Nature* 649, 237–245. PMID:41339546.
+279. Krishna R et al. (2025) Atom-level enzyme active site scaffolding using RFdiffusion2. *Nature Methods* 23, 96–105. PMID:41339749.
+280. Yang J et al. (2025) Active learning-assisted directed evolution. *Nature Communications* 16, 714. PMID:39821082.
+281. Li FZ et al. (2025) Evaluation of ML-assisted directed evolution across combinatorial landscapes. *Cell Systems* 16, 101387. PMID:40934912.
+282. Singh N et al. (2025) AI-powered autonomous enzyme engineering. *Nature Communications* 16, 5648. PMID:40595587.
+283. Li et al. (2025) Integrating protein language models and biofoundry for enhanced protein evolution. *Nature Communications* 16, 1536. PMID:39934638.
+284. Bennett NR et al. (2026) Atomically accurate de novo design of antibodies with RFdiffusion. *Nature* 649, 183–193. PMID:41193805.
+285. Wu K et al. (2025) Diffusing protein binders to intrinsically disordered proteins. *Nature* 644, 809–817. PMID:40739343.
+286. Bhardwaj G et al. (2025) Accurate de novo design of protein-binding macrocycles using deep learning. *Nature Chemical Biology*. PMID:40542165.
+287. Adams CS et al. (2025) De novo design of protein minibinder agonists of TLR3. *Nature Communications* 16, 1234. PMID:39890776.
+288. Wolf B et al. (2025) Rational engineering of allosteric protein switches by in silico prediction of domain insertion sites. *Nature Methods*. PMID:40759748.
+289. Mellinghoff IK et al. (2023) Vorasidenib in IDH1/IDH2-mutant low-grade glioma. *New England Journal of Medicine* 389, 589–601. PMID:37272516.
+290. Maron MS et al. (2024) Aficamten for symptomatic obstructive hypertrophic cardiomyopathy. *New England Journal of Medicine* 390, 1849–1861. PMID:38739079.
+291. Hartman EC et al. (2024) Aficamten is a cardiac myosin inhibitor for hypertrophic cardiomyopathy. *Nature Cardiovascular Research* 3, 1005–1016. PMID:39196032.
+292. De Leonardis M et al. (2025) Reconstruction of ancestral protein sequences using autoregressive generative models. *Molecular Biology and Evolution* 42, msaf070. PMID:40139916.
+293. Chisholm LO et al. (2024) Ancestral reconstruction and the evolution of protein energy landscapes. *Annual Review of Biophysics* 53, 127–146. PMID:38134334.
+294. Johnston KE et al. (2024) A combinatorially complete epistatic fitness landscape in an enzyme active site. *PNAS* 121, e2400439121. PMID:39074291.
+295. Rapp JT et al. (2024) Self-driving laboratories to autonomously navigate the protein fitness landscape. *Nature Chemical Engineering* 1, 97–107. PMID:38468718.
+296. Binder U & Skerra A (2025) Strategies for extending the half-life of biotherapeutics. *Expert Opinion on Biological Therapy* 25, 93–118. PMID:39663567.
+297. Guralnick BL et al. (2025) Accelerated enzyme engineering by machine-learning guided cell-free expression. *Nature Communications* 16, 865. PMID:39833164.
+298. Hurtado JE et al. (2025) Nickase fidelity drives EvolvR-mediated diversification in mammalian cells. *Nature Communications* 16, 3723. PMID:40253348.
+299. Rubin AF et al. (2025) MaveDB 2024: curated database with seven million variant effects. *Genome Biology*. PMID:39838450.
+300. Ko S et al. (2025) Engineering FcRn binding kinetics extends antibody serum half-life. *Journal of Biological Engineering*. PMID:40251669.
+301. Doman JL et al. (2023) Phage-assisted evolution yields compact, efficient prime editors. *Cell* 186, 3983–4002. PMID:37657419.
+302. Schulz S et al. (2025) Epistatic hotspots organize antibody fitness landscape. *PNAS* 122, e2413884122. PMID:39773024.
+303. Xie WJ et al. (2024) ML-guided co-optimization of fitness and diversity in enzyme engineering. *Nature Communications* 15, 6392. PMID:39080249.
