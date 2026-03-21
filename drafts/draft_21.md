@@ -4,7 +4,7 @@
 
 ## Abstract
 
-Protein function is not a scalar property assignable from a single static structure but a high-dimensional manifold embedded in sequence space, shaped by conformational dynamics, evolutionary history, allosteric coupling, and intrinsic disorder. While structure prediction has been effectively solved by AlphaFold-class models, the mapping from sequence to *function* — catalytic activity, binding specificity, allosteric regulation, phase behavior — remains the central unsolved problem in molecular biology. This paper examines seven frontiers of the sequence-to-function problem through the lens of recent advances (2022–2026): (I) conformational ensemble modeling via ML force fields and cryo-EM heterogeneity analysis; (II) mechanistic interpretability of protein language models; (III) the challenge of intrinsically disordered proteins and biomolecular condensates; (IV) ancestral sequence reconstruction as a tool for evolutionary trajectory engineering; (V) allosteric communication networks analyzed through spectral graph theory; (VI) the inverse design problem — engineering sequences for specified enzymatic and therapeutic functions; and (VII) therapeutic translation of computationally designed proteins. Each section introduces a novel mathematical framework (F144–F157) drawn from random matrix theory, information geometry, polymer physics, optimal transport, spectral graph theory, variational inference, and competing-risks survival analysis. Together, these frameworks provide a unified geometric perspective on the protein function manifold and establish quantitative foundations for the emerging discipline of function-first protein engineering.
+Protein function is not a scalar property assignable from a single static structure but a high-dimensional manifold embedded in sequence space, shaped by conformational dynamics, evolutionary history, allosteric coupling, and intrinsic disorder. While structure prediction has been effectively solved by AlphaFold-class models, the mapping from sequence to *function* — catalytic activity, binding specificity, allosteric regulation, phase behavior — remains one of the central unsolved problem in molecular biology. This document examines seven frontiers of the sequence-to-function problem through the lens of recent advances (2022–2026): (I) conformational ensemble modeling via ML force fields and cryo-EM heterogeneity analysis; (II) mechanistic interpretability of protein language models; (III) the challenge of intrinsically disordered proteins and biomolecular condensates; (IV) ancestral sequence reconstruction as a tool for evolutionary trajectory engineering; (V) allosteric communication networks analyzed through spectral graph theory; (VI) the inverse design problem — engineering sequences for specified enzymatic and therapeutic functions; and (VII) therapeutic translation of computationally designed proteins. Each section introduces a novel mathematical framework (F144–F157) drawn from random matrix theory, information geometry, polymer physics, optimal transport, spectral graph theory, variational inference, and competing-risks survival analysis. Together, these frameworks provide a unified geometric perspective on the protein function manifold and establish quantitative foundations for the emerging discipline of function-first protein engineering.
 
 ---
 
@@ -467,8 +467,7 @@ The conceptual shift from "allostery as a property of specific proteins" to "all
 
 The pharmaceutical industry has increasingly exploited allosteric mechanisms for drug design, driven by the recognition that allosteric sites often provide superior selectivity over orthosteric (active-site) binding. Recent FDA approvals and clinical advances include:
 
-**Allosteric IDH1/2 inhibitor vorasidenib.** FDA-approved in August 2024, vorasidenib is a brain-penetrant allosteric dual IDH1/2 inhibitor for low-grade glioma that achieved progression-free survival of 27.7 vs. 11.1 months in the Phase 3 INDIGO trial (Mellinghoff et al., 2023; PMID:37272516). **Allosteric cardiac myosin inhibitor aficamten**, FDA-approved in 2024 for obstructive hypertrophic cardiomyopathy, stabilizes the weak actin-binding state of cardiac myosin by slowing phosphate release (Maron et al., 2024; PMID:38739079; Hartman et al., 2024; PMID:39196032). Weng et al. (2024; PMID:38109937) mapped 26,000+ KRAS mutations, revealing allosteric propagation pathways across the central β-sheet and identifying multiple genetically validated allosteric pockets.
-
+**Allosteric IDH1/2 inhibitor vorasidenib.** FDA-approved in August 2024, vorasidenib is a brain-penetrant allosteric dual IDH1/2 inhibitor for low-grade glioma that achieved progression-free survival of 27.7 vs. 11.1 months in the Phase 3 INDIGO trial (Mellinghoff et al., 2023; PMID:37272516). **Allosteric cardiac myosin inhibitor aficamten**, FDA-approved in 2024 for obstructive hypertrophic cardiomyopathy, stabilizes the weak actin-binding state of cardiac myosin by slowing phosphate release (Maron et al., 2024; PMID:38739079; Hartman et al., 2024; PMID:39196032).
 **KRAS G12C inhibitors.** Sotorasib (2021) and adagrasib (2022) both exploit a cryptic allosteric pocket beneath the switch-II loop of KRAS G12C that is absent in wild-type KRAS and in the GTP-bound active state (Skoulidis et al., 2021; PMID:34096690; Jänne et al., 2022; PMID:36200978). These drugs lock KRAS in the inactive GDP-bound state. The development of pan-KRAS inhibitors targeting the non-mutant-selective switch-II pocket (e.g., BI-2852) represents the next frontier (Kessler et al., 2019; PMID:31406373). RMC-6236, a RAS(ON) multi-selective inhibitor, demonstrated clinical activity against KRAS G12X mutations in Phase 1/2 trials (Holderfield et al., 2024; PMID:39133542).
 
 **Acquired resistance to allosteric KRAS inhibitors.** Sotorasib and adagrasib, while revolutionary, face acquired resistance through multiple mechanisms: secondary KRAS mutations (Y96D, R68S, H95D/Q/R) that disrupt drug binding or stabilize the GTP-bound state; bypass pathway activation (NRAS, BRAF, MET amplification); and histological transformation to squamous or small-cell phenotypes. These resistance mechanisms highlight the importance of understanding the full allosteric network: resistance mutations at switch-II distal sites propagate conformational changes through the allosteric communication pathway identified by spectral graph analysis (F152), suggesting that next-generation inhibitors should target multiple nodes in the network simultaneously. Pan-KRAS(ON) inhibitors like RMC-6236 (Holderfield et al., 2024; PMID:39133542) represent this multi-node strategy by targeting the active (GTP-bound) state that all oncogenic KRAS mutants share.
@@ -658,7 +657,7 @@ The convergence of high-throughput experimentation, ML-guided design, and automa
 
 The inverse sequence-function mapping problem can be formulated as Bayesian inference: given a desired function *f**, compute the posterior distribution over sequences:
 
-$$P(s \mid f = f^*) = \frac{P(f^* \mid s) \cdot P_{evo}(s)}{Z(f^*)}$$
+$$P(s \mid f = f^{\ast}) = \frac{P(f^{\ast} \mid s) \cdot P_{evo}(s)}{Z(f^{\ast})}$$
 
 where *P*(*f** | *s*) is the likelihood of achieving function *f** given sequence *s* (modeled by a trained fitness predictor), *P*_evo(*s*) is the evolutionary prior (the PLM's learned sequence distribution), and *Z*(*f**) = ∫ *P*(*f** | *s*) · *P*_evo(*s*) d*s* is the evidence (partition function).
 
@@ -814,7 +813,9 @@ $$\int_0^{\tau_{clin}} S(t; s) \, dt \geq \text{AUC}_{min}$$
 
 A sequence *s** is Pareto-optimal if no other sequence *s*' improves any objective without worsening at least one other. The Pareto frontier is the set of all Pareto-optimal sequences:
 
-$$\mathcal{P} = \{s^* \in S : \nexists s' \text{ with } F_i(s') \geq F_i(s^*) \, \forall i \text{ and } F_j(s') > F_j(s^*) \text{ for some } j\}$$
+```math
+$$\mathcal{P} = \{ s_{ \_ } \in S : \nexists s' \text{ s.t. } F_{i}(s') \geq F_{i}(s_{ \_ }), \forall i \text{ and } F_{j}(s') > F_{j}(s_{ \_ }) \text{ for some } j \}$$
+```
 
 **Variable definitions:**
 - *s*: protein sequence
@@ -1286,5 +1287,10 @@ The stakes extend beyond academic understanding. Engineered proteins are central
 294. Johnston KE et al. (2024) A combinatorially complete epistatic fitness landscape in an enzyme active site. *PNAS* 121, e2400439121. PMID:39074291. https://pubmed.ncbi.nlm.nih.gov/39074291/
 295. Rapp JT et al. (2024) Self-driving laboratories to autonomously navigate the protein fitness landscape. *Nature Chemical Engineering* 1, 97–107. PMID:38468718. https://pubmed.ncbi.nlm.nih.gov/38468718/
 296. Binder U & Skerra A (2025) Strategies for extending the half-life of biotherapeutics. *Expert Opinion on Biological Therapy* 25, 93–118. PMID:39663567. https://pubmed.ncbi.nlm.nih.gov/39663567/
-297. Campone M et al. (2025) Vepdegestrant in advanced breast cancer (VERITAC-2 Phase 3). *New England Journal of Medicine*. PMID:40454645. https://pubmed.ncbi.nlm.nih.gov/40454645/https://pubmed.ncbi.nlm.nih.gov/28405037/
-
+297. Guralnick BL et al. (2025) Accelerated enzyme engineering by machine-learning guided cell-free expression. *Nature Communications* 16, 865. PMID:39833164. https://pubmed.ncbi.nlm.nih.gov/39833164/
+298. Hurtado JE et al. (2025) Nickase fidelity drives EvolvR-mediated diversification in mammalian cells. *Nature Communications* 16, 3723. PMID:40253348. https://pubmed.ncbi.nlm.nih.gov/40253348/
+299. Rubin AF et al. (2025) MaveDB 2024: curated database with seven million variant effects. *Genome Biology*. PMID:39838450. https://pubmed.ncbi.nlm.nih.gov/39838450/
+300. Ko S et al. (2025) Engineering FcRn binding kinetics extends antibody serum half-life. *Journal of Biological Engineering*. PMID:40251669. https://pubmed.ncbi.nlm.nih.gov/40251669/
+301. Doman JL et al. (2023) Phage-assisted evolution yields compact, efficient prime editors. *Cell* 186, 3983–4002. PMID:37657419. https://pubmed.ncbi.nlm.nih.gov/37657419/
+302. Schulz S et al. (2025) Epistatic hotspots organize antibody fitness landscape. *PNAS* 122, e2413884122. PMID:39773024. https://pubmed.ncbi.nlm.nih.gov/39773024/
+303. Xie WJ et al. (2024) ML-guided co-optimization of fitness and diversity in enzyme engineering. *Nature Communications* 15, 6392. PMID:39080249. https://pubmed.ncbi.nlm.nih.gov/39080249/
