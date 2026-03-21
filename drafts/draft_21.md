@@ -1265,4 +1265,26 @@ The stakes extend beyond academic understanding. Engineered proteins are central
 273. Bryant DH et al. (2024) Deep diversification of an AAV capsid protein by machine learning. *Nature Biotechnology* 39, 691–696. PMID:33574611. https://pubmed.ncbi.nlm.nih.gov/33574611/
 274. Packer MS & Liu DR (2015) Methods for the directed evolution of proteins. *Nature Reviews Genetics* 16, 379–394. PMID:26055155. https://pubmed.ncbi.nlm.nih.gov/26055155/
 275. Brandenberg OF et al. (2017) Chemoselectivity in hemoprotein catalysis. *ACS Catalysis* 7, 8613–8615. PMID:28405037. https://pubmed.ncbi.nlm.nih.gov/28405037/
+276. Kim JY et al. (2025) Computational design of metallohydrolases. *Nature* 649, 237–245. PMID:41339547. https://pubmed.ncbi.nlm.nih.gov/41339547/
+277. Pellock SJ et al. (2025) Computational design of serine hydrolases. *Science* 387, eadu2454. PMID:39946508. https://pubmed.ncbi.nlm.nih.gov/39946508/
+278. Braun M et al. (2026) Computational enzyme design by catalytic motif scaffolding. *Nature* 649, 237–245. PMID:41339546. https://pubmed.ncbi.nlm.nih.gov/41339546/
+279. Krishna R et al. (2025) Atom-level enzyme active site scaffolding using RFdiffusion2. *Nature Methods* 23, 96–105. PMID:41339749. https://pubmed.ncbi.nlm.nih.gov/41339749/
+280. Yang J et al. (2025) Active learning-assisted directed evolution. *Nature Communications* 16, 714. PMID:39821082. https://pubmed.ncbi.nlm.nih.gov/39821082/
+281. Li FZ et al. (2025) Evaluation of ML-assisted directed evolution across combinatorial landscapes. *Cell Systems* 16, 101387. PMID:40934912. https://pubmed.ncbi.nlm.nih.gov/40934912/
+282. Singh N et al. (2025) AI-powered autonomous enzyme engineering. *Nature Communications* 16, 5648. PMID:40595587. https://pubmed.ncbi.nlm.nih.gov/40595587/
+283. Li et al. (2025) Integrating protein language models and biofoundry for enhanced protein evolution. *Nature Communications* 16, 1536. PMID:39934638. https://pubmed.ncbi.nlm.nih.gov/39934638/
+284. Bennett NR et al. (2026) Atomically accurate de novo design of antibodies with RFdiffusion. *Nature* 649, 183–193. PMID:41193805. https://pubmed.ncbi.nlm.nih.gov/41193805/
+285. Wu K et al. (2025) Diffusing protein binders to intrinsically disordered proteins. *Nature* 644, 809–817. PMID:40739343. https://pubmed.ncbi.nlm.nih.gov/40739343/
+286. Bhardwaj G et al. (2025) Accurate de novo design of protein-binding macrocycles using deep learning. *Nature Chemical Biology*. PMID:40542165. https://pubmed.ncbi.nlm.nih.gov/40542165/
+287. Adams CS et al. (2025) De novo design of protein minibinder agonists of TLR3. *Nature Communications* 16, 1234. PMID:39890776. https://pubmed.ncbi.nlm.nih.gov/39890776/
+288. Wolf B et al. (2025) Rational engineering of allosteric protein switches by in silico prediction of domain insertion sites. *Nature Methods*. PMID:40759748. https://pubmed.ncbi.nlm.nih.gov/40759748/
+289. Mellinghoff IK et al. (2023) Vorasidenib in IDH1/IDH2-mutant low-grade glioma. *New England Journal of Medicine* 389, 589–601. PMID:37272516. https://pubmed.ncbi.nlm.nih.gov/37272516/
+290. Maron MS et al. (2024) Aficamten for symptomatic obstructive hypertrophic cardiomyopathy. *New England Journal of Medicine* 390, 1849–1861. PMID:38739079. https://pubmed.ncbi.nlm.nih.gov/38739079/
+291. Hartman EC et al. (2024) Aficamten is a cardiac myosin inhibitor for hypertrophic cardiomyopathy. *Nature Cardiovascular Research* 3, 1005–1016. PMID:39196032. https://pubmed.ncbi.nlm.nih.gov/39196032/
+292. De Leonardis M et al. (2025) Reconstruction of ancestral protein sequences using autoregressive generative models. *Molecular Biology and Evolution* 42, msaf070. PMID:40139916. https://pubmed.ncbi.nlm.nih.gov/40139916/
+293. Chisholm LO et al. (2024) Ancestral reconstruction and the evolution of protein energy landscapes. *Annual Review of Biophysics* 53, 127–146. PMID:38134334. https://pubmed.ncbi.nlm.nih.gov/38134334/
+294. Johnston KE et al. (2024) A combinatorially complete epistatic fitness landscape in an enzyme active site. *PNAS* 121, e2400439121. PMID:39074291. https://pubmed.ncbi.nlm.nih.gov/39074291/
+295. Rapp JT et al. (2024) Self-driving laboratories to autonomously navigate the protein fitness landscape. *Nature Chemical Engineering* 1, 97–107. PMID:38468718. https://pubmed.ncbi.nlm.nih.gov/38468718/
+296. Binder U & Skerra A (2025) Strategies for extending the half-life of biotherapeutics. *Expert Opinion on Biological Therapy* 25, 93–118. PMID:39663567. https://pubmed.ncbi.nlm.nih.gov/39663567/
+297. Campone M et al. (2025) Vepdegestrant in advanced breast cancer (VERITAC-2 Phase 3). *New England Journal of Medicine*. PMID:40454645. https://pubmed.ncbi.nlm.nih.gov/40454645/https://pubmed.ncbi.nlm.nih.gov/28405037/
 
