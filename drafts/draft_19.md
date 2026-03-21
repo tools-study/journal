@@ -527,15 +527,13 @@ For LNP-based delivery, liposomal lipid nanoparticle architectures with enhanced
 
 ### 6.5 Staying in the Safe Region of the Cusp Surface
 
-The closed-loop controller's geometric objective can be stated precisely in terms of the cusp surface: **maintain the system trajectory within the region bounded by the upper fold line and a safety margin ε below the lower fold line**, where ε is chosen to account for the maximum stochastic fluctuation in cumulative exposure.
+The closed-loop controller's geometric objective can be stated precisely in terms of the cusp surface: **maintain the system trajectory within the region bounded by the upper fold line and a safety margin ε below the lower fold line**, where ε is chosen to account for the maximum stochastic fluctuation in cumulative exposure. Formally, define the safe region as:
 
-<!--
-Formally, define the safe region as:
-
+```math
 $$\mathcal{S} = \left\{(a, b) : \Delta(a, b) > \epsilon_{\text{safety}} \text{ or } a > 0 \right\}$$
+```
 
 where Δ(*a*, *b*) = 4*a*³ + 27*b*² is the discriminant and ε_safety is calibrated from the estimated noise intensity *D* (Section 2.6). The controller adjusts the factor dosage *u*(*t*)—which maps to the control parameters (*a*, *b*)—to ensure that the trajectory remains within S.
--->
 
 ---
 
