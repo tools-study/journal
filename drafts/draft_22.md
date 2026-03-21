@@ -312,7 +312,7 @@ where J(t) = ∂f/∂x|_{x*(t)} is the Jacobian evaluated along the limit cycle.
 
 **Stability margin.** We define the oscillator stability margin as:
 ```math
-M = |λ₂| = (1/T) · |ln|μ₂|| 
+$$ M = |\lambda_2| = \frac{1}{T} \cdot \left| \ln |\mu_2| \right| $$
 ```
 
 where λ₂ is the largest non-trivial Floquet exponent (most slowly decaying perturbation mode). A larger M indicates faster recovery from perturbations and thus a more robust oscillator.
