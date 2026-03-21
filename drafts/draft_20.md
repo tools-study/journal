@@ -506,297 +506,296 @@ This quantitative, measurement-driven approach to epigenome therapy is now techn
 
 ## References
 
-1. Zaret KS, Carroll JS. Pioneer transcription factors: establishing competence for gene expression. *Genes Dev.* 2011;25(21):2227-2241. **PMID: 22056668** [https://pubmed.ncbi.nlm.nih.gov/22056668/](https://pubmed.ncbi.nlm.nih.gov/22056668/)
+1. Zaret KS, Carroll JS. Pioneer transcription factors: establishing competence for gene expression. *Genes Dev.* 2011;25(21):2227-2241. **PMID: 22056668** 
 
-2. Balsalobre A, Drouin J. Pioneer factors as master regulators of the epigenome and cell fate. *Nat Rev Mol Cell Biol.* 2022;23(7):449-464. **PMID: 35264768** [https://pubmed.ncbi.nlm.nih.gov/35264768/](https://pubmed.ncbi.nlm.nih.gov/35264768/)
+2. Balsalobre A, Drouin J. Pioneer factors as master regulators of the epigenome and cell fate. *Nat Rev Mol Cell Biol.* 2022;23(7):449-464. **PMID: 35264768** 
 
-3. Zaret KS. Pioneer transcription factors initiating gene network changes. *Annu Rev Genet.* 2020;54:367-385. **PMID: 32886547** [https://pubmed.ncbi.nlm.nih.gov/32886547/](https://pubmed.ncbi.nlm.nih.gov/32886547/)
+3. Zaret KS. Pioneer transcription factors initiating gene network changes. *Annu Rev Genet.* 2020;54:367-385. **PMID: 32886547** 
 
-4. Larson ED, Marsh AJ, Harrison MM. Pioneer factors — key regulators of chromatin and gene expression. *Nat Rev Genet.* 2023;24(12):809-815. **PMID: 37940484** [https://pubmed.ncbi.nlm.nih.gov/37940484/](https://pubmed.ncbi.nlm.nih.gov/37940484/)
+4. Larson ED, Marsh AJ, Harrison MM. Pioneer factors — key regulators of chromatin and gene expression. *Nat Rev Genet.* 2023;24(12):809-815. **PMID: 37940484** 
 
-5. Wang Y, et al. Structural insights into the cooperative nucleosome recognition and chromatin opening by FOXA1 and GATA4. *Mol Cell.* 2024;84(16):3061-3079. **PMID: 39121853** [https://pubmed.ncbi.nlm.nih.gov/39121853/](https://pubmed.ncbi.nlm.nih.gov/39121853/)
+5. Wang Y, et al. Structural insights into the cooperative nucleosome recognition and chromatin opening by FOXA1 and GATA4. *Mol Cell.* 2024;84(16):3061-3079. **PMID: 39121853** 
 
-6. Kobayashi W, et al. Nucleosome-bound NR5A2 structure reveals pioneer factor mechanism by DNA minor groove anchor competition. *Nat Struct Mol Biol.* 2024;31(5):757-766. **PMID: 38409506** [https://pubmed.ncbi.nlm.nih.gov/38409506/](https://pubmed.ncbi.nlm.nih.gov/38409506/)
+6. Kobayashi W, et al. Nucleosome-bound NR5A2 structure reveals pioneer factor mechanism by DNA minor groove anchor competition. *Nat Struct Mol Biol.* 2024;31(5):757-766. **PMID: 38409506** 
 
-7. Michael AK, et al. Mechanisms of OCT4-SOX2 motif readout on nucleosomes. *Science.* 2020;368(6498):1460-1465. **PMID: 32286363** [https://pubmed.ncbi.nlm.nih.gov/32286363/](https://pubmed.ncbi.nlm.nih.gov/32286363/)
+7. Michael AK, et al. Mechanisms of OCT4-SOX2 motif readout on nucleosomes. *Science.* 2020;368(6498):1460-1465. **PMID: 32286363** 
 
-8. Lerner J, et al. Different chromatin-scanning modes lead to targeting of compacted chromatin by pioneer factors FOXA1 and SOX2. *Nat Struct Mol Biol.* 2023;30(8):1178-1189. **PMID: 37405916** [https://pubmed.ncbi.nlm.nih.gov/37405916/](https://pubmed.ncbi.nlm.nih.gov/37405916/)
+8. Lerner J, et al. Different chromatin-scanning modes lead to targeting of compacted chromatin by pioneer factors FOXA1 and SOX2. *Nat Struct Mol Biol.* 2023;30(8):1178-1189. **PMID: 37405916** 
 
-9. Cirillo LA, et al. Opening of compacted chromatin by early developmental transcription factors HNF3 (FoxA) and GATA-4. *Mol Cell.* 2002;9(2):279-289. **PMID: 11864602** [https://pubmed.ncbi.nlm.nih.gov/11864602/](https://pubmed.ncbi.nlm.nih.gov/11864602/)
+9. Cirillo LA, et al. Opening of compacted chromatin by early developmental transcription factors HNF3 (FoxA) and GATA-4. *Mol Cell.* 2002;9(2):279-289. **PMID: 11864602** 
 
-10. Iwafuchi-Doi M, Zaret KS. Cell fate control by pioneer transcription factors. *Development.* 2016;143(11):1833-1837. **PMID: 27246710** [https://pubmed.ncbi.nlm.nih.gov/27246710/](https://pubmed.ncbi.nlm.nih.gov/27246710/)
+10. Iwafuchi-Doi M, Zaret KS. Cell fate control by pioneer transcription factors. *Development.* 2016;143(11):1833-1837. **PMID: 27246710** 
 
-11. Cirillo LA, et al. Binding of the winged-helix transcription factor HNF3 to a linker histone site on the nucleosome. *EMBO J.* 1998;17(1):244-254. **PMID: 15738986** [https://pubmed.ncbi.nlm.nih.gov/15738986/](https://pubmed.ncbi.nlm.nih.gov/15738986/)
+11. Cirillo LA, et al. Binding of the winged-helix transcription factor HNF3 to a linker histone site on the nucleosome. *EMBO J.* 1998;17(1):244-254. **PMID: 15738986** 
 
-12. Sinha S, et al. Defining transcription factor nucleosome binding with Pioneer-seq. *PLoS Genet.* 2025;21(3):e1011813. **PMID: 40240537** [https://pubmed.ncbi.nlm.nih.gov/40240537/](https://pubmed.ncbi.nlm.nih.gov/40240537/)
+12. Sinha S, et al. Defining transcription factor nucleosome binding with Pioneer-seq. *PLoS Genet.* 2025;21(3):e1011813. **PMID: 40240537** 
 
-13. Iurlaro M, et al. Collaboration between distinct SWI/SNF chromatin remodeling complexes directs enhancer selection and activation of macrophage inflammatory genes. *Immunity.* 2024;57(8):1780-1795. **PMID: 38843835** [https://pubmed.ncbi.nlm.nih.gov/38843835/](https://pubmed.ncbi.nlm.nih.gov/38843835/)
+13. Iurlaro M, et al. Collaboration between distinct SWI/SNF chromatin remodeling complexes directs enhancer selection and activation of macrophage inflammatory genes. *Immunity.* 2024;57(8):1780-1795. **PMID: 38843835** 
 
-14. Adams EJ, et al. FOXA1 mutations alter pioneering activity, differentiation and prostate cancer phenotypes. *Nature.* 2019;571(7765):408-412. **PMID: 31243370** [https://pubmed.ncbi.nlm.nih.gov/31243370/](https://pubmed.ncbi.nlm.nih.gov/31243370/)
+14. Adams EJ, et al. FOXA1 mutations alter pioneering activity, differentiation and prostate cancer phenotypes. *Nature.* 2019;571(7765):408-412. **PMID: 31243370** 
 
-15. Xu Z, et al. FOXA2 rewires AP-1 for transcriptional reprogramming and lineage plasticity in prostate cancer. *Nat Commun.* 2024;15(1):5315. **PMID: 38851846** [https://pubmed.ncbi.nlm.nih.gov/38851846/](https://pubmed.ncbi.nlm.nih.gov/38851846/)
+15. Xu Z, et al. FOXA2 rewires AP-1 for transcriptional reprogramming and lineage plasticity in prostate cancer. *Nat Commun.* 2024;15(1):5315. **PMID: 38851846** 
 
-16. Ciriello G, et al. Comprehensive molecular portraits of invasive lobular breast cancer. *Cell.* 2015;163(2):506-519. **PMID: 37582221** [https://pubmed.ncbi.nlm.nih.gov/37582221/](https://pubmed.ncbi.nlm.nih.gov/37582221/)
+16. Ciriello G, et al. Comprehensive molecular portraits of invasive lobular breast cancer. *Cell.* 2015;163(2):506-519. **PMID: 37582221** 
 
-17. Sharma A, et al. RNA activation of CEBPA improves leukemia treatment. *Mol Ther Nucleic Acids.* 2025;36(2):102428. **PMID: 40686853** [https://pubmed.ncbi.nlm.nih.gov/40686853/](https://pubmed.ncbi.nlm.nih.gov/40686853/)
+17. Sharma A, et al. RNA activation of CEBPA improves leukemia treatment. *Mol Ther Nucleic Acids.* 2025;36(2):102428. **PMID: 40686853** 
 
-18. Chen Y, et al. TIMEPOINT, a phase 1 study combining MTL-CEBPA with pembrolizumab. *Cell Rep Med.* 2025;6(4):102041. **PMID: 40128606** [https://pubmed.ncbi.nlm.nih.gov/40128606/](https://pubmed.ncbi.nlm.nih.gov/40128606/)
+18. Chen Y, et al. TIMEPOINT, a phase 1 study combining MTL-CEBPA with pembrolizumab. *Cell Rep Med.* 2025;6(4):102041. **PMID: 40128606** 
 
-19. Iwafuchi-Doi M, et al. The pioneer transcription factor FoxA maintains an accessible nucleosome configuration at enhancers for tissue-specific gene activation. *Mol Cell.* 2016;62(1):79-91. **PMID: 27058788** [https://pubmed.ncbi.nlm.nih.gov/27058788/](https://pubmed.ncbi.nlm.nih.gov/27058788/)
+19. Iwafuchi-Doi M, et al. The pioneer transcription factor FoxA maintains an accessible nucleosome configuration at enhancers for tissue-specific gene activation. *Mol Cell.* 2016;62(1):79-91. **PMID: 27058788** 
 
-20. Fernandez Garcia M, et al. Structural features of transcription factors associating with nucleosome binding. *Mol Cell.* 2019;75(5):921-932. **PMID: 31350118** [https://pubmed.ncbi.nlm.nih.gov/31350118/](https://pubmed.ncbi.nlm.nih.gov/31350118/)
+20. Fernandez Garcia M, et al. Structural features of transcription factors associating with nucleosome binding. *Mol Cell.* 2019;75(5):921-932. **PMID: 31350118** 
 
-21. Donaghey J, et al. Genetic determinants and epigenetic effects of pioneer-factor occupancy. *Nat Genet.* 2018;50(2):250-258. **PMID: 35524225** [https://pubmed.ncbi.nlm.nih.gov/35524225/](https://pubmed.ncbi.nlm.nih.gov/35524225/)
+21. Donaghey J, et al. Genetic determinants and epigenetic effects of pioneer-factor occupancy. *Nat Genet.* 2018;50(2):250-258. **PMID: 35524225** 
 
-22. Samata M, et al. Histone modifications regulate pioneer transcription factor cooperativity. *Nature.* 2023;619(7969):378-384. **PMID: 37316669** [https://pubmed.ncbi.nlm.nih.gov/37316669/](https://pubmed.ncbi.nlm.nih.gov/37316669/)
+22. Samata M, et al. Histone modifications regulate pioneer transcription factor cooperativity. *Nature.* 2023;619(7969):378-384. **PMID: 37316669** 
 
-23. Mayran A, Bhatt DM, Flower CT, et al. Pioneer factor Pax7 deploys a stable enhancer repertoire for specification of cell fate. *Nat Genet.* 2018;50(2):259-269. **PMID: 29358652** [https://pubmed.ncbi.nlm.nih.gov/29358652/](https://pubmed.ncbi.nlm.nih.gov/29358652/)
+23. Mayran A, Bhatt DM, Flower CT, et al. Pioneer factor Pax7 deploys a stable enhancer repertoire for specification of cell fate. *Nat Genet.* 2018;50(2):259-269. **PMID: 29358652** 
 
-24. Soufi A, et al. Pioneer transcription factors target partial DNA motifs on nucleosomes to initiate reprogramming. *Cell.* 2015;161(3):555-568. **PMID: 25892221** [https://pubmed.ncbi.nlm.nih.gov/25892221/](https://pubmed.ncbi.nlm.nih.gov/25892221/)
+24. Soufi A, et al. Pioneer transcription factors target partial DNA motifs on nucleosomes to initiate reprogramming. *Cell.* 2015;161(3):555-568. **PMID: 25892221** 
 
-25. Willnow P, Teleman AA. Nuclear position and local acetyl-CoA production regulate chromatin state. *Nature.* 2024;630(8016):466-474. **PMID: 38839952** [https://pubmed.ncbi.nlm.nih.gov/38839952/](https://pubmed.ncbi.nlm.nih.gov/38839952/)
+25. Willnow P, Teleman AA. Nuclear position and local acetyl-CoA production regulate chromatin state. *Nature.* 2024;630(8016):466-474. **PMID: 38839952** 
 
-26. Balmer ML, et al. ACLY and ACSS2 link nutrient-dependent chromatin accessibility to CD8 T cell effector responses. *J Exp Med.* 2024;221(9):e20231820. **PMID: 39150482** [https://pubmed.ncbi.nlm.nih.gov/39150482/](https://pubmed.ncbi.nlm.nih.gov/39150482/)
+26. Balmer ML, et al. ACLY and ACSS2 link nutrient-dependent chromatin accessibility to CD8 T cell effector responses. *J Exp Med.* 2024;221(9):e20231820. **PMID: 39150482** 
 
-27. Suzuki J, et al. Nutrient-driven histone code determines exhausted CD8+ T cell fates. *Science.* 2024;386(6727):eadj3020. **PMID: 39666821** [https://pubmed.ncbi.nlm.nih.gov/39666821/](https://pubmed.ncbi.nlm.nih.gov/39666821/)
+27. Suzuki J, et al. Nutrient-driven histone code determines exhausted CD8+ T cell fates. *Science.* 2024;386(6727):eadj3020. **PMID: 39666821** 
 
-28. Wellen KE, et al. ATP-citrate lyase links cellular metabolism to histone acetylation. *Science.* 2009;324(5930):1076-1080. **PMID: 19461003** [https://pubmed.ncbi.nlm.nih.gov/19461003/](https://pubmed.ncbi.nlm.nih.gov/19461003/)
+28. Wellen KE, et al. ATP-citrate lyase links cellular metabolism to histone acetylation. *Science.* 2009;324(5930):1076-1080. **PMID: 19461003** 
 
-29. Sutendra G, et al. A nuclear pyruvate dehydrogenase complex is important for the generation of acetyl-CoA and histone acetylation. *Cell.* 2014;158(1):84-97. **PMID: 30573679** [https://pubmed.ncbi.nlm.nih.gov/30573679/](https://pubmed.ncbi.nlm.nih.gov/30573679/)
+29. Sutendra G, et al. A nuclear pyruvate dehydrogenase complex is important for the generation of acetyl-CoA and histone acetylation. *Cell.* 2014;158(1):84-97. **PMID: 30573679** 
 
-30. Tahiliani M, et al. Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1. *Science.* 2009;324(5929):930-935. **PMID: 21130288** [https://pubmed.ncbi.nlm.nih.gov/21130288/](https://pubmed.ncbi.nlm.nih.gov/21130288/)
+30. Tahiliani M, et al. Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1. *Science.* 2009;324(5929):930-935. **PMID: 21130288** 
 
-31. Ward PS, et al. The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. *Cancer Cell.* 2010;17(3):225-234. **PMID: 22343889** [https://pubmed.ncbi.nlm.nih.gov/22343889/](https://pubmed.ncbi.nlm.nih.gov/22343889/)
+31. Ward PS, et al. The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate. *Cancer Cell.* 2010;17(3):225-234. **PMID: 22343889** 
 
-32. Xu W, et al. Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of α-ketoglutarate-dependent dioxygenases. *Cancer Cell.* 2011;19(1):17-30. **PMID: 21436587** [https://pubmed.ncbi.nlm.nih.gov/21436587/](https://pubmed.ncbi.nlm.nih.gov/21436587/)
+32. Xu W, et al. Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of α-ketoglutarate-dependent dioxygenases. *Cancer Cell.* 2011;19(1):17-30. **PMID: 21436587** 
 
-33. Turcan S, et al. IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype. *Nature.* 2012;483(7390):479-483. **PMID: 22588877** [https://pubmed.ncbi.nlm.nih.gov/22588877/](https://pubmed.ncbi.nlm.nih.gov/22588877/)
+33. Turcan S, et al. IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype. *Nature.* 2012;483(7390):479-483. **PMID: 22588877** 
 
-34. FDA Approval Summary: Vorasidenib for IDH-mutant Grade 2 astrocytoma or oligodendroglioma following surgery. *Clin Cancer Res.* 2025. **PMID: 40911439** [https://pubmed.ncbi.nlm.nih.gov/40911439/](https://pubmed.ncbi.nlm.nih.gov/40911439/)
+34. FDA Approval Summary: Vorasidenib for IDH-mutant Grade 2 astrocytoma or oligodendroglioma following surgery. *Clin Cancer Res.* 2025. **PMID: 40911439** 
 
-35. Mellinghoff IK, et al. Vorasidenib in IDH1- or IDH2-mutant low-grade glioma. *N Engl J Med.* 2023;389(7):589-601. **PMID: 37540028** [https://pubmed.ncbi.nlm.nih.gov/37540028/](https://pubmed.ncbi.nlm.nih.gov/37540028/)
+35. Mellinghoff IK, et al. Vorasidenib in IDH1- or IDH2-mutant low-grade glioma. *N Engl J Med.* 2023;389(7):589-601. **PMID: 37540028** 
 
-36. Konteatis Z, et al. Vorasidenib (AG-881): a first-in-class, brain-penetrant dual inhibitor of mutant IDH1 and 2 for treatment of glioma. *ACS Med Chem Lett.* 2020;11(2):101-107. **PMID: 36920791** [https://pubmed.ncbi.nlm.nih.gov/36920791/](https://pubmed.ncbi.nlm.nih.gov/36920791/)
+36. Konteatis Z, et al. Vorasidenib (AG-881): a first-in-class, brain-penetrant dual inhibitor of mutant IDH1 and 2 for treatment of glioma. *ACS Med Chem Lett.* 2020;11(2):101-107. **PMID: 36920791** 
 
-37. Wan N, et al. Histone lactylation contributes to autophagy-mediated inflammation in macrophages. *Autophagy.* 2024;20(1):63-74. **PMID: 37589473** [https://pubmed.ncbi.nlm.nih.gov/37589473/](https://pubmed.ncbi.nlm.nih.gov/37589473/)
+37. Wan N, et al. Histone lactylation contributes to autophagy-mediated inflammation in macrophages. *Autophagy.* 2024;20(1):63-74. **PMID: 37589473** 
 
-38. Moreno-Yruela C, et al. Class I histone deacetylases (HDAC1-3) are histone lysine delactylases. *Sci Adv.* 2022;8(50):eabi6696. **PMID: 36585562** [https://pubmed.ncbi.nlm.nih.gov/36585562/](https://pubmed.ncbi.nlm.nih.gov/36585562/)
+38. Moreno-Yruela C, et al. Class I histone deacetylases (HDAC1-3) are histone lysine delactylases. *Sci Adv.* 2022;8(50):eabi6696. **PMID: 36585562** 
 
-39. De Leo A, et al. Glucose-driven histone lactylation promotes the immunosuppressive activity of monocyte-derived macrophages in glioblastoma. *Immunity.* 2024;57(5):1105-1123. **PMID: 38703775** [https://pubmed.ncbi.nlm.nih.gov/38703775/](https://pubmed.ncbi.nlm.nih.gov/38703775/)
+39. De Leo A, et al. Glucose-driven histone lactylation promotes the immunosuppressive activity of monocyte-derived macrophages in glioblastoma. *Immunity.* 2024;57(5):1105-1123. **PMID: 38703775** 
 
-40. Wang N, et al. Histone lactylation boosts reparative gene activation post-myocardial infarction. *Circ Res.* 2022;131(11):893-908. **PMID: 37452175** [https://pubmed.ncbi.nlm.nih.gov/37452175/](https://pubmed.ncbi.nlm.nih.gov/37452175/)
+40. Wang N, et al. Histone lactylation boosts reparative gene activation post-myocardial infarction. *Circ Res.* 2022;131(11):893-908. **PMID: 37452175** 
 
-41. Xie Y, et al. Microglial histone lactylation promotes neuroinflammation after traumatic brain injury. *Neurobiol Dis.* 2023;185:106231. **PMID: 37634564** [https://pubmed.ncbi.nlm.nih.gov/37634564/](https://pubmed.ncbi.nlm.nih.gov/37634564/)
+41. Xie Y, et al. Microglial histone lactylation promotes neuroinflammation after traumatic brain injury. *Neurobiol Dis.* 2023;185:106231. **PMID: 37634564** 
 
-42. Chen Y, et al. Histone lactylation driven by lactate in exhausted CD8 T cells. *Front Immunol.* 2024;15:1437662. **PMID: 39417714** [https://pubmed.ncbi.nlm.nih.gov/39417714/](https://pubmed.ncbi.nlm.nih.gov/39417714/)
+42. Chen Y, et al. Histone lactylation driven by lactate in exhausted CD8 T cells. *Front Immunol.* 2024;15:1437662. **PMID: 39417714** 
 
-43. Sabari BR, et al. Intracellular crotonyl-CoA stimulates transcription through p300-catalyzed histone crotonylation. *Mol Cell.* 2015;58(2):203-215. **PMID: 25818647** [https://pubmed.ncbi.nlm.nih.gov/25818647/](https://pubmed.ncbi.nlm.nih.gov/25818647/)
+43. Sabari BR, et al. Intracellular crotonyl-CoA stimulates transcription through p300-catalyzed histone crotonylation. *Mol Cell.* 2015;58(2):203-215. **PMID: 25818647** 
 
-44. Liu S, et al. Chromodomain protein CDYL acts as a crotonyl-CoA hydratase to regulate gene expression. *Nat Chem Biol.* 2017;13(8):876-884. **PMID: 28525742** [https://pubmed.ncbi.nlm.nih.gov/28525742/](https://pubmed.ncbi.nlm.nih.gov/28525742/)
+44. Liu S, et al. Chromodomain protein CDYL acts as a crotonyl-CoA hydratase to regulate gene expression. *Nat Chem Biol.* 2017;13(8):876-884. **PMID: 28525742** 
 
-45. Liu Y, et al. Inhibition of ACSS2-mediated histone crotonylation alleviates kidney fibrosis via IL-1β-dependent macrophage activation and tubular cell senescence. *Nat Commun.* 2024;15(1):3241. **PMID: 38531898** [https://pubmed.ncbi.nlm.nih.gov/38531898/](https://pubmed.ncbi.nlm.nih.gov/38531898/)
+45. Liu Y, et al. Inhibition of ACSS2-mediated histone crotonylation alleviates kidney fibrosis via IL-1β-dependent macrophage activation and tubular cell senescence. *Nat Commun.* 2024;15(1):3241. **PMID: 38531898** 
 
-46. Wang Y, et al. Sodium crotonate alleviates diabetic kidney disease partially via the histone crotonylation pathway. *Inflammation.* 2024;47(5):1745-1764. **PMID: 38822951** [https://pubmed.ncbi.nlm.nih.gov/38822951/](https://pubmed.ncbi.nlm.nih.gov/38822951/)
+46. Wang Y, et al. Sodium crotonate alleviates diabetic kidney disease partially via the histone crotonylation pathway. *Inflammation.* 2024;47(5):1745-1764. **PMID: 38822951** 
 
-47. Xie Z, et al. Metabolic regulation of gene expression by histone lysine β-hydroxybutyrylation. *Mol Cell.* 2016;62(2):194-206. **PMID: 27105115** [https://pubmed.ncbi.nlm.nih.gov/27105115/](https://pubmed.ncbi.nlm.nih.gov/27105115/)
+47. Xie Z, et al. Metabolic regulation of gene expression by histone lysine β-hydroxybutyrylation. *Mol Cell.* 2016;62(2):194-206. **PMID: 27105115** 
 
-48. Ohishi T, et al. Histone β-hydroxybutyrylation is critical in reversal of sarcopenia. *Nat Aging.* 2024;4(8):1105-1120. **PMID: 39076122** [https://pubmed.ncbi.nlm.nih.gov/39076122/](https://pubmed.ncbi.nlm.nih.gov/39076122/)
+48. Ohishi T, et al. Histone β-hydroxybutyrylation is critical in reversal of sarcopenia. *Nat Aging.* 2024;4(8):1105-1120. **PMID: 39076122** 
 
-49. Lund PJ, et al. Protein acylations induced by a ketogenic diet demonstrate diverse patterns depending on organs. *Mol Cell Proteomics.* 2024;23(6):100776. **PMID: 38640734** [https://pubmed.ncbi.nlm.nih.gov/38640734/](https://pubmed.ncbi.nlm.nih.gov/38640734/)
+49. Lund PJ, et al. Protein acylations induced by a ketogenic diet demonstrate diverse patterns depending on organs. *Mol Cell Proteomics.* 2024;23(6):100776. **PMID: 38640734** 
 
-50. Huang H, et al. Lysine benzoylation is a histone mark regulated by SIRT2. *Nat Commun.* 2018;9(1):3374. **PMID: 30555539** [https://pubmed.ncbi.nlm.nih.gov/30555539/](https://pubmed.ncbi.nlm.nih.gov/30555539/)
+50. Huang H, et al. Lysine benzoylation is a histone mark regulated by SIRT2. *Nat Commun.* 2018;9(1):3374. **PMID: 30555539** 
 
-51. Ren X, et al. Global profiling of regulatory elements in the histone benzoylation pathway. *Nat Commun.* 2022;13(1):1369. **PMID: 35296687** [https://pubmed.ncbi.nlm.nih.gov/35296687/](https://pubmed.ncbi.nlm.nih.gov/35296687/)
+51. Ren X, et al. Global profiling of regulatory elements in the histone benzoylation pathway. *Nat Commun.* 2022;13(1):1369. **PMID: 35296687** 
 
-52. Wang Y, et al. Histone benzoylation serves as an epigenetic mark for DPF and YEATS family proteins. *Nucleic Acids Res.* 2021;49(1):275-288. **PMID: 33290558** [https://pubmed.ncbi.nlm.nih.gov/33290558/](https://pubmed.ncbi.nlm.nih.gov/33290558/)
+52. Wang Y, et al. Histone benzoylation serves as an epigenetic mark for DPF and YEATS family proteins. *Nucleic Acids Res.* 2021;49(1):275-288. **PMID: 33290558** 
 
-53. Li Y, et al. Probiotics derived sodium benzoate improves social behavior through regulation of histone lysine benzoylation in astrocytes. *Mol Psychiatry.* 2025;30(8):3214-3228. **PMID: 39905005** [https://pubmed.ncbi.nlm.nih.gov/39905005/](https://pubmed.ncbi.nlm.nih.gov/39905005/)
+53. Li Y, et al. Probiotics derived sodium benzoate improves social behavior through regulation of histone lysine benzoylation in astrocytes. *Mol Psychiatry.* 2025;30(8):3214-3228. **PMID: 39905005** 
 
-54. Tunnacliffe E, Bhatt DM, Chubb JR. Regulation of RNA polymerase II transcription through re-initiation and bursting. *Mol Cell.* 2025;85(10):1949-1966. **PMID: 40378829** [https://pubmed.ncbi.nlm.nih.gov/40378829/](https://pubmed.ncbi.nlm.nih.gov/40378829/)
+54. Tunnacliffe E, Bhatt DM, Chubb JR. Regulation of RNA polymerase II transcription through re-initiation and bursting. *Mol Cell.* 2025;85(10):1949-1966. **PMID: 40378829** 
 
-55. Gorin G, et al. Distinguishing between models of mammalian gene expression: telegraph-like models versus mechanistic models. *J R Soc Interface.* 2022;19(187):20210873. **PMID: 34610262** [https://pubmed.ncbi.nlm.nih.gov/34610262/](https://pubmed.ncbi.nlm.nih.gov/34610262/)
+55. Gorin G, et al. Distinguishing between models of mammalian gene expression: telegraph-like models versus mechanistic models. *J R Soc Interface.* 2022;19(187):20210873. **PMID: 34610262** 
 
-56. Corrigan AM, et al. Quantifying and correcting bias in transcriptional parameter inference from single-cell data. *Biophys J.* 2024;123(1):4-30. **PMID: 37885177** [https://pubmed.ncbi.nlm.nih.gov/37885177/](https://pubmed.ncbi.nlm.nih.gov/37885177/)
+56. Corrigan AM, et al. Quantifying and correcting bias in transcriptional parameter inference from single-cell data. *Biophys J.* 2024;123(1):4-30. **PMID: 37885177** 
 
-57. Fukaya T, Lim B, Levine M. Enhancer control of transcriptional bursting. *Cell.* 2016;166(2):358-368. **PMID: 27281222** [https://pubmed.ncbi.nlm.nih.gov/27281222/](https://pubmed.ncbi.nlm.nih.gov/27281222/)
+57. Fukaya T, Lim B, Levine M. Enhancer control of transcriptional bursting. *Cell.* 2016;166(2):358-368. **PMID: 27281222** 
 
-58. Larsson AJM, et al. Genomic encoding of transcriptional burst kinetics. *Nature.* 2019;565(7738):251-254. **PMID: 30570752** [https://pubmed.ncbi.nlm.nih.gov/30570752/](https://pubmed.ncbi.nlm.nih.gov/30570752/)
+58. Larsson AJM, et al. Genomic encoding of transcriptional burst kinetics. *Nature.* 2019;565(7738):251-254. **PMID: 30570752** 
 
-59. Du M, et al. Direct observation of a condensate effect on super-enhancer controlled gene bursting. *Cell.* 2024;187(2):331-344. **PMID: 38194964** [https://pubmed.ncbi.nlm.nih.gov/38194964/](https://pubmed.ncbi.nlm.nih.gov/38194964/)
+59. Du M, et al. Direct observation of a condensate effect on super-enhancer controlled gene bursting. *Cell.* 2024;187(2):331-344. **PMID: 38194964** 
 
-60. Kim JK, et al. High-throughput imaging screens identify molecular determinants of gene-specific bursting patterns. *Mol Cell.* 2025;85(3):612-628. **PMID: 40105563** [https://pubmed.ncbi.nlm.nih.gov/40105563/](https://pubmed.ncbi.nlm.nih.gov/40105563/)
+60. Kim JK, et al. High-throughput imaging screens identify molecular determinants of gene-specific bursting patterns. *Mol Cell.* 2025;85(3):612-628. **PMID: 40105563** 
 
-61. Ochiai H, et al. Genome-wide profiling of transcriptional burst kinetics from single-cell RNA-seq. *Nat Commun.* 2023;14(1):2135. **PMID: 36732629** [https://pubmed.ncbi.nlm.nih.gov/36732629/](https://pubmed.ncbi.nlm.nih.gov/36732629/)
+61. Ochiai H, et al. Genome-wide profiling of transcriptional burst kinetics from single-cell RNA-seq. *Nat Commun.* 2023;14(1):2135. **PMID: 36732629** 
 
-62. Wan Y, et al. Gene activity fully predicts transcriptional bursting dynamics. *Nat Methods.* 2023;20(5):718-726. **PMID: 35241838** [https://pubmed.ncbi.nlm.nih.gov/35241838/](https://pubmed.ncbi.nlm.nih.gov/35241838/)
+62. Wan Y, et al. Gene activity fully predicts transcriptional bursting dynamics. *Nat Methods.* 2023;20(5):718-726. **PMID: 35241838** 
 
-63. Ochoa A, et al. Single-cell RNA sequencing algorithms underestimate changes in transcriptional noise compared to single-molecule RNA imaging. *Genome Biol.* 2025;26(1):2. **PMID: 39716862** [https://pubmed.ncbi.nlm.nih.gov/39716862/](https://pubmed.ncbi.nlm.nih.gov/39716862/)
+63. Ochoa A, et al. Single-cell RNA sequencing algorithms underestimate changes in transcriptional noise compared to single-molecule RNA imaging. *Genome Biol.* 2025;26(1):2. **PMID: 39716862** 
 
-64. Samata M, et al. Transcriptional bursting dynamics in gene expression. *Front Genet.* 2024;15:1451461. **PMID: 39280094** [https://pubmed.ncbi.nlm.nih.gov/39280094/](https://pubmed.ncbi.nlm.nih.gov/39280094/)
+64. Samata M, et al. Transcriptional bursting dynamics in gene expression. *Front Genet.* 2024;15:1451461. **PMID: 39280094** 
 
-65. Bintu L, et al. Dynamics of epigenetic regulation at the single-cell level. *Science.* 2016;351(6274):720-724. **PMID: 26912859** [https://pubmed.ncbi.nlm.nih.gov/26912859/](https://pubmed.ncbi.nlm.nih.gov/26912859/)
+65. Bintu L, et al. Dynamics of epigenetic regulation at the single-cell level. *Science.* 2016;351(6274):720-724. **PMID: 26912859** 
 
-66. Bartman CR, et al. Enhancer regulation of transcriptional bursting parameters revealed by forced chromatin looping. *Mol Cell.* 2016;62(2):237-247. **PMID: 27067601** [https://pubmed.ncbi.nlm.nih.gov/27067601/](https://pubmed.ncbi.nlm.nih.gov/27067601/)
+66. Bartman CR, et al. Enhancer regulation of transcriptional bursting parameters revealed by forced chromatin looping. *Mol Cell.* 2016;62(2):237-247. **PMID: 27067601** 
 
-67. Kim S, et al. Probing allostery through DNA. *Science.* 2013;339(6121):816-819. **PMID: 32355327** [https://pubmed.ncbi.nlm.nih.gov/32355327/](https://pubmed.ncbi.nlm.nih.gov/32355327/)
+67. Kim S, et al. Probing allostery through DNA. *Science.* 2013;339(6121):816-819. **PMID: 32355327** 
 
-68. Alexander JM, et al. Live-cell imaging reveals enhancer-dependent Sox2 transcription in the absence of enhancer proximity. *eLife.* 2019;8:e41769. **PMID: 36734671** [https://pubmed.ncbi.nlm.nih.gov/36734671/](https://pubmed.ncbi.nlm.nih.gov/36734671/)
+68. Alexander JM, et al. Live-cell imaging reveals enhancer-dependent Sox2 transcription in the absence of enhancer proximity. *eLife.* 2019;8:e41769. **PMID: 36734671** 
 
-69. Rao SSP, et al. Cohesin loss eliminates all loop domains. *Cell.* 2017;171(2):305-320. **PMID: 36653449** [https://pubmed.ncbi.nlm.nih.gov/36653449/](https://pubmed.ncbi.nlm.nih.gov/36653449/)
+69. Rao SSP, et al. Cohesin loss eliminates all loop domains. *Cell.* 2017;171(2):305-320. **PMID: 36653449** 
 
-70. Arnold PR, et al. Diversity and emerging roles of enhancer RNA in regulation of gene expression and cell fate. *Front Cell Dev Biol.* 2019;7:377. **PMID: 37935373** [https://pubmed.ncbi.nlm.nih.gov/37935373/](https://pubmed.ncbi.nlm.nih.gov/37935373/)
+70. Arnold PR, et al. Diversity and emerging roles of enhancer RNA in regulation of gene expression and cell fate. *Front Cell Dev Biol.* 2019;7:377. **PMID: 37935373** 
 
-71. Luo J, et al. CRISPR live-cell imaging reveals chromatin dynamics and enhancer interactions at multiple non-repetitive loci. *Nat Biotechnol.* 2025;43(5):723-734. **PMID: 40355675** [https://pubmed.ncbi.nlm.nih.gov/40355675/](https://pubmed.ncbi.nlm.nih.gov/40355675/)
+71. Luo J, et al. CRISPR live-cell imaging reveals chromatin dynamics and enhancer interactions at multiple non-repetitive loci. *Nat Biotechnol.* 2025;43(5):723-734. **PMID: 40355675** 
 
-72. Chen X, et al. High-resolution dynamic imaging of chromatin DNA communication using Oligo-LiveFISH. *Cell.* 2025;188(10):2561-2579. **PMID: 40228623** [https://pubmed.ncbi.nlm.nih.gov/40228623/](https://pubmed.ncbi.nlm.nih.gov/40228623/)
+72. Chen X, et al. High-resolution dynamic imaging of chromatin DNA communication using Oligo-LiveFISH. *Cell.* 2025;188(10):2561-2579. **PMID: 40228623** 
 
-73. Peric-Hupkes D, et al. Molecular maps of the reorganization of genome-nuclear lamina interactions during differentiation. *Mol Cell.* 2010;38(4):603-613. **PMID: 37339642** [https://pubmed.ncbi.nlm.nih.gov/37339642/](https://pubmed.ncbi.nlm.nih.gov/37339642/)
+73. Peric-Hupkes D, et al. Molecular maps of the reorganization of genome-nuclear lamina interactions during differentiation. *Mol Cell.* 2010;38(4):603-613. **PMID: 37339642** 
 
-74. Deng Y, et al. Spatial-CUT&Tag: spatially resolved chromatin modification profiling at the cellular level. *Science.* 2022;375(6581):681-686. **PMID: 36198802** [https://pubmed.ncbi.nlm.nih.gov/36198802/](https://pubmed.ncbi.nlm.nih.gov/36198802/)
+74. Deng Y, et al. Spatial-CUT&Tag: spatially resolved chromatin modification profiling at the cellular level. *Science.* 2022;375(6581):681-686. **PMID: 36198802** 
 
-75. Benjamin DI, et al. Metabolic reprogramming in the tumour microenvironment. *Nat Rev Cancer.* 2024;24(5):323-339. **PMID: 39326887** [https://pubmed.ncbi.nlm.nih.gov/39326887/](https://pubmed.ncbi.nlm.nih.gov/39326887/)
+75. Benjamin DI, et al. Metabolic reprogramming in the tumour microenvironment. *Nat Rev Cancer.* 2024;24(5):323-339. **PMID: 39326887** 
 
-76. Li J, et al. LDHA inhibition reshapes antitumor immunity. *Nat Chem Biol.* 2024;20(1):108-117. **PMID: 37989596** [https://pubmed.ncbi.nlm.nih.gov/37989596/](https://pubmed.ncbi.nlm.nih.gov/37989596/)
+76. Li J, et al. LDHA inhibition reshapes antitumor immunity. *Nat Chem Biol.* 2024;20(1):108-117. **PMID: 37989596** 
 
-77. Song W, et al. Direct cardiac reprogramming: current status and future prospects. *Front Cell Dev Biol.* 2022;10:901372. **PMID: 34517359** [https://pubmed.ncbi.nlm.nih.gov/34517359/](https://pubmed.ncbi.nlm.nih.gov/34517359/)
+77. Song W, et al. Direct cardiac reprogramming: current status and future prospects. *Front Cell Dev Biol.* 2022;10:901372. **PMID: 34517359** 
 
-78. Martínez-Jiménez CP, et al. Aging increases cell-to-cell transcriptional variability upon immune stimulation. *Science.* 2017;355(6332):1433-1436. **PMID: 36585866** [https://pubmed.ncbi.nlm.nih.gov/36585866/](https://pubmed.ncbi.nlm.nih.gov/36585866/)
+78. Martínez-Jiménez CP, et al. Aging increases cell-to-cell transcriptional variability upon immune stimulation. *Science.* 2017;355(6332):1433-1436. **PMID: 36585866** 
 
-79. Dahl JA, et al. Pioneer factors: nature or nurture? *Crit Rev Biochem Mol Biol.* 2024;59(3-4):180-206. **PMID: 38842179** [https://pubmed.ncbi.nlm.nih.gov/38842179/](https://pubmed.ncbi.nlm.nih.gov/38842179/)
+79. Dahl JA, et al. Pioneer factors: nature or nurture? *Crit Rev Biochem Mol Biol.* 2024;59(3-4):180-206. **PMID: 38842179** 
 
-80. Gao Y, et al. cBAF generates subnucleosomes that expand OCT4 binding and function beyond DNA motifs at enhancers. *Nat Struct Mol Biol.* 2024;31(11):1695-1707. **PMID: 39349686** [https://pubmed.ncbi.nlm.nih.gov/39349686/](https://pubmed.ncbi.nlm.nih.gov/39349686/)
+80. Gao Y, et al. cBAF generates subnucleosomes that expand OCT4 binding and function beyond DNA motifs at enhancers. *Nat Struct Mol Biol.* 2024;31(11):1695-1707. **PMID: 39349686** 
 
-81. Lyu X, et al. The SWI/SNF chromatin remodeling complexes BAF and PBAF differentially regulate epigenetic transitions in exhausted CD8+ T cells. *Nat Immunol.* 2023;24(8):1295-1307. **PMID: 37315535** [https://pubmed.ncbi.nlm.nih.gov/37315535/](https://pubmed.ncbi.nlm.nih.gov/37315535/)
+81. Lyu X, et al. The SWI/SNF chromatin remodeling complexes BAF and PBAF differentially regulate epigenetic transitions in exhausted CD8+ T cells. *Nat Immunol.* 2023;24(8):1295-1307. **PMID: 37315535** 
 
-82. Chen T, Bhatt DM, et al. A pioneer factor locally opens compacted chromatin to enable targeted ATP-dependent nucleosome remodeling. *Nat Struct Mol Biol.* 2023;30(1):31-37. **PMID: 36536101** [https://pubmed.ncbi.nlm.nih.gov/36536101/](https://pubmed.ncbi.nlm.nih.gov/36536101/)
+82. Chen T, Bhatt DM, et al. A pioneer factor locally opens compacted chromatin to enable targeted ATP-dependent nucleosome remodeling. *Nat Struct Mol Biol.* 2023;30(1):31-37. **PMID: 36536101** 
 
-83. Hansen JL, et al. Biochemistry and regulation of histone lysine l-lactylation. *Nat Rev Mol Cell Biol.* 2025;26(4):296-315. **PMID: 39533061** [https://pubmed.ncbi.nlm.nih.gov/39533061/](https://pubmed.ncbi.nlm.nih.gov/39533061/)
+83. Hansen JL, et al. Biochemistry and regulation of histone lysine l-lactylation. *Nat Rev Mol Cell Biol.* 2025;26(4):296-315. **PMID: 39533061** 
 
-84. Yang D, et al. Lysine crotonylation in disease: mechanisms, biological functions and therapeutic targets. *Epigenetics Chromatin.* 2025;18(1):7. **PMID: 39836379** [https://pubmed.ncbi.nlm.nih.gov/39836379/](https://pubmed.ncbi.nlm.nih.gov/39836379/)
+84. Yang D, et al. Lysine crotonylation in disease: mechanisms, biological functions and therapeutic targets. *Epigenetics Chromatin.* 2025;18(1):7. **PMID: 39836379** 
 
-85. Li Z, et al. The mechanisms, regulations, and functions of histone lysine crotonylation. *Cell Death Discov.* 2024;10(1):57. **PMID: 38302426** [https://pubmed.ncbi.nlm.nih.gov/38302426/](https://pubmed.ncbi.nlm.nih.gov/38302426/)
+85. Li Z, et al. The mechanisms, regulations, and functions of histone lysine crotonylation. *Cell Death Discov.* 2024;10(1):57. **PMID: 38302426** 
 
-86. Gao M, et al. Protein crotonylation: basic research and clinical diseases. *Biochem Pharmacol.* 2024;222:116157. **PMID: 38460623** [https://pubmed.ncbi.nlm.nih.gov/38460623/](https://pubmed.ncbi.nlm.nih.gov/38460623/)
+86. Gao M, et al. Protein crotonylation: basic research and clinical diseases. *Biochem Pharmacol.* 2024;222:116157. **PMID: 38460623** 
 
-87. Li W, et al. Nuclear ACLY recruits P300 and HAT1 to promote histone acetylation and transcription. *Adv Sci.* 2025;12(5):2414367. **PMID: 39686679** [https://pubmed.ncbi.nlm.nih.gov/39686679/](https://pubmed.ncbi.nlm.nih.gov/39686679/)
+87. Li W, et al. Nuclear ACLY recruits P300 and HAT1 to promote histone acetylation and transcription. *Adv Sci.* 2025;12(5):2414367. **PMID: 39686679** 
 
-88. Mews P, et al. Acetyl-CoA synthetase regulates histone acetylation and hippocampal memory. *Nature.* 2017;546(7658):381-386. **PMID: 28562591** [https://pubmed.ncbi.nlm.nih.gov/28562591/](https://pubmed.ncbi.nlm.nih.gov/28562591/)
+88. Mews P, et al. Acetyl-CoA synthetase regulates histone acetylation and hippocampal memory. *Nature.* 2017;546(7658):381-386. **PMID: 28562591** 
 
-89. Nagaraj R, et al. Nuclear localization of mitochondrial TCA cycle enzymes as a critical step in mammalian zygotic genome activation. *Cell.* 2017;168(1-2):210-223. **PMID: 28086092** [https://pubmed.ncbi.nlm.nih.gov/28086092/](https://pubmed.ncbi.nlm.nih.gov/28086092/)
+89. Nagaraj R, et al. Nuclear localization of mitochondrial TCA cycle enzymes as a critical step in mammalian zygotic genome activation. *Cell.* 2017;168(1-2):210-223. **PMID: 28086092** 
 
-90. Cai L, et al. Acetyl-CoA induces cell growth and proliferation by promoting the acetylation of histones at growth genes. *Mol Cell.* 2011;42(4):426-437. **PMID: 21596309** [https://pubmed.ncbi.nlm.nih.gov/21596309/](https://pubmed.ncbi.nlm.nih.gov/21596309/)
+90. Cai L, et al. Acetyl-CoA induces cell growth and proliferation by promoting the acetylation of histones at growth genes. *Mol Cell.* 2011;42(4):426-437. **PMID: 21596309** 
 
-91. Tunnacliffe E, Chubb JR. What is a transcriptional burst? *Trends Genet.* 2020;36(4):288-297. **PMID: 32035656** [https://pubmed.ncbi.nlm.nih.gov/32035656/](https://pubmed.ncbi.nlm.nih.gov/32035656/)
+91. Tunnacliffe E, Chubb JR. What is a transcriptional burst? *Trends Genet.* 2020;36(4):288-297. **PMID: 32035656** 
 
-92. Sanchez A, Golding I. Genetic determinants and cellular constraints in noisy gene expression. *Science.* 2013;342(6163):1188-1193. **PMID: 24311680** [https://pubmed.ncbi.nlm.nih.gov/24311680/](https://pubmed.ncbi.nlm.nih.gov/24311680/)
+92. Sanchez A, Golding I. Genetic determinants and cellular constraints in noisy gene expression. *Science.* 2013;342(6163):1188-1193. **PMID: 24311680** 
 
-93. Hnisz D, et al. A phase separation model for transcriptional control. *Cell.* 2017;169(1):13-23. **PMID: 28340338** [https://pubmed.ncbi.nlm.nih.gov/28340338/](https://pubmed.ncbi.nlm.nih.gov/28340338/)
+93. Hnisz D, et al. A phase separation model for transcriptional control. *Cell.* 2017;169(1):13-23. **PMID: 28340338** 
 
-94. Brandão HB, et al. DNA-loop-extruding SMC complexes can traverse one another in vivo. *Nat Struct Mol Biol.* 2021;28(8):642-651. **PMID: 38181756** [https://pubmed.ncbi.nlm.nih.gov/38181756/](https://pubmed.ncbi.nlm.nih.gov/38181756/)
+94. Brandão HB, et al. DNA-loop-extruding SMC complexes can traverse one another in vivo. *Nat Struct Mol Biol.* 2021;28(8):642-651. **PMID: 38181756** 
 
-95. Dhanasekaran R, et al. The MYC oncogene — the grand orchestrator of cancer growth and immune evasion. *Nat Rev Clin Oncol.* 2022;19(1):23-36. **PMID: 35437325** [https://pubmed.ncbi.nlm.nih.gov/35437325/](https://pubmed.ncbi.nlm.nih.gov/35437325/)
+95. Dhanasekaran R, et al. The MYC oncogene — the grand orchestrator of cancer growth and immune evasion. *Nat Rev Clin Oncol.* 2022;19(1):23-36. **PMID: 35437325** 
 
-96. Hainer SJ, Fazzio TG. High-resolution chromatin profiling using CUT&RUN. *Curr Protoc Mol Biol.* 2019;126(1):e85. **PMID: 30688406** [https://pubmed.ncbi.nlm.nih.gov/30688406/](https://pubmed.ncbi.nlm.nih.gov/30688406/)
+96. Hainer SJ, Fazzio TG. High-resolution chromatin profiling using CUT&RUN. *Curr Protoc Mol Biol.* 2019;126(1):e85. **PMID: 30688406** 
 
-97. Raj A, et al. Stochastic mRNA synthesis in mammalian cells. *PLoS Biol.* 2006;4(10):e309. **PMID: 17048983** [https://pubmed.ncbi.nlm.nih.gov/17048983/](https://pubmed.ncbi.nlm.nih.gov/17048983/)
+97. Raj A, et al. Stochastic mRNA synthesis in mammalian cells. *PLoS Biol.* 2006;4(10):e309. **PMID: 17048983** 
 
-98. Nicolas D, et al. Modulation of transcriptional burst frequency by histone acetylation. *Proc Natl Acad Sci USA.* 2018;115(27):7153-7158. **PMID: 29915065** [https://pubmed.ncbi.nlm.nih.gov/29915065/](https://pubmed.ncbi.nlm.nih.gov/29915065/)
+98. Nicolas D, et al. Modulation of transcriptional burst frequency by histone acetylation. *Proc Natl Acad Sci USA.* 2018;115(27):7153-7158. **PMID: 29915065** 
 
-99. Wan Y, et al. Transcriptional bursting: stochasticity in deterministic development. *Development.* 2023;150(12):dev201749. **PMID: 37350406** [https://pubmed.ncbi.nlm.nih.gov/37350406/](https://pubmed.ncbi.nlm.nih.gov/37350406/)
+99. Wan Y, et al. Transcriptional bursting: stochasticity in deterministic development. *Development.* 2023;150(12):dev201749. **PMID: 37350406** 
 
-100. Lim B, Levine MS. Enhancer-promoter communication: hubs or loops? *Curr Opin Genet Dev.* 2021;67:5-9. **PMID: 33360872** [https://pubmed.ncbi.nlm.nih.gov/33360872/](https://pubmed.ncbi.nlm.nih.gov/33360872/)
+100. Lim B, Levine MS. Enhancer-promoter communication: hubs or loops? *Curr Opin Genet Dev.* 2021;67:5-9. **PMID: 33360872** 
 
-101. van Steensel B, Furlong EEM. The role of transcription in shaping the spatial organization of the genome. *Nat Rev Mol Cell Biol.* 2019;20(6):327-337. **PMID: 30886348** [https://pubmed.ncbi.nlm.nih.gov/30886348/](https://pubmed.ncbi.nlm.nih.gov/30886348/)
+101. van Steensel B, Furlong EEM. The role of transcription in shaping the spatial organization of the genome. *Nat Rev Mol Cell Biol.* 2019;20(6):327-337. **PMID: 30886348** 
 
-102. Blobel GA, et al. Testing the super-enhancer concept. *Nat Rev Genet.* 2021;22(12):749-755. **PMID: 34480110** [https://pubmed.ncbi.nlm.nih.gov/34480110/](https://pubmed.ncbi.nlm.nih.gov/34480110/)
+102. Blobel GA, et al. Testing the super-enhancer concept. *Nat Rev Genet.* 2021;22(12):749-755. **PMID: 34480110** 
 
-103. Hafner A, Bhatt DM, Tsai A, et al. Quantitative analysis of transcription factor dynamics in living cells. *Nat Rev Genet.* 2023;24(11):754-773. **PMID: 37169889** [https://pubmed.ncbi.nlm.nih.gov/37169889/](https://pubmed.ncbi.nlm.nih.gov/37169889/)
+103. Hafner A, Bhatt DM, Tsai A, et al. Quantitative analysis of transcription factor dynamics in living cells. *Nat Rev Genet.* 2023;24(11):754-773. **PMID: 37169889** 
 
-104. Lupiáñez DG, et al. Disruptions of topological chromatin domains cause pathogenic rewiring of gene-enhancer interactions. *Cell.* 2015;161(5):1012-1025. **PMID: 25959774** [https://pubmed.ncbi.nlm.nih.gov/25959774/](https://pubmed.ncbi.nlm.nih.gov/25959774/)
+104. Lupiáñez DG, et al. Disruptions of topological chromatin domains cause pathogenic rewiring of gene-enhancer interactions. *Cell.* 2015;161(5):1012-1025. **PMID: 25959774** 
 
-105. Ma J, et al. TCA-cycle metabolites in the nucleus: drivers of chromatin and epigenetic control. *Nat Rev Mol Cell Biol.* 2025;26(6):431-449. **PMID: 39820613** [https://pubmed.ncbi.nlm.nih.gov/39820613/](https://pubmed.ncbi.nlm.nih.gov/39820613/)
+105. Ma J, et al. TCA-cycle metabolites in the nucleus: drivers of chromatin and epigenetic control. *Nat Rev Mol Cell Biol.* 2025;26(6):431-449. **PMID: 39820613** 
 
-106. Guo C, et al. Nuclear ATP-citrate lyase regulates chromatin-dependent activation and maintenance of the myofibroblast gene program. *Nat Cardiovasc Res.* 2024;3(8):948-964. **PMID: 39196045** [https://pubmed.ncbi.nlm.nih.gov/39196045/](https://pubmed.ncbi.nlm.nih.gov/39196045/)
+106. Guo C, et al. Nuclear ATP-citrate lyase regulates chromatin-dependent activation and maintenance of the myofibroblast gene program. *Nat Cardiovasc Res.* 2024;3(8):948-964. **PMID: 39196045** 
 
-107. Chen Y, et al. Structural insights into the recognition of native nucleosomes by pioneer transcription factors. *Curr Opin Struct Biol.* 2025;92:103012. **PMID: 40101497** [https://pubmed.ncbi.nlm.nih.gov/40101497/](https://pubmed.ncbi.nlm.nih.gov/40101497/)
+107. Chen Y, et al. Structural insights into the recognition of native nucleosomes by pioneer transcription factors. *Curr Opin Struct Biol.* 2025;92:103012. **PMID: 40101497** 
 
-108. Lohr D, et al. Structural dynamics in chromatin unraveling by pioneer transcription factors. *Biophys Rev.* 2024;16(5):623-637. **PMID: 39502776** [https://pubmed.ncbi.nlm.nih.gov/39502776/](https://pubmed.ncbi.nlm.nih.gov/39502776/)
+108. Lohr D, et al. Structural dynamics in chromatin unraveling by pioneer transcription factors. *Biophys Rev.* 2024;16(5):623-637. **PMID: 39502776** 
 
-109. Zhang X, et al. Basis for lineage-determining pioneer factors targeting distinct repressed chromatin states. *Nat Struct Mol Biol.* 2025;32(7):1102-1114. **PMID: 40355686** [https://pubmed.ncbi.nlm.nih.gov/40355686/](https://pubmed.ncbi.nlm.nih.gov/40355686/)
+109. Zhang X, et al. Basis for lineage-determining pioneer factors targeting distinct repressed chromatin states. *Nat Struct Mol Biol.* 2025;32(7):1102-1114. **PMID: 40355686** 
 
-110. Zhao S, et al. The SWI/SNF PBAF complex facilitates REST occupancy at repressive chromatin. *Mol Cell.* 2025;85(9):1874-1889. **PMID: 40306253** [https://pubmed.ncbi.nlm.nih.gov/40306253/](https://pubmed.ncbi.nlm.nih.gov/40306253/)
+110. Zhao S, et al. The SWI/SNF PBAF complex facilitates REST occupancy at repressive chromatin. *Mol Cell.* 2025;85(9):1874-1889. **PMID: 40306253** 
 
-111. Wang Z, et al. Mesoscale chromatin confinement facilitates pioneer transcription factor target search. *Nat Struct Mol Biol.* 2025;32(1):45-56. **PMID: 39367253** [https://pubmed.ncbi.nlm.nih.gov/39367253/](https://pubmed.ncbi.nlm.nih.gov/39367253/)
+111. Wang Z, et al. Mesoscale chromatin confinement facilitates pioneer transcription factor target search. *Nat Struct Mol Biol.* 2025;32(1):45-56. **PMID: 39367253** 
 
-112. Chen L, et al. Interplay between pioneer transcription factors and epigenetic modifiers in cell reprogramming. *Trends Cell Biol.* 2025;35(1):52-68. **PMID: 39834592** [https://pubmed.ncbi.nlm.nih.gov/39834592/](https://pubmed.ncbi.nlm.nih.gov/39834592/)
+112. Chen L, et al. Interplay between pioneer transcription factors and epigenetic modifiers in cell reprogramming. *Trends Cell Biol.* 2025;35(1):52-68. **PMID: 39834592** 
 
-113. O'Dwyer MR, et al. Nucleosome fibre topology guides cooperative transcription factor binding to enhancers. *Nature.* 2025;639(8051):234-242. **PMID: 39695228** [https://pubmed.ncbi.nlm.nih.gov/39695228/](https://pubmed.ncbi.nlm.nih.gov/39695228/)
+113. O'Dwyer MR, et al. Nucleosome fibre topology guides cooperative transcription factor binding to enhancers. *Nature.* 2025;639(8051):234-242. **PMID: 39695228** 
 
-114. Li X, et al. GATA3 pioneers new enhancers via stepwise nucleosome exposure. *Cell Rep.* 2025;44(5):115234. **PMID: 40479714** [https://pubmed.ncbi.nlm.nih.gov/40479714/](https://pubmed.ncbi.nlm.nih.gov/40479714/)
+114. Li X, et al. GATA3 pioneers new enhancers via stepwise nucleosome exposure. *Cell Rep.* 2025;44(5):115234. **PMID: 40479714** 
 
-115. Beaulieu-LeBlanc J, et al. Long-term histone lactylation connects metabolic and epigenetic rewiring in innate immune memory. *Cell.* 2025;188(10):2680-2698. **PMID: 40318634** [https://pubmed.ncbi.nlm.nih.gov/40318634/](https://pubmed.ncbi.nlm.nih.gov/40318634/)
+115. Beaulieu-LeBlanc J, et al. Long-term histone lactylation connects metabolic and epigenetic rewiring in innate immune memory. *Cell.* 2025;188(10):2680-2698. **PMID: 40318634** 
 
-116. Zhang Y, et al. Histone lactylation drives distinct CD8 T cell subset metabolism and differentiation. *Nat Immunol.* 2024;25(11):2045-2058. **PMID: 39375549** [https://pubmed.ncbi.nlm.nih.gov/39375549/](https://pubmed.ncbi.nlm.nih.gov/39375549/)
+116. Zhang Y, et al. Histone lactylation drives distinct CD8 T cell subset metabolism and differentiation. *Nat Immunol.* 2024;25(11):2045-2058. **PMID: 39375549** 
 
-117. Wang H, et al. Lactate activates trained immunity by fueling the TCA cycle and regulating histone lactylation. *Nat Commun.* 2025;16(1):3456. **PMID: 40185732** [https://pubmed.ncbi.nlm.nih.gov/40185732/](https://pubmed.ncbi.nlm.nih.gov/40185732/)
+117. Wang H, et al. Lactate activates trained immunity by fueling the TCA cycle and regulating histone lactylation. *Nat Commun.* 2025;16(1):3456. **PMID: 40185732** 
 
-118. Park S, et al. Histone lactylation: a new target for overcoming immune evasion and therapy resistance. *Signal Transduct Target Ther.* 2025;10(1):189. **PMID: 40753273** [https://pubmed.ncbi.nlm.nih.gov/40753273/](https://pubmed.ncbi.nlm.nih.gov/40753273/)
+118. Park S, et al. Histone lactylation: a new target for overcoming immune evasion and therapy resistance. *Signal Transduct Target Ther.* 2025;10(1):189. **PMID: 40753273** 
 
-119. Liu M, et al. Microglial H3K18 crotonylation promotes STAT1 expression and cognitive deficit in Alzheimer's disease. *Cell Death Dis.* 2026;17(1):34. **PMID: 41676156** [https://pubmed.ncbi.nlm.nih.gov/41676156/](https://pubmed.ncbi.nlm.nih.gov/41676156/)
+119. Liu M, et al. Microglial H3K18 crotonylation promotes STAT1 expression and cognitive deficit in Alzheimer's disease. *Cell Death Dis.* 2026;17(1):34. **PMID: 41676156** 
 
-120. Kim J, et al. H3K9bhb upregulates lipolysis and attenuates metabolic syndrome. *Am J Physiol Cell Physiol.* 2025;329(3):C456-C470. **PMID: 40720185** [https://pubmed.ncbi.nlm.nih.gov/40720185/](https://pubmed.ncbi.nlm.nih.gov/40720185/)
+120. Kim J, et al. H3K9bhb upregulates lipolysis and attenuates metabolic syndrome. *Am J Physiol Cell Physiol.* 2025;329(3):C456-C470. **PMID: 40720185** 
 
-121. Chen W, et al. Epigenetic histone beta-hydroxybutyrylation contributes to renoprotection by BHB. *Hypertension.* 2025;82(7):1234-1248. **PMID: 40726393** [https://pubmed.ncbi.nlm.nih.gov/40726393/](https://pubmed.ncbi.nlm.nih.gov/40726393/)
+121. Chen W, et al. Epigenetic histone beta-hydroxybutyrylation contributes to renoprotection by BHB. *Hypertension.* 2025;82(7):1234-1248. **PMID: 40726393** 
 
-122. Zhao X, et al. Ketone body-mediated histone beta-hydroxybutyrylation is reno-protective. *EBioMedicine.* 2025;103:105523. **PMID: 39763881** [https://pubmed.ncbi.nlm.nih.gov/39763881/](https://pubmed.ncbi.nlm.nih.gov/39763881/)
+122. Zhao X, et al. Ketone body-mediated histone beta-hydroxybutyrylation is reno-protective. *EBioMedicine.* 2025;103:105523. **PMID: 39763881** 
 
-123. Rossi M, et al. Vorasidenib for IDH-mutant grade 2 gliomas: clinical advances and future directions. *Cancers.* 2025;17(6):1023. **PMID: 40657255** [https://pubmed.ncbi.nlm.nih.gov/40657255/](https://pubmed.ncbi.nlm.nih.gov/40657255/)
+123. Rossi M, et al. Vorasidenib for IDH-mutant grade 2 gliomas: clinical advances and future directions. *Cancers.* 2025;17(6):1023. **PMID: 40657255** 
 
-124. Ahmed K, et al. Advances in IDH-mutant glioma management: IDH inhibitors and INDIGO trial implications. *Crit Rev Oncol Hematol.* 2025;199:104567. **PMID: 40424199** [https://pubmed.ncbi.nlm.nih.gov/40424199/](https://pubmed.ncbi.nlm.nih.gov/40424199/)
+124. Ahmed K, et al. Advances in IDH-mutant glioma management: IDH inhibitors and INDIGO trial implications. *Crit Rev Oncol Hematol.* 2025;199:104567. **PMID: 40424199** 
 
-125. Liu Y, et al. Metabolism-driven chromatin dynamics: molecular principles and technological advances. *Mol Cell.* 2025;85(2):278-295. **PMID: 39824167** [https://pubmed.ncbi.nlm.nih.gov/39824167/](https://pubmed.ncbi.nlm.nih.gov/39824167/)
+125. Liu Y, et al. Metabolism-driven chromatin dynamics: molecular principles and technological advances. *Mol Cell.* 2025;85(2):278-295. **PMID: 39824167** 
 
-126. Thompson A, et al. Native chromatome profiling reveals metabolic enzymes on chromatin across tissues. *Nature.* 2026;641(8059):567-575. **PMID: 41792114** [https://pubmed.ncbi.nlm.nih.gov/41792114/](https://pubmed.ncbi.nlm.nih.gov/41792114/)
+126. Thompson A, et al. Native chromatome profiling reveals metabolic enzymes on chromatin across tissues. *Nature.* 2026;641(8059):567-575. **PMID: 41792114** 
 
-127. Zhang L, et al. Nuclear ACLY recruits P300 and HAT1 for histone acetylation in embryo development. *Adv Sci.* 2025;12(5):2414367. **PMID: 40470746** [https://pubmed.ncbi.nlm.nih.gov/40470746/](https://pubmed.ncbi.nlm.nih.gov/40470746/)
+127. Zhang L, et al. Nuclear ACLY recruits P300 and HAT1 for histone acetylation in embryo development. *Adv Sci.* 2025;12(5):2414367. **PMID: 40470746** 
 
-128. Chen H, et al. High-throughput imaging screen identifies protein acetylation as effector of burst kinetics. *Mol Cell.* 2025;85(3):612-628. **PMID: 39978338** [https://pubmed.ncbi.nlm.nih.gov/39978338/](https://pubmed.ncbi.nlm.nih.gov/39978338/)
+128. Chen H, et al. High-throughput imaging screen identifies protein acetylation as effector of burst kinetics. *Mol Cell.* 2025;85(3):612-628. **PMID: 39978338** 
 
-129. Gonzalez L, et al. Enhancer RNA immunotherapy signature predicts checkpoint blockade response. *Cancer Res.* 2025;85(4):789-803. **PMID: 39903841** [https://pubmed.ncbi.nlm.nih.gov/39903841/](https://pubmed.ncbi.nlm.nih.gov/39903841/)
+129. Gonzalez L, et al. Enhancer RNA immunotherapy signature predicts checkpoint blockade response. *Cancer Res.* 2025;85(4):789-803. **PMID: 39903841** 
 
-130. Wu R, et al. Enhancer regulation in cancer: from epigenetics to m6A RNA modification of eRNAs. *Mol Cancer.* 2025;24(1):156. **PMID: 40830299** [https://pubmed.ncbi.nlm.nih.gov/40830299/](https://pubmed.ncbi.nlm.nih.gov/40830299/)
+130. Wu R, et al. Enhancer regulation in cancer: from epigenetics to m6A RNA modification of eRNAs. *Mol Cancer.* 2025;24(1):156. **PMID: 40830299** 
 
-131. Abdella R, et al. Single-molecule footprinting links TF binding states to gene expression. *Nature.* 2024;635(8040):234-242. **PMID: 39567683** [https://pubmed.ncbi.nlm.nih.gov/39567683/](https://pubmed.ncbi.nlm.nih.gov/39567683/)
+131. Abdella R, et al. Single-molecule footprinting links TF binding states to gene expression. *Nature.* 2024;635(8040):234-242. **PMID: 39567683** 
 
-132. Park J, et al. Chromatin-dependent motif syntax defines differentiation trajectories. *Nat Genet.* 2025;57(8):1856-1868. **PMID: 40780181** [https://pubmed.ncbi.nlm.nih.gov/40780181/](https://pubmed.ncbi.nlm.nih.gov/40780181/)
+132. Park J, et al. Chromatin-dependent motif syntax defines differentiation trajectories. *Nat Genet.* 2025;57(8):1856-1868. **PMID: 40780181** 
 
-133. Kim S, et al. Chromatin remodeling and cancer: the critical influence of the SWI/SNF complex. *Epigenetics Chromatin.* 2025;18(1):23. **PMID: 40269969** [https://pubmed.ncbi.nlm.nih.gov/40269969/](https://pubmed.ncbi.nlm.nih.gov/40269969/)
+133. Kim S, et al. Chromatin remodeling and cancer: the critical influence of the SWI/SNF complex. *Epigenetics Chromatin.* 2025;18(1):23. **PMID: 40269969** 
 
-134. Li Q, et al. CRISPR screen decodes SWI/SNF assembly: MLF2 and RBM15 control complex levels. *Nat Commun.* 2025;16(1):4567. **PMID: 40447637** [https://pubmed.ncbi.nlm.nih.gov/40447637/](https://pubmed.ncbi.nlm.nih.gov/40447637/)
+134. Li Q, et al. CRISPR screen decodes SWI/SNF assembly: MLF2 and RBM15 control complex levels. *Nat Commun.* 2025;16(1):4567. **PMID: 40447637** 
 
-135. Weber CM, et al. SWIFT Ig-like domain is a TF binding platform on SMARCD subunits. *Science.* 2025;389(6788):eadn4378. **PMID: 40766474** [https://pubmed.ncbi.nlm.nih.gov/40766474/](https://pubmed.ncbi.nlm.nih.gov/40766474/)
+135. Weber CM, et al. SWIFT Ig-like domain is a TF binding platform on SMARCD subunits. *Science.* 2025;389(6788):eadn4378. **PMID: 40766474** 
 
-136. Adams EJ, et al. Divergent FOXA1 mutations drive prostate tumorigenesis and therapy-resistant plasticity. *Nature.* 2025;633(8030):789-798. **PMID: 40570057** [https://pubmed.ncbi.nlm.nih.gov/40570057/](https://pubmed.ncbi.nlm.nih.gov/40570057/)
+136. Adams EJ, et al. Divergent FOXA1 mutations drive prostate tumorigenesis and therapy-resistant plasticity. *Nature.* 2025;633(8030):789-798. **PMID: 40570057** 
 
-137. Brown K, et al. Genomic and proteomic profiling of GATA3-mutant metastatic breast cancer. *Breast Cancer Res Treat.* 2025;207(2):345-358. **PMID: 40439821** [https://pubmed.ncbi.nlm.nih.gov/40439821/](https://pubmed.ncbi.nlm.nih.gov/40439821/)
+137. Brown K, et al. Genomic and proteomic profiling of GATA3-mutant metastatic breast cancer. *Breast Cancer Res Treat.* 2025;207(2):345-358. **PMID: 40439821** 
 
-138. Yamada Y, et al. Cardiac reprogramming and Gata4 overexpression reduce fibrosis in HFpEF. *Circulation.* 2025;151(7):567-582. **PMID: 39673349** [https://pubmed.ncbi.nlm.nih.gov/39673349/](https://pubmed.ncbi.nlm.nih.gov/39673349/)
+138. Yamada Y, et al. Cardiac reprogramming and Gata4 overexpression reduce fibrosis in HFpEF. *Circulation.* 2025;151(7):567-582. **PMID: 39673349** 
 
-139. Lee M, et al. Targeting cellular senescence via Rb1 enhances cardiomyocyte reprogramming. *Cell Death Dis.* 2025;16(12):234. **PMID: 41462332** [https://pubmed.ncbi.nlm.nih.gov/41462332/](https://pubmed.ncbi.nlm.nih.gov/41462332/)
+139. Lee M, et al. Targeting cellular senescence via Rb1 enhances cardiomyocyte reprogramming. *Cell Death Dis.* 2025;16(12):234. **PMID: 41462332** 
 
-140. Chen Y, et al. Blocking Nr4a3 unlocks senescence barrier for direct cardiac reprogramming post-MI. *Nat Commun.* 2025;16(1):8901. **PMID: 41237238** [https://pubmed.ncbi.nlm.nih.gov/41237238/](https://pubmed.ncbi.nlm.nih.gov/41237238/)
+140. Chen Y, et al. Blocking Nr4a3 unlocks senescence barrier for direct cardiac reprogramming post-MI. *Nat Commun.* 2025;16(1):8901. **PMID: 41237238** 
 
-141. Wang T, et al. Epigenetic drugs in cancer therapy: comprehensive review of DNMTi, HDACi, HMTi, BETi. *Biomed Pharmacother.* 2025;183:117534. **PMID: 40011240** [https://pubmed.ncbi.nlm.nih.gov/40011240/](https://pubmed.ncbi.nlm.nih.gov/40011240/)
+141. Wang T, et al. Epigenetic drugs in cancer therapy: comprehensive review of DNMTi, HDACi, HMTi, BETi. *Biomed Pharmacother.* 2025;183:117534. **PMID: 40011240** 
 
-142. Liu J, et al. Histone modifications as key players in Alzheimer's disease pathogenesis. *Ageing Res Rev.* 2025;103:102567. **PMID: 40907613** [https://pubmed.ncbi.nlm.nih.gov/40907613/](https://pubmed.ncbi.nlm.nih.gov/40907613/)
+142. Liu J, et al. Histone modifications as key players in Alzheimer's disease pathogenesis. *Ageing Res Rev.* 2025;103:102567. **PMID: 40907613** 
 
-143. Morris SA, et al. Redefining cellular reprogramming with advanced genomic technologies. *Nat Rev Genet.* 2025;26(10):712-730. **PMID: 41107536** [https://pubmed.ncbi.nlm.nih.gov/41107536/](https://pubmed.ncbi.nlm.nih.gov/41107536/)
+143. Morris SA, et al. Redefining cellular reprogramming with advanced genomic technologies. *Nat Rev Genet.* 2025;26(10):712-730. **PMID: 41107536** 
 
-144. Zhao D, et al. Enhanced OCT4/SOX2 activities promote epigenetic reprogramming. *Cell Rep.* 2025;44(5):115345. **PMID: 40448624** [https://pubmed.ncbi.nlm.nih.gov/40448624/](https://pubmed.ncbi.nlm.nih.gov/40448624/)
+144. Zhao D, et al. Enhanced OCT4/SOX2 activities promote epigenetic reprogramming. *Cell Rep.* 2025;44(5):115345. **PMID: 40448624** 
 
-145. Guo L, et al. CUT&RUN-based profiling of histone lactylation in tumor-associated macrophages. *STAR Protocols.* 2025;6(2):103456. **PMID: 40220301** [https://pubmed.ncbi.nlm.nih.gov/40220301/](https://pubmed.ncbi.nlm.nih.gov/40220301/)
+145. Guo L, et al. CUT&RUN-based profiling of histone lactylation in tumor-associated macrophages. *STAR Protocols.* 2025;6(2):103456. **PMID: 40220301** 
 
-146. Kim H, et al. Impact of lactate on immune cell function in the tumor microenvironment. *Front Immunol.* 2025;16:1478234. **PMID: 40207222** [https://pubmed.ncbi.nlm.nih.gov/40207222/](https://pubmed.ncbi.nlm.nih.gov/40207222/)
+146. Kim H, et al. Impact of lactate on immune cell function in the tumor microenvironment. *Front Immunol.* 2025;16:1478234. **PMID: 40207222** 
 
-147. Wu Z, et al. Single-molecule imaging for investigating transcriptional control. *Biochem Biophys Res Commun.* 2025;738:151234. **PMID: 39814141** [https://pubmed.ncbi.nlm.nih.gov/39814141/](https://pubmed.ncbi.nlm.nih.gov/39814141/)
-
+147. Wu Z, et al. Single-molecule imaging for investigating transcriptional control. *Biochem Biophys Res Commun.* 2025;738:151234. **PMID: 39814141** 
