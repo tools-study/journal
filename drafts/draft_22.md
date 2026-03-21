@@ -690,18 +690,18 @@ Modularity — the ability to connect circuit modules without altering their ind
 
 **Retroactivity definition.** Consider an upstream module producing species s with steady-state level s_iso when operating in isolation. When connected to a downstream module that consumes s (e.g., as a transcription factor binding to downstream promoters), the steady state shifts to s_conn. The retroactivity coefficient R quantifies this loading effect:
 ```math
-R = |s_{conn} − s_{iso}| / s_{iso}
+$$ R = \frac{|s_{\text{conn}} - s_{\text{iso}}|}{s_{\text{iso}}} $$
 ```
 A perfectly modular connection has R = 0; in practice, R > 0 for any connection that involves physical interaction between modules.
 
 **Derivation for transcription factor sharing.** Suppose the upstream module produces a transcription factor TF at rate α with degradation rate δ. In isolation:
 ```math
-ds/dt = α − δ·s → s_{iso} = α/δ
+$$ \frac{ds}{dt} = \alpha - \delta \cdot s \implies s_{\text{iso}} = \frac{\alpha}{\delta} $$
 ```
 
 When connected to a downstream module with n_d promoter binding sites, each with dissociation constant K_d:
 ```math
-ds/dt = α − δ·s − k_{on}·s·n_d·(1 − θ) + k_{off}·n_d·θ
+$$ \frac{ds}{dt} = \alpha - \delta \cdot s - k_{\text{on}} \cdot s \cdot n_d \cdot (1 - \theta) + k_{\text{off}} \cdot n_d \cdot \theta $$
 ```
 
 where θ = s/(K_d + s) is the fractional occupancy of downstream promoters. At steady state, the free TF concentration satisfies:
@@ -713,14 +713,14 @@ For s_conn << K_d (low occupancy regime), s_conn ≈ s_iso · K_d/(K_d + n_d) = 
 
 The retroactivity coefficient is:
 ```math
-R ≈ n_d / (K_d + n_d)
+$$ s_{\text{conn}} + n_d \cdot \frac{s_{\text{conn}}}{K_d + s_{\text{conn}}} = \frac{\alpha}{\delta} $$
 ```
 
 For a typical CRISPRi circuit with n_d = 100 binding sites per cell and K_d = 50 nM: R ≈ 100/(50 + 100) ≈ 0.67 — a substantial 67% reduction in free TF concentration.
 
 **Insulation device design.** An insulation device is a fast-acting amplification module placed between upstream and downstream circuits to absorb the retroactive load. The simplest insulation device is a phosphorylation-dephosphorylation cycle. For an insulation device with gain G and internal degradation rate γ_ins, the insulated retroactivity coefficient becomes:
 ```math
-R_ins = R / (1 + G · γ_{ins} / γ_{module})
+$$ R \approx \frac{n_d}{K_d + n_d} $$
 ```
 
 where γ_module is the degradation rate of the upstream module's output. With G = 10 and γ_ins/γ_module = 5: R_ins ≈ R/51, reducing retroactivity from 0.67 to 0.013.
