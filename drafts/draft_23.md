@@ -1,4 +1,4 @@
-# Genetic Engineering
+# DSB-Free Genetic Engineering
 
 ---
 
@@ -16,7 +16,7 @@ Programmable nucleases — zinc finger nucleases, TALENs, and CRISPR-Cas systems
 
 However, DSBs are inherently genotoxic. The p53 tumor suppressor pathway is activated by Cas9-induced breaks, creating selective pressure against cells with intact p53 and enriching for p53-deficient clones that carry elevated cancer risk (Enache et al., 2020; Ihry et al., 2018). Single DSBs can trigger chromothripsis — catastrophic chromosome shattering and reassembly — in up to 10% of edited cells, as demonstrated by long-read sequencing of Cas9-treated human embryonic stem cells (Papathanasiou et al., 2023). Large deletions spanning kilobases to megabases occur at appreciable frequencies even with single-guide designs, often evading detection by standard short-read amplicon sequencing (Alanis-Lobato et al., 2021; Turchiano et al., 2021). Furthermore, simultaneous DSBs at multiple loci generate chromosomal translocations that can activate oncogenic fusions (Papathanasiou et al., 2023).
 
-These limitations have motivated a paradigm shift toward DSB-free approaches. Base editors (adenine and cytidine base editors) use nickase Cas9 fused to deaminase domains to install point mutations without DSBs, though they remain limited to transition mutations within a narrow editing window (Rees & Liu, 2018; Levy et al., 2020). Prime editors expand the scope to all 12 transition and transversion mutations plus small insertions and deletions, but efficiency varies substantially across loci and cell types (Chen et al., 2021; Everette et al., 2023). Neither base editors nor prime editors address the full spectrum of genetic alterations — large insertions, excisions, inversions, or regulatory rewiring — required for comprehensive genetic medicine.
+These limitations have motivated a studies on DSB-free approaches. Base editors (adenine and cytidine base editors) use nickase Cas9 fused to deaminase domains to install point mutations without DSBs, though they remain limited to transition mutations within a narrow editing window (Rees & Liu, 2018; Levy et al., 2020). Prime editors expand the scope to all 12 transition and transversion mutations plus small insertions and deletions, but efficiency varies substantially across loci and cell types (Chen et al., 2021; Everette et al., 2023). Neither base editors nor prime editors address the full spectrum of genetic alterations — large insertions, excisions, inversions, or regulatory rewiring — required for comprehensive genetic medicine.
 
 ### I.B. Three Complementary Paradigms
 
