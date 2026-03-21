@@ -675,7 +675,7 @@ This result is **invisible to numerical approaches** that assume standard bistab
 
 **Positive root counting.** The number of positive real roots of g₁(x₂) is determined exactly by computing:
 ```math
-N_positive = (1/2) · [deg(g₁) − σ(g₁, 0, ∞)]
+$$ N_{\text{positive}} = \frac{1}{2} \cdot \left[ \text{deg}(g_1) - \sigma(g_1, 0, \infty) \right] $$
 ```
 
 where σ(g₁, a, b) counts sign changes in the Sturm sequence evaluated at the interval endpoints. For the toggle switch with resource competition, N_positive transitions from 3 to 5 at β_crit ≈ 0.45, providing a sharp criterion for when resource effects fundamentally alter circuit behavior.
