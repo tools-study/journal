@@ -658,10 +658,10 @@ The first equation g₁(xₙ) = 0 can be solved by standard univariate polynomia
 **Application to a toggle switch with resource competition.** Consider a toggle switch with resource competition modeled by shared ribosome pool R:
 
 ```math
-f₁ = α₁·K₂^n₂/(K₂^n₂ + x₂^n₂) · R/(R + x₁ + x₂) − δ₁·x₁ = 0
+$$ f_1 = \alpha_1 \frac{K_2^{n_2}}{K_2^{n_2} + x_2^{n_2}} \cdot \frac{R}{R + x_1 + x_2} - \delta_1 x_1 = 0 $$
 ```
 ```math
-f₂ = α₂·K₁^n₁/(K₁^n₁ + x₁^n₁) · R/(R + x₁ + x₂) − δ₂·x₂ = 0
+$$ f_2 = \alpha_2 \frac{K_1^{n_1}}{K_1^{n_1} + x_1^{n_1}} \cdot \frac{R}{R + x_1 + x_2} - \delta_2 x_2 = 0 $$
 ```
 
 Setting n₁ = n₂ = 2 and clearing denominators, each equation becomes a polynomial of degree 5 in x₁ and x₂. The system has at most 5 × 5 = 25 complex solutions by Bézout's theorem, though the number of real positive solutions (physically meaningful steady states) is much smaller.
