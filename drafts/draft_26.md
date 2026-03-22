@@ -1433,16 +1433,14 @@ The IToA's greatest legacy may be not the theory itself but the therapeutic prog
 
 385. Dugdale, H. L., & Richardson, D. S. (2024). Linking telomere dynamics to evolution, life history and environmental change. *Biogerontology*, 25, 209-234.
 
-386. Kamaludeen, N., et al. (2024). In vivo neuron-specific expression of *C. elegans* reprogramming factor orthologs does not alleviate age-related cognitive decline. *GeroScience*, 46, 4479-4493.
+386. Paine, P. T., Rechsteiner, C., et al. (2024). Partial cellular reprogramming: a deep dive into an emerging rejuvenation technology. *Aging Cell*, 23(2), e14039.
 
-387. Paine, P. T., Rechsteiner, C., et al. (2024). Partial cellular reprogramming: a deep dive into an emerging rejuvenation technology. *Aging Cell*, 23(2), e14039.
+387. Tong, H., Dwaraka, V. B., Chen, Q., et al. (2024). Quantifying the stochastic component of epigenetic aging. *Nature Aging*, 4(6), 886-901.
 
-388. Tong, H., Dwaraka, V. B., Chen, Q., et al. (2024). Quantifying the stochastic component of epigenetic aging. *Nature Aging*, 4(6), 886-901.
+388. Schultz, J. L., & Nopoulos, P. C. (2025). Early life functional advantage coupled with accelerated aging: antagonistic pleiotropy in Huntington's disease. *Journal of Huntington's Disease*, 14(1).
 
-389. Schultz, J. L., & Nopoulos, P. C. (2025). Early life functional advantage coupled with accelerated aging: antagonistic pleiotropy in Huntington's disease. *Journal of Huntington's Disease*, 14(1).
+389. Neema, M., et al. (2024). Mutant Huntingtin drives development of an advantageous brain early in life. *Annals of Neurology*, 96(5), 895-907.
 
-390. Neema, M., et al. (2024). Mutant Huntingtin drives development of an advantageous brain early in life. *Annals of Neurology*, 96(5), 895-907.
+390. Timmons, J. A., & Brenner, C. (2024). The information theory of aging has not been tested. *Cell*, 187(5), 1101-1102.
 
-391. Timmons, J. A., & Brenner, C. (2024). The information theory of aging has not been tested. *Cell*, 187(5), 1101-1102.
-
-392. Yang, J. H., Hayano, M., Griffin, P. T., & Sinclair, D. A. (2024). Response to: The information theory of aging has not been tested. *Cell*, 187(5), 1103-1107.
+391. Yang, J. H., Hayano, M., Griffin, P. T., & Sinclair, D. A. (2024). Response to: The information theory of aging has not been tested. *Cell*, 187(5), 1103-1107.
