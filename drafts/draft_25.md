@@ -1,4 +1,4 @@
-# Programmable Cell Therapies for Precision Medicine
+# Programmable Cell Therapies
 
 ## Abstract
 
