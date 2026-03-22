@@ -667,7 +667,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [2] Life Biosciences Inc. "FDA Clearance of IND Application for ER-100 in Optic Neuropathies." Press release, January 28, 2026. NCT07290244.
 
-[3] Ksander BR, Kocsis JD, et al. "Vision restoration by AAV-mediated OSK expression in aged retinal ganglion cells." *Molecular Therapy* 2024; 32(7):2082-2095. PMID: 38734896.
+[3] Karg MM, Lu YR, Refaian N, et al. "Sustained vision recovery by OSK gene therapy in a mouse model of glaucoma." *Cellular Reprogramming* 2023; 25(6):288-299. PMID: 38060815.
 
 [4] Roux AE, Zhang C, et al. "Diverse partial reprogramming strategies restore youthful gene expression and transiently suppress cell identity." *Cell Systems* 2022; 13(7):574-587. PMID: 35690067.
 
@@ -681,7 +681,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [9] Paine PT, Nguyen A, Ocampo A. "Partial cellular reprogramming: a deep dive into an emerging rejuvenation technology." *Aging Cell* 2024; 23(2):e14039. PMID: 38040663.
 
-[10] Parras A, Vílchez-Acosta A, et al. "In vivo reprogramming leads to premature death linked to hepatic and intestinal failure." *Nature Aging* 2023; 3(12):1525-1536. PMID: 38012287.
+[10] Parras A, Vílchez-Acosta A, et al. "In vivo reprogramming leads to premature death linked to hepatic and intestinal failure." *Nature Aging* 2023; 3(12):1509-1520. PMID: 38012287.
 
 [11] Mendelsohn AR, Larrick JW. "Epigenetic age reversal by cell-extrinsic and cell-intrinsic means." *Rejuvenation Research* 2024; 27(1):22-28. PMID: 38345009.
 
@@ -789,7 +789,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [63] Lachner M, O'Carroll D, Rea S, Mechtler K, Jenuwein T. "Methylation of histone H3 lysine 9 creates a binding site for HP1 proteins." *Nature* 2001; 410(6824):116-120. PMID: 11242053.
 
-[64] Lee CH, Wu J, Li B. "Allosteric activation dictates PRC2 activity independent of its recruitment to chromatin." *Molecular Cell* 2020; 70(3):422-434.e6. PMID: 29681498.
+[64] Lee CH, Yu JR, Kumar S, et al. "Allosteric activation dictates PRC2 activity independent of its recruitment to chromatin." *Molecular Cell* 2018; 70(3):422-434.e6. PMID: 29681499.
 
 [65] Bintu L, Yong J, Antebi YE, et al. "Dynamics of epigenetic regulation at the single-cell level." *Science* 2016; 351(6274):720-724. PMID: 26912859.
 
@@ -1153,7 +1153,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [245] Moqri M, Herzog C, et al. "PRC2-AgeIndex as a universal biomarker of aging and rejuvenation." *Nature Communications* 2024; 15(1):5956. PMID: 39009581.
 
-[246] Gill D, Parry A, et al. "Rejuvenation of the epigenome in human fibroblasts." *Nature Aging* 2024; 4(3):304-310. PMID: 38355768.
+[246] Gill D, Parry A, Santos F, et al. "Multi-omic rejuvenation of human cells by maturation phase transient reprogramming." *eLife* 2022; 11:e71624. PMID: 35390271.
 
 [247] Mitchell E, Spencer Chapman M, et al. "Clonal dynamics of haematopoiesis across the human lifespan." *Nature* 2022; 606(7913):343-350. PMID: 35650442.
 
@@ -1283,7 +1283,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [310] Preissl S, Fang R, et al. "Single-nucleus analysis of accessible chromatin in developing mouse forebrain reveals cell-type-specific transcriptional regulation." *Nature Neuroscience* 2018; 21(3):432-439. PMID: 29434377.
 
-[311] Chen K, Smeriglio P, et al. "Organ-specific dedifferentiation and epigenetic remodeling in in vivo reprogramming." *Advanced Science* 2025; 12(3):e2405320. PMID: 39535441.
+[311] Jo BK, Lee SY, Eom HJ, Kim J, Cha HJ. "Organ-specific dedifferentiation and epigenetic remodeling in in vivo reprogramming." *Aging Cell* 2025; 24:e70268.
 
 [312] Kriukov D, Kaczmarek M, et al. "Conserved biological processes in partial cellular reprogramming: relevance to aging and rejuvenation." *Ageing Research Reviews* 2025; 106:102691. PMID: 40122394.
 
@@ -1291,7 +1291,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [314] Wan Y, Song M, et al. "Small molecule-mediated cellular reprogramming: recent advances and perspectives." *Cell Regeneration* 2024; 13(1):22. PMID: 39358505.
 
-[315] Li J, Pei M, et al. "Diversification of reprogramming trajectories revealed by parallel single-cell transcriptome and chromatin accessibility sequencing." *Science Advances* 2024; 6(37):eaba1190. PMID: 32917695.
+[315] Xing QR, El Farran CA, Gautam P, et al. "Diversification of reprogramming trajectories revealed by parallel single-cell transcriptome and chromatin accessibility sequencing." *Science Advances* 2020; 6(37):eaba1190. PMID: 32917699.
 
 [316] Galkin F, Mamoshina P, et al. "DeepMAge: a methylation aging clock developed with deep learning." *Aging and Disease* 2021; 12(5):1252-1262. PMID: 34341705.
 
@@ -1301,7 +1301,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [319] Su K, Wang N, et al. "A logic-incorporated gene regulatory network deciphers principles in cell fate decisions." *eLife* 2024; 13:e88742. PMID: 38717131.
 
-[320] Amor C, Feucht J, et al. "Senolytic CAR T cells reverse senescence-associated pathologies." *Nature* 2024; 583:127-132. PMID: 38418876.
+[320] Amor C, Feucht J, Leibold J, et al. "Senolytic CAR T cells reverse senescence-associated pathologies." *Nature* 2020; 583:127-132. PMID: 32555459.
 
 [321] Lee YR, Lim WA, et al. "Ligand-restricted synNotch switches enable precision cell therapy." *Trends in Immunology* 2025; 46(3):185-196. PMID: 39971707.
 
@@ -1379,7 +1379,7 @@ As the first partial reprogramming therapies enter human trials, the cusp catast
 
 [358] Wang Y, et al. "Single-cell multi-omics identifies metabolism-linked epigenetic reprogramming." *Nature Communications* 2025; 16:12341. PMID: 40374668.
 
-[359] De Cecco M, Ito T, et al. "Genomes of replicatively senescent cells undergo global epigenetic changes leading to gene silencing and activation of transposable elements." *Aging Cell* 2019; 18(6):e12تم.
+[359] De Cecco M, Criscione SW, Peckham EJ, et al. "Genomes of replicatively senescent cells undergo global epigenetic changes leading to gene silencing and activation of transposable elements." *Aging Cell* 2013; 12(2):247-256. PMID: 23360310.
 
 [360] Arnold VI. *Catastrophe Theory.* 3rd edition. Springer, Berlin, 1992. ISBN: 3540548114.
 
