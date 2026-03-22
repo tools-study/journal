@@ -246,7 +246,15 @@ NK cell activation follows an integration model (Lanier, 2005):
 P_{NK}(\text{kill}) = \frac{\sigma_{act}^{n_a}}{K_{act}^{n_a} + \sigma_{act}^{n_a}} \cdot \frac{K_{inh}^{n_i}}{K_{inh}^{n_i} + \sigma_{inh}^{n_i}}
 ```
 
-where $\sigma_{act} = \sum_i w_i \cdot [\text{actR}_i{:}\text{ligand}_i]$ is the weighted sum of activating receptor-ligand interactions (NKG2D-MICA, NKp30-B7-H6, etc.), $\sigma_{inh} = \sum_j v_j \cdot [\text{KIR}_j{:}\text{HLA}_j] + v_{CD47} \cdot [\text{CD47}{:}\text{SIRP}\alpha]$ is the weighted sum of inhibitory interactions, and $n_a$, $n_i$ are Hill coefficients reflecting signaling cooperativity. For wild-type allogeneic cells: $\sigma_{inh}$ is low (mismatched HLA), yielding $P_{NK} \approx 0.8$. For HIP cells with CD47⁺ and HLA-E⁺: $\sigma_{inh}$ is high, yielding $P_{NK} \approx 0.05$ (Deuse et al., 2023).
+where
+```math
+$$ \sigma_{\text{act}} = \sum_i w_i \cdot [\text{actR}_i{:}\text{ligand}_i] $$
+```
+is the weighted sum of activating receptor-ligand interactions (NKG2D-MICA, NKp30-B7-H6, etc.), 
+```math
+$$ \sigma_{\text{inh}} = \sum_j v_j \cdot [\text{KIR}_j{:}\text{HLA}_j] + v_{\text{CD47}} \cdot [\text{CD47}{:}\text{SIRP}\alpha] $$
+```
+is the weighted sum of inhibitory interactions, and $n_a$, $n_i$ are Hill coefficients reflecting signaling cooperativity. For wild-type allogeneic cells: $\sigma_{inh}$ is low (mismatched HLA), yielding $P_{NK} \approx 0.8$. For HIP cells with CD47⁺ and HLA-E⁺: $\sigma_{inh}$ is high, yielding $P_{NK} \approx 0.05$ (Deuse et al., 2023).
 
 **F211. CD47-SIRPα "don't eat me" signaling threshold:**
 
