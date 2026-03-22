@@ -665,782 +665,773 @@ The IToA's greatest legacy may be not the theory itself but the therapeutic prog
 
 1. Agarwal, S., Loh, Y. H., McLoughlin, E. M., Huang, J., Park, I. H., Miller, J. D., ... & Daley, G. Q. (2010). Telomere elongation in induced pluripotent stem cells from dyskeratosis congenita patients. *Nature*, 464(7286), 292-296.
 
+
 2. Alle, Q., Le Borgne, E., Bensadoun, P., Lemesle, C., Papon, T., Combe, R., ... & Milhavet, O. (2022). A single short reprogramming early in life initiates and propagates an epigenetically related mechanism improving fitness and promoting an increased healthy lifespan. *Aging Cell*, 21(11), e13714.
+
 
 3. Allis, C. D., & Jenuwein, T. (2016). The molecular hallmarks of epigenetic control. *Nature Reviews Genetics*, 17(8), 487-500.
 
+
 4. Andziak, B., O'Connor, T. P., Qi, W., DeWaal, E. M., Pierce, A., Chaudhuri, A. R., ... & Buffenstein, R. (2006). High oxidative damage levels in the longest-living rodent, the naked mole-rat. *Aging Cell*, 5(6), 463-471.
+
 
 5. Armanios, M., & Blackburn, E. H. (2012). The telomere syndromes. *Nature Reviews Genetics*, 13(10), 693-704.
 
+
 6. Baylin, S. B., & Jones, P. A. (2016). Epigenetic determinants of cancer. *Cold Spring Harbor Perspectives in Biology*, 8(9), a019505.
+
 
 7. Beerman, I., Bock, C., Garrison, B. S., Smith, Z. D., Gu, H., Meissner, A., & Rossi, D. J. (2013). Proliferation-dependent alterations of the DNA methylation landscape underlie hematopoietic stem cell aging. *Cell Stem Cell*, 12(4), 413-425.
 
+
 8. Belsky, D. W., Caspi, A., Corcoran, D. L., Sugden, K., Poulton, R., Arseneault, L., ... & Moffitt, T. E. (2022). DunedinPACE, a DNA methylation biomarker of the pace of aging. *eLife*, 11, e73420.
+
 
 9. Benayoun, B. A., Pollina, E. A., Singh, P. P., Mahmoudi, S., Harel, I., Casey, K. M., ... & Brunet, A. (2019). Remodeling of epigenome and transcriptome landscapes with aging in mice reveals widespread induction of inflammatory responses. *Genome Research*, 29(4), 697-709.
 
+
 10. Bitto, A., Ito, T. K., Pineda, V. V., LeTexier, N. J., Huang, H. Z., Sutlief, E., ... & Kaeberlein, M. (2016). Transient rapamycin treatment can increase lifespan and healthspan in middle-aged mice. *eLife*, 5, e16351.
+
 
 11. Blagosklonny, M. V. (2008). Aging: ROS or TOR. *Cell Cycle*, 7(21), 3344-3354.
 
+
 12. Blagosklonny, M. V. (2013). Aging is not programmed: genetic pseudo-program is a shadow of developmental growth. *Cell Cycle*, 12(24), 3736-3742.
+
 
 13. Blagosklonny, M. V. (2023). Hallmarks of cancer and hallmarks of aging. *Aging*, 15(4), 99-107.
 
+
 14. Booth, L. N., & Brunet, A. (2016). The aging epigenome. *Molecular Cell*, 62(5), 728-744.
+
 
 15. Booth, M. J., Branco, M. R., Ficz, G., Oxley, D., Krueger, F., Reik, W., & Balasubramanian, S. (2012). Quantitative sequencing of 5-methylcytosine and 5-hydroxymethylcytosine at single-base resolution. *Science*, 336(6083), 934-937.
 
+
 16. Brown-Borg, H. M., Borg, K. E., Meliska, C. J., & Bartke, A. (1996). Dwarf mice and the ageing process. *Nature*, 384(6604), 33.
+
 
 17. Buenrostro, J. D., Wu, B., Litzenburger, U. M., Ruff, D., Gonzales, M. L., Snyder, M. P., ... & Greenleaf, W. J. (2015). Single-cell chromatin accessibility reveals principles of regulatory variation. *Nature*, 523(7561), 486-490.
 
+
 18. Buffenstein, R. (2008). Negligible senescence in the longest living rodent, the naked mole-rat: insights from a successfully aging species. *Journal of Comparative Physiology B*, 178(4), 439-445.
+
 
 19. Cagan, A., Baez-Ortega, A., Brzozowska, N., Abascal, F., Coorens, T. H., Sanders, M. A., ... & Martincorena, I. (2022). Somatic mutation rates scale with lifespan across mammals. *Nature*, 604(7906), 517-524.
 
+
 20. Cole, J. J., Robertson, N. A., Rather, M. I., Thomson, J. P., McBryan, T., Sproul, D., ... & Adams, P. D. (2017). Diverse interventions that extend mouse lifespan suppress shared age-associated epigenetic changes at critical gene regulatory regions. *Genome Biology*, 18(1), 58.
+
 
 21. Crick, F. (1958). On protein synthesis. *Symposia of the Society for Experimental Biology*, 12, 138-163.
 
+
 22. Crick, F. (1970). Central dogma of molecular biology. *Nature*, 227(5258), 561-563.
+
 
 23. Cummings, C. M., Corsi, S., & Engel, S. M. (2024). An information-theoretic framework connecting thermodynamics to aging. *Aging Cell*, 23(12), e14348.
 
+
 24. Cuollo, L., Antonangeli, F., Santoni, A., & Soriani, A. (2023). The senescence-associated secretory phenotype (SASP) in the challenging future of cancer therapy and age-related diseases. *Biology*, 12(2), 165.
+
 
 25. d'Adda di Fagagna, F., Reaper, P. M., Clay-Farrace, L., Fiegler, H., Carr, P., Von Zglinicki, T., ... & Jackson, S. P. (2003). A DNA damage checkpoint response in telomere-initiated senescence. *Nature*, 426(6963), 194-198.
 
+
 26. David, D. C., Ollikainen, N., Trinidad, J. C., Cary, M. P., Burlingame, A. L., & Bhatt, D. K. (2010). Widespread protein aggregation as an inherent part of aging in *C. elegans*. *PLoS Biology*, 8(8), e1000450.
+
 
 27. de Lima Camillo, L. P., Lapierre, L. R., & Singh, R. (2024). CpGPT: a foundation model for DNA methylation. *bioRxiv* [Note: peer-reviewed version in *Nature Machine Intelligence*, in press].
 
+
 28. Dixon, J. R., Selvaraj, S., Yue, F., Kim, A., Li, Y., Shen, Y., ... & Ren, B. (2012). Topological domains in mammalian genomes identified by analysis of chromatin interactions. *Nature*, 485(7398), 376-380.
+
 
 29. England, J. L. (2013). Statistical physics of self-replication. *Journal of Chemical Physics*, 139(12), 121923.
 
+
 30. Esteller, M. (2008). Epigenetics in cancer. *New England Journal of Medicine*, 358(11), 1148-1159.
+
 
 31. Flurkey, K., Papaconstantinou, J., Miller, R. A., & Harrison, D. E. (2001). Lifespan extension and delayed immune and collagen aging in mutant mice with defects in growth hormone production. *Proceedings of the National Academy of Sciences*, 98(12), 6736-6741.
 
+
 32. Franceschi, C., Garagnani, P., Parini, P., Giuliani, C., & Santoro, A. (2018). Inflammaging: a new immune-metabolic viewpoint for age-related diseases. *Nature Reviews Endocrinology*, 14(10), 576-590.
+
 
 33. Gallant, J., & Prothero, J. (1980). Testing models of error propagation. *Journal of Theoretical Biology*, 83(3), 561-578.
 
+
 34. Genereux, D. P., Miner, B. E., Bergstrom, C. T., & Laird, C. D. (2005). A population-epigenetic model to infer site-specific methylation rates from double-stranded DNA methylation patterns. *Proceedings of the National Academy of Sciences*, 102(16), 5802-5807.
+
 
 35. Genovese, G., Kähler, A. K., Handsaker, R. E., Lindberg, J., Rose, S. A., Bakhoum, S. F., ... & McCarroll, S. A. (2014). Clonal hematopoiesis and blood-cancer risk inferred from blood DNA sequence. *New England Journal of Medicine*, 371(26), 2477-2487.
 
+
 36. Gill, D., Parry, A., Santos, F., Okkenhaug, H., Todd, C. D., Hernando-Herraez, I., ... & Reik, W. (2022). Multi-omic rejuvenation of human cells by maturation phase transient reprogramming. *eLife*, 11, e71624.
+
 
 37. Gladyshev, V. N. (2016). Aging: progressive decline in fitness due to the rising deleteriome adjusted by genetic, environmental, and stochastic processes. *Aging Cell*, 15(4), 594-602.
 
+
 38. Goldsmith, T. C. (2008). Aging, evolvability, and the individual benefit requirement; medical implications of aging theory controversies. *Journal of Theoretical Biology*, 252(4), 764-768.
+
 
 39. Guo, J., Huang, X., Dou, L., Yan, M., Shen, T., Tang, W., & Li, J. (2024). Aging and aging-related diseases: from molecular mechanisms to interventions and treatments. *Signal Transduction and Targeted Therapy*, 7(1), 391.
 
+
 40. Hamilton, W. D. (1966). The moulding of senescence by natural selection. *Journal of Theoretical Biology*, 12(1), 12-45.
+
 
 41. Hannum, G., Guinney, J., Zhao, L., Zhang, L., Hughes, G., Sadda, S., ... & Zhang, K. (2013). Genome-wide methylation profiles reveal quantitative views of human aging rates. *Molecular Cell*, 49(2), 359-367.
 
+
 42. Harley, C. B., Futcher, A. B., & Greider, C. W. (1990). Telomeres shorten during ageing of human fibroblasts. *Nature*, 345(6274), 458-460.
+
 
 43. Harley, C. B., Pollard, J. W., Chamberlain, J. W., Stanners, C. P., & Goldstein, S. (1980). Protein synthetic errors do not increase during aging of cultured human fibroblasts. *Proceedings of the National Academy of Sciences*, 77(4), 1885-1889.
 
+
 44. Harman, D. (1956). Aging: a theory based on free radical and radiation chemistry. *Journal of Gerontology*, 11(3), 298-300.
+
 
 45. Harris, T. E. (1963). *The Theory of Branching Processes*. Springer-Verlag.
 
+
 46. Harrison, D. E., Strong, R., Sharp, Z. D., Nelson, J. F., Astle, C. M., Flurkey, K., ... & Miller, R. A. (2009). Rapamycin fed late in life extends lifespan in genetically heterogeneous mice. *Nature*, 460(7253), 392-395.
+
 
 47. He, Z., & Bhatt, D. K. (2024). Non-CpG methylation in aging and disease. *Nature Reviews Molecular Cell Biology*, 25(3), 185-196.
 
+
 48. He, Z., Guo, J. L., McBride, J. D., Narasimhan, S., Kim, H., Changolkar, L., ... & Lee, V. M. Y. (2018). Amyloid-β plaques enhance Alzheimer's brain tau-seeded pathologies by facilitating neuritic plaque tau aggregation. *Nature Medicine*, 24(1), 29-38.
+
 
 49. Hemann, M. T., Strong, M. A., Hao, L. Y., & Greider, C. W. (2001). The shortest telomere, not average telomere length, is critical for cell viability and chromosome stability. *Cell*, 107(1), 67-77.
 
+
 50. Henning, A. N., Roychoudhuri, R., & Restifo, N. P. (2018). Epigenetic control of CD8+ T cell differentiation. *Nature Reviews Immunology*, 18(5), 340-356.
+
 
 51. Hillary, R. F., Stevenson, A. J., McCartney, D. L., Campbell, A., Walker, R. M., Howard, D. M., ... & Marioni, R. E. (2020). Epigenetic measures of ageing predict the prevalence and incidence of leading causes of death and disease burden. *Clinical Epigenetics*, 12(1), 115.
 
+
 52. Hipp, M. S., Kasturi, P., & Hartl, F. U. (2019). The proteostasis network and its decline in ageing. *Nature Reviews Molecular Cell Biology*, 20(7), 421-435.
+
 
 53. Hnisz, D., Abraham, B. J., Lee, T. I., Lau, A., Saint-André, V., Sigova, A. A., ... & Young, R. A. (2013). Super-enhancers in the control of cell identity and disease. *Cell*, 155(4), 934-947.
 
+
 54. Horvath, S. (2013). DNA methylation age of human tissues and cell types. *Genome Biology*, 14(10), R115.
+
 
 55. Horvath, S., Garagnani, P., Bacalini, M. G., Pirazzini, C., Salvioli, S., Gentilini, D., ... & Franceschi, C. (2015). Accelerated epigenetic aging in Down syndrome. *Aging Cell*, 14(3), 491-495.
 
+
 56. Horvath, S., Haghani, A., Macoretta, N., Ablaeva, J., Zoller, J. A., Li, C. Z., ... & Bhatt, D. K. (2022). DNA methylation clocks tick in naked mole rats but queens age more slowly than nonbreeders. *Nature Aging*, 2(1), 46-59.
+
 
 57. Imai, S. I., & Guarente, L. (2014). NAD+ and sirtuins in aging and disease. *Trends in Cell Biology*, 24(8), 464-471.
 
+
 58. Izzo, F., Lee, S. C., Poran, A., Chaligne, R., Gaiti, F., Gross, B., ... & Landau, D. A. (2021). DNA methylation disruption reshapes the hematopoietic differentiation landscape. *Nature Genetics*, 52(4), 378-387.
+
 
 59. Jaiswal, S., Fontanillas, P., Flannick, J., Manning, A., Grauman, P. V., Mar, B. G., ... & Ebert, B. L. (2014). Age-related clonal hematopoiesis associated with adverse outcomes. *New England Journal of Medicine*, 371(26), 2488-2498.
 
+
 60. Jaiswal, S., Natarajan, P., Silver, A. J., Gibson, C. J., Bick, A. G., Shvartz, E., ... & Ebert, B. L. (2017). Clonal hematopoiesis and risk of atherosclerotic cardiovascular disease. *New England Journal of Medicine*, 377(2), 111-121.
+
 
 61. Jenkinson, G., Pujadas, E., Gouber, J., Feinberg, A. P., & Patel, A. P. (2017). Potential energy landscapes identify the information-theoretic nature of the epigenome. *Nature Genetics*, 49(5), 719-729.
 
+
 62. Jucker, M., & Walker, L. C. (2013). Self-propagation of pathogenic protein aggregates in neurodegenerative diseases. *Nature*, 501(7465), 45-51.
+
 
 63. Kauppila, T. E. S., Kauppila, J. H. K., & Larsson, N. G. (2017). Mammalian mitochondria and aging: an update. *Cell Metabolism*, 25(1), 57-71.
 
+
 64. Kaya-Okur, H. S., Wu, S. J., Codomo, C. A., Pledger, E. S., Bryson, T. D., Henikoff, J. G., ... & Henikoff, S. (2019). CUT&Tag for efficient epigenomic profiling of small samples and single cells. *Nature Communications*, 10(1), 1930.
+
 
 65. Keane, M., Semeiks, J., Webb, A. E., Li, Y. I., Quesada, V., Craig, T., ... & de Magalhães, J. P. (2015). Insights into the evolution of longevity from the bowhead whale genome. *Cell Reports*, 10(1), 112-122.
 
+
 66. Kelmer Sacramento, E., Kirkpatrick, J. M., Mazzetto, M., Baumgart, M., Hutber, C., Cellot, S., ... & Ori, A. (2024). Reduced proteasome activity in the aging brain results in ribosome stoichiometry loss and aggregation. *Molecular Systems Biology*, 16(6), e9596.
+
 
 67. Kenyon, C. J. (2010). The genetics of ageing. *Nature*, 464(7288), 504-512.
 
+
 68. Kirkwood, T. B. (1977). Evolution of ageing. *Nature*, 270(5635), 301-304.
+
 
 69. Kirkwood, T. B., & Holliday, R. (1979). The evolution of ageing and longevity. *Proceedings of the Royal Society of London B*, 205(1161), 531-546.
 
+
 70. Kunkel, T. A. (2004). DNA replication fidelity. *Journal of Biological Chemistry*, 279(17), 16895-16898.
+
 
 71. Labbadia, J., & Morimoto, R. I. (2015). The biology of proteostasis in aging and disease. *Annual Review of Biochemistry*, 84, 435-464.
 
+
 72. Laird, C. D., Pleasant, N. D., Clark, A. D., Sneeden, J. L., Hassan, K. M., Manber, N. C., ... & Stöger, R. (2004). Hairpin-bisulfite PCR: assessing epigenetic methylation patterns on complementary strands of individual DNA molecules. *Proceedings of the National Academy of Sciences*, 101(1), 204-209.
+
 
 73. Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183-191.
 
+
 74. Lapasset, L., Milhavet, O., Prieur, A., Besnard, E., Babled, A., Aït-Hamou, N., ... & Lemaitre, J. M. (2011). Rejuvenating senescent and centenarian human cells by reprogramming through the pluripotent state. *Genes & Development*, 25(21), 2248-2253.
+
 
 75. Lee-Six, H., Øbro, N. F., Shepherd, M. S., Grossmann, S., Dawson, K., Belmonte, M., ... & Campbell, P. J. (2018). Population dynamics of normal human blood inferred from somatic mutations. *Nature*, 561(7724), 473-478.
 
+
 76. Li, W., Prazak, L., Chatterjee, N., Grüninger, S., Krug, L., Theodorou, D., & Bhatt, D. K. (2020). Activation of transposable elements during aging and neuronal decline in *Drosophila*. *Nature Neuroscience*, 16(4), 529-531.
+
 
 77. Lister, R., Mukamel, E. A., Nery, J. R., Urich, M., Puddifoot, C. A., Johnson, N. D., ... & Ecker, J. R. (2013). Global epigenomic reconfiguration during mammalian brain development. *Science*, 341(6146), 1237905.
 
+
 78. Lister, R., Pelizzola, M., Dowen, R. H., Hawkins, R. D., Hon, G., Tonti-Filippini, J., ... & Ecker, J. R. (2009). Human DNA methylomes at base resolution show widespread epigenomic differences. *Nature*, 462(7271), 315-322.
+
 
 79. Longo, V. D., Mitteldorf, J., & Skulachev, V. P. (2005). Programmed and altruistic ageing. *Nature Reviews Genetics*, 6(11), 866-872.
 
+
 80. López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer, G. (2013). The hallmarks of aging. *Cell*, 153(6), 1194-1217.
+
 
 81. López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer, G. (2023). Hallmarks of aging: an expanding universe. *Cell*, 186(2), 243-278.
 
+
 82. López-Otín, C., & Kroemer, G. (2021). Hallmarks of health. *Cell*, 184(7), 1929-1939.
+
 
 83. Lu, A. T., Fei, Z., Haghani, A., Robeck, T. R., Zoller, J. A., Li, C. Z., ... & Horvath, S. (2023). Universal DNA methylation age across mammalian tissues. *Nature Aging*, 3(9), 1144-1166.
 
+
 84. Lu, A. T., Quach, A., Wilson, J. G., Reiner, A. P., Aviv, A., Raj, K., ... & Horvath, S. (2019). DNA methylation GrimAge strongly predicts lifespan and healthspan. *Aging*, 11(2), 303-327.
+
 
 85. Lu, A. T., Binder, A. M., Zhang, J., Yan, Q., Reiner, A. P., Cox, S. R., ... & Horvath, S. (2022). DNA methylation GrimAge version 2. *Aging*, 14(23), 9484-9549.
 
+
 86. Lu, Y., Brommer, B., Tian, X., Krishnan, A., Meer, M., Wang, C., ... & Bhatt, D. K. (2020). Reprogramming to recover youthful epigenetic information and restore vision. *Nature*, 588(7836), 124-129.
+
 
 87. Lyko, F. (2018). The DNA methyltransferase family: a versatile toolkit for epigenetic regulation. *Nature Reviews Genetics*, 19(2), 81-92.
 
+
 88. Macip, C. C., Bridgeford, R. E., Notario, L., Vela, S., Bernal, M., Fabian, D. K., ... & Gill, D. (2024). Gene therapy-mediated partial reprogramming extends lifespan and reverses age-related changes in aged mice. *Cellular Reprogramming*, 26(1), 24-32.
+
 
 89. Maegawa, S., Lu, Y., Tahara, T., Lee, J. T., Madzo, J., Liang, S., ... & Issa, J. P. J. (2017). Caloric restriction delays age-related methylation drift. *Nature Communications*, 8(1), 539.
 
+
 90. Marion, R. M., Strati, K., Li, H., Tejera, A., Schoeftner, S., Ortega, S., ... & Blasco, M. A. (2009). Telomeres acquire embryonic stem cell characteristics in induced pluripotent stem cells. *Cell Stem Cell*, 4(2), 141-154.
+
 
 91. Martincorena, I., Fowler, J. C., Wabber, A., Banber, A. R. J., de la Cuesta-Zuluaga, J., ... & Campbell, P. J. (2018). Somatic mutant clones colonize the human esophagus with age. *Science*, 362(6417), 911-917.
 
+
 92. Martincorena, I., Roshan, A., Gerstung, M., Ellis, P., Van Loo, P., McLaren, S., ... & Campbell, P. J. (2015). Tumor evolution: high burden and pervasive positive selection of somatic mutations in normal human skin. *Science*, 348(6237), 880-886.
+
 
 93. Matilainen, O., Quirós, P. M., & Auwerx, J. (2017). Mitochondria and epigenetics — crosstalk in homeostasis and stress. *Trends in Cell Biology*, 27(6), 453-463.
 
+
 94. Matsumoto, Y., Piraino, S., & Miglietta, M. P. (2019). Transcriptome characterization of reverse development in *Turritopsis dohrnii* (Hydrozoa, Cnidaria). *G3: Genes, Genomes, Genetics*, 9(12), 4127-4138.
+
 
 95. Mattison, J. A., Colman, R. J., Beasley, T. M., Allison, D. B., Kemnitz, J. W., Roth, G. S., ... & Anderson, R. M. (2017). Caloric restriction improves health and survival of rhesus monkeys. *Nature Communications*, 8(1), 14063.
 
+
 96. McCartney, D. L., Stevenson, A. J., Walker, R. M., Gibson, J., Morris, S. W., Campbell, A., ... & Marioni, R. E. (2019). Epigenetic signatures of starting and stopping smoking. *EBioMedicine*, 37, 214-220.
+
 
 97. Medawar, P. B. (1952). *An Unsolved Problem of Biology*. H. K. Lewis.
 
+
 98. Meer, M. V., Podolskiy, D. I., Tyshkovskiy, A., & Gladyshev, V. N. (2018). A whole lifespan mouse multi-tissue DNA methylation clock. *eLife*, 7, e40675.
+
 
 99. Ming, X., Zhang, Z., Zou, Z., Lv, C., Dong, Q., He, Q., ... & Zhu, B. (2020). Kinetics and mechanisms of mitotic inheritance of DNA methylation and their roles in aging-associated methylation loss. *Cell Research*, 30(11), 980-996.
 
+
 100. Moqri, M., Herzog, C., Poganik, J. R., Biomarkers of Aging Consortium, Justice, J., Belsky, D. W., ... & Bhatt, D. K. (2024). Biomarkers of aging for the identification and evaluation of longevity interventions. *Cell*, 186(18), 3758-3775.
+
 
 101. Moskowitz, D. M., Zhang, D. W., Hu, B., Le Saux, S., Yañez, R. E., Ye, C. J., ... & Bhatt, D. K. (2017). Epigenomics of human CD8 T cell differentiation and aging. *Science Immunology*, 2(8), eaag0192.
 
+
 102. Netea, M. G., Domínguez-Andrés, J., Barreiro, L. B., Chavakis, T., Divangahi, M., Fuchs, E., ... & Latz, E. (2020). Defining trained immunity and its role in health and disease. *Nature Reviews Immunology*, 20(6), 375-388.
+
 
 103. Netea, M. G., Joosten, L. A. B., Latz, E., Mills, K. H. G., Natoli, G., Stunnenberg, H. G., ... & Xavier, R. J. (2016). Trained immunity: a program of innate immune memory in health and disease. *Science*, 352(6284), aaf1098.
 
+
 104. Oberdoerffer, P., Michan, S., McVay, M., Mostoslavsky, R., Vann, J., Park, S. K., ... & Sinclair, D. A. (2008). SIRT1 redistribution on chromatin promotes genomic stability but alters gene expression during aging. *Cell*, 135(5), 907-918.
+
 
 105. Ocampo, A., Reddy, P., Martinez-Redondo, P., Platero-Luengo, A., Hatanaka, F., Hishida, T., ... & Izpisua Belmonte, J. C. (2016). In vivo amelioration of age-associated hallmarks by partial reprogramming. *Cell*, 167(7), 1719-1733.
 
+
 106. Olova, N., Simpson, D. J., Marber, R. E., & Horsfield, J. A. (2019). Partial reprogramming induces a steady decline in epigenetic age before loss of somatic identity. *Aging Cell*, 18(1), e12877.
+
 
 107. Orgel, L. E. (1963). The maintenance of the accuracy of protein synthesis and its relevance to ageing. *Proceedings of the National Academy of Sciences*, 49(4), 517-521.
 
+
 108. Ostrander, E. L., Kramer, A. C., Engel, H. M., & Challen, G. A. (2020). TET2 is a context-dependent tumor suppressor in hematopoiesis. *Cancer Research*, 80(19), 5765-5777.
+
 
 109. Pascual-Torner, M., Carrero, D., Pérez-Silva, J. G., Álvarez-Puente, D., Roiz-Valle, D., Bretones, G., ... & López-Otín, C. (2022). Comparative genomics of mortal and immortal cnidarians unveils novel keys behind rejuvenation. *Proceedings of the National Academy of Sciences*, 119(36), e2118763119.
 
+
 110. Pérez, V. I., Bokov, A., Van Remmen, H., Mele, J., Ran, Q., Ikeno, Y., & Richardson, A. (2009). Is the oxidative stress theory of aging dead? *Biochimica et Biophysica Acta*, 1790(10), 1005-1014.
+
 
 111. Petkovich, D. A., Podolskiy, D. I., Lobanov, A. V., Lee, S. G., Miller, R. A., & Gladyshev, V. N. (2017). Using DNA methylation profiling to evaluate biological age and longevity interventions. *Cell Metabolism*, 25(4), 954-960.
 
+
 112. Piraino, S., Boero, F., Aeschbach, B., & Schmid, V. (1996). Reversing the life cycle: medusae transforming into polyps and cell transdifferentiation in *Turritopsis nutricula* (Cnidaria, Hydrozoa). *Biological Bulletin*, 190(3), 302-312.
+
 
 113. Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems*. John Wiley & Sons.
 
+
 114. Rando, T. A., & Chang, H. Y. (2012). Aging, rejuvenation, and epigenetic reprogramming: resetting the aging clock. *Cell*, 148(1-2), 46-57.
+
 
 115. Sahu, S. K., Tiwari, R., Sahu, P., Guminski, B., Cantor, L., Bajikar, S. S., ... & Bhatt, D. K. (2024). *In vivo* reprogramming of specific cell populations extends lifespan by improving organ homeostasis. *Science Translational Medicine*, 16(765), eadl4132.
 
+
 116. Schmitt, A. D., Hu, M., Jung, I., Xu, Z., Qiu, Y., Tan, C. L., ... & Ren, B. (2016). A compendium of chromatin contact maps reveals spatially active regions in the human genome. *Cell Reports*, 17(8), 2042-2059.
+
 
 117. Schumacher, B., Pothof, J., Vijg, J., & Hoeijmakers, J. H. (2021). The central role of DNA damage in the ageing process. *Nature*, 592(7856), 695-703.
 
+
 118. Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
+
 
 119. Shannon, C. E. (1959). Coding theorems for a discrete source with a fidelity criterion. *IRE National Convention Record*, 7(4), 142-163.
 
+
 120. Shock, L. S., Thakkar, P. V., Peterson, E. J., Moran, R. G., & Taylor, S. M. (2011). DNA methyltransferase 1, cytosine methylation, and cytosine hydroxymethylation in mammalian mitochondria. *Proceedings of the National Academy of Sciences*, 108(9), 3630-3635.
+
 
 121. Sinclair, D. A. (2019). *Lifespan: Why We Age — and Why We Don't Have To*. Atria Books.
 
+
 122. Sinclair, D. A. (2024). Epigenetic reprogramming and the future of age-reversal therapy. *Cell*, 187(1), 12-16.
+
 
 123. Smallwood, S. A., Lee, H. J., Angermueller, C., Krueger, F., Saadeh, H., Peat, J., ... & Kelsey, G. (2014). Single-cell genome-wide bisulfite sequencing for assessing epigenetic heterogeneity. *Nature Methods*, 11(8), 817-820.
 
+
 124. Srivastava, S. (2017). The mitochondrial basis of aging and age-related disorders. *Genes*, 8(12), 398.
+
 
 125. Stewart, J. B., & Chinnery, P. F. (2015). The dynamics of mitochondrial DNA heteroplasmy: implications for human health and disease. *Nature Reviews Genetics*, 16(9), 530-542.
 
+
 126. Suhr, S. T., Chang, E. A., Tjong, J., Alcasid, N., Perkins, G. A., Goissis, M. D., ... & Bhatt, D. K. (2010). Mitochondrial rejuvenation after induced pluripotency. *PLoS ONE*, 5(11), e14095.
+
 
 127. Sun, D., Luo, M., Jeong, M., Rodriguez, B., Xia, Z., Hannah, R., ... & Goodell, M. A. (2014). Epigenomic profiling of young and aged HSCs reveals concerted changes during aging that reinforce self-renewal. *Cell Stem Cell*, 14(5), 673-688.
 
+
 128. Tacutu, R., Craig, T., Budovsky, A., Wuttke, D., Lehmann, G., Taranukha, D., ... & de Magalhães, J. P. (2013). Human Ageing Genomic Resources: integrated databases and tools for the biology and genetics of ageing. *Nucleic Acids Research*, 41(D1), D1027-D1033.
+
 
 129. Tarkhov, A. E., Lindstrom-Vautrin, J., Zhang, S., Metter, E. J., Atzmon, G., & Gladyshev, V. N. (2024). Nature of epigenetic aging from a single-cell perspective. *Nature Aging*, 4(6), 854-870.
 
+
 130. Thompson, M. J., Chwialkowska, K., Ruber, L., Janus, D., Dimitriou, D., Milanowski, E., ... & Gladyshev, V. N. (2018). A multi-tissue full lifespan epigenetic clock for mice. *Aging*, 10(10), 2832-2854.
+
 
 131. Trifunovic, A., Wredenberg, A., Falkenberg, M., Spelbrink, J. N., Rovio, A. T., Bruder, C. E., ... & Larsson, N. G. (2004). Premature ageing in mice expressing defective mitochondrial DNA polymerase. *Nature*, 429(6990), 417-423.
 
+
 132. Tubbs, A., & Nussenzweig, A. (2017). Endogenous DNA damage as a source of genomic instability in cancer. *Cell*, 168(4), 644-656.
+
 
 133. Ucar, D., Márquez, E. J., Chung, C. H., Celber, R., Tsay, T. L., Brown, A. J., ... & Bhatt, D. K. (2017). The chromatin accessibility signature of human immune aging stems from CD8+ T cells. *Journal of Experimental Medicine*, 214(10), 3123-3144.
 
+
 134. Van Meter, M., Kashyap, M., Rezazadeh, S., Geneva, A. J., Morber, T. D., Ward, A., ... & Bhatt, D. K. (2016). SIRT6 represses LINE1 retrotransposable elements by ribosylating KAP1 but this repression fails with stress and age. *Nature Communications*, 5(1), 5011.
+
 
 135. Vera, E., Bernardes de Jesus, B., Foronda, M., Flores, J. M., & Blasco, M. A. (2012). The rate of increase of short telomeres predicts longevity in mammals. *Cell Reports*, 2(4), 732-737.
 
+
 136. Waddington, C. H. (1957). *The Strategy of the Genes*. George Allen & Unwin.
+
 
 137. Waziry, R., Ryan, C. P., Corcoran, D. L., Huffman, K. M., Shreiner, A., Belsky, D. W., ... & Kraus, W. E. (2023). Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial. *Nature Aging*, 3(3), 248-257.
 
+
 138. Weindruch, R., & Walford, R. L. (1988). *The Retardation of Aging and Disease by Dietary Restriction*. Charles C. Thomas.
+
 
 139. Whittemore, K., Vera, E., Martínez-Nevado, E., Sanpera, C., & Blasco, M. A. (2019). Telomere shortening rate predicts species life span. *Proceedings of the National Academy of Sciences*, 116(30), 15122-15127.
 
+
 140. Whyte, W. A., Orlando, D. A., Hnisz, D., Abraham, B. J., Lin, C. Y., Kagey, M. H., ... & Young, R. A. (2013). Master transcription factors and mediator establish super-enhancers at key cell identity genes. *Cell*, 153(2), 307-319.
+
 
 141. Williams, G. C. (1957). Pleiotropy, natural selection, and the evolution of senescence. *Evolution*, 11(4), 398-411.
 
+
 142. Wood, J. G., Hillenmeyer, S., Lawrence, C., Chang, C., Hosier, S., Lightfoot, W., ... & Bhatt, D. K. (2010). Chromatin remodeling in the aging genome of *Drosophila*. *Aging Cell*, 9(1), 56-65.
+
 
 143. Yang, J. H., Hayano, M., Griffin, P. T., Amorim, J. A., Bonkowski, M. S., Apostolides, J. K., ... & Sinclair, D. A. (2023). Loss of epigenetic information as a cause of mammalian aging. *Cell*, 186(2), 305-326.
 
+
 144. Yoshino, J., Baur, J. A., & Imai, S. I. (2018). NAD+ intermediates: the biology and therapeutic potential of NMN and NR. *Cell Metabolism*, 27(3), 513-528.
+
 
 145. Zhao, L., Sun, M. A., Li, Z., Bai, X., Yu, M., Wang, M., ... & Bhatt, D. K. (2014). The dynamics of DNA methylation fidelity during mouse embryonic stem cell self-renewal and differentiation. *Genome Research*, 24(8), 1296-1307.
 
+
 146. Zhou, W., Dinh, H. Q., Ramjan, Z., Weisenberger, D. J., Nicolet, C. M., Shen, H., ... & Bhatt, D. K. (2023). DNA methylation loss in late-replicating domains is linked to mitotic cell division. *Nature Genetics*, 50(4), 591-602.
+
 
 147. Browder, K. C., Reddy, P., Kumar, M., Yamamoto, R., Perin, P., Karg, M., ... & Izpisua Belmonte, J. C. (2022). In vivo partial reprogramming alters age-associated molecular changes during physiological aging in mice. *Nature Aging*, 2(3), 243-253.
 
+
 148. Sarkar, T. J., Quarta, M., Mukherjee, S., Colville, A., Paine, P., Doan, L., ... & Bhatt, D. K. (2020). Transient non-integrative expression of nuclear reprogramming factors promotes multifaceted amelioration of aging in human cells. *Nature Communications*, 11(1), 1545.
+
 
 149. Roux, A., Zhang, C., Paw, J., Lozano, J. A., Durens, M., Bhatt, D. K., & Bhatt, T. (2022). Diverse partial reprogramming strategies restore youthful gene expression and transiently suppress cell identity. *Cell Systems*, 13(7), 574-587.
 
+
 150. Mosteiro, L., Pantoja, C., Alcazar, N., Marión, R. M., Chondronasiou, D., Rovira, M., ... & Serrano, M. (2016). Tissue damage and senescence provide critical signals for cellular reprogramming in vivo. *Science*, 354(6315), aaf4445.
+
 
 151. Abad, M., Mosteiro, L., Pantoja, C., Cañamero, M., Rayon, T., Ors, I., ... & Serrano, M. (2013). Reprogramming in vivo produces teratomas and iPS cells with totipotency features. *Nature*, 502(7471), 340-345.
 
+
 152. Parras, A., Anta, H., Santos-Galindo, M., Swaber, V., Alia, A., Campuzano, J., ... & Lucas, J. J. (2023). In vivo reprogramming leads to premature death linked to hepatic and intestinal failure. *Nature Aging*, 3(12), 1534-1546.
+
 
 153. Hishida, T., Yamamoto, M., Hishida-Nozaki, Y., Fan, C., Younis, L., Prüser, J., ... & Izpisua Belmonte, J. C. (2022). In vivo partial cellular reprogramming enhances liver plasticity and regeneration. *Cell Reports*, 39(4), 110730.
 
+
 154. Takahashi, K., & Yamanaka, S. (2006). Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. *Cell*, 126(4), 663-676.
+
 
 155. Gladyshev, V. N., Kritchevsky, S. B., Clarke, S. G., Cuervo, A. M., Fiehn, O., de Magalhães, J. P., ... & Johnson, A. A. (2021). Molecular damage in aging. *Nature Aging*, 1(12), 1096-1106.
 
+
 156. Raj, K., & Horvath, S. (2020). Current perspectives on the cellular and molecular features of epigenetic ageing. *Experimental Biology and Medicine*, 245(17), 1532-1542.
+
 
 157. Field, A. E., Robertson, N. A., Wang, T., Havas, A., Ideker, T., & Adams, P. D. (2018). DNA methylation clocks in aging: categories, causes, and consequences. *Molecular Cell*, 71(6), 882-895.
 
+
 158. Bell, C. G., Lowe, R., Adams, P. D., Baccarelli, A. A., Beck, S., Bell, J. T., ... & Rakyan, V. K. (2019). DNA methylation aging clocks: challenges and recommendations. *Genome Biology*, 20(1), 249.
+
 
 159. Simpson, D. J., Olova, N. N., & Horsfield, J. A. (2021). Cellular reprogramming and epigenetic rejuvenation. *Clinical Epigenetics*, 13(1), 170.
 
+
 160. Chiavellini, P., Canatelli-Mallat, M., Lehmann, M., Gallardo, M. D., Herenu, C. B., Cordeiro, J. L., ... & Bhatt, D. K. (2022). Aging and rejuvenation — a modular epigenome model. *Aging*, 13(4), 4734-4746.
+
 
 161. Kabacik, S., Lowe, D., Fransen, L., Leonard, M., Ang, S. L., Masber, C., ... & Bhatt, D. K. (2022). The relationship between epigenetic age and the hallmarks of aging in human cells. *Nature Aging*, 2(6), 484-493.
 
+
 162. Duan, R., Fu, Q., Sun, Y., & Li, Q. (2022). Epigenetic clock: a promising biomarker and practical tool in aging. *Ageing Research Reviews*, 81, 101743.
+
 
 163. Bergsma, T., & Bhatt, D. K. (2022). DNA methylation clocks and their predictive capacity for aging phenotypes and healthspan. *Neuroscience Insights*, 17, 263310552211393.
 
+
 164. Seale, K., Horvath, S., Teschendorff, A., Eynon, N., & Voisin, S. (2022). Making sense of the ageing methylome. *Nature Reviews Genetics*, 23(10), 585-605.
+
 
 165. Paluvai, H., Di Giorgio, E., & Bhatt, D. K. (2020). The histone code of senescence. *Cells*, 9(2), 466.
 
+
 166. Sen, P., Shah, P. P., Nativio, R., & Berger, S. L. (2016). Epigenetic mechanisms of longevity and aging. *Cell*, 166(4), 822-839.
+
 
 167. Pal, S., & Tyler, J. K. (2016). Epigenetics and aging. *Science Advances*, 2(7), e1600584.
 
+
 168. Kane, A. E., & Bhatt, D. K. (2022). Epigenetic changes during aging and their reprogramming potential. *Critical Reviews in Biochemistry and Molecular Biology*, 54(1), 61-83.
+
 
 169. Zhang, W., Qu, J., Liu, G. H., & Belmonte, J. C. I. (2020). The ageing epigenome and its rejuvenation. *Nature Reviews Molecular Cell Biology*, 21(3), 137-150.
 
+
 170. Horvath, S., & Raj, K. (2018). DNA methylation-based biomarkers and the epigenetic clock theory of ageing. *Nature Reviews Genetics*, 19(6), 371-384.
+
 
 171. Teschendorff, A. E. (2020). A comparison of epigenetic mitotic-like clocks for cancer risk prediction. *Genome Medicine*, 12(1), 56.
 
+
 172. Yang, Z., Wong, A., Kuh, D., Paul, D. S., Bhatt, D. K., & Teschendorff, A. E. (2016). Correlation of an epigenetic mitotic clock with cancer risk. *Genome Biology*, 17(1), 205.
+
 
 173. Chen, B. H., Marioni, R. E., Colicino, E., Peters, M. J., Ward-Caviness, C. K., Tsai, P. C., ... & Horvath, S. (2016). DNA methylation-based measures of biological age: meta-analysis predicting time to death. *Aging*, 8(9), 1844-1865.
 
+
 174. Levine, M. E., Lu, A. T., Quach, A., Chen, B. H., Assimes, T. L., Bandinelli, S., ... & Horvath, S. (2018). An epigenetic biomarker of aging for lifespan and healthspan. *Aging*, 10(4), 573-591.
+
 
 175. Fahy, G. M., Brooke, R. T., Watson, J. P., Good, Z., Vasanawala, S. S., Maecker, H., ... & Bhatt, D. K. (2019). Reversal of epigenetic aging and immunosenescent trends in humans. *Aging Cell*, 18(6), e13028.
 
+
 176. Fitzgerald, K. N., Hodges, R., Hanes, D., Stack, E., Cheishvili, D., Szyf, M., ... & Bhatt, D. K. (2021). Potential reversal of epigenetic age using a diet and lifestyle intervention: a pilot randomized clinical trial. *Aging*, 13(7), 9419-9432.
+
 
 177. Kerepesi, C., Zhang, B., Lee, S. G., Trapp, A., & Gladyshev, V. N. (2021). Epigenetic clocks reveal a rejuvenation event during embryogenesis followed by aging. *Science Advances*, 7(26), eabg6082.
 
+
 178. Trapp, A., Kerepesi, C., & Gladyshev, V. N. (2021). Profiling epigenetic age in single cells. *Nature Aging*, 1(12), 1189-1201.
 
-179. Olova, N., Simpson, D. J., Marber, R. E., & Horsfield, J. A. (2019). Partial reprogramming induces a steady decline in epigenetic age before loss of somatic identity. *Aging Cell*, 18(1), e12877.
 
-180. Chondronasiou, D., Gill, D., Mosteiro, L., Abad, M., Schoenfeldt, L., Solana-Oliva, C., ... & Serrano, M. (2022). Multi-omic rejuvenation and lifespan extension on exposure to youthful circulation. *Nature Aging*, 2(10), 948-961.
+179. Chondronasiou, D., Gill, D., Mosteiro, L., Abad, M., Schoenfeldt, L., Solana-Oliva, C., ... & Serrano, M. (2022). Multi-omic rejuvenation and lifespan extension on exposure to youthful circulation. *Nature Aging*, 2(10), 948-961.
 
-181. Roper, R. J., & Reeves, R. H. (2023). Understanding the basis for Down syndrome phenotypes. *PLoS Genetics*, 2(3), e50.
 
-182. Bick, A. G., Weinstock, J. S., Nandakumar, S. K., Fulco, C. P., Bao, E. L., Zekavat, S. M., ... & Natarajan, P. (2020). Inherited causes of clonal haematopoiesis in 97,691 whole genomes. *Nature*, 586(7831), 763-768.
+180. Roper, R. J., & Reeves, R. H. (2023). Understanding the basis for Down syndrome phenotypes. *PLoS Genetics*, 2(3), e50.
 
-183. Zink, F., Stacey, S. N., Norddahl, G. L., Frigge, M. L., Magnusson, O. T., Jonsdottir, I., ... & Stefansson, K. (2017). Clonal hematopoiesis, with and without candidate driver mutations, is common in the elderly. *Blood*, 130(6), 742-752.
 
-184. Jaiswal, S., & Ebert, B. L. (2019). Clonal hematopoiesis in human aging and disease. *Science*, 366(6465), eaan4673.
+181. Bick, A. G., Weinstock, J. S., Nandakumar, S. K., Fulco, C. P., Bao, E. L., Zekavat, S. M., ... & Natarajan, P. (2020). Inherited causes of clonal haematopoiesis in 97,691 whole genomes. *Nature*, 586(7831), 763-768.
 
-185. Dorsheimer, L., Assmus, B., Rasber, T., Lehmann, L., Mezger, M., Bader, P., ... & Bhatt, D. K. (2019). Association of mutations contributing to clonal hematopoiesis with prognosis in chronic ischemic heart failure. *JAMA Cardiology*, 4(1), 25-33.
 
-186. Silver, A. J., Bick, A. G., & Savona, M. R. (2021). Germline risk of clonal haematopoiesis. *Nature Reviews Genetics*, 22(9), 603-617.
+182. Zink, F., Stacey, S. N., Norddahl, G. L., Frigge, M. L., Magnusson, O. T., Jonsdottir, I., ... & Stefansson, K. (2017). Clonal hematopoiesis, with and without candidate driver mutations, is common in the elderly. *Blood*, 130(6), 742-752.
 
-187. Mitchell, E., Spencer Chapman, M., Williams, N., Dawson, K. J., Mende, N., Calderbank, E. F., ... & Campbell, P. J. (2022). Clonal dynamics of haematopoiesis across the human lifespan. *Nature*, 606(7913), 343-350.
 
-188. Nachun, D., Lu, A. T., Bick, A. G., Natarajan, P., Weinstock, J., ... & Horvath, S. (2021). Clonal hematopoiesis associated with epigenetic aging and clinical outcomes. *Aging Cell*, 20(6), e13366.
+183. Jaiswal, S., & Ebert, B. L. (2019). Clonal hematopoiesis in human aging and disease. *Science*, 366(6465), eaan4673.
 
-189. Miura, K., Okada, Y., Aoi, T., Okada, A., Takahashi, K., Okita, K., ... & Yamanaka, S. (2009). Variation in the safety of induced pluripotent stem cell lines. *Nature Biotechnology*, 27(8), 743-745.
 
-190. Ohnishi, K., Semi, K., Yamamoto, T., Shimizu, M., Tanaka, A., Mitsunaga, K., ... & Yamada, Y. (2014). Premature termination of reprogramming in vivo leads to cancer development through altered epigenetic regulation. *Cell*, 156(4), 663-677.
+184. Dorsheimer, L., Assmus, B., Rasber, T., Lehmann, L., Mezger, M., Bader, P., ... & Bhatt, D. K. (2019). Association of mutations contributing to clonal hematopoiesis with prognosis in chronic ischemic heart failure. *JAMA Cardiology*, 4(1), 25-33.
 
-191. Hayashi, Y., Hsiao, E. C., Sami, S., Lancero, M., Schlieve, C. R., Nguyen, T., ... & Bhatt, D. K. (2016). BMP-SMAD-ID promotes reprogramming to pluripotency by inhibiting p16/INK4A-dependent senescence. *Proceedings of the National Academy of Sciences*, 113(46), 13057-13062.
 
-192. Chiche, A., Le Roux, I., von Joest, M., Saez, J., Baguet, S., Fèvre, A., ... & Bhatt, D. K. (2017). Injury-induced senescence enables in vivo reprogramming in skeletal muscle. *Cell Stem Cell*, 20(3), 407-414.
+185. Silver, A. J., Bick, A. G., & Savona, M. R. (2021). Germline risk of clonal haematopoiesis. *Nature Reviews Genetics*, 22(9), 603-617.
 
-193. Taguchi, J., & Yamada, Y. (2017). In vivo reprogramming for tissue regeneration and organismal rejuvenation. *Current Opinion in Genetics & Development*, 46, 132-140.
 
-194. Rodríguez-Matellán, A., Alcazar, N., Hernández, F., Serrano, M., & Ávila, J. (2020). In vivo reprogramming ameliorates aging features in dentate gyrus cells and improves memory in mice. *Stem Cell Reports*, 15(5), 1056-1066.
+186. Mitchell, E., Spencer Chapman, M., Williams, N., Dawson, K. J., Mende, N., Calderbank, E. F., ... & Campbell, P. J. (2022). Clonal dynamics of haematopoiesis across the human lifespan. *Nature*, 606(7913), 343-350.
 
-195. Chen, Y., Lüttmann, F. F., Schoger, E., Schöler, H. R., Zelarayán, L. C., Kim, K. P., ... & Bhatt, D. K. (2021). Reversible reprogramming of cardiomyocytes to a fetal state drives heart regeneration in mice. *Science*, 373(6562), 1537-1540.
 
-196. Wang, C., Rabadan Ros, R., Martinez-Redondo, P., Ma, Z., Shi, L., Xue, Y., ... & Izpisua Belmonte, J. C. (2021). In vivo partial reprogramming of myofibers promotes muscle regeneration by remodeling the stem cell niche. *Nature Communications*, 12(1), 3094.
+187. Nachun, D., Lu, A. T., Bick, A. G., Natarajan, P., Weinstock, J., ... & Horvath, S. (2021). Clonal hematopoiesis associated with epigenetic aging and clinical outcomes. *Aging Cell*, 20(6), e13366.
 
-197. Olova, N., & Bhatt, D. K. (2022). Epigenetic reprogramming trajectories in partial and full iPSC reprogramming. *Stem Cell Reports*, 17(1), 184-198.
 
-198. Gladyshev, V. N. (2021). The ground zero of organismal life and aging. *Trends in Molecular Medicine*, 27(1), 11-19.
+188. Miura, K., Okada, Y., Aoi, T., Okada, A., Takahashi, K., Okita, K., ... & Yamanaka, S. (2009). Variation in the safety of induced pluripotent stem cell lines. *Nature Biotechnology*, 27(8), 743-745.
 
-199. Maierhofer, A., Flunkert, J., Oshima, J., Martin, G. M., Haaf, T., & Bhatt, D. K. (2017). Accelerated epigenetic aging in Werner syndrome. *Aging*, 9(4), 1143-1152.
 
-200. Haghani, A., Li, C. Z., Robeck, T. R., Zhang, J., Lu, A. T., Ablaeva, J., ... & Horvath, S. (2023). DNA methylation networks underlying mammalian traits. *Science*, 381(6658), eabq5693.
+189. Ohnishi, K., Semi, K., Yamamoto, T., Shimizu, M., Tanaka, A., Mitsunaga, K., ... & Yamada, Y. (2014). Premature termination of reprogramming in vivo leads to cancer development through altered epigenetic regulation. *Cell*, 156(4), 663-677.
 
-201. Meer, M. V., Podolskiy, D. I., Tyshkovskiy, A., & Gladyshev, V. N. (2018). A whole lifespan mouse multi-tissue DNA methylation clock. *eLife*, 7, e40675.
 
-202. Tyshkovskiy, A., Bozaykut, P., Borodinova, A. A., Gerashchenko, M. V., Ables, G. P., Garratt, M., ... & Gladyshev, V. N. (2019). Identification and application of gene expression signatures associated with lifespan extension. *Cell Metabolism*, 30(3), 573-593.
+190. Hayashi, Y., Hsiao, E. C., Sami, S., Lancero, M., Schlieve, C. R., Nguyen, T., ... & Bhatt, D. K. (2016). BMP-SMAD-ID promotes reprogramming to pluripotency by inhibiting p16/INK4A-dependent senescence. *Proceedings of the National Academy of Sciences*, 113(46), 13057-13062.
 
-203. Zhang, B., Trapp, A., Kerepesi, C., & Gladyshev, V. N. (2022). Emerging rejuvenation strategies — reducing the biological age. *Aging Cell*, 21(1), e13538.
 
-204. Poganik, J. R., Zhang, B., Baht, G. S., Tyshkovskiy, A., Deik, A., Kerepesi, C., ... & Gladyshev, V. N. (2023). Biological age is increased by stress and restored upon recovery. *Cell Metabolism*, 35(5), 807-820.
+191. Chiche, A., Le Roux, I., von Joest, M., Saez, J., Baguet, S., Fèvre, A., ... & Bhatt, D. K. (2017). Injury-induced senescence enables in vivo reprogramming in skeletal muscle. *Cell Stem Cell*, 20(3), 407-414.
 
-205. Lu, Y., Brommer, B., Tian, X., Krishnan, A., Meer, M., Wang, C., ... & Sinclair, D. A. (2020). Reprogramming to recover youthful epigenetic information and restore vision. *Nature*, 588(7836), 124-129.
 
-206. Deng, H., Liu, K., Yang, C., Zhang, Y., Liu, X., & Bhatt, D. K. (2022). Chemical generation of human iPSCs from somatic cells using small molecules. *Nature*, 605(7909), 304-310.
+192. Taguchi, J., & Yamada, Y. (2017). In vivo reprogramming for tissue regeneration and organismal rejuvenation. *Current Opinion in Genetics & Development*, 46, 132-140.
 
-207. Guan, J., Wang, G., Wang, J., Zhang, Z., Fu, Y., Cheng, L., ... & Deng, H. (2022). Chemical reprogramming of human somatic cells to pluripotent stem cells. *Nature*, 605(7909), 325-331.
 
-208. Liuyang, S., Wang, G., Wang, Y., He, H., Lyu, S., Cheng, L., ... & Deng, H. (2023). Highly efficient and rapid generation of human pluripotent stem cells by chemical reprogramming. *Cell Stem Cell*, 30(4), 450-459.
+193. Rodríguez-Matellán, A., Alcazar, N., Hernández, F., Serrano, M., & Ávila, J. (2020). In vivo reprogramming ameliorates aging features in dentate gyrus cells and improves memory in mice. *Stem Cell Reports*, 15(5), 1056-1066.
 
-209. Paine, P. T., Rechsteiner, C., Bhatt, D. K., & Bhatt, T. (2023). Epigenetic reprogramming: from in vitro rejuvenation to in vivo reality. *Trends in Molecular Medicine*, 29(7), 543-557.
 
-210. Singh, P. B., & Zacouto, F. (2010). Nuclear reprogramming and epigenetic rejuvenation. *Journal of Biosciences*, 35(2), 315-319.
+194. Chen, Y., Lüttmann, F. F., Schoger, E., Schöler, H. R., Zelarayán, L. C., Kim, K. P., ... & Bhatt, D. K. (2021). Reversible reprogramming of cardiomyocytes to a fetal state drives heart regeneration in mice. *Science*, 373(6562), 1537-1540.
 
-211. Rando, O. J., & Verstrepen, K. J. (2007). Timescales of genetic and epigenetic inheritance. *Cell*, 128(4), 655-668.
 
-212. Tomasetti, C., & Vogelstein, B. (2015). Variation in cancer risk among tissues can be explained by the number of stem cell divisions. *Science*, 347(6217), 78-81.
+195. Wang, C., Rabadan Ros, R., Martinez-Redondo, P., Ma, Z., Shi, L., Xue, Y., ... & Izpisua Belmonte, J. C. (2021). In vivo partial reprogramming of myofibers promotes muscle regeneration by remodeling the stem cell niche. *Nature Communications*, 12(1), 3094.
 
-213. Alexandrov, L. B., Ju, Y. S., Haase, K., Van Loo, P., Martincorena, I., Nik-Zainal, S., ... & Stratton, M. R. (2013). Signatures of mutational processes in human cancer. *Nature*, 500(7463), 415-421.
 
-214. Alexandrov, L. B., Kim, J., Haradhvala, N. J., Huang, M. N., Tian Ng, A. W., Wu, Y., ... & Stratton, M. R. (2020). The repertoire of mutational signatures in human cancer. *Nature*, 578(7793), 94-101.
+196. Olova, N., & Bhatt, D. K. (2022). Epigenetic reprogramming trajectories in partial and full iPSC reprogramming. *Stem Cell Reports*, 17(1), 184-198.
 
-215. Li, Y., Roberts, N. D., Wala, J. A., Shapira, O., Schumacher, S. E., Kumar, K., ... & Campbell, P. J. (2020). Patterns of somatic structural variation in human cancer genomes. *Nature*, 578(7793), 112-121.
 
-216. Moore, L., Leongamornlert, D., Coorens, T. H. H., Sanders, M. A., Ellis, P., Dentro, S. C., ... & Campbell, P. J. (2020). The mutational landscape of normal human endometrial epithelium. *Nature*, 580(7805), 640-646.
+197. Gladyshev, V. N. (2021). The ground zero of organismal life and aging. *Trends in Molecular Medicine*, 27(1), 11-19.
 
-217. Yoshida, K., Gowers, K. H. C., Lee-Six, H., Chanber, D. P., Mber, T., Sherber, B., ... & Campbell, P. J. (2020). Tobacco smoking and somatic mutations in human bronchial epithelium. *Nature*, 578(7794), 266-272.
 
-218. Lee-Six, H., Olafsson, S., Ellis, P., Osborne, R. J., Sanders, M. A., Moore, L., ... & Campbell, P. J. (2019). The landscape of somatic mutation in normal colorectal epithelial cells. *Nature*, 574(7779), 532-537.
+198. Maierhofer, A., Flunkert, J., Oshima, J., Martin, G. M., Haaf, T., & Bhatt, D. K. (2017). Accelerated epigenetic aging in Werner syndrome. *Aging*, 9(4), 1143-1152.
 
-219. Vijg, J., & Suh, Y. (2013). Genome instability and aging. *Annual Review of Physiology*, 75, 645-668.
 
-220. López-Otín, C., Pietrocola, F., Roiz-Valle, D., Galluzzi, L., & Kroemer, G. (2023). Meta-hallmarks of aging and cancer. *Cell Metabolism*, 35(1), 12-35.
+199. Haghani, A., Li, C. Z., Robeck, T. R., Zhang, J., Lu, A. T., Ablaeva, J., ... & Horvath, S. (2023). DNA methylation networks underlying mammalian traits. *Science*, 381(6658), eabq5693.
 
-221. Tong, H., Dwaraka, V. B., Chen, Q., Luo, Q., Lasky-Su, J. A., Smith, R., & Teschendorff, A. E. (2024). Quantifying the stochastic component of epigenetic aging. *Nature Aging*, 4(6), 886-901.
 
-222. Robertson, N. A., Bick, A. G., et al. (2024). Epigenetic and proteomic signatures associate with clonal hematopoiesis expansion rate. *Nature Aging*, 4(8), 1043-1052.
+200. Tyshkovskiy, A., Bozaykut, P., Borodinova, A. A., Gerashchenko, M. V., Ables, G. P., Garratt, M., ... & Gladyshev, V. N. (2019). Identification and application of gene expression signatures associated with lifespan extension. *Cell Metabolism*, 30(3), 573-593.
 
-223. Chan, J., Rubbi, L., & Pellegrini, M. (2025). DNA methylation entropy is a biomarker for aging. *Aging*, 17(3), 685-698.
 
-224. Gems, D., Virk, R. S., & de Magalhães, J. P. (2024). Epigenetic clocks and programmatic aging. *Ageing Research Reviews*, 101, 102546.
+201. Zhang, B., Trapp, A., Kerepesi, C., & Gladyshev, V. N. (2022). Emerging rejuvenation strategies — reducing the biological age. *Aging Cell*, 21(1), e13538.
 
-225. de Magalhães, J. P. (2025). An overview of contemporary theories of ageing. *Nature Cell Biology*, 27(7).
 
-226. Mostafavi, H., et al. (2023). Evidence for the role of selection for reproductively advantageous alleles in human aging. *Science Advances*, 9(49), eadh4990.
+202. Poganik, J. R., Zhang, B., Baht, G. S., Tyshkovskiy, A., Deik, A., Kerepesi, C., ... & Gladyshev, V. N. (2023). Biological age is increased by stress and restored upon recovery. *Cell Metabolism*, 35(5), 807-820.
 
-227. Troncoso-Escudero, P., et al. (2023). Antagonistic pleiotropy: the example of cardiac insulin-like growth factor signaling, which is essential in youth but detrimental in age. *Expert Opinion on Therapeutic Targets*, 27(2), 137-149.
 
-228. Kamaludeen, N., et al. (2024). In vivo neuron-specific expression of *C. elegans* reprogramming factor orthologs does not alleviate age-related cognitive decline. *GeroScience*, 46, 4479-4493.
+203. Deng, H., Liu, K., Yang, C., Zhang, Y., Liu, X., & Bhatt, D. K. (2022). Chemical generation of human iPSCs from somatic cells using small molecules. *Nature*, 605(7909), 304-310.
 
-229. Lee, M. H., Siddoway, B., et al. (2024). Contrasting somatic mutation patterns in aging human neurons and oligodendrocytes. *Cell*, 187(7), 1750-1765.
 
-230. Zhang, L., Dong, X., & Vijg, J. (2024). Somatic mutations in human ageing: new insights from DNA sequencing and inherited mutations. *Ageing Research Reviews*, 96, 102268.
+204. Guan, J., Wang, G., Wang, J., Zhang, Z., Fu, Y., Cheng, L., ... & Deng, H. (2022). Chemical reprogramming of human somatic cells to pluripotent stem cells. *Nature*, 605(7909), 325-331.
 
-231. Zhang, L., & Vijg, J. (2024). Somatic mutations in aging and disease. *GeroScience*, 46, 3171-3183.
 
-232. Kuo, C. J., et al. (2025). Altered translation elongation contributes to key hallmarks of aging in the killifish brain. *Science*, 389, adk3079.
+205. Liuyang, S., Wang, G., Wang, Y., He, H., Lyu, S., Cheng, L., ... & Deng, H. (2023). Highly efficient and rapid generation of human pluripotent stem cells by chemical reprogramming. *Cell Stem Cell*, 30(4), 450-459.
 
-233. Paine, P. T., Rechsteiner, C., et al. (2024). Partial cellular reprogramming: a deep dive into an emerging rejuvenation technology. *Aging Cell*, 23(2), e14039.
 
-234. Silva, C. A., & Annamalai, K. (2023). A step toward precision gerontology: lifespan effects of calorie and protein restriction are consistent with predicted impacts on entropy generation. *Proceedings of the National Academy of Sciences*, 120(37), e2300624120.
+206. Paine, P. T., Rechsteiner, C., Bhatt, D. K., & Bhatt, T. (2023). Epigenetic reprogramming: from in vitro rejuvenation to in vivo reality. *Trends in Molecular Medicine*, 29(7), 543-557.
 
-235. Tarkhov, A. E., Denisov, K. A., & Fedichev, P. O. (2024). Aging clocks, entropy, and the challenge of age reversal. *Aging Biology*, 2, 20240031.
 
-236. Cummings, S. R., Hong, N., & Cohen, A. A. (2025). Entropy and human aging. *Aging Cell*, 24, e70292.
+207. Singh, P. B., & Zacouto, F. (2010). Nuclear reprogramming and epigenetic rejuvenation. *Journal of Biosciences*, 35(2), 315-319.
 
-237. Blagosklonny, M. V. (2022). Rapamycin treatment early in life reprograms aging: hyperfunction theory and clinical practice. *Aging*, 14(21), 8524-8537.
 
-238. Goldsmith, T. C. (2024). Mammal aging as a programmed life cycle function — resolving the cause and effect conundrum. *Advanced Biology*, 8(9), 2300658.
+208. Rando, O. J., & Verstrepen, K. J. (2007). Timescales of genetic and epigenetic inheritance. *Cell*, 128(4), 655-668.
 
-239. Pamplona, R., Jové, M., Gómez, J., & Barja, G. (2023). Programmed versus non-programmed evolution of aging. What is the evidence? *Experimental Gerontology*, 175, 112162.
 
-240. Varela, I., & Arias-González, J. E. (2024). The evolution of ageing: classic theories and emerging ideas. *Biogerontology*, 25, 1095-1108.
+209. Tomasetti, C., & Vogelstein, B. (2015). Variation in cancer risk among tissues can be explained by the number of stem cell divisions. *Science*, 347(6217), 78-81.
 
-241. Sprason, C., Tucker, T., & Clancy, D. (2024). MtDNA deletions and aging. *Frontiers in Aging*, 5, 1359638.
 
-242. Brown, L. M., Elbon, M. C., Bharadwaj, A., Damle, G., & Lachance, J. (2024). Does effective population size govern evolutionary differences in telomere length? *Genome Biology and Evolution*, 16(5), evae111.
+210. Alexandrov, L. B., Ju, Y. S., Haase, K., Van Loo, P., Martincorena, I., Nik-Zainal, S., ... & Stratton, M. R. (2013). Signatures of mutational processes in human cancer. *Nature*, 500(7463), 415-421.
 
-243. Dugdale, H. L., & Richardson, D. S. (2024). Linking telomere dynamics to evolution, life history and environmental change: perspectives, predictions and problems. *Biogerontology*, 25, 209-234.
 
-244. Mitchell, E., Spencer Chapman, M., Williams, N., et al. (2022). Clonal dynamics of haematopoiesis across the human lifespan. *Nature*, 606(7913), 343-350.
+211. Alexandrov, L. B., Kim, J., Haradhvala, N. J., Huang, M. N., Tian Ng, A. W., Wu, Y., ... & Stratton, M. R. (2020). The repertoire of mutational signatures in human cancer. *Nature*, 578(7793), 94-101.
 
-245. Bick, A. G., Weinstock, J. S., Nandakumar, S. K., et al. (2020). Inherited causes of clonal haematopoiesis in 97,691 whole genomes. *Nature*, 586(7831), 763-768.
 
-246. Neema, M., et al. (2024). Mutant Huntingtin drives development of an advantageous brain early in life: evidence in support of antagonistic pleiotropy. *Annals of Neurology*, 96(5), 895-907.
+212. Li, Y., Roberts, N. D., Wala, J. A., Shapira, O., Schumacher, S. E., Kumar, K., ... & Campbell, P. J. (2020). Patterns of somatic structural variation in human cancer genomes. *Nature*, 578(7793), 112-121.
 
-247. Chondronasiou, D., Gill, D., Mosteiro, L., et al. (2022). Multi-omic rejuvenation and lifespan extension on exposure to youthful circulation. *Nature Aging*, 2(10), 948-961.
 
-248. Haghani, A., Li, C. Z., Robeck, T. R., et al. (2023). DNA methylation networks underlying mammalian traits. *Science*, 381(6658), eabq5693.
+213. Moore, L., Leongamornlert, D., Coorens, T. H. H., Sanders, M. A., Ellis, P., Dentro, S. C., ... & Campbell, P. J. (2020). The mutational landscape of normal human endometrial epithelium. *Nature*, 580(7805), 640-646.
 
-249. Kabacik, S., Lowe, D., Fransen, L., et al. (2022). The relationship between epigenetic age and the hallmarks of aging in human cells. *Nature Aging*, 2(6), 484-493.
 
-250. Seale, K., Horvath, S., Teschendorff, A., Eynon, N., & Voisin, S. (2022). Making sense of the ageing methylome. *Nature Reviews Genetics*, 23(10), 585-605.
+214. Yoshida, K., Gowers, K. H. C., Lee-Six, H., Chanber, D. P., Mber, T., Sherber, B., ... & Campbell, P. J. (2020). Tobacco smoking and somatic mutations in human bronchial epithelium. *Nature*, 578(7794), 266-272.
 
-251. Trapp, A., Kerepesi, C., & Gladyshev, V. N. (2021). Profiling epigenetic age in single cells. *Nature Aging*, 1(12), 1189-1201.
 
-252. Gladyshev, V. N., Kritchevsky, S. B., Clarke, S. G., et al. (2021). Molecular damage in aging. *Nature Aging*, 1(12), 1096-1106.
+215. Lee-Six, H., Olafsson, S., Ellis, P., Osborne, R. J., Sanders, M. A., Moore, L., ... & Campbell, P. J. (2019). The landscape of somatic mutation in normal colorectal epithelial cells. *Nature*, 574(7779), 532-537.
 
-253. Zhang, B., Trapp, A., Kerepesi, C., & Gladyshev, V. N. (2022). Emerging rejuvenation strategies — reducing the biological age. *Aging Cell*, 21(1), e13538.
 
-254. Poganik, J. R., Zhang, B., Baht, G. S., et al. (2023). Biological age is increased by stress and restored upon recovery. *Cell Metabolism*, 35(5), 807-820.
+216. Vijg, J., & Suh, Y. (2013). Genome instability and aging. *Annual Review of Physiology*, 75, 645-668.
 
-255. Kerepesi, C., Zhang, B., Lee, S. G., Trapp, A., & Gladyshev, V. N. (2021). Epigenetic clocks reveal a rejuvenation event during embryogenesis followed by aging. *Science Advances*, 7(26), eabg6082.
 
-256. Duan, R., Fu, Q., Sun, Y., & Li, Q. (2022). Epigenetic clock: a promising biomarker and practical tool in aging. *Ageing Research Reviews*, 81, 101743.
+217. López-Otín, C., Pietrocola, F., Roiz-Valle, D., Galluzzi, L., & Kroemer, G. (2023). Meta-hallmarks of aging and cancer. *Cell Metabolism*, 35(1), 12-35.
 
-257. Nachun, D., Lu, A. T., Bick, A. G., et al. (2021). Clonal hematopoiesis associated with epigenetic aging and clinical outcomes. *Aging Cell*, 20(6), e13366.
 
-258. Chiavellini, P., Canatelli-Mallat, M., Lehmann, M., et al. (2022). Aging and rejuvenation — a modular epigenome model. *Aging*, 13(4), 4734-4746.
+218. Tong, H., Dwaraka, V. B., Chen, Q., Luo, Q., Lasky-Su, J. A., Smith, R., & Teschendorff, A. E. (2024). Quantifying the stochastic component of epigenetic aging. *Nature Aging*, 4(6), 886-901.
 
-259. Bergsma, T., & Bhatt, D. K. (2022). DNA methylation clocks and their predictive capacity for aging phenotypes and healthspan. *Neuroscience Insights*, 17, 263310552211393.
 
-260. Kane, A. E., & Sinclair, D. A. (2019). Epigenetic changes during aging and their reprogramming potential. *Critical Reviews in Biochemistry and Molecular Biology*, 54(1), 61-83.
+219. Robertson, N. A., Bick, A. G., et al. (2024). Epigenetic and proteomic signatures associate with clonal hematopoiesis expansion rate. *Nature Aging*, 4(8), 1043-1052.
 
-261. Zhang, W., Qu, J., Liu, G. H., & Belmonte, J. C. I. (2020). The ageing epigenome and its rejuvenation. *Nature Reviews Molecular Cell Biology*, 21(3), 137-150.
 
-262. Schultz, J. L., & Nopoulos, P. C. (2025). Early life functional advantage coupled with accelerated aging: the case for antagonistic pleiotropy in Huntington's disease. *Journal of Huntington's Disease*, 14(1).
+220. Chan, J., Rubbi, L., & Pellegrini, M. (2025). DNA methylation entropy is a biomarker for aging. *Aging*, 17(3), 685-698.
 
-263. Neema, M., et al. (2024). Mutant Huntingtin drives development of an advantageous brain early in life: evidence in support of antagonistic pleiotropy. *Annals of Neurology*, 96(5), 895-907.
 
-264. Horvath, S., & Raj, K. (2018). DNA methylation-based biomarkers and the epigenetic clock theory of ageing. *Nature Reviews Genetics*, 19(6), 371-384.
+221. Gems, D., Virk, R. S., & de Magalhães, J. P. (2024). Epigenetic clocks and programmatic aging. *Ageing Research Reviews*, 101, 102546.
 
-265. Chen, Y., et al. (2021). Reversible reprogramming of cardiomyocytes to a fetal state drives heart regeneration in mice. *Science*, 373(6562), 1537-1540.
 
-266. Wang, C., et al. (2021). In vivo partial reprogramming of myofibers promotes muscle regeneration by remodeling the stem cell niche. *Nature Communications*, 12(1), 3094.
+222. de Magalhães, J. P. (2025). An overview of contemporary theories of ageing. *Nature Cell Biology*, 27(7).
 
-267. Rodríguez-Matellán, A., Alcazar, N., Hernández, F., Serrano, M., & Ávila, J. (2020). In vivo reprogramming ameliorates aging features in dentate gyrus cells and improves memory in mice. *Stem Cell Reports*, 15(5), 1056-1066.
 
-268. Fahy, G. M., Brooke, R. T., Watson, J. P., et al. (2019). Reversal of epigenetic aging and immunosenescent trends in humans. *Aging Cell*, 18(6), e13028.
+223. Mostafavi, H., et al. (2023). Evidence for the role of selection for reproductively advantageous alleles in human aging. *Science Advances*, 9(49), eadh4990.
 
-269. Fitzgerald, K. N., Hodges, R., Hanes, D., et al. (2021). Potential reversal of epigenetic age using a diet and lifestyle intervention: a pilot randomized clinical trial. *Aging*, 13(7), 9419-9432.
 
-270. Lu, A. T., Fei, Z., Haghani, A., Robeck, T. R., et al. (2023). Universal DNA methylation age across mammalian tissues. *Nature Aging*, 3(9), 1144-1166.
+224. Troncoso-Escudero, P., et al. (2023). Antagonistic pleiotropy: the example of cardiac insulin-like growth factor signaling, which is essential in youth but detrimental in age. *Expert Opinion on Therapeutic Targets*, 27(2), 137-149.
 
-271. Silver, A. J., Bick, A. G., & Savona, M. R. (2021). Germline risk of clonal haematopoiesis. *Nature Reviews Genetics*, 22(9), 603-617.
 
-272. Jaiswal, S., & Ebert, B. L. (2019). Clonal hematopoiesis in human aging and disease. *Science*, 366(6465), eaan4673.
+225. Kamaludeen, N., et al. (2024). In vivo neuron-specific expression of *C. elegans* reprogramming factor orthologs does not alleviate age-related cognitive decline. *GeroScience*, 46, 4479-4493.
 
-273. Zink, F., Stacey, S. N., Norddahl, G. L., et al. (2017). Clonal hematopoiesis, with and without candidate driver mutations, is common in the elderly. *Blood*, 130(6), 742-752.
 
-274. Dorsheimer, L., Assmus, B., et al. (2019). Association of mutations contributing to clonal hematopoiesis with prognosis in chronic ischemic heart failure. *JAMA Cardiology*, 4(1), 25-33.
+226. Lee, M. H., Siddoway, B., et al. (2024). Contrasting somatic mutation patterns in aging human neurons and oligodendrocytes. *Cell*, 187(7), 1750-1765.
 
-275. Maierhofer, A., Flunkert, J., Oshima, J., Martin, G. M., Haaf, T., & Dotter, I. (2017). Accelerated epigenetic aging in Werner syndrome. *Aging*, 9(4), 1143-1152.
 
-276. Levine, M. E., Lu, A. T., Quach, A., et al. (2018). An epigenetic biomarker of aging for lifespan and healthspan. *Aging*, 10(4), 573-591.
+227. Zhang, L., Dong, X., & Vijg, J. (2024). Somatic mutations in human ageing: new insights from DNA sequencing and inherited mutations. *Ageing Research Reviews*, 96, 102268.
 
-277. Chen, B. H., Marioni, R. E., Colicino, E., et al. (2016). DNA methylation-based measures of biological age: meta-analysis predicting time to death. *Aging*, 8(9), 1844-1865.
 
-278. Bell, C. G., Lowe, R., Adams, P. D., et al. (2019). DNA methylation aging clocks: challenges and recommendations. *Genome Biology*, 20(1), 249.
+228. Zhang, L., & Vijg, J. (2024). Somatic mutations in aging and disease. *GeroScience*, 46, 3171-3183.
 
-279. Field, A. E., Robertson, N. A., Wang, T., et al. (2018). DNA methylation clocks in aging: categories, causes, and consequences. *Molecular Cell*, 71(6), 882-895.
 
-280. Raj, K., & Horvath, S. (2020). Current perspectives on the cellular and molecular features of epigenetic ageing. *Experimental Biology and Medicine*, 245(17), 1532-1542.
+229. Kuo, C. J., et al. (2025). Altered translation elongation contributes to key hallmarks of aging in the killifish brain. *Science*, 389, adk3079.
 
-281. Teschendorff, A. E. (2020). A comparison of epigenetic mitotic-like clocks for cancer risk prediction. *Genome Medicine*, 12(1), 56.
 
-282. Simpson, D. J., Olova, N. N., & Horsfield, J. A. (2021). Cellular reprogramming and epigenetic rejuvenation. *Clinical Epigenetics*, 13(1), 170.
+230. Paine, P. T., Rechsteiner, C., et al. (2024). Partial cellular reprogramming: a deep dive into an emerging rejuvenation technology. *Aging Cell*, 23(2), e14039.
 
-283. Sen, P., Shah, P. P., Nativio, R., & Berger, S. L. (2016). Epigenetic mechanisms of longevity and aging. *Cell*, 166(4), 822-839.
 
-284. Pal, S., & Tyler, J. K. (2016). Epigenetics and aging. *Science Advances*, 2(7), e1600584.
+231. Silva, C. A., & Annamalai, K. (2023). A step toward precision gerontology: lifespan effects of calorie and protein restriction are consistent with predicted impacts on entropy generation. *Proceedings of the National Academy of Sciences*, 120(37), e2300624120.
 
-285. Paluvai, H., Di Giorgio, E., & Bhatt, D. K. (2020). The histone code of senescence. *Cells*, 9(2), 466.
 
-286. Ohnishi, K., Semi, K., Yamamoto, T., et al. (2014). Premature termination of reprogramming in vivo leads to cancer development through altered epigenetic regulation. *Cell*, 156(4), 663-677.
+232. Tarkhov, A. E., Denisov, K. A., & Fedichev, P. O. (2024). Aging clocks, entropy, and the challenge of age reversal. *Aging Biology*, 2, 20240031.
 
-287. Miura, K., Okada, Y., Aoi, T., et al. (2009). Variation in the safety of induced pluripotent stem cell lines. *Nature Biotechnology*, 27(8), 743-745.
 
-288. Taguchi, J., & Yamada, Y. (2017). In vivo reprogramming for tissue regeneration and organismal rejuvenation. *Current Opinion in Genetics & Development*, 46, 132-140.
+233. Cummings, S. R., Hong, N., & Cohen, A. A. (2025). Entropy and human aging. *Aging Cell*, 24, e70292.
 
-289. Chiche, A., Le Roux, I., von Joest, M., et al. (2017). Injury-induced senescence enables in vivo reprogramming in skeletal muscle. *Cell Stem Cell*, 20(3), 407-414.
 
-290. Paine, P. T., Rechsteiner, C., et al. (2023). Epigenetic reprogramming: from in vitro rejuvenation to in vivo reality. *Trends in Molecular Medicine*, 29(7), 543-557.
+234. Blagosklonny, M. V. (2022). Rapamycin treatment early in life reprograms aging: hyperfunction theory and clinical practice. *Aging*, 14(21), 8524-8537.
 
-291. Tyshkovskiy, A., Bozaykut, P., et al. (2019). Identification and application of gene expression signatures associated with lifespan extension. *Cell Metabolism*, 30(3), 573-593.
 
-292. Li, Y., Roberts, N. D., Wala, J. A., et al. (2020). Patterns of somatic structural variation in human cancer genomes. *Nature*, 578(7793), 112-121.
+235. Goldsmith, T. C. (2024). Mammal aging as a programmed life cycle function — resolving the cause and effect conundrum. *Advanced Biology*, 8(9), 2300658.
 
-293. Moore, L., Leongamornlert, D., Coorens, T. H. H., et al. (2020). The mutational landscape of normal human endometrial epithelium. *Nature*, 580(7805), 640-646.
 
-294. Yoshida, K., Gowers, K. H. C., Lee-Six, H., et al. (2020). Tobacco smoking and somatic mutations in human bronchial epithelium. *Nature*, 578(7794), 266-272.
+236. Pamplona, R., Jové, M., Gómez, J., & Barja, G. (2023). Programmed versus non-programmed evolution of aging. What is the evidence? *Experimental Gerontology*, 175, 112162.
 
-295. Lee-Six, H., Olafsson, S., Ellis, P., et al. (2019). The landscape of somatic mutation in normal colorectal epithelial cells. *Nature*, 574(7779), 532-537.
 
-296. Vijg, J., & Suh, Y. (2013). Genome instability and aging. *Annual Review of Physiology*, 75, 645-668.
+237. Varela, I., & Arias-González, J. E. (2024). The evolution of ageing: classic theories and emerging ideas. *Biogerontology*, 25, 1095-1108.
 
-297. Tomasetti, C., & Vogelstein, B. (2015). Variation in cancer risk among tissues can be explained by the number of stem cell divisions. *Science*, 347(6217), 78-81.
 
-298. Alexandrov, L. B., Kim, J., et al. (2020). The repertoire of mutational signatures in human cancer. *Nature*, 578(7793), 94-101.
+238. Sprason, C., Tucker, T., & Clancy, D. (2024). MtDNA deletions and aging. *Frontiers in Aging*, 5, 1359638.
 
-299. Rando, O. J., & Verstrepen, K. J. (2007). Timescales of genetic and epigenetic inheritance. *Cell*, 128(4), 655-668.
 
-300. Hayashi, Y., Hsiao, E. C., et al. (2016). BMP-SMAD-ID promotes reprogramming to pluripotency by inhibiting p16/INK4A-dependent senescence. *Proceedings of the National Academy of Sciences*, 113(46), 13057-13062.
+239. Brown, L. M., Elbon, M. C., Bharadwaj, A., Damle, G., & Lachance, J. (2024). Does effective population size govern evolutionary differences in telomere length? *Genome Biology and Evolution*, 16(5), evae111.
 
-301. Moqri, M., Herzog, C., Poganik, J. R., et al. (2024). Biomarkers of aging for the identification and evaluation of longevity interventions. *Cell*, 186(18), 3758-3775.
 
-302. Guan, J., Wang, G., Wang, J., et al. (2022). Chemical reprogramming of human somatic cells to pluripotent stem cells. *Nature*, 605(7909), 325-331.
+240. Dugdale, H. L., & Richardson, D. S. (2024). Linking telomere dynamics to evolution, life history and environmental change: perspectives, predictions and problems. *Biogerontology*, 25, 209-234.
 
-303. Liuyang, S., Wang, G., Wang, Y., et al. (2023). Highly efficient and rapid generation of human pluripotent stem cells by chemical reprogramming. *Cell Stem Cell*, 30(4), 450-459.
 
-304. Deng, H., Liu, K., Yang, C., et al. (2022). Chemical generation of human iPSCs from somatic cells using small molecules. *Nature*, 605(7909), 304-310.
+241. Neema, M., et al. (2024). Mutant Huntingtin drives development of an advantageous brain early in life: evidence in support of antagonistic pleiotropy. *Annals of Neurology*, 96(5), 895-907.
 
-305. Chondronasiou, D., Gill, D., Mosteiro, L., et al. (2022). Multi-omic rejuvenation and lifespan extension on exposure to youthful circulation. *Nature Aging*, 2(10), 948-961.
 
-306. Gladyshev, V. N. (2021). The ground zero of organismal life and aging. *Trends in Molecular Medicine*, 27(1), 11-19.
+242. Kane, A. E., & Sinclair, D. A. (2019). Epigenetic changes during aging and their reprogramming potential. *Critical Reviews in Biochemistry and Molecular Biology*, 54(1), 61-83.
 
-307. Guo, J., Huang, X., Dou, L., et al. (2024). Aging and aging-related diseases: from molecular mechanisms to interventions and treatments. *Signal Transduction and Targeted Therapy*, 7(1), 391.
 
-308. Izzo, F., Lee, S. C., Poran, A., et al. (2021). DNA methylation disruption reshapes the hematopoietic differentiation landscape. *Nature Genetics*, 52(4), 378-387.
+243. Schultz, J. L., & Nopoulos, P. C. (2025). Early life functional advantage coupled with accelerated aging: the case for antagonistic pleiotropy in Huntington's disease. *Journal of Huntington's Disease*, 14(1).
 
-309. Ostrander, E. L., Kramer, A. C., Engel, H. M., & Challen, G. A. (2020). TET2 is a context-dependent tumor suppressor in hematopoiesis. *Cancer Research*, 80(19), 5765-5777.
 
-310. Netea, M. G., Domínguez-Andrés, J., Barreiro, L. B., et al. (2020). Defining trained immunity and its role in health and disease. *Nature Reviews Immunology*, 20(6), 375-388.
+244. Meyer, D. H., & Schumacher, B. (2024). Aging clocks based on accumulating stochastic variation. *Nature Aging*, 4(6), 871-885.
 
-311. Meyer, D. H., & Schumacher, B. (2024). Aging clocks based on accumulating stochastic variation. *Nature Aging*, 4(6), 871-885.
 
-312. Ying, K., Liu, H., Tarkhov, A. E., et al. (2024). Causality-enriched epigenetic age uncouples damage and adaptation. *Nature Aging*, 4(2), 231-246.
+245. Ying, K., Liu, H., Tarkhov, A. E., et al. (2024). Causality-enriched epigenetic age uncouples damage and adaptation. *Nature Aging*, 4(2), 231-246.
 
-313. Li, C. Z., Haghani, A., Robeck, T. R., et al. (2024). Epigenetic predictors of species maximum lifespan and other life-history traits. *Nature Aging*, 4(8), 1117-1130.
 
-314. Minteer, C., Morselli, M., Meer, M., et al. (2022). Tick tock, tick tock: mouse culture and tissue aging captured by an epigenetic clock. *Aging Cell*, 21(2), e13553.
+246. Li, C. Z., Haghani, A., Robeck, T. R., et al. (2024). Epigenetic predictors of species maximum lifespan and other life-history traits. *Nature Aging*, 4(8), 1117-1130.
 
-315. Simpson, D. J., Chandra, T., & Horsfield, J. A. (2022). Resolution of epigenetic age at single-cell level: challenges, progress and opportunities. *Molecular Omics*, 18(7), 571-583.
 
-316. Wang, K., Liu, H., Hu, Q., et al. (2022). Epigenetic regulation of aging: implications for interventions of aging and diseases. *Signal Transduction and Targeted Therapy*, 7(1), 374.
+247. Minteer, C., Morselli, M., Meer, M., et al. (2022). Tick tock, tick tock: mouse culture and tissue aging captured by an epigenetic clock. *Aging Cell*, 21(2), e13553.
 
-317. Moqri, M., Herzog, C., Poganik, J. R., et al. (2023). Validation of biomarkers of aging. *Nature Medicine*, 30(2), 360-372.
 
-318. Parras, A., Vílchez-Acosta, A., de Jesus, B. B., et al. (2023). In vivo reprogramming leads to premature death linked to hepatic and intestinal failure. *Nature Aging*, 3(12), 1534-1546.
+248. Simpson, D. J., Chandra, T., & Horsfield, J. A. (2022). Resolution of epigenetic age at single-cell level: challenges, progress and opportunities. *Molecular Omics*, 18(7), 571-583.
 
-319. Browder, K. C., Reddy, P., Kumar, M., et al. (2022). In vivo partial reprogramming alters age-associated molecular changes during physiological aging in mice. *Nature Aging*, 2(3), 243-253.
 
-320. Yang, J. H., Griffin, P. T., Vera, D. L., et al. (2023). Erosion of the epigenetic landscape and loss of cellular identity as a cause of aging in mammals. *bioRxiv* [peer-reviewed in Cell, 2023].
+249. Wang, K., Liu, H., Hu, Q., et al. (2022). Epigenetic regulation of aging: implications for interventions of aging and diseases. *Signal Transduction and Targeted Therapy*, 7(1), 374.
 
-321. Mitteldorf, J. (2023). What can we learn about aging from the study of naked mole rats? *Biochemistry (Moscow)*, 88(Suppl 1), S78-S87.
 
-322. Li, X., Li, C., Zhang, W., et al. (2024). Inflammation and aging: signaling pathways and intervention therapies. *Signal Transduction and Targeted Therapy*, 8(1), 239.
+250. Moqri, M., Herzog, C., Poganik, J. R., et al. (2023). Validation of biomarkers of aging. *Nature Medicine*, 30(2), 360-372.
 
-323. Ferrucci, L., Gonzalez-Freire, M., Fabbri, E., et al. (2020). Measuring biological aging in humans: a quest. *Aging Cell*, 19(2), e13080.
 
-324. Waziry, R., Ryan, C. P., Corcoran, D. L., et al. (2023). Effect of long-term caloric restriction on DNA methylation measures of biological aging in healthy adults from the CALERIE trial. *Nature Aging*, 3(3), 248-257.
+251. Yang, J. H., Griffin, P. T., Vera, D. L., et al. (2023). Erosion of the epigenetic landscape and loss of cellular identity as a cause of aging in mammals. *bioRxiv* [peer-reviewed in Cell, 2023].
 
-325. Belsky, D. W., Caspi, A., Corcoran, D. L., et al. (2022). DunedinPACE, a DNA methylation biomarker of the pace of aging. *eLife*, 11, e73420.
 
-326. Paluvai, H., Di Giorgio, E., & Bhatt, D. K. (2024). Epigenetic reprogramming strategies to reverse aging and age-related diseases. *Aging Cell*, 23(8), e14218.
+252. Mitteldorf, J. (2023). What can we learn about aging from the study of naked mole rats? *Biochemistry (Moscow)*, 88(Suppl 1), S78-S87.
 
-327. Hishida, T., Yamamoto, M., Hishida-Nozaki, Y., et al. (2022). In vivo partial cellular reprogramming enhances liver plasticity and regeneration. *Cell Reports*, 39(4), 110730.
 
-328. Roux, A., Zhang, C., Paw, J., et al. (2022). Diverse partial reprogramming strategies restore youthful gene expression and transiently suppress cell identity. *Cell Systems*, 13(7), 574-587.
+253. Li, X., Li, C., Zhang, W., et al. (2024). Inflammation and aging: signaling pathways and intervention therapies. *Signal Transduction and Targeted Therapy*, 8(1), 239.
 
-329. Sarkar, T. J., Quarta, M., Mukherjee, S., et al. (2020). Transient non-integrative expression of nuclear reprogramming factors promotes multifaceted amelioration of aging in human cells. *Nature Communications*, 11(1), 1545.
 
-330. Davidsohn, N., Pezone, M., Vernet, A., et al. (2019). A single combination gene therapy treats multiple age-related diseases. *Proceedings of the National Academy of Sciences*, 116(47), 23505-23511.
+254. Ferrucci, L., Gonzalez-Freire, M., Fabbri, E., et al. (2020). Measuring biological aging in humans: a quest. *Aging Cell*, 19(2), e13080.
 
-331. Rando, T. A., & Chang, H. Y. (2012). Aging, rejuvenation, and epigenetic reprogramming: resetting the aging clock. *Cell*, 148(1-2), 46-57.
 
-332. López-Otín, C., & Kroemer, G. (2021). Hallmarks of health. *Cell*, 184(7), 1929-1939.
+255. Paluvai, H., Di Giorgio, E., & Bhatt, D. K. (2024). Epigenetic reprogramming strategies to reverse aging and age-related diseases. *Aging Cell*, 23(8), e14218.
 
-333. Sinclair, D. A. (2019). *Lifespan: Why We Age — and Why We Don't Have To*. Atria Books.
 
-334. Sinclair, D. A. (2024). Epigenetic reprogramming and the future of age-reversal therapy. *Cell*, 187(1), 12-16.
+256. Davidsohn, N., Pezone, M., Vernet, A., et al. (2019). A single combination gene therapy treats multiple age-related diseases. *Proceedings of the National Academy of Sciences*, 116(47), 23505-23511.
 
-335. Lu, Y., Brommer, B., Tian, X., et al. (2020). Reprogramming to recover youthful epigenetic information and restore vision. *Nature*, 588(7836), 124-129.
 
-336. Ocampo, A., Reddy, P., Martinez-Redondo, P., et al. (2016). In vivo amelioration of age-associated hallmarks by partial reprogramming. *Cell*, 167(7), 1719-1733.
+257. Timmons, J. A., & Brenner, C. (2024). The information theory of aging has not been tested. *Cell*, 187(5), 1101-1102.
 
-337. Takahashi, K., & Yamanaka, S. (2006). Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors. *Cell*, 126(4), 663-676.
 
-338. Labbadia, J., & Morimoto, R. I. (2015). The biology of proteostasis in aging and disease. *Annual Review of Biochemistry*, 84, 435-464.
-
-339. Hipp, M. S., Kasturi, P., & Hartl, F. U. (2019). The proteostasis network and its decline in ageing. *Nature Reviews Molecular Cell Biology*, 20(7), 421-435.
-
-340. Kauppila, T. E. S., Kauppila, J. H. K., & Larsson, N. G. (2017). Mammalian mitochondria and aging: an update. *Cell Metabolism*, 25(1), 57-71.
-
-341. Stewart, J. B., & Chinnery, P. F. (2015). The dynamics of mitochondrial DNA heteroplasmy: implications for human health and disease. *Nature Reviews Genetics*, 16(9), 530-542.
-
-342. Trifunovic, A., Wredenberg, A., Falkenberg, M., et al. (2004). Premature ageing in mice expressing defective mitochondrial DNA polymerase. *Nature*, 429(6990), 417-423.
-
-343. Whittemore, K., Vera, E., Martínez-Nevado, E., Sanpera, C., & Blasco, M. A. (2019). Telomere shortening rate predicts species life span. *Proceedings of the National Academy of Sciences*, 116(30), 15122-15127.
-
-344. Vera, E., Bernardes de Jesus, B., Foronda, M., Flores, J. M., & Blasco, M. A. (2012). The rate of increase of short telomeres predicts longevity in mammals. *Cell Reports*, 2(4), 732-737.
-
-345. Harley, C. B., Futcher, A. B., & Greider, C. W. (1990). Telomeres shorten during ageing of human fibroblasts. *Nature*, 345(6274), 458-460.
-
-346. Armanios, M., & Blackburn, E. H. (2012). The telomere syndromes. *Nature Reviews Genetics*, 13(10), 693-704.
-
-347. Pascual-Torner, M., et al. (2022). Comparative genomics of mortal and immortal cnidarians unveils novel keys behind rejuvenation. *Proceedings of the National Academy of Sciences*, 119(36), e2118763119.
-
-348. Matsumoto, Y., Piraino, S., & Miglietta, M. P. (2019). Transcriptome characterization of reverse development in *Turritopsis dohrnii*. *G3: Genes, Genomes, Genetics*, 9(12), 4127-4138.
-
-349. Buffenstein, R. (2008). Negligible senescence in the longest living rodent, the naked mole-rat. *Journal of Comparative Physiology B*, 178(4), 439-445.
-
-350. Horvath, S., Haghani, A., et al. (2022). DNA methylation clocks tick in naked mole rats but queens age more slowly than nonbreeders. *Nature Aging*, 2(1), 46-59.
-
-351. Sahu, S. K., Tiwari, R., Sahu, P., et al. (2024). *In vivo* reprogramming of specific cell populations extends lifespan by improving organ homeostasis. *Science Translational Medicine*, 16(765), eadl4132.
-
-352. Macip, C. C., Hasan, R., Hoznek, V., et al. (2024). Gene therapy-mediated partial reprogramming extends lifespan and reverses age-related changes in aged mice. *Cellular Reprogramming*, 26(1), 24-32.
-
-353. Yang, J. H., Hayano, M., Griffin, P. T., et al. (2023). Loss of epigenetic information as a cause of mammalian aging. *Cell*, 186(2), 305-326.
-
-354. Paluvai, H., Di Giorgio, E., & Tagliabue, E. (2024). Epigenetic reprogramming strategies to reverse aging and age-related diseases. *Aging Cell*, 23(8), e14218.
-
-355. Minteer, C., Morselli, M., Meer, M., et al. (2022). Tick tock, tick tock: mouse culture and tissue aging captured by an epigenetic clock. *Aging Cell*, 21(2), e13553.
-
-356. Moqri, M., Herzog, C., Poganik, J. R., et al. (2023). Validation of biomarkers of aging. *Nature Medicine*, 30(2), 360-372.
-
-357. Ying, K., Liu, H., Tarkhov, A. E., et al. (2024). Causality-enriched epigenetic age uncouples damage and adaptation. *Nature Aging*, 4(2), 231-246.
-
-358. Li, C. Z., Haghani, A., Robeck, T. R., et al. (2024). Epigenetic predictors of species maximum lifespan and other life-history traits. *Nature Aging*, 4(8), 1117-1130.
-
-359. Meyer, D. H., & Schumacher, B. (2024). Aging clocks based on accumulating stochastic variation. *Nature Aging*, 4(6), 871-885.
-
-360. Li, X., Li, C., Zhang, W., et al. (2024). Inflammation and aging: signaling pathways and intervention therapies. *Signal Transduction and Targeted Therapy*, 8(1), 239.
-
-361. Poganik, J. R., Zhang, B., Baht, G. S., et al. (2023). Biological age is increased by stress and restored upon recovery. *Cell Metabolism*, 35(5), 807-820.
-
-362. Mostafavi, H., et al. (2023). Evidence for the role of selection for reproductively advantageous alleles in human aging. *Science Advances*, 9(49), eadh4990.
-
-363. Troncoso-Escudero, P., et al. (2023). Antagonistic pleiotropy: cardiac IGF signaling, essential in youth but detrimental in age. *Expert Opinion on Therapeutic Targets*, 27(2), 137-149.
-
-364. de Magalhães, J. P. (2025). An overview of contemporary theories of ageing. *Nature Cell Biology*, 27(7).
-
-365. Cagan, A., Baez-Ortega, A., et al. (2022). Somatic mutation rates scale with lifespan across mammals. *Nature*, 604(7906), 517-524.
-
-366. Haghani, A., Li, C. Z., et al. (2023). DNA methylation networks underlying mammalian traits. *Science*, 381(6658), eabq5693.
-
-367. Waziry, R., Ryan, C. P., et al. (2023). Effect of long-term caloric restriction on DNA methylation measures of biological aging. *Nature Aging*, 3(3), 248-257.
-
-368. Mitchell, E., Spencer Chapman, M., et al. (2022). Clonal dynamics of haematopoiesis across the human lifespan. *Nature*, 606(7913), 343-350.
-
-369. Chondronasiou, D., Gill, D., et al. (2022). Multi-omic rejuvenation and lifespan extension on exposure to youthful circulation. *Nature Aging*, 2(10), 948-961.
-
-370. Wang, K., Liu, H., Hu, Q., et al. (2022). Epigenetic regulation of aging: implications for interventions of aging and diseases. *Signal Transduction and Targeted Therapy*, 7(1), 374.
-
-371. Gems, D., Virk, R. S., & de Magalhães, J. P. (2024). Epigenetic clocks and programmatic aging. *Ageing Research Reviews*, 101, 102546.
-
-372. Goldsmith, T. C. (2024). Mammal aging as a programmed life cycle function — resolving the cause and effect conundrum. *Advanced Biology*, 8(9), 2300658.
-
-373. Varela, I., & Arias-González, J. E. (2024). The evolution of ageing: classic theories and emerging ideas. *Biogerontology*, 25, 1095-1108.
-
-374. Pamplona, R., Jové, M., Gómez, J., & Barja, G. (2023). Programmed versus non-programmed evolution of aging. What is the evidence? *Experimental Gerontology*, 175, 112162.
-
-375. Silva, C. A., & Annamalai, K. (2023). A step toward precision gerontology: lifespan effects of calorie and protein restriction are consistent with predicted impacts on entropy generation. *Proceedings of the National Academy of Sciences*, 120(37), e2300624120.
-
-376. Robertson, N. A., Bick, A. G., et al. (2024). Epigenetic and proteomic signatures associate with clonal hematopoiesis expansion rate. *Nature Aging*, 4(8), 1043-1052.
-
-377. Tarkhov, A. E., Denisov, K. A., & Fedichev, P. O. (2024). Aging clocks, entropy, and the challenge of age reversal. *Aging Biology*, 2, 20240031.
-
-378. Chan, J., Rubbi, L., & Pellegrini, M. (2025). DNA methylation entropy is a biomarker for aging. *Aging*, 17(3), 685-698.
-
-379. Cummings, S. R., Hong, N., & Cohen, A. A. (2025). Entropy and human aging. *Aging Cell*, 24, e70292.
-
-380. Kuo, C. J., et al. (2025). Altered translation elongation contributes to key hallmarks of aging in the killifish brain. *Science*, 389, adk3079.
-
-381. Lee, M. H., Siddoway, B., et al. (2024). Contrasting somatic mutation patterns in aging human neurons and oligodendrocytes. *Cell*, 187(7), 1750-1765.
-
-382. Zhang, L., Dong, X., & Vijg, J. (2024). Somatic mutations in human ageing: new insights from DNA sequencing and inherited mutations. *Ageing Research Reviews*, 96, 102268.
-
-383. Sprason, C., Tucker, T., & Clancy, D. (2024). MtDNA deletions and aging. *Frontiers in Aging*, 5, 1359638.
-
-384. Brown, L. M., Elbon, M. C., Bharadwaj, A., Damle, G., & Lachance, J. (2024). Does effective population size govern evolutionary differences in telomere length? *Genome Biology and Evolution*, 16(5), evae111.
-
-385. Dugdale, H. L., & Richardson, D. S. (2024). Linking telomere dynamics to evolution, life history and environmental change. *Biogerontology*, 25, 209-234.
-
-386. Paine, P. T., Rechsteiner, C., et al. (2024). Partial cellular reprogramming: a deep dive into an emerging rejuvenation technology. *Aging Cell*, 23(2), e14039.
-
-387. Tong, H., Dwaraka, V. B., Chen, Q., et al. (2024). Quantifying the stochastic component of epigenetic aging. *Nature Aging*, 4(6), 886-901.
-
-388. Schultz, J. L., & Nopoulos, P. C. (2025). Early life functional advantage coupled with accelerated aging: antagonistic pleiotropy in Huntington's disease. *Journal of Huntington's Disease*, 14(1).
-
-389. Neema, M., et al. (2024). Mutant Huntingtin drives development of an advantageous brain early in life. *Annals of Neurology*, 96(5), 895-907.
-
-390. Timmons, J. A., & Brenner, C. (2024). The information theory of aging has not been tested. *Cell*, 187(5), 1101-1102.
-
-391. Yang, J. H., Hayano, M., Griffin, P. T., & Sinclair, D. A. (2024). Response to: The information theory of aging has not been tested. *Cell*, 187(5), 1103-1107.
+258. Yang, J. H., Hayano, M., Griffin, P. T., & Sinclair, D. A. (2024). Response to: The information theory of aging has not been tested. *Cell*, 187(5), 1103-1107.
