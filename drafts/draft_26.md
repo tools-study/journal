@@ -436,7 +436,7 @@ where:
 
 The IToA, in its strongest form, claims that $\Delta I_{\text{epi}}(t)$ dominates the total, contributing the majority of age-related functional decline. Our assessment of the evidence suggests a more modest but still significant claim: $\Delta I_{\text{epi}}(t)$ is likely the largest single contributor and the most therapeutically accessible, but $\Delta I_{\text{gen}}(t)$, $\Delta I_{\text{prot}}(t)$, and $\Delta I_{\text{mito}}(t)$ contribute substantially and independently, particularly in the oldest individuals and in specific tissues.
 
-### 6.2 The IToA Might be Partially Correct
+### 6.2 The IToA May be Partially Correct
 
 The strength of evidence for the IToA can be summarized across its key predictions:
 
