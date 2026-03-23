@@ -26,7 +26,7 @@ A second organizing theme is the extension of precision editing to the mitochond
 
 ### 1.4 Scope
 
-This review examines six frontiers of the precision imperative: (I) Cas9 fidelity engineering and the conformational proofreading mechanism; (II) next-generation off-target surveillance technologies; (III) precision delivery via engineered virus-like particles; (IV) the clinical genome editing landscape of 2024–2026; (V) AI-engineered editors; and (VI) the mitochondrial editing revolution. For each frontier, we integrate experimental evidence with novel mathematical frameworks (F225–F231) that formalize the precision constraints governing clinical translation.
+This review examines six frontiers of the precision imperative: (I) Cas9 fidelity engineering and the conformational proofreading mechanism; (II) next-generation off-target surveillance technologies; (III) precision delivery via engineered virus-like particles; (IV) the clinical genome editing landscape of 2024–2026; (V) AI-engineered editors; and (VI) the mitochondrial editing revolution. For each frontier, we integrate experimental evidence with novel mathematical frameworks that formalize the precision constraints governing clinical translation.
 
 ---
 
