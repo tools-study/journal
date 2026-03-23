@@ -136,7 +136,7 @@ We model origin firing as an inhomogeneous Poisson process in which each license
 \lambda_i(t) = \lambda_0 \cdot \phi(x_i) \cdot \frac{[\text{CDK}](t) \cdot [\text{DDK}](t)}{(K_{\text{CDK}} + [\text{CDK}](t))(K_{\text{DDK}} + [\text{DDK}](t))} \cdot \frac{[F_{\text{lim}}](t)}{K_F + [F_{\text{lim}}](t)}
 ```
 
-where $\lambda_0$ is the basal firing rate constant (min⁻¹), $\phi(x_i) \in [0, 1]$ is a position-dependent chromatin accessibility factor (reflecting histone acetylation, nucleosome density, and compartment identity at origin $i$), $[\text{CDK}](t)$ and $[\text{DDK}](t)$ are the time-dependent kinase concentrations, $K_{\text{CDK}}$ and $K_{\text{DDK}}$ are the Michaelis constants for kinase-dependent activation, and $[F_{\text{lim}}](t)$ is the concentration of the limiting firing factor (e.g., CDC45 or GINS), with $K_F$ as its half-maximal constant.
+where $\lambda_0$ is the basal firing rate constant (min⁻¹), $\phi(x_i) \in [0, 1]$ is a position-dependent chromatin accessibility factor (reflecting histone acetylation, nucleosome density, and compartment identity at origin $i$), [CDK] (t) and [DDK] (t) are the time-dependent kinase concentrations, $K_{\text{CDK}}$ and $K_{\text{DDK}}$ are the Michaelis constants for kinase-dependent activation, and [F_lim] (t) is the concentration of the limiting firing factor (e.g., CDC45 or GINS), with $K_F$ as its half-maximal constant.
 
 **F233b. Firing probability within a time window:**
 
