@@ -1325,4 +1325,4 @@ Several unifying themes emerge from this analysis:
 182. Blaabjerg, L.M., Jonsson, N., Boomsma, W. et al. SSEmb: A joint embedding of protein sequence and structure enables robust variant effect predictions. Nat Commun 15, 9646 (2024). https://doi.org/10.1038/s41467-024-53982-z
 183. Yadav Schmid, S., Helfrecht, B., Stegmann, A. et al. Impact of solvent forces and broken symmetry on the assembly of designed proteins at a liquid-solid interface. Nat Commun 17, 2446 (2026). https://doi.org/10.1038/s41467-026-69170-0
 184. Butcher, J., Krishna, R., Mitra, R., et al. (2025). De novo Design of All-atom Biomolecular Interactions with RFdiffusion3. bioRxiv : the preprint server for biology, 2025.09.18.676967. https://doi.org/10.1101/2025.09.18.676967
-
+185. J. Dauparas et al., Robust deep learning–based protein sequence design using ProteinMPNN.Science378,49-56(2022).DOI:10.1126/science.add2187
