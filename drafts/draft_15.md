@@ -672,3 +672,5 @@ The trajectory from descriptive genomics through predictive computational modeli
 213. Qu, Y., et al. CRISPR-GPT for agentic automation of gene-editing experiments. Nat. Biomed. Eng 10, 245–258 (2026). https://doi.org/10.1038/s41551-025-01463-z
 214. Chen, X., et al. Cell-free chromatin state tracing reveals disease origin and therapy responses. Nature (2026). https://doi.org/10.1038/s41586-026-10224-0
 215. Fallahpour, Adibvafa, et al. Bioreason: Incentivizing multimodal biological reasoning within a dna-llm model. arXiv preprint arXiv:2505.23579 (2025).
+216. Toneyan, S., Tang, Z. & Koo, P.K. Evaluating deep learning for predicting epigenomic profiles. Nat Mach Intell 4, 1088–1100 (2022). https://doi.org/10.1038/s42256-022-00570-9
+
