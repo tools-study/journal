@@ -532,7 +532,7 @@ De novo designed DNA-binding proteins present a novel regulatory challenge: they
 
 The current design pipeline (RFdiffusion → LigandMPNN → experimental validation) operates as an open loop. Closing the loop — using experimental binding data to iteratively retrain and improve the generative models — could dramatically increase design efficiency. The integration of AlphaFold 3's structure prediction capabilities with RFdiffusion's generative design, mediated by differentiable molecular simulation, represents a plausible path toward autonomous, self-improving DNA-binding protein design.
 
-### 10.6 Epigenome Editing as the Killer Application
+### 10.6 Epigenome Editing as a Promising Application
 
 The head-to-head demonstration that both zinc finger and TALE scaffolds achieve year-long gene silencing from single LNP-mRNA doses in primates positions epigenome editing — rather than gene knockout or correction — as the most immediate therapeutic application of programmable DNA recognition. As de novo designed and ultracompact scaffolds mature, their incorporation into epigenome editing platforms (fused to DNMT3A/3L, KRAB, or other chromatin-modifying domains) could combine the advantages of all platforms: the predictability of computational design, the compactness of ancestral systems, and the durability of epigenetic modification.
 
