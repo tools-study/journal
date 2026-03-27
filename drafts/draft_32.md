@@ -18,7 +18,7 @@ The Inducible Changes to the Epigenome (ICE) mouse model provided causal evidenc
 
 OSK factors function as pioneer transcription factors capable of engaging closed chromatin (Soufi et al., 2012). However, megabase-scale domains marked by H3K9me3 — the hallmark of constitutive heterochromatin — are refractory to even pioneer factor binding, constituting the dominant impediment to complete reprogramming (Soufi et al., 2012; Chen et al., 2013). Critically, aging involves a genome-wide *redistribution* of H3K9me3: global levels decline (Pearson r = −0.35, P = 9.7 × 10⁻⁹ across 1,814 human ChIP-seq samples; de Lima Camillo et al., 2025), while specific gene-rich euchromatic regions acquire *de novo* H3K9me3 marks (Li et al., 2021). We hypothesize that these newly H3K9me3-marked regions at reprogramming-relevant loci constitute the ceiling that limits partial rejuvenation to approximately 30 years, and that their targeted removal via co-delivery of KDM4-family histone demethylases with OSK can extend rejuvenation depth to the 40-year range required for meaningful clinical translation.
 
-This paper identifies seven obstacles to achieving deep epigenetic rejuvenation (60→20 biological years) in vivo, ranked by difficulty and priority. For each obstacle, we present the evidence base, propose a mechanistic solution, and design a mouse experiment in aged (24-month) C57BL/6 dermal fibroblasts. Five novel mathematical frameworks provide quantitative scaffolding for experimental design and data interpretation.
+This paper identifies seven obstacles to achieving deep epigenetic rejuvenation in vivo, ranked by difficulty and priority. For each obstacle, we present the evidence base, propose a mechanistic solution, and design a mouse experiment in aged (24-month) C57BL/6 dermal fibroblasts. Five novel mathematical frameworks provide quantitative scaffolding for experimental design and data interpretation.
 
 ---
 
@@ -122,7 +122,7 @@ The central tension in rejuvenation biology is that deeper epigenetic remodeling
 
 Super-enhancers — dense clusters of enhancer elements bound by master transcription factors and the Mediator complex — underlie cell identity maintenance in adult tissues (Adam et al., 2015). These structures are acutely sensitive to perturbation by pioneer factors during reprogramming, with over 80% of chromatin accessibility changes occurring in a narrow two-to-five-day window coinciding with activation of endogenous target lineage transcription factors (Wapinski et al., 2017). This temporal vulnerability defines a critical "window of identity risk" during each reprogramming pulse.
 
-For the 60→20 target, the challenge is acute: achieving 10 additional years of rejuvenation beyond the current 30-year ceiling likely requires accessing chromatin domains more closely intertwined with identity-defining regulatory elements. The question is whether identity and age information can be selectively separated at these loci.
+For significant rejuvination, the challenge is acute: achieving 10 additional years of rejuvenation beyond 30 years likely requires accessing chromatin domains more closely intertwined with identity-defining regulatory elements. The question is whether identity and age information can be selectively separated at these loci.
 
 ### 3.2 Selective Targeting of Age-Associated Versus Identity-Associated Marks
 
@@ -198,7 +198,7 @@ R_{\text{cell}}(k, n, p) = \sum_{j=k}^{n} \binom{n}{j} p^j (1-p)^{n-j} = I_p(k, 
 
 where *I*_p is the regularized incomplete beta function.
 
-The population-level fraction of cells achieving deep rejuvenation (≥40 years) depends on the per-locus probability *p*, which is itself a function of factor concentrations and H3K9me3 barrier height:
+The population-level fraction of cells achieving deep rejuvenation depends on the per-locus probability *p*, which is itself a function of factor concentrations and H3K9me3 barrier height:
 
 ```math
 p(\mathbf{c}) = 1 - \exp\left(-\frac{[\text{OSK}] \cdot \eta_{\text{OSK}} + [\text{KDM4D}] \cdot \eta_{\text{KDM4}}}{E_{\text{barrier}}}\right)
@@ -426,7 +426,7 @@ A critical limitation of the dCas9-KDM4D approach is that the sgRNA panel must b
 
 ### 10.6 Toward Quantitative Aging Reversal Targets
 
-The 60→20 target used in this paper is illustrative, but the clinical definition of "sufficient rejuvenation" remains undefined. GrimAge acceleration of 1 year is associated with a hazard ratio of 1.10 for all-cause mortality (Lu et al., 2022), and DunedinPACE captures the dynamic velocity of aging rather than cumulative age (Belsky et al., 2022). Whether epigenetic age reversal by 40 years translates proportionally to mortality reduction is an empirical question that can only be answered by long-term survival studies in rejuvenated model organisms. The 12-month safety follow-up in Experiment 7 will provide the first data point, but definitive answers will require lifespan studies.
+The clinical definition of "sufficient rejuvenation" remains undefined. GrimAge acceleration of 1 year is associated with a hazard ratio of 1.10 for all-cause mortality (Lu et al., 2022), and DunedinPACE captures the dynamic velocity of aging rather than cumulative age (Belsky et al., 2022). Whether epigenetic age reversal by many years translates proportionally to mortality reduction is an empirical question that can only be answered by long-term survival studies in rejuvenated model organisms. The 12-month safety follow-up in Experiment 7 will provide the first data point, but definitive answers will require lifespan studies.
 
 ---
 
