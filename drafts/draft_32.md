@@ -522,4 +522,4 @@ The 60→20 target used in this paper is illustrative, but the clinical definiti
 
 43. Yang, J. H., Hayano, M., Griffin, P. T., et al. (2023). Loss of epigenetic information as a cause of mammalian aging. *Cell*, 186(2), 305-326.e27. PMID: 36638792
 
-44. Zhang, Y., Amaral, M.L., Zhu, C. et al. Single-cell epigenome analysis reveals age-associated decay of heterochromatin domains in excitatory neurons in the mouse brain. Cell Researc 32, 1008–1021 (2022). https://doi.org/10.1038/s41422-022-00719-6
+44. Zhang, Y., Amaral, M.L., Zhu, C. et al. Single-cell epigenome analysis reveals age-associated decay of heterochromatin domains in excitatory neurons in the mouse brain. Cell Research 32, 1008–1021 (2022). https://doi.org/10.1038/s41422-022-00719-6
