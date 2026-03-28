@@ -380,11 +380,11 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 ## References
 
-1. Akera, T., Chmatal, L., & Bhatt, D. K. (2025). A versatile cohesion manipulation system probes female reproductive age-related egg aneuploidy. *Nature Aging*, advance online publication. doi:10.1038/s43587-025-00997-w
+1. ALeem, J., Lemonnier, T., Khutsaidze, A. et al. A versatile cohesion manipulation system probes female reproductive age-related egg aneuploidy. Nat Aging 5, 2215–2227 (2025). https://doi.org/10.1038/s43587-025-00997-w
 
-2. Arbeithuber, B., Cremona, M. A., Gao, Z., & Makova, K. D. (2025). Allele frequency selection and no age-related increase in human oocyte mitochondrial mutations. *Science Advances*, *11*(32), eadw4954. doi:10.1126/sciadv.adw4954
+2. Arbeithuber, B., Anthony, K., Higgins, B., Oppelt, P., Shebl, O., Tiemann-Boege, I., Chiaromonte, F., Ebner, T., & Makova, K. D. (2025). Allele frequency selection and no age-related increase in human oocyte mitochondrial mutations. Science advances, 11(32), eadw4954. https://doi.org/10.1126/sciadv.adw4954
 
-3. Barucci, G., Pelletier, S., Schonig, L., & Bhatt, D. K. (2025). Target RNA recognition drives PIWI* complex assembly for transposon silencing. *Molecular Cell*, *85*(14), 2720–2734. doi:10.1016/j.molcel.2025.07.015
+3. Portell-Montserrat, J., Tirian, L., Yu, C., Silvestri, G., Hohmann, U., Handler, D., Duchek, P., Fin, L., Plaschka, C., & Brennecke, J. (2025). Target RNA recognition drives PIWI∗ complex assembly for transposon silencing. Molecular cell, 85(17), 3288–3305.e6. https://doi.org/10.1016/j.molcel.2025.08.007
 
 4. Berger, F., & Montgomery, S. A. (2024). Meiosis as a mechanism for epigenetic reprogramming and cellular rejuvenation. *Development*, *151*(20), dev203046. doi:10.1242/dev.203046
 
@@ -398,9 +398,9 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 9. Czech, B., & Hannon, G. J. (2016). One loop to rule them all: The ping-pong cycle and piRNA-guided silencing. *Trends in Biochemical Sciences*, *41*(4), 324–337. doi:10.1016/j.tibs.2015.12.008
 
-10. Dahlet, T., Argelia, L., Weber, M., & Greenberg, M. V. C. (2025). UHRF2 mediates resistance to DNA methylation reprogramming in primordial germ cells. *Nature Communications*, *16*, 7389. doi:10.1038/s41467-025-61954-0
+10. Bender, A., Morel, M., Dumas, M., Klopfenstein, M., Osmani, N., Greenberg, M. V. C., Bourc'his, D., Ghyselinck, N. B., & Weber, M. (2025). UHRF2 mediates resistance to DNA methylation reprogramming in primordial germ cells. Nature communications, 16(1), 7350. https://doi.org/10.1038/s41467-025-61954-0
 
-11. Demond, H., Feichtinger, J., Huang, C., & Peters, A. H. F. M. (2025). A parent-of-origin effect on embryonic telomere elongation determines telomere length inheritance. *Current Biology*, *35*(4), 882–895. doi:10.1016/j.cub.2025.01.042
+11. Jeon, H. J., Levine, M. T., & Lampson, M. A. (2025). A parent-of-origin effect on embryonic telomere elongation determines telomere length inheritance. bioRxiv : the preprint server for biology, 2025.01.28.635226. https://doi.org/10.1101/2025.01.28.635226
 
 12. Denomme, M. M., Haywood, M. E., Parks, J. C., Schoolcraft, W. B., & Katz-Jaffe, M. G. (2020). The inherited methylome landscape is directly altered with paternal aging and associated with offspring neurodevelopmental disorders. *Aging Cell*, *19*(8), e13178. doi:10.1111/acel.13178
 
@@ -412,17 +412,17 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 16. Eckersley-Maslin, M. A., Alda-Catalinas, C., & Reik, W. (2018). Dynamics of the epigenetic landscape during the maternal-to-zygotic transition. *Nature Reviews Molecular Cell Biology*, *19*(7), 436–450. doi:10.1038/s41580-018-0008-z
 
-17. Faramarzi, A., Khalili, M. A., Jahromi, M. G., & Kalantar, S. M. (2024). Association of follicular fluid antioxidants activity with aging and in vitro fertilization outcome. *Reproductive Biology and Endocrinology*, *22*(1), 24. doi:10.1186/s12958-024-01194-9
+17. Afrough, M., Nikbakht, R., Hashemitabar, M., Ghalambaz, E., Amirzadeh, S., Zardkaf, A., Adham, S., Mehdipour, M., & Dorfeshan, P. (2024). Association of Follicular Fluid Antioxidants Activity with Aging and In Vitro Fertilization Outcome: A Cross-Sectional Study. International journal of fertility & sterility, 18(2), 115–122. https://doi.org/10.22074/ijfs.2023.555601.1317
 
 18. Floros, V. I., Pyle, A., Dietmann, S., Wei, W., Tang, W. C. W., Ber, N.,"; Turnbull, D. M., & Chinnery, P. F. (2018). Segregation of mitochondrial DNA heteroplasmy through a developmental genetic bottleneck in human embryos. *Nature Cell Biology*, *20*(2), 144–151. doi:10.1038/s41556-017-0017-8
 
-19. Frahm, L., Seferbekova, Z., & Robert, M. (2024). Evidence of immunoproteasome expression onset in the formative state of pluripotency in mouse cells. *Cells*, *13*(16), 1362. doi:10.3390/cells13161362
+19. Kriger, D., Podenkova, U. I., Bakhmet, E. I., Potapenko, E., Ivanova, E., Tomilin, A. N., & Tsimokha, A. S. (2024). Evidence of Immunoproteasome Expression Onset in the Formative State of Pluripotency in Mouse Cells. Cells, 13(16), 1362. https://doi.org/10.3390/cells13161362
 
 20. Gassler, J., Kobayashi, W., Gaspar, I., & Tachibana, K. (2022). Zygotic genome activation by the totipotency pioneer factor Nr5a2. *Science*, *378*(6626), 1305–1315. doi:10.1126/science.abn7478
 
 21. Gladyshev, V. N. (2021). The ground zero of organismal life and aging. *Trends in Molecular Medicine*, *27*(1), 11–19. doi:10.1016/j.molmed.2020.08.012
 
-22. Gopinathan, G., Bhatt, A. S., & Bhargava, S. (2025). Dynamic architecture of mammalian paternal chromatin: histone-to-protamine exchange and post-fertilization reprogramming. *Epigenetics & Chromatin*, *18*, 13. doi:10.1186/s13072-025-00651-0
+22. Firouzabadi, A. M., Fesahat, F., & Seifati, S. M. (2025). Dynamic architecture of mammalian paternal chromatin: histone-to-protamine exchange and post-fertilization reprogramming. Epigenetics & chromatin, 18(1), 83. https://doi.org/10.1186/s13072-025-00651-0
 
 23. Greenberg, M. V. C., & Bourc'his, D. (2019). Cultural relativism: maintenance of genomic imprints in pluripotent stem cell culture systems. *Current Opinion in Genetics & Development*, *55*, 1–7. doi:10.1016/j.gde.2019.04.005
 
@@ -438,11 +438,11 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 29. Hirasawa, R., Chiba, H., Kaneda, M., Tajima, S., Li, E., Jaenisch, R., & Sasaki, H. (2008). Maternal and zygotic Dnmt1 are necessary and sufficient for the maintenance of DNA methylation imprints during preimplantation development. *Genes & Development*, *22*(12), 1607–1616. doi:10.1101/gad.1667008
 
-30. Hu, Y., Bao, R., & Bhatt, D. K. (2024). Pioneer transcription factors: The first domino in zygotic genome activation. *Molecular Human Reproduction*, *30*(6), gaae017. doi:10.1093/molehr/gaae017
+30. Fu, B., Ma, H., & Liu, D. (2024). Pioneer Transcription Factors: The First Domino in Zygotic Genome Activation. Biomolecules, 14(6), 720. https://doi.org/10.3390/biom14060720
 
 31. Iqbal, K., Jin, S.-G., Pfeifer, G. P., & Szabo, P. E. (2011). Reprogramming of the paternal genome upon fertilization involves genome-wide oxidation of 5-methylcytosine. *Proceedings of the National Academy of Sciences*, *108*(9), 3642–3647. doi:10.1073/pnas.1014033108
 
-32. Jung, Y. H., Kremsky, I., Gold, H. B., Rowlands, M. A., Pradeep, K., Lio, C.-W. J., & Corces, V. G. (2024). DNA methylation modulates nucleosome retention in sperm and H3K4 methylation deposition in early mouse embryos. *Nature Communications*, *15*(1), 10904. doi:10.1038/s41467-024-55441-1
+32. Fanourgakis, G., Gaspa-Toneu, L., Komarov, P. A., Papasaikas, P., Ozonov, E. A., Smallwood, S. A., & Peters, A. H. F. M. (2025). DNA methylation modulates nucleosome retention in sperm and H3K4 methylation deposition in early mouse embryos. Nature communications, 16(1), 465. https://doi.org/10.1038/s41467-024-55441-1
 
 33. Kagiwada, S., Kurimoto, K., Hirota, T., Yamaji, M., & Saitou, M. (2013). Replication-coupled passive DNA demethylation for the erasure of genome imprints in mice. *EMBO Journal*, *32*(3), 340–353. doi:10.1038/emboj.2012.331
 
@@ -452,9 +452,9 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 36. Kirkwood, T. B. L. (2005). Understanding the odd science of aging. *Cell*, *120*(4), 437–447. doi:10.1016/j.cell.2005.01.027
 
-37. Li, X., Wang, J., Qi, Z., & Zhang, Y. (2025). Efficient somatic cell nuclear transfer by overcoming both pre- and post-implantation epigenetic barriers. *Advanced Science*, *12*(28), 2504669. doi:10.1002/advs.202504669
+37. Li, Y., Sun, S., Xu, Y., Zhang, J., Du, Y., Cao, Y., Liao, Z., Xie, Y., Bian, X., Huang, J., Wang, M., Liu, Z., Sun, Q., & Lu, F. (2025). Efficient Somatic Cell Nuclear Transfer by Overcoming Both Pre- and Post-Implantation Epigenetic Barriers. Advanced science (Weinheim, Baden-Wurttemberg, Germany), 12(37), e04669. https://doi.org/10.1002/advs.202504669
 
-38. Li, Y., Zhang, Z., Chen, J., & Xu, G.-L. (2024). DPPA3 facilitates genome-wide DNA demethylation in mouse primordial germ cells. *BMC Genomics*, *25*, 334. doi:10.1186/s12864-024-10192-7
+38. Toriyama, K., Au Yeung, W. K., Inoue, A., Kurimoto, K., Yabuta, Y., Saitou, M., Nakamura, T., Nakano, T., & Sasaki, H. (2024). DPPA3 facilitates genome-wide DNA demethylation in mouse primordial germ cells. BMC genomics, 25(1), 344. https://doi.org/10.1186/s12864-024-10192-7
 
 39. Liu, L., Bailey, S. M., Okuka, M., Munoz, P., Li, C., Zhou, L., Wu, C., Czerwiec, E., Sandler, L., Seyfang, A., Blasco, M. A., & Keefe, D. L. (2007). Telomere lengthening early in development. *Nature Cell Biology*, *9*(12), 1436–1441. doi:10.1038/ncb1664
 
@@ -466,9 +466,9 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 43. Matoba, S., & Zhang, Y. (2018). Somatic cell nuclear transfer reprogramming: mechanisms and applications. *Cell Stem Cell*, *23*(4), 471–485. doi:10.1016/j.stem.2018.06.018
 
-44. Moreno-Andres, D., Holla, S., Basta, J., & Bhatt, D. K. (2024). HIRA and dPCIF1 coordinately establish totipotent chromatin and control orderly ZGA in *Drosophila* embryos. *Proceedings of the National Academy of Sciences*, *121*(51), e2410261121. doi:10.1073/pnas.2410261121
+44. Zhang, G., Miao, Y., Song, Y., Wang, L., Li, Y., Zhu, Y., Zhang, W., Sun, Q., & Chen, D. (2024). HIRA and dPCIF1 coordinately establish totipotent chromatin and control orderly ZGA in Drosophila embryos. Proceedings of the National Academy of Sciences of the United States of America, 121(47), e2410261121. https://doi.org/10.1073/pnas.2410261121
 
-45. Mukamel, Z., Falk, S. J., & Greenberg, M. V. C. (2024). Epigenetic reprogramming in mouse and human primordial germ cells. *Experimental & Molecular Medicine*, *56*, 2690–2702. doi:10.1038/s12276-024-01359-z
+45. Lee, S. M., & Surani, M. A. (2024). Epigenetic reprogramming in mouse and human primordial germ cells. Experimental & molecular medicine, 56(12), 2578–2587. https://doi.org/10.1038/s12276-024-01359-z
 
 46. Murase, Y., Sato, T., Okamoto, I., Igawa, T., Shirane, K., & Saitou, M. (2024). In vitro reconstitution of epigenetic reprogramming in the human germ line. *Nature*, *631*(8019), 170–178. doi:10.1038/s41586-024-07526-6
 
@@ -476,19 +476,19 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 48. Ozata, D. M., Gainetdinov, I., Zoch, A., O'Carroll, D., & Zamore, P. D. (2019). PIWI-interacting RNAs: small RNAs with big functions. *Nature Reviews Genetics*, *20*(2), 89–108. doi:10.1038/s41576-018-0073-3
 
-49. Ozata, D. M., Malone, C. D., Bhatt, D. K., & Zamore, P. D. (2025). A conserved PIWI silencing complex detects piRNA-target engagement. *Molecular Cell*, *85*(14), 2706–2719. doi:10.1016/j.molcel.2025.07.010
+49. De, D., Sarkar, S., Gebert, L. F. R., Wiryaman, T., Anzelon, T. A., & MacRae, I. J. (2025). A conserved PIWI silencing complex detects piRNA-target engagement. Molecular cell, 85(17), 3275–3287.e7. https://doi.org/10.1016/j.molcel.2025.08.010
 
-50. Perez, M. F., Lehner, B., & Brunner, E. (2025). Telomere length in offspring is determined by mitochondrial-nuclear communication at fertilization. *Nature Communications*, *16*, 2856. doi:10.1038/s41467-025-57794-7
+50. Winstanley, Y. E., Rose, R. D., Sobinoff, A. P., Wu, L. L., Adhikari, D., Zhang, Q. H., Wells, J. K., Wong, L. H., Szeto, H. H., Piltz, S. G., Thomas, P. Q., Febbraio, M. A., Carroll, J., Pickett, H. A., Russell, D. L., & Robker, R. L. (2025). Telomere length in offspring is determined by mitochondrial-nuclear communication at fertilization. Nature communications, 16(1), 2527. https://doi.org/10.1038/s41467-025-57794-77
 
 51. Rathke, C., Baarends, W. M., Awe, S., & Renkawitz-Pohl, R. (2014). Chromatin dynamics during spermiogenesis. *Biochimica et Biophysica Acta*, *1839*(3), 155–168. doi:10.1016/j.bbagrm.2013.08.004
 
 52. Schiebinger, G., Shu, J., Tabaka, M., Cleary, B., Subramanian, V., Solomon, A., Gould, J., Liu, S., Lin, S., Berber, P., Lee, L., Chen, J., Brumbaugh, J., Rigollet, P., Hochedlinger, K., Jaenisch, R., Regev, A., & Lander, E. S. (2019). Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming. *Cell*, *176*(4), 928–943. doi:10.1016/j.cell.2019.01.006
 
-53. Schulz, K. N., & Harrison, M. M. (2024). Kick-starting the zygotic genome: licensors, specifiers, and beyond. *EMBO Reports*, *25*(10), 4350–4370. doi:10.1038/s44319-024-00223-5
+53. Zou, Z., Wang, Q., Wu, X., Schultz, R. M., & Xie, W. (2024). Kick-starting the zygotic genome: licensors, specifiers, and beyond. EMBO reports, 25(10), 4113–4130. https://doi.org/10.1038/s44319-024-00223-5
 
 54. Seisenberger, S., Andrews, S., Krueger, F., Arand, J., Walter, J., Santos, F., Popp, C., Thienpont, B., Dean, W., & Reik, W. (2012). The dynamics of genome-wide DNA methylation reprogramming in mouse primordial germ cells. *Molecular Cell*, *48*(6), 849–862. doi:10.1016/j.molcel.2012.11.001
 
-55. Selvaraj, V., Fei, R., Engstrom, P., & Lee, H. J. (2024). TET enzyme driven epigenetic reprogramming in early embryos and its implication on long-term health. *Frontiers in Cell and Developmental Biology*, *12*, 1358649. doi:10.3389/fcell.2024.1358649
+55. Montgomery, T., Uh, K., & Lee, K. (2024). TET enzyme driven epigenetic reprogramming in early embryos and its implication on long-term health. Frontiers in cell and developmental biology, 12, 1358649. https://doi.org/10.3389/fcell.2024.1358649
 
 56. Smith, Z. D., Chan, M. M., Mikkelsen, T. S., Gu, H., Gnirke, A., Regev, A., & Meissner, A. (2012). A unique regulatory phase of DNA methylation in the early mammalian embryo. *Nature*, *484*(7394), 339–344. doi:10.1038/nature10960
 
