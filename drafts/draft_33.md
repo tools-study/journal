@@ -1,4 +1,4 @@
-# Natural Mechanisms of Epigenetic Age Reversal Review
+# Natural Mechanisms of Rejuvenation Review
 
 ---
 
