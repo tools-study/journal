@@ -434,9 +434,9 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 27. Hammoud, S. S., Nix, D. A., Zhang, H., Purwar, J., Carrell, D. T., & Cairns, B. R. (2009). Distinctive chromatin in human sperm packages genes for embryo development. Nature, 460(7254), 473–478. https://doi.org/10.1038/nature08162
 
-28. Hernebring, M., Fredriksson, A., Liljevald, M., Cvijovic, M., Norrman, K., Wiseman, J., Semb, H., & Nystrom, T. (2013). Removal of damaged proteins during ES cell fate specification requires the proteasome activator PA28. *Scientific Reports*, *3*, 1381. doi:10.1038/srep01381
+28. Hernebring, M., Fredriksson, Å., Liljevald, M., Cvijovic, M., Norrman, K., Wiseman, J., Semb, H., & Nyström, T. (2013). Removal of damaged proteins during ES cell fate specification requires the proteasome activator PA28. Scientific reports, 3, 1381. https://doi.org/10.1038/srep01381
 
-29. Hirasawa, R., Chiba, H., Kaneda, M., Tajima, S., Li, E., Jaenisch, R., & Sasaki, H. (2008). Maternal and zygotic Dnmt1 are necessary and sufficient for the maintenance of DNA methylation imprints during preimplantation development. *Genes & Development*, *22*(12), 1607–1616. doi:10.1101/gad.1667008
+29. Hirasawa, R., Chiba, H., Kaneda, M., Tajima, S., Li, E., Jaenisch, R., & Sasaki, H. (2008). Maternal and zygotic Dnmt1 are necessary and sufficient for the maintenance of DNA methylation imprints during preimplantation development. Genes & development, 22(12), 1607–1616. https://doi.org/10.1101/gad.1667008
 
 30. Fu, B., Ma, H., & Liu, D. (2024). Pioneer Transcription Factors: The First Domino in Zygotic Genome Activation. Biomolecules, 14(6), 720. https://doi.org/10.3390/biom14060720
 
@@ -444,7 +444,7 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 32. Fanourgakis, G., Gaspa-Toneu, L., Komarov, P. A., Papasaikas, P., Ozonov, E. A., Smallwood, S. A., & Peters, A. H. F. M. (2025). DNA methylation modulates nucleosome retention in sperm and H3K4 methylation deposition in early mouse embryos. Nature communications, 16(1), 465. https://doi.org/10.1038/s41467-024-55441-1
 
-33. Kagiwada, S., Kurimoto, K., Hirota, T., Yamaji, M., & Saitou, M. (2013). Replication-coupled passive DNA demethylation for the erasure of genome imprints in mice. *EMBO Journal*, *32*(3), 340–353. doi:10.1038/emboj.2012.331
+33. Kagiwada, S., Kurimoto, K., Hirota, T., Yamaji, M., & Saitou, M. (2013). Replication-coupled passive DNA demethylation for the erasure of genome imprints in mice. The EMBO journal, 32(3), 340–353. https://doi.org/10.1038/emboj.2012.331
 
 34. Kerepesi, C., & Gladyshev, V. N. (2023). Intersection clock reveals a rejuvenation event during human embryogenesis. *Aging Cell*, *22*(10), e13922. doi:10.1111/acel.13922
 
@@ -456,23 +456,23 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 38. Toriyama, K., Au Yeung, W. K., Inoue, A., Kurimoto, K., Yabuta, Y., Saitou, M., Nakamura, T., Nakano, T., & Sasaki, H. (2024). DPPA3 facilitates genome-wide DNA demethylation in mouse primordial germ cells. BMC genomics, 25(1), 344. https://doi.org/10.1186/s12864-024-10192-7
 
-39. Liu, L., Bailey, S. M., Okuka, M., Munoz, P., Li, C., Zhou, L., Wu, C., Czerwiec, E., Sandler, L., Seyfang, A., Blasco, M. A., & Keefe, D. L. (2007). Telomere lengthening early in development. *Nature Cell Biology*, *9*(12), 1436–1441. doi:10.1038/ncb1664
+39. Liu, L., Bailey, S. M., Okuka, M., Muñoz, P., Li, C., Zhou, L., Wu, C., Czerwiec, E., Sandler, L., Seyfang, A., Blasco, M. A., & Keefe, D. L. (2007). Telomere lengthening early in development. Nature cell biology, 9(12), 1436–1441. https://doi.org/10.1038/ncb1664
 
-40. Lopez-Otin, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer, G. (2023). Hallmarks of aging: An expanding universe. *Cell*, *186*(2), 243–278. doi:10.1016/j.cell.2022.11.001
+40. López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer, G. (2023). Hallmarks of aging: An expanding universe. Cell, 186(2), 243–278. https://doi.org/10.1016/j.cell.2022.11.001
 
 41. Luberda, Z. (2005). The role of glutathione in mammalian gametes. *Reproductive Biology*, *5*(1), 5–17.
 
 42. Matoba, S., Liu, Y., Lu, F., Iwabuchi, K. A., Shen, L., Inoue, A., & Zhang, Y. (2014). Embryonic development following somatic cell nuclear transfer impeded by persisting histone methylation. *Cell*, *159*(4), 884–895. doi:10.1016/j.cell.2014.09.055
 
-43. Matoba, S., & Zhang, Y. (2018). Somatic cell nuclear transfer reprogramming: mechanisms and applications. *Cell Stem Cell*, *23*(4), 471–485. doi:10.1016/j.stem.2018.06.018
+43. Matoba, S., Liu, Y., Lu, F., Iwabuchi, K. A., Shen, L., Inoue, A., & Zhang, Y. (2014). Embryonic development following somatic cell nuclear transfer impeded by persisting histone methylation. Cell, 159(4), 884–895. https://doi.org/10.1016/j.cell.2014.09.055
 
 44. Zhang, G., Miao, Y., Song, Y., Wang, L., Li, Y., Zhu, Y., Zhang, W., Sun, Q., & Chen, D. (2024). HIRA and dPCIF1 coordinately establish totipotent chromatin and control orderly ZGA in Drosophila embryos. Proceedings of the National Academy of Sciences of the United States of America, 121(47), e2410261121. https://doi.org/10.1073/pnas.2410261121
 
 45. Lee, S. M., & Surani, M. A. (2024). Epigenetic reprogramming in mouse and human primordial germ cells. Experimental & molecular medicine, 56(12), 2578–2587. https://doi.org/10.1038/s12276-024-01359-z
 
-46. Murase, Y., Sato, T., Okamoto, I., Igawa, T., Shirane, K., & Saitou, M. (2024). In vitro reconstitution of epigenetic reprogramming in the human germ line. *Nature*, *631*(8019), 170–178. doi:10.1038/s41586-024-07526-6
+46. Murase, Y., Yokogawa, R., Yabuta, Y., Nagano, M., Katou, Y., Mizuyama, M., Kitamura, A., Puangsricharoen, P., Yamashiro, C., Hu, B., Mizuta, K., Tsujimura, T., Yamamoto, T., Ogata, K., Ishihama, Y., & Saitou, M. (2024). In vitro reconstitution of epigenetic reprogramming in the human germ line. Nature, 631(8019), 170–178. https://doi.org/10.1038/s41586-024-07526-6
 
-47. Nakamura, T., Arai, Y., Umehara, H., Masuhara, M., Kimura, T., Taniguchi, H., Sekimoto, T., Ikawa, M., Yoneda, Y., Okabe, M., Tanaka, S., Shiota, K., & Nakano, T. (2007). PGC7/Stella protects against DNA demethylation in early embryogenesis. *Nature Cell Biology*, *9*(1), 64–71. doi:10.1038/ncb1519
+47. Nakamura, T., Arai, Y., Umehara, H., Masuhara, M., Kimura, T., Taniguchi, H., Sekimoto, T., Ikawa, M., Yoneda, Y., Okabe, M., Tanaka, S., Shiota, K., & Nakano, T. (2007). PGC7/Stella protects against DNA demethylation in early embryogenesis. Nature cell biology, 9(1), 64–71. https://doi.org/10.1038/ncb1519
 
 48. Ozata, D. M., Gainetdinov, I., Zoch, A., O'Carroll, D., & Zamore, P. D. (2019). PIWI-interacting RNAs: small RNAs with big functions. *Nature Reviews Genetics*, *20*(2), 89–108. doi:10.1038/s41576-018-0073-3
 
@@ -480,37 +480,37 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 50. Winstanley, Y. E., Rose, R. D., Sobinoff, A. P., Wu, L. L., Adhikari, D., Zhang, Q. H., Wells, J. K., Wong, L. H., Szeto, H. H., Piltz, S. G., Thomas, P. Q., Febbraio, M. A., Carroll, J., Pickett, H. A., Russell, D. L., & Robker, R. L. (2025). Telomere length in offspring is determined by mitochondrial-nuclear communication at fertilization. Nature communications, 16(1), 2527. https://doi.org/10.1038/s41467-025-57794-77
 
-51. Rathke, C., Baarends, W. M., Awe, S., & Renkawitz-Pohl, R. (2014). Chromatin dynamics during spermiogenesis. *Biochimica et Biophysica Acta*, *1839*(3), 155–168. doi:10.1016/j.bbagrm.2013.08.004
+51. Rathke, C., Baarends, W. M., Awe, S., & Renkawitz-Pohl, R. (2014). Chromatin dynamics during spermiogenesis. Biochimica et biophysica acta, 1839(3), 155–168. https://doi.org/10.1016/j.bbagrm.2013.08.004
 
-52. Schiebinger, G., Shu, J., Tabaka, M., Cleary, B., Subramanian, V., Solomon, A., Gould, J., Liu, S., Lin, S., Berber, P., Lee, L., Chen, J., Brumbaugh, J., Rigollet, P., Hochedlinger, K., Jaenisch, R., Regev, A., & Lander, E. S. (2019). Optimal-transport analysis of single-cell gene expression identifies developmental trajectories in reprogramming. *Cell*, *176*(4), 928–943. doi:10.1016/j.cell.2019.01.006
+52. Schiebinger, G., Shu, J., Tabaka, M., Cleary, B., Subramanian, V., Solomon, A., Gould, J., Liu, S., Lin, S., Berube, P., Lee, L., Chen, J., Brumbaugh, J., Rigollet, P., Hochedlinger, K., Jaenisch, R., Regev, A., & Lander, E. S. (2019). Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming. Cell, 176(4), 928–943.e22. https://doi.org/10.1016/j.cell.2019.01.006
 
 53. Zou, Z., Wang, Q., Wu, X., Schultz, R. M., & Xie, W. (2024). Kick-starting the zygotic genome: licensors, specifiers, and beyond. EMBO reports, 25(10), 4113–4130. https://doi.org/10.1038/s44319-024-00223-5
 
-54. Seisenberger, S., Andrews, S., Krueger, F., Arand, J., Walter, J., Santos, F., Popp, C., Thienpont, B., Dean, W., & Reik, W. (2012). The dynamics of genome-wide DNA methylation reprogramming in mouse primordial germ cells. *Molecular Cell*, *48*(6), 849–862. doi:10.1016/j.molcel.2012.11.001
+54. Seisenberger, S., Andrews, S., Krueger, F., Arand, J., Walter, J., Santos, F., Popp, C., Thienpont, B., Dean, W., & Reik, W. (2012). The dynamics of genome-wide DNA methylation reprogramming in mouse primordial germ cells. Molecular cell, 48(6), 849–862. https://doi.org/10.1016/j.molcel.2012.11.001
 
 55. Montgomery, T., Uh, K., & Lee, K. (2024). TET enzyme driven epigenetic reprogramming in early embryos and its implication on long-term health. Frontiers in cell and developmental biology, 12, 1358649. https://doi.org/10.3389/fcell.2024.1358649
 
-56. Smith, Z. D., Chan, M. M., Mikkelsen, T. S., Gu, H., Gnirke, A., Regev, A., & Meissner, A. (2012). A unique regulatory phase of DNA methylation in the early mammalian embryo. *Nature*, *484*(7394), 339–344. doi:10.1038/nature10960
+56. Smith, Z. D., Chan, M. M., Mikkelsen, T. S., Gu, H., Gnirke, A., Regev, A., & Meissner, A. (2012). A unique regulatory phase of DNA methylation in the early mammalian embryo. Nature, 484(7394), 339–344. https://doi.org/10.1038/nature10960
 
-57. Stringer, J. M., Winship, A., Zerafa, N., Wakefield, M., & Hutt, K. (2020). Oocytes can efficiently repair DNA double-strand breaks to restore genetic integrity and protect offspring health. *Proceedings of the National Academy of Sciences*, *117*(21), 11513–11522. doi:10.1073/pnas.2001124117
+57. Stringer, J. M., Winship, A., Zerafa, N., Wakefield, M., & Hutt, K. (2020). Oocytes can efficiently repair DNA double-strand breaks to restore genetic integrity and protect offspring health. Proceedings of the National Academy of Sciences of the United States of America, 117(21), 11513–11522. https://doi.org/10.1073/pnas.2001124117
 
-58. Sasaki, H., & Matsui, Y. (2008). Epigenetic events in mammalian germ-cell development: reprogramming and beyond. *Nature Reviews Genetics*, *9*(2), 129–140. doi:10.1038/nrg2295
+58. Sasaki, H., & Matsui, Y. (2008). Epigenetic events in mammalian germ-cell development: reprogramming and beyond. Nature reviews. Genetics, 9(2), 129–140. https://doi.org/10.1038/nrg2295
 
-59. Tang, W. W. C., Dietmann, S., Irie, N., Leitch, H. G., Floros, V. I., Bradshaw, C. R., Hackett, J. A., Chinnery, P. F., & Surani, M. A. (2015). A unique gene regulatory network resets the human germline epigenome for development. *Cell*, *161*(6), 1453–1467. doi:10.1016/j.cell.2015.04.053
+59. Tang, W. W., Dietmann, S., Irie, N., Leitch, H. G., Floros, V. I., Bradshaw, C. R., Hackett, J. A., Chinnery, P. F., & Surani, M. A. (2015). A Unique Gene Regulatory Network Resets the Human Germline Epigenome for Development. Cell, 161(6), 1453–1467. https://doi.org/10.1016/j.cell.2015.04.053
 
 60. Thendral, S., Mottola, G., & Bhatt, D. K. (2025). Programmed mitophagy at the oocyte-to-zygote transition promotes lineage endurance. *Nature Cell Biology*, *28*(2), 198–211. doi:10.1038/s41556-025-01854-z
 
-61. Titus, S., Li, F., Stobezki, R., Akula, K., Unsal, E., Jeong, K., Dickler, M., Robson, M., Moy, F., Goswami, S., & Oktay, K. (2013). Impairment of BRCA1-related DNA double-strand break repair leads to ovarian aging in mice and humans. *Science Translational Medicine*, *5*(172), 172ra21. doi:10.1126/scitranslmed.3004925
+61. Balachandar Thendral, S., Bacot, S., Morton, K. S., Chi, Q., Kenny-Ganzert, I. W., Meyer, J. N., & Sherwood, D. R. (2025). Programmed mitophagy at the oocyte-to-zygote transition promotes species immortality. Research square, rs.3.rs-6330979. https://doi.org/10.21203/rs.3.rs-6330979/v1
 
 62. Trapp, A., Kerepesi, C., & Gladyshev, V. N. (2021). Profiling epigenetic age in single cells. *Nature Aging*, *1*(12), 1189–1201. doi:10.1038/s43587-021-00134-3
 
-63. Wai, T., Teoli, D., & Bhimji, S. (2008). The mitochondrial DNA genetic bottleneck results from replication of a subpopulation of genomes. *Nature Genetics*, *40*(12), 1484–1488. doi:10.1038/ng.258
+63. Wai, T., Teoli, D., & Shoubridge, E. A. (2008). The mitochondrial DNA genetic bottleneck results from replication of a subpopulation of genomes. Nature genetics, 40(12), 1484–1488. https://doi.org/10.1038/ng.258
 
 64. Kremer, L. S., Golder, Z., Barton-Owen, T., Papadea, P., Koolmeister, C., Chinnery, P. F., & Larsson, N. G. (2025). The bottleneck for maternal transmission of mtDNA is linked to purifying selection by autophagy. Science advances, 11(46), eaea4660. https://doi.org/10.1126/sciadv.aea4660
 
-65. Wossidlo, M., Nakamura, T., Lepikhov, K., Marques, C. J., Zakhartchenko, V., Boiani, M., Arand, J., Nakano, T., Reik, W., & Walter, J. (2011). 5-Hydroxymethylcytosine in the mammalian zygote is linked with epigenetic reprogramming. *Nature Communications*, *2*, 241. doi:10.1038/ncomms1240
+65. Wossidlo, M., Nakamura, T., Lepikhov, K., Marques, C. J., Zakhartchenko, V., Boiani, M., Arand, J., Nakano, T., Reik, W., & Walter, J. (2011). 5-Hydroxymethylcytosine in the mammalian zygote is linked with epigenetic reprogramming. Nature communications, 2, 241. https://doi.org/10.1038/ncomms1240
 
-66. Zaffagnini, G., Cheng, S., Salzer, M. C., Pernaute, B., Duran, J. M., Irimia, M., Schuh, M., & Boke, E. (2024). Mouse oocytes sequester aggregated proteins in degradative super-organelles. *Cell*, *187*(5), 1109–1126. doi:10.1016/j.cell.2024.01.031
+66. Zaffagnini, G., Cheng, S., Salzer, M. C., Pernaute, B., Duran, J. M., Irimia, M., Schuh, M., & Böke, E. (2024). Mouse oocytes sequester aggregated proteins in degradative super-organelles. Cell, 187(5), 1109–1126.e21. https://doi.org/10.1016/j.cell.2024.01.031
 
 67. Mihalas, B. P., Pieper, G. H., Aboelenain, M., Munro, L., Srsen, V., Currie, C. E., Kelly, D. A., Hartshorne, G. M., Telfer, E. E., McAinsh, A. D., Anderson, R. A., & Marston, A. L. (2024). Age-dependent loss of cohesion protection in human oocytes. Current biology : CB, 34(1), 117–131.e5. https://doi.org/10.1016/j.cub.2023.11.061
 
