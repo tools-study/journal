@@ -515,3 +515,7 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 67. Zielinska, A. P., Nguyen, A. L., & Schuh, M. (2024). Age-dependent loss of cohesion protection in human oocytes. *Current Biology*, *34*(1), 117–131. doi:10.1016/j.cub.2023.11.068
 
 68. Subramanian, V. V., & Hochwagen, A. (2014). The meiotic checkpoint network: step-by-step through meiotic prophase. *Cold Spring Harbor Perspectives in Biology*, *6*(10), a016675. doi:10.1101/cshperspect.a016675
+
+69. Lapasset, L., Milhavet, O., Prieur, A., Besnard, E., Babled, A., Aït-Hamou, N., Leschik, J., Pellestor, F., Ramirez, J. M., De Vos, J., Lehmann, S., & Lemaitre, J. M. (2011). Rejuvenating senescent and centenarian human cells by reprogramming through the pluripotent state. Genes & development, 25(21), 2248–2253. https://doi.org/10.1101/gad.173922.111
+
+70. Yamanaka, S., & Blau, H. M. (2010). Nuclear reprogramming to a pluripotent state by three approaches. Nature, 465(7299), 704–712. https://doi.org/10.1038/nature09229
