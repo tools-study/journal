@@ -512,7 +512,7 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 66. Zaffagnini, G., Cheng, S., Salzer, M. C., Pernaute, B., Duran, J. M., Irimia, M., Schuh, M., & Boke, E. (2024). Mouse oocytes sequester aggregated proteins in degradative super-organelles. *Cell*, *187*(5), 1109–1126. doi:10.1016/j.cell.2024.01.031
 
-67. Zielinska, A. P., Nguyen, A. L., & Schuh, M. (2024). Age-dependent loss of cohesion protection in human oocytes. *Current Biology*, *34*(1), 117–131. doi:10.1016/j.cub.2023.11.068
+67. Mihalas, B. P., Pieper, G. H., Aboelenain, M., Munro, L., Srsen, V., Currie, C. E., Kelly, D. A., Hartshorne, G. M., Telfer, E. E., McAinsh, A. D., Anderson, R. A., & Marston, A. L. (2024). Age-dependent loss of cohesion protection in human oocytes. Current biology : CB, 34(1), 117–131.e5. https://doi.org/10.1016/j.cub.2023.11.061
 
 68. Subramanian, V. V., & Hochwagen, A. (2014). The meiotic checkpoint network: step-by-step through meiotic prophase. *Cold Spring Harbor Perspectives in Biology*, *6*(10), a016675. doi:10.1101/cshperspect.a016675
 
