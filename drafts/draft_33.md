@@ -386,39 +386,39 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 3. Portell-Montserrat, J., Tirian, L., Yu, C., Silvestri, G., Hohmann, U., Handler, D., Duchek, P., Fin, L., Plaschka, C., & Brennecke, J. (2025). Target RNA recognition drives PIWI∗ complex assembly for transposon silencing. Molecular cell, 85(17), 3288–3305.e6. https://doi.org/10.1016/j.molcel.2025.08.007
 
-4. Berger, F., & Montgomery, S. A. (2024). Meiosis as a mechanism for epigenetic reprogramming and cellular rejuvenation. *Development*, *151*(20), dev203046. doi:10.1242/dev.203046
+4. Berger F. (2024). Meiosis as a mechanism for epigenetic reprogramming and cellular rejuvenation. Development (Cambridge, England), 151(20), dev203046. https://doi.org/10.1242/dev.203046
 
-5. Bunne, C., Stark, S. G., Gut, G., del Castillo, J. S., Levesque, M., Lehmann, K.-V., Pelkmans, L., Krause, A., & Ratsch, G. (2024). Optimal transport for single-cell and spatial omics. *Nature Reviews Methods Primers*, *4*, 58. doi:10.1038/s43586-024-00334-2
+5. Bunne, C., Schiebinger, G., Krause, A., Regev, A., & Cuturi, M. (2024). Optimal transport for single-cell and spatial omics. Nature Reviews Methods Primers, 4(1), 58.
 
-6. Burkhardt, S., Borsos, M., Szydlowska, A., Godber, E., & Tachibana, K. (2016). Chromosome cohesion established by Rec8-cohesin in fetal oocytes is maintained without detectable turnover in oocytes arrested for months in mice. *Current Biology*, *26*(5), 678–685. doi:10.1016/j.cub.2015.12.073
+6. Burkhardt, S., Borsos, M., Szydlowska, A., Godwin, J., Williams, S. A., Cohen, P. E., Hirota, T., Saitou, M., & Tachibana-Konwalski, K. (2016). Chromosome Cohesion Established by Rec8-Cohesin in Fetal Oocytes Is Maintained without Detectable Turnover in Oocytes Arrested for Months in Mice. Current biology : CB, 26(5), 678–685. https://doi.org/10.1016/j.cub.2015.12.073
 
-7. Inoue, A., Ogushi, S., Saitou, M., Suzuki, M. G., & Aoki, F. (2011). Involvement of mouse nucleoplasmin 2 in the decondensation of sperm chromatin after fertilization. *Biology of Reproduction*, *85*(1), 70–77. doi:10.1095/biolreprod.110.089342
+7. Inoue, A., Ogushi, S., Saitou, M., Suzuki, M. G., & Aoki, F. (2011). Involvement of mouse nucleoplasmin 2 in the decondensation of sperm chromatin after fertilization. Biology of reproduction, 85(1), 70–77. https://doi.org/10.1095/biolreprod.110.089342
 
-8. Bultman, S. J., Gebuhr, T. C., Pan, H., Svoboda, P., Schultz, R. M., & Magnuson, T. (2006). Maternal BRG1 regulates zygotic genome activation in the mouse. *Genes & Development*, *20*(13), 1744–1754. doi:10.1101/gad.1435106
+8. Bultman, S. J., Gebuhr, T. C., Pan, H., Svoboda, P., Schultz, R. M., & Magnuson, T. (2006). Maternal BRG1 regulates zygotic genome activation in the mouse. Genes & development, 20(13), 1744–1754. https://doi.org/10.1101/gad.1435106
 
-9. Czech, B., & Hannon, G. J. (2016). One loop to rule them all: The ping-pong cycle and piRNA-guided silencing. *Trends in Biochemical Sciences*, *41*(4), 324–337. doi:10.1016/j.tibs.2015.12.008
+9. Czech, B., & Hannon, G. J. (2016). One Loop to Rule Them All: The Ping-Pong Cycle and piRNA-Guided Silencing. Trends in biochemical sciences, 41(4), 324–337. https://doi.org/10.1016/j.tibs.2015.12.008
 
 10. Bender, A., Morel, M., Dumas, M., Klopfenstein, M., Osmani, N., Greenberg, M. V. C., Bourc'his, D., Ghyselinck, N. B., & Weber, M. (2025). UHRF2 mediates resistance to DNA methylation reprogramming in primordial germ cells. Nature communications, 16(1), 7350. https://doi.org/10.1038/s41467-025-61954-0
 
 11. Jeon, H. J., Levine, M. T., & Lampson, M. A. (2025). A parent-of-origin effect on embryonic telomere elongation determines telomere length inheritance. bioRxiv : the preprint server for biology, 2025.01.28.635226. https://doi.org/10.1101/2025.01.28.635226
 
-12. Denomme, M. M., Haywood, M. E., Parks, J. C., Schoolcraft, W. B., & Katz-Jaffe, M. G. (2020). The inherited methylome landscape is directly altered with paternal aging and associated with offspring neurodevelopmental disorders. *Aging Cell*, *19*(8), e13178. doi:10.1111/acel.13178
+12. Denomme, M. M., Haywood, M. E., Parks, J. C., Schoolcraft, W. B., & Katz-Jaffe, M. G. (2020). The inherited methylome landscape is directly altered with paternal aging and associated with offspring neurodevelopmental disorders. Aging cell, 19(8), e13178. https://doi.org/10.1111/acel.13178
 
-13. Qin, D., Gu, Y., Zhang, Y., Wang, S., Jiang, T., Wang, Y., . . . Hu, Z. (2023). Phase-separated CCER1 coordinates the histone-to-protamine transition and male fertility. *Nature Communications*, *14*, 8209. doi:10.1038/s41467-023-43480-z
+13. Qin, D., Gu, Y., Zhang, Y., Wang, S., Jiang, T., Wang, Y., Wang, C., Chen, C., Zhang, T., Xu, W., Wang, H., Zhang, K., Hu, L., Li, L., Xie, W., Wu, X., & Hu, Z. (2023). Phase-separated CCER1 coordinates the histone-to-protamine transition and male fertility. Nature communications, 14(1), 8209. https://doi.org/10.1038/s41467-023-43480-z
 
-14. Dudko, N., Ilcikova, T., Novotna, N., Czernik, M., Loi, P., Fulka, J., Jr., Bhattacharjee, P., Santoro, R., & Fulka, H. (2026). Oocyte age-dependent DNA damage can be reverted by the DNA repair competent karyoplasm of young oocytes. *Aging Cell*, *25*(1), e70300. doi:10.1111/acel.70300
+14. Dudko, N., Ilcikova, T., Novotna, N., Czernik, M., Loi, P., Fulka, J., Jr, Bhattacharjee, P., Santoro, R., & Fulka, H. (2026). Oocyte Age-Dependent DNA Damage Can Be Reverted by the DNA Repair Competent Karyoplasm of Young Oocytes. Aging cell, 25(1), e70300. https://doi.org/10.1111/acel.70300
 
-15. Dumollard, R., Duchen, M., & Carroll, J. (2007). The role of mitochondrial function in the oocyte and embryo. *Current Topics in Developmental Biology*, *77*, 21–49. doi:10.1016/S0070-2153(06)77002-8
+15. Dumollard, R., Duchen, M., & Carroll, J. (2007). The role of mitochondrial function in the oocyte and embryo. Current topics in developmental biology, 77, 21–49. https://doi.org/10.1016/S0070-2153(06)77002-8
 
-16. Eckersley-Maslin, M. A., Alda-Catalinas, C., & Reik, W. (2018). Dynamics of the epigenetic landscape during the maternal-to-zygotic transition. *Nature Reviews Molecular Cell Biology*, *19*(7), 436–450. doi:10.1038/s41580-018-0008-z
+16. Eckersley-Maslin, M. A., Alda-Catalinas, C., & Reik, W. (2018). Dynamics of the epigenetic landscape during the maternal-to-zygotic transition. Nature reviews. Molecular cell biology, 19(7), 436–450. https://doi.org/10.1038/s41580-018-0008-z
 
 17. Afrough, M., Nikbakht, R., Hashemitabar, M., Ghalambaz, E., Amirzadeh, S., Zardkaf, A., Adham, S., Mehdipour, M., & Dorfeshan, P. (2024). Association of Follicular Fluid Antioxidants Activity with Aging and In Vitro Fertilization Outcome: A Cross-Sectional Study. International journal of fertility & sterility, 18(2), 115–122. https://doi.org/10.22074/ijfs.2023.555601.1317
 
-18. Floros, V. I., Pyle, A., Dietmann, S., Wei, W., Tang, W. C. W., Ber, N.,"; Turnbull, D. M., & Chinnery, P. F. (2018). Segregation of mitochondrial DNA heteroplasmy through a developmental genetic bottleneck in human embryos. *Nature Cell Biology*, *20*(2), 144–151. doi:10.1038/s41556-017-0017-8
+18. Floros, V. I., Pyle, A., Dietmann, S., Wei, W., Tang, W. C. W., Irie, N., Payne, B., Capalbo, A., Noli, L., Coxhead, J., Hudson, G., Crosier, M., Strahl, H., Khalaf, Y., Saitou, M., Ilic, D., Surani, M. A., & Chinnery, P. F. (2018). Segregation of mitochondrial DNA heteroplasmy through a developmental genetic bottleneck in human embryos. Nature cell biology, 20(2), 144–151. https://doi.org/10.1038/s41556-017-0017-8
 
 19. Kriger, D., Podenkova, U. I., Bakhmet, E. I., Potapenko, E., Ivanova, E., Tomilin, A. N., & Tsimokha, A. S. (2024). Evidence of Immunoproteasome Expression Onset in the Formative State of Pluripotency in Mouse Cells. Cells, 13(16), 1362. https://doi.org/10.3390/cells13161362
 
-20. Gassler, J., Kobayashi, W., Gaspar, I., & Tachibana, K. (2022). Zygotic genome activation by the totipotency pioneer factor Nr5a2. *Science*, *378*(6626), 1305–1315. doi:10.1126/science.abn7478
+20. Gassler, J., Kobayashi, W., Gáspár, I., Ruangroengkulrith, S., Mohanan, A., Gómez Hernández, L., Kravchenko, P., Kümmecke, M., Lalic, A., Rifel, N., Ashburn, R. J., Zaczek, M., Vallot, A., Cuenca Rico, L., Ladstätter, S., & Tachibana, K. (2022). Zygotic genome activation by the totipotency pioneer factor Nr5a2. Science (New York, N.Y.), 378(6626), 1305–1315. https://doi.org/10.1126/science.abn7478
 
 21. Gladyshev, V. N. (2021). The ground zero of organismal life and aging. *Trends in Molecular Medicine*, *27*(1), 11–19. doi:10.1016/j.molmed.2020.08.012
 
@@ -426,13 +426,13 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 23. Greenberg, M. V. C., & Bourc'his, D. (2019). Cultural relativism: maintenance of genomic imprints in pluripotent stem cell culture systems. *Current Opinion in Genetics & Development*, *55*, 1–7. doi:10.1016/j.gde.2019.04.005
 
-24. Gu, T.-P., Guo, F., Yang, H., Wu, H.-P., Xu, G.-F., Liu, W., Xie, Z.-G., Shi, L., He, X., Jin, S., Iqbal, K., Shi, Y. G., Deng, Z., Szabo, P. E., Pfeifer, G. P., Li, J., & Xu, G.-L. (2011). The role of Tet3 DNA dioxygenase in epigenetic reprogramming by oocytes. *Nature*, *477*(7366), 606–610. doi:10.1038/nature10443
+24. GGu, T. P., Guo, F., Yang, H., Wu, H. P., Xu, G. F., Liu, W., Xie, Z. G., Shi, L., He, X., Jin, S. G., Iqbal, K., Shi, Y. G., Deng, Z., Szabó, P. E., Pfeifer, G. P., Li, J., & Xu, G. L. (2011). The role of Tet3 DNA dioxygenase in epigenetic reprogramming by oocytes. Nature, 477(7366), 606–610. https://doi.org/10.1038/nature10443
 
-25. Guo, F., Yan, L., Guo, H., Li, L., Hu, B., Zhao, Y., Yong, J., Hu, Y., Wang, X., Wei, Y., Wang, W., Li, R., Yan, J., Zhi, X., Zhang, Y., Jin, H., Zhang, W., Hou, Y., Zhu, P., . . . Qiao, J. (2015). The transcriptome and DNA methylome landscapes of human primordial germ cells. *Cell*, *161*(6), 1437–1452. doi:10.1016/j.cell.2015.05.015
+25. Guo, F., Yan, L., Guo, H., Li, L., Hu, B., Zhao, Y., Yong, J., Hu, Y., Wang, X., Wei, Y., Wang, W., Li, R., Yan, J., Zhi, X., Zhang, Y., Jin, H., Zhang, W., Hou, Y., Zhu, P., Li, J., … Qiao, J. (2015). The Transcriptome and DNA Methylome Landscapes of Human Primordial Germ Cells. Cell, 161(6), 1437–1452. https://doi.org/10.1016/j.cell.2015.05.015
 
-26. Hackett, J. A., Sengupta, R., Zylicz, J. J., Murakami, K., Lee, C., Down, T. A., & Surani, M. A. (2013). Germline DNA demethylation dynamics and imprint erasure through 5-hydroxymethylcytosine. *Science*, *339*(6118), 448–452. doi:10.1126/science.1229277
+26. Hackett, J. A., Sengupta, R., Zylicz, J. J., Murakami, K., Lee, C., Down, T. A., & Surani, M. A. (2013). Germline DNA demethylation dynamics and imprint erasure through 5-hydroxymethylcytosine. Science (New York, N.Y.), 339(6118), 448–452. https://doi.org/10.1126/science.1229277
 
-27. Hammoud, S. S., Nix, D. A., Zhang, H., Purwar, J., Carrell, D. T., & Cairns, B. R. (2009). Distinctive chromatin in human sperm packages genes for embryo development. *Nature*, *460*(7254), 473–478. doi:10.1038/nature08162
+27. Hammoud, S. S., Nix, D. A., Zhang, H., Purwar, J., Carrell, D. T., & Cairns, B. R. (2009). Distinctive chromatin in human sperm packages genes for embryo development. Nature, 460(7254), 473–478. https://doi.org/10.1038/nature08162
 
 28. Hernebring, M., Fredriksson, A., Liljevald, M., Cvijovic, M., Norrman, K., Wiseman, J., Semb, H., & Nystrom, T. (2013). Removal of damaged proteins during ES cell fate specification requires the proteasome activator PA28. *Scientific Reports*, *3*, 1381. doi:10.1038/srep01381
 
