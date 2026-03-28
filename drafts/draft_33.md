@@ -500,7 +500,7 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 60. Thendral, S., Mottola, G., & Bhatt, D. K. (2025). Programmed mitophagy at the oocyte-to-zygote transition promotes lineage endurance. *Nature Cell Biology*, *28*(2), 198–211. doi:10.1038/s41556-025-01854-z
 
-61. Balachandar Thendral, S., Bacot, S., Morton, K. S., Chi, Q., Kenny-Ganzert, I. W., Meyer, J. N., & Sherwood, D. R. (2025). Programmed mitophagy at the oocyte-to-zygote transition promotes species immortality. Research square, rs.3.rs-6330979. https://doi.org/10.21203/rs.3.rs-6330979/v1
+61. Titus, S., Li, F., Stobezki, R., Akula, K., Unsal, E., Jeong, K., Dickler, M., Robson, M., Moy, F., Goswami, S., & Oktay, K. (2013). Impairment of BRCA1-related DNA double-strand break repair leads to ovarian aging in mice and humans. Science translational medicine, 5(172), 172ra21. https://doi.org/10.1126/scitranslmed.3004925
 
 62. Trapp, A., Kerepesi, C., & Gladyshev, V. N. (2021). Profiling epigenetic age in single cells. *Nature Aging*, *1*(12), 1189–1201. doi:10.1038/s43587-021-00134-3
 
