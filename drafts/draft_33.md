@@ -506,7 +506,7 @@ For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deployi
 
 63. Wai, T., Teoli, D., & Bhimji, S. (2008). The mitochondrial DNA genetic bottleneck results from replication of a subpopulation of genomes. *Nature Genetics*, *40*(12), 1484–1488. doi:10.1038/ng.258
 
-64. Wei, Y., Bhatt, D. K., & Bhargava, H. K. (2025). The bottleneck for maternal transmission of mtDNA is linked to purifying selection by autophagy. *Science Advances*, *11*(22), eadp5742. doi:10.1126/sciadv.adp5742
+64. Kremer, L. S., Golder, Z., Barton-Owen, T., Papadea, P., Koolmeister, C., Chinnery, P. F., & Larsson, N. G. (2025). The bottleneck for maternal transmission of mtDNA is linked to purifying selection by autophagy. Science advances, 11(46), eaea4660. https://doi.org/10.1126/sciadv.aea4660
 
 65. Wossidlo, M., Nakamura, T., Lepikhov, K., Marques, C. J., Zakhartchenko, V., Boiani, M., Arand, J., Nakano, T., Reik, W., & Walter, J. (2011). 5-Hydroxymethylcytosine in the mammalian zygote is linked with epigenetic reprogramming. *Nature Communications*, *2*, 241. doi:10.1038/ncomms1240
 
