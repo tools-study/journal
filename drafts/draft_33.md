@@ -374,7 +374,7 @@ The four quantitative frameworks developed in this review — Wright-Fisher diff
 
 The comparison with SCNT is particularly illuminating: SCNT attempts to traverse the full epigenetic distance from soma to totipotency in a single step, and its low efficiency (~1–5% without intervention, ~30% with Kdm4d/Kdm5b/TSA and tetraploid complementation) reflects the cost of bypassing the germline's checkpoint architecture. The optimal transport framework (F_D) formalizes this insight: while the direct geodesic from $\mu_{\text{somatic}}$ to $\mu_0$ is shorter than the multi-checkpoint path, it passes through biologically hazardous intermediate states. The germline's "longer" path is safer precisely because each waypoint is vetted by a checkpoint.
 
-For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deploying proteostasis clearance, mitochondrial quality control, selective demethylation, and telomere restoration in sequence, each monitored by appropriate biomarkers — could support efforts to achieve rejuvenation beyond single-factor pulse protocols. The molecular tools now exist to begin engineering such staged approaches, guided by the natural blueprint that evolution has refined over hundreds of millions of years.
+For therapeutic rejuvenation, **staged, multi-mechanism approaches** — deploying proteostasis clearance, mitochondrial quality control, selective demethylation, and telomere restoration in sequence, each monitored by appropriate biomarkers — could provide insights for efforts to achieve rejuvenation beyond single-factor pulse protocols. The molecular tools now exist to begin engineering staged approaches, guided by the natural blueprint that evolution has refined over hundreds of millions of years.
 
 ---
 
