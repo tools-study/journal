@@ -435,11 +435,11 @@ This finding has profound implications for pioneer biology: it suggests that the
 
 ### 7.4 Toward De Novo Synthetic Pioneers: A Computational and Experimental Roadmap
 
-No fully synthetic pioneer transcription factor — designed from scratch without using natural TF domains — has yet been reported. However, converging advances in computational protein design, machine learning, and condensate engineering suggest this goal is achievable within the current decade. We propose a four-module design pipeline, informed by the structural and thermodynamic principles established in Sections 2 and 3, together with a series of experimental validation steps.
+No fully synthetic pioneer transcription factor — designed from scratch without using natural TF domains — has yet been reported. However, converging advances in computational protein design, machine learning, and condensate engineering suggest this might be worth investsigating. We propose a four-module design pipeline, informed by the structural and thermodynamic principles established in Sections 2 and 3, together with a series of experimental validation steps.
 
 #### Module 1: Computational DBD Design for Nucleosome Engagement
 
-The RoseTTAFold and AlphaFold2 protein structure prediction architectures have been extended to protein design through "hallucination" and diffusion-based approaches that generate novel protein backbones with specified binding interfaces (Watson et al., 2023; Dauparas et al., 2022). The nucleosome presents a well-characterized target: atomic-resolution structures of the nucleosome core particle (PDB: 1KX5, 147 bp; Davey, Sargent, Luger, Maeder, & Richmond, 2002) and multiple pioneer-nucleosome complexes (Sundaramoorthy et al., 2024; Michael et al., 2020; Chang et al., 2025) provide templates for computational design of novel DBDs optimized for partial motif recognition on the nucleosome surface.
+The RoseTTAFold and AlphaFold2 protein structure prediction architectures have been extended to protein design through diffusion-based approaches that generate novel protein backbones with specified binding interfaces (Watson et al., 2023; Dauparas et al., 2022). The nucleosome presents a well-characterized target: atomic-resolution structures of the nucleosome core particle (PDB: 1KX5, 147 bp; Davey, Sargent, Luger, Maeder, & Richmond, 2002) and multiple pioneer-nucleosome complexes (Sundaramoorthy et al., 2024; Michael et al., 2020; Chang et al., 2025) provide templates for computational design of novel DBDs optimized for partial motif recognition on the nucleosome surface.
 
 The design specifications, derived from the six resolved pioneer-nucleosome structures, are:
 
