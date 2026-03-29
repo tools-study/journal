@@ -340,7 +340,7 @@ No existing dataset provides tissue-specific dose-response functions for partial
 
 We propose a factorial experiment in 12-month-old C57BL/6J mice (corresponding to approximately 40 human-equivalent years) using three reprogramming modalities:
 
-- **Modality 1**: Systemic doxycycline-inducible OSKM (Col1a1::tetOP-OSKM; Rosa26-rtTA) at three dose levels (low, medium, high doxycycline concentration)
+- **Modality 1**: Systemic doxycycline-inducible OSK/OSKM (Col1a1::tetOP-OSKM; Rosa26-rtTA) at three dose levels (low, medium, high doxycycline concentration)
 - **Modality 2**: AAV8-mediated liver-specific EZH2 overexpression at three titers
 - **Modality 3**: Systemic 2C chemical cocktail at three concentrations
 
