@@ -194,7 +194,7 @@ The normalization by $H(\Delta\text{Accessibility})$ yields a value between 0 an
 
 For intermediate values, the score captures the quantitative spectrum from settler to pioneer. Importantly, this metric is computed from the same paired ChIP-seq/ATAC-seq datasets that are routinely generated in TF studies, making it immediately applicable to any TF with available data. It also naturally accounts for context-dependence: the same TF may have different $S_{\text{pioneer}}$ scores in different cell types, capturing the "nature vs. nurture" spectrum without requiring a binary classification.
 
-Applying this framework to published data, we estimate: FOXA1 $S_{\text{pioneer}} \approx 0.7$–$0.9$ in liver progenitors (strong, most binding events open chromatin); OCT4 $S_{\text{pioneer}} \approx 0.5$–$0.7$ in reprogramming fibroblasts (moderate-strong, highly context-dependent); MYC $S_{\text{pioneer}} \approx 0.05$–$0.15$ (very low, binds almost exclusively at pre-opened sites) — consistent with the observation that MYC is not a pioneer but an amplifier of existing transcriptional programs (Lin et al., 2012).
+Applying this framework to published data, we estimate: FOXA1 $S_{\text{pioneer}} \approx 0.7$ – $0.9$ in liver progenitors (strong, most binding events open chromatin); OCT4 $S_{\text{pioneer}} \approx 0.5$ – $0.7$ in reprogramming fibroblasts (moderate-strong, highly context-dependent); MYC $S_{\text{pioneer}} \approx 0.05$ – $0.15$ (very low, binds almost exclusively at pre-opened sites) — consistent with the observation that MYC is not a pioneer but an amplifier of existing transcriptional programs (Lin et al., 2012).
 
 ---
 
