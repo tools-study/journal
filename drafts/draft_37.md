@@ -293,7 +293,7 @@ This ratio quantifies the maximum achievable rejuvenation relative to the minimu
 
 ### 7.2 Framework F284: Multi-Tissue Pareto Optimization
 
-whole-body reprogramming requires simultaneously optimizing across $N$ tissues, each with its own dose-response and risk function. The optimization problem is:
+Whole-body reprogramming requires simultaneously optimizing across $N$ tissues, each with its own dose-response and risk function. The optimization problem is:
 
 ```math
 \max_{\{d_i, t_i, m_i\}_{i=1}^N} \sum_{i=1}^{N} w_i \cdot R_i(d_i, t_i, m_i)
