@@ -585,7 +585,7 @@ The modular transferability of pioneer functions (Section 7.1) suggests that a d
 
 ### 9.2 What Determines the Kinetics of Chromatin Closing After Pioneer Departure?
 
-Pioneer factors are typically expressed transiently during development and reprogramming, yet the chromatin changes they initiate can be permanent. The mechanisms that maintain open chromatin after pioneer departure — including settler TF occupancy, histone modification persistence, and DNA methylation changes — remain incompletely understood. A recent breakthrough by Jacques and colleagues (2025) revealed that the pioneer factor PAX7 establishes stable epigenetic memory through **dual DNA demethylation mechanisms**: direct binding to UHRF1 that blocks DNMT1 activation (causing passive, replication-dependent methylation loss) and recruitment of TET dioxygenases for active demethylation (Jacques et al., 2025). Together, these mechanisms ensure heritable chromatin accessibility at PAX7-bound enhancers across cell divisions, even after PAX7 itself is no longer expressed. Whether other pioneer factors employ similar dual-mechanism epigenetic memory strategies, and whether such mechanisms could be engineered into synthetic pioneers to ensure durable therapeutic effects, are critical open questions.
+Pioneer factors are typically expressed transiently during development and reprogramming, yet the chromatin changes they initiate can be permanent. The mechanisms that maintain open chromatin after pioneer departure — including settler TF occupancy, histone modification persistence, and DNA methylation changes — remain incompletely understood. A recent breakthrough by Harris and colleagues (2025) revealed that the pioneer factor PAX7 establishes stable epigenetic memory through **dual DNA demethylation mechanisms**: direct binding to UHRF1 that blocks DNMT1 activation (causing passive, replication-dependent methylation loss) and recruitment of TET dioxygenases for active demethylation (Harris et al., 2025). Together, these mechanisms ensure heritable chromatin accessibility at PAX7-bound enhancers across cell divisions, even after PAX7 itself is no longer expressed. Whether other pioneer factors employ similar dual-mechanism epigenetic memory strategies, and whether such mechanisms could be engineered into synthetic pioneers to ensure durable therapeutic effects, are critical open questions.
 
 ### 9.3 How Does the Pioneer Code Interact with Chromatin Topology?
 
@@ -685,7 +685,7 @@ Wilson, M. D., et al. (2025). Nucleosome binding by TP53, TP63, and TP73 is dete
 
 Dall'Agnese, A., et al. (2025). E-box independent chromatin recruitment turns MYOD into a transcriptional repressor. *Genes & Development*, 39, 123–140. PMID: 40769720
 
-Jacques, P., et al. (2025). Dual DNA demethylation mechanisms implement epigenetic memory driven by the pioneer factor PAX7. *Science Advances*, 11, eadq8380. PMID: 40378211
+Harris, J., Mayran, A., Gouhier, A., Gauthier, Y., Sleiman, N. H., Merabet, S., Dukatz, M., Bashtrykov, P., Jeltsch, A., Djambazian, H., Chen, S. H., Balsalobre, A., & Drouin, J. (2025). Dual DNA demethylation mechanisms implement epigenetic memory driven by the pioneer factor PAX7. Science advances, 11(20), eadu6632. https://doi.org/10.1126/sciadv.adu6632
 
 Zhou, X., et al. (2025). Structural insights into the recognition of native nucleosomes by pioneer transcription factors. *Current Opinion in Structural Biology*, 88, 102867. PMID: 40024204
 
