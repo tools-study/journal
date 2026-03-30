@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Nuclear reprogramming spans a hierarchy of progressively deeper epigenetic erasure events, from partial resetting to pluripotency through complete erasure to totipotency and the deepest reprogramming in the germline. While transcription-factor-based approaches (OSKM/OSK) have dominated clinical translation, they access only the shallowest tier of this hierarchy and cannot replicate the molecular logic of complete reprogramming. The mammalian oocyte harbors a coordinated reprogramming machine — comprising histone variant H3.3 deposited by HIRA, nucleoplasmin NPM2, the SWI/SNF remodeler BRG1, the demethylase TET3, and the H3K9me3 eraser KDM4A — that achieves what transcription factors alone cannot. This review organizes the field around a Reprogramming Depth Hierarchy: Tier 1 (pluripotency, achieved by somatic cell nuclear transfer and induced pluripotency), Tier 2 (totipotency, governed by zygotic genome activation and the DUX-MERVL circuit), and Tier 3 (germline reprogramming, encompassing primordial germ cell specification, imprint erasure, and in vitro gametogenesis). At each tier, we identify the molecular machinery, recent engineering breakthroughs (including a 2025 epigenetic cocktail achieving 75% blastocyst rates in SCNT, and primate nuclear-transfer embryonic stem cells from marmosets), and the fidelity defects that limit clinical translation. We introduce quantitative frameworks — competitive chromatin remodeling kinetics, sequential barrier erasure reliability, the DUX-MERVL bistable switch, germline demethylation traveling waves, Jensen-Shannon divergence for reprogramming fidelity, and Bayesian oocyte competence classification — that formalize the engineering challenges at each depth. Together, these analyses argue that achieving high-fidelity complete reprogramming requires understanding and recapitulating the oocyte's coordinated machinery, not merely intensifying transcription-factor expression.
+Nuclear reprogramming spans a hierarchy of progressively deeper epigenetic erasure events, from partial resetting to pluripotency through complete erasure to totipotency and the deepest reprogramming in the germline. While transcription-factor-based approaches (OSKM/OSK) have dominated clinical translation, they access only the shallowest tier of this hierarchy and cannot replicate the molecular logic of complete reprogramming. The mammalian oocyte harbors a coordinated reprogramming machine — comprising histone variant H3.3 deposited by HIRA, nucleoplasmin NPM2, the SWI/SNF remodeler BRG1, the demethylase TET3, and the H3K9me3 eraser KDM4A — that achieves what transcription factors alone cannot. This review organizes the field around a Reprogramming Depth Hierarchy: Tier 1 (pluripotency, achieved by somatic cell nuclear transfer and induced pluripotency), Tier 2 (totipotency, governed by zygotic genome activation and the DUX-MERVL circuit), and Tier 3 (germline reprogramming, encompassing primordial germ cell specification, imprint erasure, and in vitro gametogenesis). At each tier, we identify the molecular machinery, recent engineering breakthroughs (including a 2025 epigenetic cocktail achieving 75% blastocyst rates in SCNT, and primate nuclear-transfer embryonic stem cells from marmosets), and the fidelity defects that limit clinical translation. We introduce quantitative frameworks — competitive chromatin remodeling kinetics, sequential barrier erasure reliability, the DUX-MERVL bistable switch, germline demethylation traveling waves, Jensen-Shannon divergence for reprogramming fidelity, and Bayesian oocyte competence classification — that formalize the engineering challenges at each depth. Together, these analyses argue that achieving high-fidelity complete reprogramming requires understanding the oocyte's coordinated machinery, not merely intensifying transcription-factor expression.
 
 ---
 
@@ -189,8 +189,6 @@ The OTX2-deleted 8CLCs exhibited improved bidirectional differentiation — cont
 
 The expanding catalog of in vitro totipotent-like states — mouse 2CLCs, human 8CLCs, hTBLCs, expanded potential stem cells (EPSCs) — has prompted systematic characterization efforts. A comprehensive review established six hallmarks of totipotent stem cell states: (i) expression of cleavage-stage genes (including *ZSCAN4*, *TPRX1/2*), (ii) activation of endogenous retroviruses (MERVL in mouse, HERVK in human), (iii) global chromatin decondensation, (iv) bidirectional developmental potential (embryonic + extraembryonic), (v) epigenetic ground state (global DNA hypomethylation, absence of stable H3K9me3 domains), and (vi) metabolic shift to glycolysis (Posfai et al., 2024). Critically, current in vitro models satisfy different subsets of these hallmarks: hTBLCs score highest on criteria (i)-(iv) but show epigenetic differences from in vivo embryos, while mouse 2CLCs are transcriptomically faithful but unstable across passages (Zhao et al., 2025).
 
-The engineering goal of "synthetic totipotency" — generating a cell with full developmental potential from scratch, without an oocyte — requires satisfying all six hallmarks simultaneously. The Reprogramming Depth Hierarchy framework suggests that achieving this will require not merely activating the DUX/MERVL switch (Tier 2) but also engaging the oocyte reprogramming machine (Tier 1) to establish the appropriate chromatin ground state. Whether this is achievable through a defined cocktail of factors remains an open question.
-
 ---
 
 ## 6. Germline Epigenetic Reprogramming and In Vitro Gametogenesis
@@ -300,49 +298,9 @@ This decomposition enables differential diagnosis of reprogramming failure: high
 
 ---
 
-## 8. Toward Synthetic Totipotency: Engineering and Clinical Applications
+## 8. Open Questions and Future Directions
 
-### 8.1 Mitochondrial Replacement Therapy: Exploiting the Oocyte Machine
-
-Mitochondrial replacement therapy (MRT) represents the most direct clinical application of Tier 1 reprogramming: the patient's nuclear genome is transferred into a donor oocyte containing healthy mitochondria, exploiting the oocyte's reprogramming capacity to generate embryos free of pathogenic mitochondrial DNA (mtDNA) mutations. Two primary techniques — maternal spindle transfer (MST) and pronuclear transfer (PNT) — have been approved in the United Kingdom since 2015 and have produced live births, demonstrating that the oocyte's reprogramming machine can be harnessed for therapeutic purposes without the need for full understanding of its mechanism.
-
-MRT efficacy depends on the competitive remodeling dynamics described by F292: the donor oocyte must reprogram the transferred nuclear genome while maintaining its own mitochondrial identity. Clinical data confirm that nuclear reprogramming is largely successful, but residual carryover of patient mitochondria ($\sim$1-2%) can undergo clonal expansion in some tissues — a concern that motivates ongoing monitoring of MRT offspring.
-
-### 8.2 Interspecies SCNT for Conservation
-
-Interspecies SCNT (iSCNT) — transferring a donor nucleus from an endangered or extinct species into an enucleated oocyte from a closely related species — represents a Tier 1 application constrained by nucleocytoplasmic incompatibility. The efficiency of iSCNT declines steeply with phylogenetic distance, primarily due to divergence in mitochondrial-nuclear gene co-evolution (nuclear-encoded mitochondrial proteins must function with the oocyte-derived mitochondrial genome) and species-specific differences in ZGA timing and epigenetic mark deposition (Adams et al., 2024). Recent efforts in northern white rhinoceros conservation and woolly mammoth de-extinction have used iSCNT as a starting point, though live births from distantly related species pairs have not been achieved.
-
-### 8.3 Chemical Reprogramming and Clinical Translation
-
-The chemical induction of pluripotency — generating chemically induced pluripotent stem cells (CiPSCs) entirely through small molecules without transcription-factor overexpression — has reached clinical translation. A chemically reprogrammed iPSC-derived islet transplant for type 1 diabetes demonstrated preliminary functional cure, with patients achieving insulin independence (Wen et al., 2025). This success validates the principle that Tier 1 reprogramming can be achieved through chemical modulation of the same pathways that the oocyte's machinery employs — particularly HDAC inhibition (mimicking the acetylation landscape established by oocyte factors), DNMT inhibition (mimicking TET3-mediated demethylation), and GSK3β inhibition (mimicking the WNT signaling environment of the preimplantation embryo).
-
-### 8.4 Framework F297: Bayesian Oocyte Competence Classifier for IVG
-
-For IVG-derived oocytes to be clinically viable, a quantitative quality-control framework is needed. We propose a naive Bayes classifier that integrates multiple features to predict developmental competence:
-
-```math
-P(\text{competent} \mid \mathbf{f}) = \frac{P(\text{competent}) \prod_{i=1}^{k} P(f_i \mid \text{competent})}{P(\text{competent}) \prod_{i=1}^{k} P(f_i \mid \text{competent}) + P(\text{incompetent}) \prod_{i=1}^{k} P(f_i \mid \text{incompetent})}
-```
-
-where $\mathbf{f} = (f_1, f_2, \ldots, f_k)$ is the feature vector and the features are:
-
-| Feature | Description | Distribution |
-|---------|-------------|-------------|
-| $f_1$: Methylation fidelity | $1 - \text{JSD}_{\text{total}}$ (from F296) | Gaussian $\mathcal{N}(\mu_1, \sigma_1^2)$ |
-| $f_2$: Transcriptomic similarity | Pearson correlation with natural MII oocyte transcriptome | Gaussian $\mathcal{N}(\mu_2, \sigma_2^2)$ |
-| $f_3$: Zona pellucida thickness | Measured by light microscopy ($\mu$m) | Gaussian $\mathcal{N}(\mu_3, \sigma_3^2)$ |
-| $f_4$: Mitochondrial copy number | qPCR of mtDNA ($\times 10^5$ copies) | Log-normal |
-| $f_5$: Polar body integrity | Binary (present/absent) | Bernoulli |
-
-The prior $P(\text{competent})$ is set based on natural oocyte competence rates ($\sim$0.3-0.5 for IVF oocytes). Feature-specific parameters $(\mu_i, \sigma_i^2)$ are estimated from natural competent oocytes. An IVG-derived oocyte is classified as competent if $P(\text{competent} \mid \mathbf{f}) > \theta$, where the threshold $\theta$ is chosen to maximize the F1 score on a validation cohort, balancing the costs of discarding competent oocytes (false negatives) against implanting incompetent ones (false positives).
-
-This classifier provides a principled, quantitative criterion for when IVG-derived oocytes are "good enough" for clinical use — replacing the subjective morphological assessment currently used in IVF with a multi-omic, evidence-based framework.
-
----
-
-## 9. Open Questions and Future Directions
-
-### 9.1 The Minimum Factor Cocktail
+### 8.1 The Minimum Factor Cocktail
 
 The 2025 cocktail breakthrough (TSA + Kdm4d + Kdm5b, achieving 75% blastocyst rate) establishes a foundation for iterative optimization toward the minimum effective factor set. Three experimental strategies are now feasible:
 
@@ -352,21 +310,18 @@ The 2025 cocktail breakthrough (TSA + Kdm4d + Kdm5b, achieving 75% blastocyst ra
 
 **mRNA delivery optimization.** All three cocktail components are delivered as mRNA, making the system compatible with clinical-grade mRNA delivery platforms (e.g., lipid nanoparticles). Optimizing the stoichiometry, timing, and half-life of each mRNA component — guided by the competitive kinetics of F292 — could further improve efficiency without adding new factors.
 
-### 9.2 Stabilizing Tier 2 Totipotency
+### 8.2 Stabilizing Tier 2 Totipotency
 
 Can the totipotent state be maintained in long-term culture without genomic instability? The DUX-MERVL bistable switch model (F294) predicts that sustained totipotency requires maintaining DUX and MERVL activity above the upper stable state threshold. Chemical approaches — particularly combinatorial treatments targeting histone acetylation, spliceosome activity, and ERK signaling — have achieved weeks of stable culture (Wen et al., 2025), but long-term fidelity (measured by JSD, F296) remains uncharacterized.
 
-### 9.3 IVG Safety and Fidelity
+### 8.3 IVG Safety and Fidelity
 
 Will IVG-derived gametes produce healthy offspring in humans? The Bayesian classifier (F297) provides a framework for pre-implantation quality assessment, but validation requires extensive primate studies. Key concerns include: (i) imprinting fidelity at all ~100 ICRs, (ii) transposon silencing (incomplete silencing could cause insertional mutagenesis in offspring), and (iii) meiotic recombination fidelity (aberrant crossover patterns could cause aneuploidy). Genome-wide JSD analysis of IVG-derived gametes at Tier 3 resolution is a prerequisite for any clinical program.
 
-### 9.4 A Unified Fidelity Standard
+### 8.4 A Unified Fidelity Standard
 
 We propose that all reprogramming approaches — iPSC generation, SCNT, chemical reprogramming, and IVG — should report the JSD fidelity metric (F296), decomposed into memory and aberrant components, relative to the appropriate biological reference (ICM for Tier 1, zygote for Tier 2, gamete for Tier 3). This standardized metric would enable direct comparison across methods, identification of systematic failure modes, and evidence-based optimization of reprogramming protocols.
 
-### 9.5 Toward Synthetic Totipotency
-
-The ultimate engineering goal — generating a cell with full totipotent developmental potential entirely in vitro, without using an oocyte — would require simultaneously: (i) establishing the chromatin ground state (via the oocyte remodeling machine of Section 2), (ii) activating the ZGA program (via the DUX-MERVL switch of Section 4), and (iii) maintaining imprinting (via selective demethylation machinery). The competitive remodeling framework (F292) suggests that this will require delivering saturating concentrations of multiple erasure factors simultaneously — a formidable but not necessarily impossible engineering challenge given advances in mRNA delivery and synthetic biology. Success would benefit regenerative medicine by decoupling totipotent cell generation from oocyte availability, with potential implications for fertility treatment, organ generation, and fundamental developmental biology.
 
 ---
 
