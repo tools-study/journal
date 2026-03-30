@@ -454,7 +454,7 @@ Dang et al. conducted genome-scale CRISPRi screens to identify host factors that
 
 ### 4.4 vPE: Very-Precise Prime Editors
 
-Liu et al. engineered very-precise prime editors (vPE) by identifying Cas9-nickase mutations that promote nicked-end degradation rather than indel formation, achieving an unprecedented 543:1 edit-to-indel ratio for pegRNA-only editing and 102:1 for pegRNA + ngRNA editing in HEK293T cells (Liu et al., 2025; PMID: 40963020). This >60-fold reduction in indel errors addresses a key safety concern for clinical PE applications: even low-frequency indels can be pathogenic in critical coding sequences. The vPE architecture leverages engineered Cas9 variants that relax nick positioning, promoting the degradation of the nicked 5′ flap through endogenous nucleases rather than its aberrant re-ligation into indel-generating intermediates.
+Chauhan et al. engineered very-precise prime editors (vPE) by identifying Cas9-nickase mutations that promote nicked-end degradation rather than indel formation, achieving an unprecedented 543:1 edit-to-indel ratio for pegRNA-only editing and 102:1 for pegRNA + ngRNA editing in HEK293T cells (Chauhan et al., 2025; PMID: 40963020). This >60-fold reduction in indel errors addresses a key safety concern for clinical PE applications: even low-frequency indels can be pathogenic in critical coding sequences. The vPE architecture leverages engineered Cas9 variants that relax nick positioning, promoting the degradation of the nicked 5′ flap through endogenous nucleases rather than its aberrant re-ligation into indel-generating intermediates.
 
 ### 4.5 epegRNA Engineering
 
@@ -901,7 +901,7 @@ Regulatory frameworks are also evolving to accommodate these new modalities. The
 55. Li, X., et al. (2013). PiggyBac transposon tools for recombinase-mediated cassette exchange. *Nucleic Acids Research*, 41(3), e35. PMID: 23291168
 56. Li, Z., et al. (2022). Engineered pegRNAs with enhanced 3′ end stability. *Cell Research*, 32(3), 302–304. PMID: 35296852
 57. Liu, J.-J., et al. (2019). CasX enzymes comprise a distinct family of RNA-guided genome editors. *Nature*, 566(7743), 218–223. PMID: 30718882
-58. Liu, N., et al. (2025). Engineered prime editors with minimal genomic errors. *Nature*, 646(8084), 1254–1260. PMID: 40963020
+58. Chauhan, V. P., Sharp, P. A., & Langer, R. (2025). Engineered prime editors with minimal genomic errors. Nature, 646(8087), 1254–1260. https://doi.org/10.1038/s41586-025-09537-3
 59. Lopez, S. C., et al. (2022). Precise genome editing across kingdoms of life using retron-derived DNA. *Nature Chemical Biology*, 18(2), 199–206. PMID: 35236982
 60. Luo, G., et al. (2025). Multiplexed prime editing at 31 genomic loci using processed pegRNA arrays. *Nature Methods*, 22(1), 78–88. PMID: 39192137
 61. Makarova, K. S., et al. (2020). Evolutionary classification of CRISPR-Cas systems: a burst of class 2 and derived variants. *Nature Reviews Microbiology*, 18(2), 67–83. PMID: 31857715
@@ -1064,5 +1064,6 @@ Regulatory frameworks are also evolving to accommodate these new modalities. The
 218. Anzalone, A. V., et al. (2020). Genome editing with CRISPR-Cas nucleases, base editors, transposases and prime editors. *Nature Biotechnology*, 38(7), 824–844. PMID: 32728205
 219. Chen, J., Dagdas, Y., Kleinstiver, B. et al. (2017) Enhanced proofreading governs CRISPR–Cas9 targeting accuracy. *Nature* 550, 407–410. https://doi.org/10.1038/nature24268
 220. Zheng, R., Lu, Z., Wei, R. et al. (2026). Improving the efficiency of high-fidelity Cas9 by enhancing PAM-distal interactions. *Nature Structural & Molecular Biology*. https://doi.org/10.1038/s41594-026-01753-3
+
 
 
