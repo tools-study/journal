@@ -6,7 +6,7 @@ Nuclear reprogramming spans a hierarchy of progressively deeper epigenetic erasu
 
 ---
 
-## 1. Introduction: The Reprogramming Depth Model
+## 1. Introduction: The Reprogramming Depth Hierarchy
 
 The term "nuclear reprogramming" encompasses fundamentally distinct biological phenomena operating at different depths of epigenetic erasure. At the shallowest level, transient expression of Oct4, Sox2, and Klf4 (OSK) can partially rejuvenate aged somatic cells without altering their identity — resetting DNA methylation clocks while preserving lineage commitment (Gill et al., 2022). At intermediate depth, somatic cell nuclear transfer (SCNT) into enucleated oocytes resets the somatic epigenome to a pluripotent state, erasing most but not all lineage-specific marks (Matoba & Zhang, 2018). At the deepest level, primordial germ cells (PGCs) undergo genome-wide erasure of DNA methylation, including imprinted loci, achieving the most complete epigenetic reset known in mammalian biology (Seisenberger et al., 2012).
 
