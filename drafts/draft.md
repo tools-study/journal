@@ -601,3 +601,5 @@ Warren, L., et al. (2010). Highly efficient reprogramming to pluripotency and di
 Yu, J., et al. (2007). Induced pluripotent stem cell lines derived from human somatic cells. *Science* 318, 1917–1920.
 
 Zhu, Y., et al. (2015). The Achilles' heel of senescent cells: from transcriptome to senolytic drugs. *Aging Cell* 14, 644–658.
+
+Lauber, M., & List, M. (2026). Navigating the landscape of direct cellular reprogramming with DiReG. NPJ systems biology and applications, 12(1), 35. https://doi.org/10.1038/s41540-026-00652-z
