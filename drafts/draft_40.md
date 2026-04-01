@@ -73,7 +73,7 @@ Injection of Kdm4d mRNA — encoding an H3K9me3 demethylase — into SCNT embryo
 
 Beyond H3K9me3, a second barrier operates post-implantation. SCNT embryos suffer loss of H3K27me3-dependent non-canonical imprinting, which normally restricts paternal allele expression at specific loci required for placental development (Inoue et al., 2017). This loss causes placental overgrowth and large offspring syndrome — phenotypes that contribute to the high rate of SCNT failure after implantation. Critically, H3K27me3 imprinting defects are not corrected by Kdm4d treatment, revealing a multi-barrier architecture that demands orthogonal solutions for pre- and post-implantation stages.
 
-A 2023 study provided direct evidence that unreprogrammed H3K9me3 prevents minor ZGA and subsequent lineage commitment in SCNT embryos (Wang et al., 2023). Using allele-specific ChIP-seq, the authors showed that persistent H3K9me3 on the somatic allele blocked the activation of lineage-specifying transcription factors, trapping SCNT embryos in a pre-ZGA state. This finding established H3K9me3 removal as necessary not merely for gene reactivation but for the entire downstream trajectory of embryonic development.
+A 2023 study provided direct evidence that unreprogrammed H3K9me3 prevents minor ZGA and subsequent lineage commitment in SCNT embryos (Xu et al., 2023). Using allele-specific ChIP-seq, the authors showed that persistent H3K9me3 on the somatic allele blocked the activation of lineage-specifying transcription factors, trapping SCNT embryos in a pre-ZGA state. This finding established H3K9me3 removal as necessary not merely for gene reactivation but for the entire downstream trajectory of embryonic development.
 
 ### 3.2 The 2025 Cocktail: Overcoming Pre- and Post-Implantation Barriers
 
@@ -175,15 +175,15 @@ The bistable switch framework provides a rationale for chemical approaches to in
 
 While mouse 2CLCs have been studied for over a decade, capturing the equivalent totipotent state in human cells proved more challenging due to species-specific differences in ZGA timing and regulation. A breakthrough came in 2024 when Li and colleagues demonstrated that transient inhibition of the spliceosome — specifically, treatment with the SF3B1 inhibitor pladienolide B (PlaB) — could reprogram human pluripotent stem cells through a ZGA-like state into stable human totipotent blastomere-like cells (hTBLCs) (Li et al., 2024a).
 
-The mechanism is elegant: the spliceosome normally degrades unspliced or mis-spliced transcripts through co-transcriptional quality control. Inhibiting SF3B1 disrupts this surveillance, de-repressing a class of transcripts that includes human ZGA-specific genes normally silenced in pluripotent cells. The initial pladienolide B treatment induces a transient ZGA-like cell (ZLC) state, characterized by activation of ZGA-specific genes and silencing of pluripotency factors (OCT4, SOX2, NANOG). After long-term passaging, ZLCs transition into stable hTBLCs that express pre-ZGA markers and, critically, possess bidirectional developmental potential: during spontaneous differentiation, hTBLCs re-enter the ZLC stage and generate epiblast, primitive endoderm, and trophectoderm-like lineages, recapitulating human preimplantation development (Li et al., 2024a). Note that Mouse 2CLCs are transcriptomically faithful but unstable across passages (Zhao et al., 2025).
+The mechanism is elegant: the spliceosome normally degrades unspliced or mis-spliced transcripts through co-transcriptional quality control. Inhibiting SF3B1 disrupts this surveillance, de-repressing a class of transcripts that includes human ZGA-specific genes normally silenced in pluripotent cells. The initial pladienolide B treatment induces a transient ZGA-like cell (ZLC) state, characterized by activation of ZGA-specific genes and silencing of pluripotency factors (OCT4, SOX2, NANOG). After long-term passaging, ZLCs transition into stable hTBLCs that express pre-ZGA markers and, critically, possess bidirectional developmental potential: during spontaneous differentiation, hTBLCs re-enter the ZLC stage and generate epiblast, primitive endoderm, and trophectoderm-like lineages, recapitulating human preimplantation development (Li et al., 2024a). Note that Mouse 2CLCs are transcriptomically faithful but unstable across passages (Hua et al., 2025).
 
 Distinct from previously reported human 8-cell-like cells (8CLCs), both ZLCs and hTBLCs widely silence pluripotent genes rather than merely co-expressing totipotency and pluripotency markers — a critical distinction suggesting more complete reprogramming.
 
 ### 5.2 OTX2 as a Barrier to Totipotent Reprogramming
 
-A key barrier to in vitro totipotent state induction was identified in a 2026 study: the homeobox transcription factor OTX2 actively prevents pluripotent stem cells from reverting to the 8-cell-like state (Wang et al., 2026). OTX2, which is highly expressed in primed and naive pluripotent cells, maintains the pluripotent transcriptional program and represses totipotency genes. Deletion of OTX2 in human pluripotent stem cells greatly enhanced the generation of TPRX1+ 8-cell-like cells that closely resembled the transcriptomic and epigenetic profiles of in vivo 8-cell and morula embryos.
+A key barrier to in vitro totipotent state induction was identified in a 2026 study: the homeobox transcription factor OTX2 actively prevents pluripotent stem cells from reverting to the 8-cell-like state (Kong et al., 2026). OTX2, which is highly expressed in primed and naive pluripotent cells, maintains the pluripotent transcriptional program and represses totipotency genes. Deletion of OTX2 in human pluripotent stem cells greatly enhanced the generation of TPRX1+ 8-cell-like cells that closely resembled the transcriptomic and epigenetic profiles of in vivo 8-cell and morula embryos.
 
-The OTX2-deleted 8CLCs exhibited improved bidirectional differentiation — contributing to both embryonic and extraembryonic tissues in chimeric embryos — and mechanistically, OTX2 was shown to regulate both naive-to-totipotent state transition and the reverse (Wang et al., 2026). This finding establishes OTX2 as a gatekeeper between pluripotency and totipotency, analogous to the role of H3K9me3 as a barrier in SCNT but operating at the transcription-factor level rather than the chromatin-mark level.
+The OTX2-deleted 8CLCs exhibited improved bidirectional differentiation — contributing to both embryonic and extraembryonic tissues in chimeric embryos — and mechanistically, OTX2 was shown to regulate both naive-to-totipotent state transition and the reverse (Kong et al., 2026). This finding establishes OTX2 as a gatekeeper between pluripotency and totipotency, analogous to the role of H3K9me3 as a barrier in SCNT but operating at the transcription-factor level rather than the chromatin-mark level.
 
 ---
 
@@ -329,7 +329,7 @@ We propose that all reprogramming approaches — iPSC generation, SCNT, chemical
 
 3. Asimi, V., Sampath Kumar, A., Niskanen, H., Riemenschneider, C., Grimm, S., Tsitsiridis, G., ... & Giorgetti, L. (2025). Dux cluster duplication ensures full activation of totipotent genes. *Proceedings of the National Academy of Sciences*, 122(10), e2421594122. doi:10.1073/pnas.2421594122
 
-4. Burns, K. H., Viveiros, M. M., Ren, Y., Wang, P., DeMayo, F. J., Frail, D. E., ... & Matzuk, M. M. (2003). Roles of NPM2 in chromatin and nucleolar organization in oocytes and embryos. *Science*, 300(5619), 633-636. PMID: 12714744
+4. Burns, K. H., Viveiros, M. M., Ren, Y., Xu, P., DeMayo, F. J., Frail, D. E., ... & Matzuk, M. M. (2003). Roles of NPM2 in chromatin and nucleolar organization in oocytes and embryos. *Science*, 300(5619), 633-636. PMID: 12714744
 
 5. Bultman, S. J., Gebuhr, T. C., Pan, H., Svoboda, P., Schultz, R. M., & Magnuson, T. (2006). Maternal BRG1 regulates zygotic genome activation in the mouse. *Genes & Development*, 20(13), 1744-1754. PMID: 16478720
 
@@ -393,13 +393,13 @@ We propose that all reprogramming approaches — iPSC generation, SCNT, chemical
 
 35. van der Heijden, G. W., Dieker, J. W., Derijck, A. A., Muller, S., Berden, J. H., Braat, D. D., ... & de Boer, P. (2005). Asymmetry in histone H3 variants and lysine methylation between paternal and maternal chromatin of the early mouse zygote. *Mechanisms of Development*, 122(9), 1008-1022. PMID: 16380711
 
-36. Wang, L., Li, Z., Li, D., Yuan, Y., Li, M., Zhang, J., ... & Gao, S. (2023). Unreprogrammed H3K9me3 prevents minor zygotic genome activation and lineage commitment in SCNT embryos. *Nature Communications*, 14(1), 4496. PMID: 37558707
+36. Xu, R., Zhu, Q., Zhao, Y., Chen, M., Yang, L., Shen, S., ... & Liu, X. (2023). Unreprogrammed H3K9me3 prevents minor zygotic genome activation and lineage commitment in SCNT embryos. Nature Communications, 14(1), 4807.
 
-37. Wang, X., Chen, Y., Liu, Y., Zhang, J., Li, M., & Deng, H. (2026). OTX2 inhibits human pluripotent stem cell reprogramming toward 8-cell-like and morula-like states. *Nature Communications*, 17, 68388. doi:10.1038/s41467-026-68388-2
+37. Kong, X., Jiang, N., Chen, S., Zhang, X., Huang, A., Hu, L., ... & Xie, B. (2026). OTX2 inhibits human pluripotent stem cell reprogramming toward 8-cell-like and morula-like states. Nature Communications.
 
 38. Wen, X., & Zheng, H. (2025). Chemical-based epigenetic reprogramming to advance pluripotency and totipotency. *Nature Chemical Biology*, 21(7), 899-912. PMID: 40251434
 
-39. Zhao, C., Cao, Y., Wang, Z., & Li, M. (2025). Moving toward totipotency: The molecular and cellular features of totipotent and naive pluripotent stem cells. *Human Reproduction Update*, 31(4), 361-389. PMID: 40299455
+39. Hua, L., Peng, Y., Yan, L., Yuan, P., & Qiao, J. (2025). Moving toward totipotency: the molecular and cellular features of totipotent and naive pluripotent stem cells. Human Reproduction Update, dmaf006.
 
 40. Ladurner, R., & Tachibana, K. (2025). The mammalian oocyte: A central hub for cellular reprogramming and stemness. *Stem Cells and Cloning: Advances and Applications*, 18, 1-22. PMID: 39991743
 
