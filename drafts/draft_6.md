@@ -744,3 +744,5 @@ The outstanding challenges — modification crosstalk, single-cell heterogeneity
 
 57. **Santos-Moreno, J., Tasiudi, E., Stelling, J., & Schaerli, Y.** (2020). Multistable and dynamic CRISPRi-based synthetic circuits. Nature communications, 11(1), 2746. https://doi.org/10.1038/s41467-020-16574-1
 
+58. **Isakova, A., Quake, S., Liu, D., Cvijovic, I., Sinha, R., Eastman, A., Saul, S., Detweiler, A., Neff, N., Einav, S., & Weissman, I.** (2025). Scalable single-cell total RNA-seq reveals non-coding programs in immunity, infection, and brain development. Research square, rs.3.rs-7294776. https://doi.org/10.21203/rs.3.rs-7294776/v1
+
