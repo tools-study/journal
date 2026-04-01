@@ -349,9 +349,9 @@ We propose that all reprogramming approaches — iPSC generation, SCNT, chemical
 
 13. Ladstätter, S., & Bhatt, D. K. (2025). The maternal-to-zygotic transition: Reprogramming of the cytoplasm and nucleus. *Nature Reviews Genetics*, 26, 59-83. doi:10.1038/s41576-024-00792-0
 
-14. Li, J., Zhu, Q., Bai, R., Zhang, J., Jiang, H., Gao, R., ... & Li, W. (2025a). Efficient somatic cell nuclear transfer by overcoming both pre- and post-implantation epigenetic barriers. *Advanced Science*, 12, 2504669. doi:10.1002/advs.202504669
+14. Li, Y., Sun, S., Xu, Y., Zhang, J., Du, Y., Cao, Y., ... & Lu, F. (2025). Efficient Somatic Cell Nuclear Transfer by Overcoming Both Pre‐and Post‐Implantation Epigenetic Barriers. Advanced Science, 12(37), e04669.
 
-15. Li, W., Li, B., Giacalone, N. J., Bhatt, D. K., Craft, A. M., Roberts, A. M., ... & Bhatt, D. K. (2024a). Capturing totipotency in human cells through spliceosomal repression. *Cell*, 187(13), 3284-3304. PMID: 38843832
+15. Li, S., Yang, M., Shen, H., Ding, L., Lyu, X., Lin, K., ... & Du, P. (2024a). Capturing totipotency in human cells through spliceosomal repression. Cell, 187(13), 3284-3302.
 
 16. Lister, R., Pelizzola, M., Kida, Y. S., Hawkins, R. D., Nery, J. R., Hon, G., ... & Ecker, J. R. (2011). Hotspots of aberrant epigenomic reprogramming in human induced pluripotent stem cells. *Nature*, 471(7336), 68-73. PMID: 21289626
 
@@ -402,3 +402,5 @@ We propose that all reprogramming approaches — iPSC generation, SCNT, chemical
 39. Zhao, C., Cao, Y., Wang, Z., & Li, M. (2025). Moving toward totipotency: The molecular and cellular features of totipotent and naive pluripotent stem cells. *Human Reproduction Update*, 31(4), 361-389. PMID: 40299455
 
 40. Ladurner, R., & Tachibana, K. (2025). The mammalian oocyte: A central hub for cellular reprogramming and stemness. *Stem Cells and Cloning: Advances and Applications*, 18, 1-22. PMID: 39991743
+
+41. Lüttmann, F. F., Kim, K. P., & Kim, J. (2024). Spliceosomal repression: unleashing human cell totipotency. Signal transduction and targeted therapy, 9(1), 251. https://doi.org/10.1038/s41392-024-01966-2
