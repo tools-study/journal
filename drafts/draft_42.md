@@ -570,7 +570,7 @@ The path forward requires interdisciplinary collaboration spanning genome engine
 
 8. Palacios, S., Bruno, S., Weiss, R., Salibi, E., Goodchild-Michelman, I., Kane, A., ... & Del Vecchio, D. (2025). Analog epigenetic memory revealed by targeted chromatin editing. Cell Genomics, 5(11).
 
-9. Bowling, S., et al. (2020). An engineered CRISPR-Cas9 mouse line for simultaneous readout of lineage histories and gene expression profiles in single cells. *Cell*, 181(6), 1410–1422. PMID: 32413320
+9. Bowling, S., et al. (2020). An engineered CRISPR-Cas9 mouse line for simultaneous readout of lineage histories and gene expression profiles in single cells. *Cell*, 181(6), 1410–1422.
 
 10. Buffington, J. D., Kuo, H. C., Hu, K., Chang, Y. C., Javanmardi, K., Voigt, B., ... & Finkelstein, I. J. (2025). Discovery and engineering of retrons for precise genome editing. Nature biotechnology, 1-11.
 
@@ -632,11 +632,11 @@ The path forward requires interdisciplinary collaboration spanning genome engine
 
 39. González-Delgado, A., Lopez, S. C., Rojas-Montero, M., Fishman, C. B., & Shipman, S. L. (2024). Simultaneous multi-site editing of individual genomes using retron arrays. Nature chemical biology, 20(11), 1482-1492.
 
-40. Loveless, T. B., et al. (2025). Open-ended molecular recording of sequential cellular events into DNA. *Nature Chemical Biology*, 20, 1622–1631. PMID: 39543397
+40. Loveless, T. B., et al. (2025). Open-ended molecular recording of sequential cellular events into DNA. *Nature Chemical Biology*, 20, 1622–1631.
 
 41. McKenna, A., et al. (2016). Whole-organism lineage tracing by combinatorial and cumulative genome editing. *Science*, 353(6298), aaf7907.
 
-42. Waldrop, M. M. (2016). The chips are down for Moore's law. *Nature*, 530, 144–147. PMID: 26863965
+42. Waldrop, M. M. (2016). The chips are down for Moore's law. *Nature*, 530, 144–147.
 
 43. Morsut, L., et al. (2016). Engineering customized cell sensing and response behaviors using synthetic notch receptors. *Cell*, 164(4), 780–791.
 
@@ -656,7 +656,7 @@ The path forward requires interdisciplinary collaboration spanning genome engine
 
 51. Winter, E., Emiliani, F., Cook, A., Abderrahim, A., & McKenna, A. 
 
-52. Sheth, R. U., Yim, S. S., Wu, F. L., & Wang, H. H. (2017). Multiplex recording of cellular events over time on CRISPR biological tape. *Science*, 358(6369), 1457–1461. PMID: 29170279
+52. Sheth, R. U., Yim, S. S., Wu, F. L., & Wang, H. H. (2017). Multiplex recording of cellular events over time on CRISPR biological tape. *Science*, 358(6369), 1457–1461.
 
 53. Simeral, J. D., et al. (2021). Home use of a percutaneous wireless intracortical brain-computer interface by individuals with tetraplegia. *IEEE Transactions on Biomedical Engineering*, 68(7), 2313–2325.
 
