@@ -14,7 +14,7 @@ The trajectory of computational technology reveals a consistent pattern: each su
 
 The history of computing is, at its core, a history of shrinking distance between the computational device and the human mind. The first general-purpose electronic computer, ENIAC, occupied 167 square meters and served a single institution. The invention of the transistor in 1947 launched a miniaturization cascade governed by Moore's Law, enabling the personal computer revolution of the 1970s–1980s, which brought computation from the institution to the individual desk (Waldrop, 2016). The mobile phone — particularly the smartphone era inaugurated by the iPhone in 2007 — compressed this further, placing a powerful general-purpose computer in the user's hand, available continuously (West & Mace, 2010). Wearable computing, epitomized by smartwatches and fitness trackers, advanced the frontier to the body's surface, enabling continuous biometric monitoring and just-in-time information delivery (Piwek et al., 2016).
 
-The progression continued with immersive computing. Augmented reality (AR) and virtual reality (VR) headsets position computational output directly within the user's visual field, overlaying or replacing sensory input at the perceptual interface (Billinghurst et al., 2015). The physical distance between the computational device and the brain's sensory processing regions is now measured in centimeters. Meanwhile, the world's smallest standalone computer — measuring just 0.3 mm per side, developed at the University of Michigan — demonstrates that the physical limits of computational hardware continue to shrink far below the scale of human perception (Lee et al., 2018).
+The progression continued with immersive computing. Augmented reality (AR) and virtual reality (VR) headsets position computational output directly within the user's visual field, overlaying or replacing sensory input at the perceptual interface (Billinghurst et al., 2015). The physical distance between the computational device and the brain's sensory processing regions is now measured in centimeters. Meanwhile, the world's smallest standalone computer — measuring just 0.3 mm per side, developed at the University of Michigan — demonstrates that the physical limits of computational hardware continue to shrink far below the scale of human perception (Wu et al., 2018).
 
 ### 1.2 Brain-Computer Interfaces: Computation Reaches the Brain
 
@@ -622,7 +622,7 @@ The path forward requires interdisciplinary collaboration spanning genome engine
 
 34. Islam, M., et al. (2024). Temporal recording of mammalian development and precancer. *Nature*, 634, 1187–1195.
 
-35. Lee, Y., et al. (2018). A 0.6-V 8-MHz 83-µW 39.5-fJ/conv.-step 2nd-order delta–sigma modulator in 28-nm FDSOI for IoT sensor nodes. *IEEE Journal of Solid-State Circuits*, 53(10), 2861–2871.
+35. Wu, X., Lee, I., Dong, Q., Yang, K., Kim, D., Wang, J., ... & Blaauw, D. (2018, June). A 0.04 MM 3 16NW wireless and batteryless sensor system with integrated cortex-m0+ processor and optical communication for cellular temperature measurement. In 2018 IEEE Symposium on VLSI Circuits (pp. 191-192). IEEE.
 
 36. Yang, L., Tang, Q., Zhang, M., Tian, Y., Chen, X., Xu, R., ... & Han, D. (2024). A spatially localized DNA linear classifier for cancer diagnosis. Nature Communications, 15(1), 4583.
 
