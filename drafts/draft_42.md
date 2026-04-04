@@ -20,7 +20,7 @@ The progression continued with immersive computing. Augmented reality (AR) and v
 
 Brain-computer interfaces (BCIs) represent the first technology to place computational systems in direct contact with neural tissue. Intracortical BCIs have demonstrated decoding of imagined speech at rates exceeding 62 words per minute from neural ensemble activity (Willett et al., 2023). Visual imagery has been reconstructed from functional MRI signals using deep generative models, enabling coarse decoding of perceived and imagined visual content (Takagi & Nishimoto, 2023). Motor BCIs have enabled paralyzed individuals to control robotic limbs and computer cursors through decoded neural signals, with the BrainGate consortium demonstrating sustained cursor control over years of implanted use (Hochberg et al., 2012; Simeral et al., 2021).
 
-These achievements confirm that the computational interface frontier has reached the brain. The information flow is bidirectional: neural signals are decoded (read operations) and electrical stimulation delivers sensory or motor information back to neural circuits (write operations). Cochlear implants and retinal prostheses have provided clinical proof that sensory information can be written to the nervous system through direct electrical stimulation (Wilson & Dorman, 2008; da Cruz et al., 2020).
+These achievements confirm that the computational interface frontier has reached the brain. The information flow is bidirectional: neural signals are decoded (read operations) and electrical stimulation delivers sensory or motor information back to neural circuits (write operations). Cochlear implants and retinal prostheses have provided clinical proof that sensory information can be written to the nervous system through direct electrical stimulation (Wilson & Dorman, 2008; da Cruz et al., 2016).
 
 ### 1.3 The Cellular Computation Hypothesis
 
@@ -28,11 +28,11 @@ If computation has migrated from the room to the desk, to the hand, to the body 
 
 This hypothesis rests on three converging lines of evidence:
 
-**First, cells already perform computation.** Every living cell processes information: gene regulatory networks implement Boolean logic (Davidson, 2010), signal transduction cascades perform analog computation (Purvis & Bhatt, 2024), the adaptive immune system implements pattern recognition with memory (Farber et al., 2016), and epigenetic modifications store heritable state information across cell divisions (Allis & Jenuwein, 2016). The cell is not a passive vessel but an active information-processing system operating on nucleic acid-encoded instructions.
+**First, cells already perform computation.** Every living cell processes information: gene regulatory networks implement Boolean logic (Davidson, 2010), signal transduction cascades perform analog computation, the adaptive immune system implements pattern recognition with memory (Farber et al., 2016), and epigenetic modifications store heritable state information across cell divisions (Allis & Jenuwein, 2016). The cell is not a passive vessel but an active information-processing system operating on nucleic acid-encoded instructions.
 
-**Second, molecular recording technologies now enable read and write operations on cellular DNA.** CRISPR-based recorders write event histories into genomic DNA (Tang & Liu, 2018; Sheth et al., 2017), prime editing enables sequential recording of cellular events (Chen et al., 2022), and retron-based systems provide continuous analog recording without double-strand breaks (Farzadfard & Lu, 2014). The central dogma of molecular biology — DNA → RNA → protein — can now be viewed as an addressable, programmable information architecture.
+**Second, molecular recording technologies now enable read and write operations on cellular DNA.** CRISPR-based recorders write event histories into genomic DNA (Tang & Liu, 2018; Sheth et al., 2017), prime editing enables sequential recording of cellular events (Choi et al., 2022), and retron-based systems provide continuous analog recording without double-strand breaks (Farzadfard & Lu, 2014). The central dogma of molecular biology — DNA → RNA → protein — can now be viewed as an addressable, programmable information architecture.
 
-**Third, DNA-based computation has achieved non-trivial computational tasks.** DNA strand displacement neural networks have scaled to pattern classification with supervised learning (Cherry & Qian, 2025), molecular decision trees implement Random Forest classifiers for disease diagnosis (Zhang et al., 2025), and heat-rechargeable DNA circuits demonstrate reusable logic computation with over 200 molecular species (Dalchau et al., 2025).
+**Third, DNA-based computation has achieved non-trivial computational tasks.** DNA strand displacement neural networks have scaled to pattern classification with supervised learning (Cherry & Qian, 2025), molecular decision trees implement Random Forest classifiers for disease diagnosis (Liu et al., 2025), and heat-rechargeable DNA circuits demonstrate reusable logic computation with over 200 molecular species (Song et al., 2025).
 
 ### 1.4 The Cellular Computer Analogy
 
@@ -74,25 +74,25 @@ Tang and Liu (2018) extended this approach with CAMERA (CRISPR-mediated Analog M
 
 Farzadfard, Gharaei, Certo, and Lu (2019) developed DOMINO (DNA-based Ordered Memory and Iteration Network Operator), which uses base editors at multiple genomic target sites to implement combinatorial recording. Each target site can be independently converted by a signal-specific base editor, and the pattern of edits across multiple sites encodes the combination and order of experienced signals. DOMINO demonstrated that base editing could create computing and memory circuits that operate at single-nucleotide resolution in living cells, implementing Boolean logic gates (AND, OR, NAND) and sequential recording of up to three independent inputs (Farzadfard et al., 2019).
 
-The major leap in base editing recording came with ENGRAM (Enhancer-driven Genomic Recording of transcriptional Activity in Multiplex), published by Choi, Chen, and colleagues in Nature in 2024. ENGRAM converts the transient activity of cis-regulatory elements into stable, permanent genomic records recoverable by DNA sequencing. The system works by placing the expression of prime editing guide RNAs (pegRNAs) under the control of cis-regulatory elements of interest. When a regulatory element is active, it produces its cognate pegRNA, which directs the prime editor to insert a signal-specific barcode ("symbol") into a genomically encoded recording unit. Because each regulatory element drives a unique pegRNA that inserts a distinct symbol, the system enables multiplex recording of the cell-type-specific activities of dozens to hundreds of cis-regulatory elements simultaneously (Choi et al., 2024).
+The major leap in base editing recording came with ENGRAM (Enhancer-driven Genomic Recording of transcriptional Activity in Multiplex), published by Chen, Choi, and colleagues in Nature in 2024. ENGRAM converts the transient activity of cis-regulatory elements into stable, permanent genomic records recoverable by DNA sequencing. The system works by placing the expression of prime editing guide RNAs (pegRNAs) under the control of cis-regulatory elements of interest. When a regulatory element is active, it produces its cognate pegRNA, which directs the prime editor to insert a signal-specific barcode ("symbol") into a genomically encoded recording unit. Because each regulatory element drives a unique pegRNA that inserts a distinct symbol, the system enables multiplex recording of the cell-type-specific activities of dozens to hundreds of cis-regulatory elements simultaneously (Chen et al., 2024).
 
-ENGRAM was applied to record the transient activity of nearly 100 transcription factor consensus motifs across daily time windows spanning the differentiation of mouse embryonic stem cells into gastruloids — an in vitro model of early mammalian development. The system demonstrated time- and concentration-dependent genomic recording of WNT, NF-κB, and Tet-On signaling pathway activities with high fidelity, sensitivity, and reproducibility. A detailed protocol for implementing ENGRAM experiments was subsequently published in Nature Protocols (Choi et al., 2025).
+ENGRAM was applied to record the transient activity of nearly 100 transcription factor consensus motifs across daily time windows spanning the differentiation of mouse embryonic stem cells into gastruloids — an in vitro model of early mammalian development. The system demonstrated time- and concentration-dependent genomic recording of WNT, NF-κB, and Tet-On signaling pathway activities with high fidelity, sensitivity, and reproducibility. A detailed protocol for implementing ENGRAM experiments was subsequently published in Nature Protocols (Nathans et al., 2026).
 
-In a parallel advance, Salvador-Martínez and colleagues developed BASELINE (Base Editing for Analog SIgnaL rEcording using Networks of Evolving sites), a CRISPR base editing platform for mammalian-scale single-cell lineage tracing. BASELINE uses a Cas12a adenine base editor to irreversibly edit nucleotides within 50 synthetic target sites integrated into the genome. Remarkably, the system can record more than 4,300 bits of information per cell — a 50-fold improvement over existing recording systems — enabling the reconstruction of high-resolution lineage trees in conjunction with single-cell transcriptomic profiling (Salvador-Martínez et al., 2025).
+In a parallel advance, Winter and colleagues developed BASELINE (Base Editing for Analog SIgnaL rEcording using Networks of Evolving sites), a CRISPR base editing platform for mammalian-scale single-cell lineage tracing. BASELINE uses a Cas12a adenine base editor to irreversibly edit nucleotides within 50 synthetic target sites integrated into the genome. Remarkably, the system can record more than 4,300 bits of information per cell — a 50-fold improvement over existing recording systems — enabling the reconstruction of high-resolution lineage trees in conjunction with single-cell transcriptomic profiling (Winter et al., 2025).
 
-**Information metrics.** ENGRAM's recording capacity is determined by the number of recording units × the number of distinguishable symbols per unit. With hundreds of regulatory elements each producing distinct symbols, the theoretical capacity reaches thousands of bits per cell. BASELINE achieves 4,300 bits, establishing the current benchmark. Persistence is genomic (permanent through cell divisions). Error rates are governed by base editing specificity: off-target edits introduce noise, while incomplete editing (false negatives) reduces sensitivity. The ENGRAM system achieves >90% concordance between recorded symbols and independent measures of regulatory element activity (Choi et al., 2024).
+**Information metrics.** ENGRAM's recording capacity is determined by the number of recording units × the number of distinguishable symbols per unit. With hundreds of regulatory elements each producing distinct symbols, the theoretical capacity reaches thousands of bits per cell. BASELINE achieves 4,300 bits, establishing the current benchmark. Persistence is genomic (permanent through cell divisions). Error rates are governed by base editing specificity: off-target edits introduce noise, while incomplete editing (false negatives) reduces sensitivity. The ENGRAM system achieves >90% concordance between recorded symbols and independent measures of regulatory element activity (Chen et al., 2024).
 
-**In vivo status.** ENGRAM has been demonstrated in mouse embryonic stem cell-derived gastruloids — a significant step toward in vivo applicability but not yet in vivo in intact organisms. BASELINE has been applied in mouse models of pancreatic cancer, representing genuine in vivo recording in mammalian tissue (Salvador-Martínez et al., 2025).
+**In vivo status.** ENGRAM has been demonstrated in mouse embryonic stem cell-derived gastruloids — a significant step toward in vivo applicability but not yet in vivo in intact organisms. BASELINE has been applied in mouse models of pancreatic cancer, representing genuine in vivo recording in mammalian tissue (Winter et al., 2025).
 
 ### 2.3 Prime Editing Sequential Recorders: DNA Typewriter and peCHYRON
 
-The DNA Typewriter, developed by Chen, Choi, and colleagues and published in Nature in 2022, represents a landmark in molecular recording technology. The system uses prime editing — a CRISPR technology that can write new genetic information into a specified DNA site without requiring double-strand breaks or donor DNA templates — to achieve sequential, ordered recording of multiple cellular events.
+The DNA Typewriter, developed by Choi, Chen, and colleagues and published in Nature in 2022, represents a landmark in molecular recording technology. The system uses prime editing — a CRISPR technology that can write new genetic information into a specified DNA site without requiring double-strand breaks or donor DNA templates — to achieve sequential, ordered recording of multiple cellular events.
 
-The core innovation is the DNA Tape: a tandem array of partial CRISPR-Cas9 target sites, in which all but the first are truncated at their 5' ends and therefore inactive. A prime editing guide RNA (pegRNA) directs the prime editor to insert a short sequence (a "symbol") at the active site. Critically, this insertion simultaneously deactivates the current site and activates the next site in the array by completing the truncated protospacer. Recording is thus inherently sequential and unidirectional — the physical order of symbols along the tape directly encodes the temporal order of events, much like a typewriter moving from left to right across a page (Chen et al., 2022).
+The core innovation is the DNA Tape: a tandem array of partial CRISPR-Cas9 target sites, in which all but the first are truncated at their 5' ends and therefore inactive. A prime editing guide RNA (pegRNA) directs the prime editor to insert a short sequence (a "symbol") at the active site. Critically, this insertion simultaneously deactivates the current site and activates the next site in the array by completing the truncated protospacer. Recording is thus inherently sequential and unidirectional — the physical order of symbols along the tape directly encodes the temporal order of events, much like a typewriter moving from left to right across a page (Choi et al., 2022).
 
-The DNA Typewriter is highly multiplexable: it is compatible with recording thousands of distinct symbols (each encoded by a different pegRNA), and the array length determines the maximum recording duration. A detailed molecular recording protocol was published in Nature Protocols (Chen et al., 2024), providing standardized experimental procedures for implementing DNA Typewriter in mammalian cells.
+The DNA Typewriter is highly multiplexable: it is compatible with recording thousands of distinct symbols (each encoded by a different pegRNA), and the array length determines the maximum recording duration. A detailed molecular recording protocol was published in Nature Protocols (Liao et al., 2024), providing standardized experimental procedures for implementing DNA Typewriter in mammalian cells.
 
-Building on the same sequential recording principle, Loveless, Li, and colleagues developed peCHYRON (prime editing-based Chronological History Recording by Ordered iNsertion), published in Nature Chemical Biology in 2024. In each step of recording, the prime editor inserts a variable triplet DNA sequence (encoding signal identity) alongside a constant propagator sequence that deactivates the previous insertion site and activates the next. Insertions accumulate sequentially in a unidirectional order, enabling open-ended recording of multiple cellular signals with high temporal resolution in mammalian cells (Loveless et al., 2024).
+Building on the same sequential recording principle, Loveless, Li, and colleagues developed peCHYRON (prime editing-based Chronological History Recording by Ordered iNsertion), published in Nature Chemical Biology in 2024. In each step of recording, the prime editor inserts a variable triplet DNA sequence (encoding signal identity) alongside a constant propagator sequence that deactivates the previous insertion site and activates the next. Insertions accumulate sequentially in a unidirectional order, enabling open-ended recording of multiple cellular signals with high temporal resolution in mammalian cells (Loveless et al., 2025).
 
 **Information metrics.** The DNA Typewriter encodes log₂(k) bits per insertion, where k is the number of distinguishable symbols. With k = 16 symbols and a tape length of L = 10 sites, the theoretical capacity is 10 × log₂(16) = 40 bits per tape. Multiple tapes per cell and larger symbol alphabets can scale this substantially. peCHYRON's triplet insertions encode log₂(4³) = 6 bits per position. Persistence is genomic and permanent. The critical limitation is recording speed: prime editing efficiency (~1–30% per site per exposure) determines how rapidly events can be recorded, imposing a fundamental tradeoff between temporal resolution and recording fidelity.
 
@@ -122,7 +122,7 @@ For BASELINE (n = 50 sites, k ≈ 4 symbols per site from A→G transitions, p �
 C_{\text{BASELINE}} = 50 \times 0.8 \times \log_2(4) \times (1 - H(0.02)) \approx 50 \times 0.8 \times 2 \times 0.858 \approx 68.6 \text{ bits/cell/generation}
 ```
 
-The reported 4,300 bits reflect the combinatorial diversity across the full 50-site array read at single-cell resolution, where the effective alphabet size per site is much larger due to multiple possible edit patterns and their combinations. This highlights how combinatorial encoding across many sites exponentially expands the effective recording capacity beyond the per-site Shannon limit (Salvador-Martínez et al., 2025).
+The reported 4,300 bits reflect the combinatorial diversity across the full 50-site array read at single-cell resolution, where the effective alphabet size per site is much larger due to multiple possible edit patterns and their combinations. This highlights how combinatorial encoding across many sites exponentially expands the effective recording capacity beyond the per-site Shannon limit (Winter et al., 2025).
 
 For DNA Typewriter (n = 10 tape positions, k = 16 symbols, p ≈ 0.15 per exposure, ε ≈ 0.05):
 
@@ -154,7 +154,7 @@ This reveals an exponential decay in recording fidelity with sequence length. Fo
 P(\text{correct, } L=5) = (0.15 \times 0.99 \times 0.97)^5 = (0.144)^5 \approx 5.6 \times 10^{-5}
 ```
 
-This low per-cell probability is compensated by recording across large populations (>10⁴ cells), where at least some cells will have undergone complete recording — a strategy explicitly leveraged by both DNA Typewriter and peCHYRON, which read recording outcomes across cell populations rather than relying on single-cell perfection (Chen et al., 2022; Loveless et al., 2024).
+This low per-cell probability is compensated by recording across large populations (>10⁴ cells), where at least some cells will have undergone complete recording — a strategy explicitly leveraged by both DNA Typewriter and peCHYRON, which read recording outcomes across cell populations rather than relying on single-cell perfection (Choi et al., 2022; Loveless et al., 2025).
 
 ---
 
@@ -168,15 +168,15 @@ SCRIBE's analog recording property distinguishes it fundamentally from digital r
 
 ### 3.2 Retro-Cascorder and Temporal Resolution
 
-The Retro-Cascorder, detailed in a Nature Protocols publication, extended retron-based recording to achieve temporally resolved transcriptional recording in E. coli (Bhatt et al., 2023). By coupling retron-mediated ssDNA production to transcriptional signals and reading out the accumulated mutations over time, the Retro-Cascorder demonstrated that the temporal dynamics of gene expression could be stably recorded into genomic DNA and subsequently reconstructed.
+The Retro-Cascorder, detailed in a Nature Protocols publication, extended retron-based recording to achieve temporally resolved transcriptional recording in E. coli (Lear et al., 2023). By coupling retron-mediated ssDNA production to transcriptional signals and reading out the accumulated mutations over time, the Retro-Cascorder demonstrated that the temporal dynamics of gene expression could be stably recorded into genomic DNA and subsequently reconstructed.
 
 ### 3.3 Multiplexed Retron Arrays and Mammalian Translation
 
-A critical advance came with the development of "multitrons" — retron arrays that enable simultaneously modifying multiple sites on a single genome from a single transcript. Lopez, Rios, and colleagues demonstrated that multiple donor-encoding DNAs can be produced from a single multitron transcript, enabling parallel recording at multiple genomic addresses. Applications include molecular recording, genetic element minimization, and metabolic engineering (Lopez et al., 2024).
+A critical advance came with the development of "multitrons" — retron arrays that enable simultaneously modifying multiple sites on a single genome from a single transcript. González-Delgado, Lopez, and colleagues demonstrated that multiple donor-encoding DNAs can be produced from a single multitron transcript, enabling parallel recording at multiple genomic addresses. Applications include molecular recording, genetic element minimization, and metabolic engineering (González-Delgado et al., 2024).
 
-However, retron efficiency in mammalian cells remained a major bottleneck. Zhao, Chen, and colleagues identified two critical obstacles: non-coding RNA instability (the retron ncRNA is rapidly degraded in mammalian cells) and impaired Cas9 activity (the retron ncRNA structure interferes with sgRNA function). They engineered the Eco1 ncRNA and devised an RNA processing strategy to increase steady-state ncRNA levels and rescue sgRNA activity, substantially increasing templated repair efficiency in human cells (Zhao et al., 2024).
+However, retron efficiency in mammalian cells remained a major bottleneck. Cattle and colleagues identified two critical obstacles: non-coding RNA instability (the retron ncRNA is rapidly degraded in mammalian cells) and impaired Cas9 activity (the retron ncRNA structure interferes with sgRNA function). They engineered the Eco1 ncRNA and devised an RNA processing strategy to increase steady-state ncRNA levels and rescue sgRNA activity, substantially increasing templated repair efficiency in human cells (Cattle et al., 2025).
 
-The most significant retron advance of 2025 came from Cai and colleagues, who performed a systematic bioinformatic analysis of metagenomic data to discover retron reverse transcriptases that are highly active in mammalian cells. Through functional screening of thousands of candidate retrons, they identified variants with dramatically improved mammalian activity, opening the door to retron-based recording and editing in vertebrate systems (Cai et al., 2025).
+The most significant retron advance of 2025 came from Buffington and colleagues, who performed a systematic bioinformatic analysis of metagenomic data to discover retron reverse transcriptases that are highly active in mammalian cells. Through functional screening of thousands of candidate retrons, they identified variants with dramatically improved mammalian activity, opening the door to retron-based recording and editing in vertebrate systems (Buffington et al., 2025).
 
 ### 3.4 Analog vs. Digital Recording: Complementary Modalities
 
@@ -184,7 +184,7 @@ Retron-based systems offer fundamental advantages for certain recording tasks. U
 
 The tradeoff is temporal resolution: because retron recording accumulates mutations over time, it provides excellent integration (total signal exposure) but limited temporal discrimination (when specific events occurred). Sequential digital recorders like DNA Typewriter excel at temporal ordering but sacrifice analog magnitude information. Optimal recording architectures may combine both modalities.
 
-**In vivo status.** Retron recording is well-established in bacteria. Mammalian retron efficiency has improved dramatically with engineered ncRNAs (Zhao et al., 2024) and metagenomically-discovered high-activity variants (Cai et al., 2025), but in vivo mammalian recording has not yet been demonstrated.
+**In vivo status.** Retron recording is well-established in bacteria. Mammalian retron efficiency has improved dramatically with engineered ncRNAs (Cattle et al., 2025) and metagenomically-discovered high-activity variants (Buffington et al., 2025), but in vivo mammalian recording has not yet been demonstrated.
 
 ### 3.5 Information-Theoretic Framework for Analog Recording
 
@@ -224,13 +224,13 @@ yielding a minimum detectable signal change of ~0.01 hours (36 seconds) — rema
 
 ### 4.1 TimeVault: Molecular Time Travel for Cellular Transcriptomes
 
-In 2025, a transformative technology was published in Science: TimeVault, a genetically encoded "molecular time machine" that enables living cells to record and store complete snapshots of their cytosolic transcriptomes for future retrieval and sequencing (Horns et al., 2025).
+In 2025, a transformative technology was published in Science: TimeVault, a genetically encoded "molecular time machine" that enables living cells to record and store complete snapshots of their cytosolic transcriptomes for future retrieval and sequencing (Chao et al., 2026).
 
-TimeVault exploits vault particles — large (13 MDa), hollow, barrel-shaped protein shells that naturally self-assemble in the cytoplasm of most eukaryotic cells but whose endogenous function had remained enigmatic for decades. The engineering strategy was elegant: vault particles were modified to incorporate a poly(A)-binding protein (PABPC1) domain on their interior surface. When expressed in cells, these engineered vault particles capture cytosolic mRNAs through their poly(A) tails and encapsulate them within the protective vault shell (Horns et al., 2025).
+TimeVault exploits vault particles — large (13 MDa), hollow, barrel-shaped protein shells that naturally self-assemble in the cytoplasm of most eukaryotic cells but whose endogenous function had remained enigmatic for decades. The engineering strategy was elegant: vault particles were modified to incorporate a poly(A)-binding protein (PABPC1) domain on their interior surface. When expressed in cells, these engineered vault particles capture cytosolic mRNAs through their poly(A) tails and encapsulate them within the protective vault shell (Chao et al., 2026).
 
 The stored transcriptome is stable in living cells for more than 7 days — far exceeding the ~2–8 hour average half-life of mammalian mRNAs — because the vault shell physically protects encapsulated RNAs from cytoplasmic nucleases and degradation pathways. Stored mRNAs can be released and sequenced on demand by lysing cells and disrupting vault particles, yielding a transcriptome-wide snapshot of the cell's state at the time of capture.
 
-TimeVault was applied to capture transient stress responses and to reveal gene expression changes underlying drug-naïve persister states in lung cancer cells that evade epidermal growth factor receptor (EGFR) inhibition. By capturing transcriptomes before drug treatment and then analyzing surviving persister cells, TimeVault linked past gene expression patterns to future cell fates — a form of biological retrospection that was previously impossible (Horns et al., 2025).
+TimeVault was applied to capture transient stress responses and to reveal gene expression changes underlying drug-naïve persister states in lung cancer cells that evade epidermal growth factor receptor (EGFR) inhibition. By capturing transcriptomes before drug treatment and then analyzing surviving persister cells, TimeVault linked past gene expression patterns to future cell fates — a form of biological retrospection that was previously impossible (Chao et al., 2026).
 
 **Information metrics.** TimeVault captures the full mRNA content of a cell at a single moment — approximately ~200,000 mRNA molecules representing ~10,000–15,000 expressed genes in a typical mammalian cell. At single-gene resolution, this represents ~15,000 × log₂(dynamic range) ≈ 15,000 × 14 ≈ 210,000 bits of transcriptomic information per cell per capture event. Persistence is 7+ days in living cells. The technology does not alter the genome, making it non-heritable but repeatable through re-expression of vault particle components.
 
@@ -242,13 +242,13 @@ While molecular recording writes new information into DNA sequence, epigenetic m
 
 A landmark 2024 study in Nature demonstrated "hit-and-run" epigenome editing in vivo. Researchers delivered zinc-finger-based epigenetic editors via lipid nanoparticles loaded with the editors' mRNAs, achieving near-complete silencing of mouse Pcsk9 that persisted for nearly one year from a single administration. Critically, silencing and accompanying epigenetic repressive marks persisted even after forced liver regeneration (two-thirds partial hepatectomy), demonstrating that the newly installed epigenetic state was genuinely heritable through cell division in vivo (Cappelluti et al., 2024).
 
-CRISPRoff has been further developed for clinical translation. Tycko, Ceribelli, and colleagues demonstrated programmable CRISPRoff epigenetic editing in human cell lines and primary T cells, showing that CRISPRoff-mediated gene silencing is durable, efficient, and compatible with therapeutic cell engineering workflows (Tycko et al., 2025). Separately, the RENDER (Robust ENveloped Delivery of Epigenome-editor Ribonucleoproteins) system enabled transient delivery of programmable CRISPRoff as ribonucleoprotein complexes, inducing durable epigenetic silencing across various human cell types without permanent transgene integration (Abifadel et al., 2025). A complementary approach using mRNA-encoded CRISPR epigenetic editors (CRISPR OFF-EE) demonstrated durable gene silencing in vivo, using intein-split SpCas9 or the compact Cas-SF01 to overcome mRNA packaging constraints (Wang et al., 2025).
+CRISPRoff has been further developed for clinical translation. Pattali and colleagues demonstrated programmable CRISPRoff epigenetic editing in human cell lines and primary T cells, showing that CRISPRoff-mediated gene silencing is durable, efficient, and compatible with therapeutic cell engineering workflows (Pattali et al., 2025). Separately, the RENDER (Robust ENveloped Delivery of Epigenome-editor Ribonucleoproteins) system enabled transient delivery of programmable CRISPRoff as ribonucleoprotein complexes, inducing durable epigenetic silencing across various human cell types without permanent transgene integration (Xu et al., 2025). A complementary approach using mRNA-encoded CRISPR epigenetic editors (CRISPR OFF-EE) demonstrated durable gene silencing in vivo, using intein-split SpCas9 or the compact Cas-SF01 to overcome mRNA packaging constraints (Wang et al., 2026).
 
 **Information metrics.** Each CRISPRoff-targeted locus stores 1 bit of state information (silenced/active). With multi-guide targeting, the system can simultaneously control 10–100 loci, encoding up to 100 bits per cell. The defining advantage is persistence: epigenetic memory survives cell division indefinitely (demonstrated over months in vivo), making it the most durable engineered memory system outside of sequence modification. Error rate is asymmetric: spontaneous reactivation occurs at ~1–5% per cell division for single-mark silencing but is effectively zero for the dual CRISPRoff mechanism (Nuñez et al., 2021; Cappelluti et al., 2024).
 
 ### 4.3 Analog Epigenetic Memory: Beyond Binary States
 
-A paradigm-shifting discovery published in Cell Genomics in 2025 revealed that epigenetic memory is not merely binary (on/off) but analog. Researchers demonstrated that targeted chromatin editing can install distinct grades of DNA methylation at a locus, and that these graded methylation states lead to corresponding, persistent gene expression levels maintained over multiple cell divisions. This "analog epigenetic memory" means that cells can store continuous-valued information — not just 1 bit per locus, but potentially many bits encoded in the methylation level (Bintu et al., 2025).
+A paradigm-shifting discovery published in Cell Genomics in 2025 revealed that epigenetic memory is not merely binary (on/off) but analog. Researchers demonstrated that targeted chromatin editing can install distinct grades of DNA methylation at a locus, and that these graded methylation states lead to corresponding, persistent gene expression levels maintained over multiple cell divisions. This "analog epigenetic memory" means that cells can store continuous-valued information — not just 1 bit per locus, but potentially many bits encoded in the methylation level (Palacios et al., 2025).
 
 This finding transforms the information-theoretic analysis of epigenetic memory. If a locus can maintain, say, 8 distinguishable methylation levels stably over 10+ cell divisions, each locus encodes log₂(8) = 3 bits rather than 1 bit, tripling the information density of epigenetic storage.
 
@@ -320,17 +320,17 @@ This framework explains why dual-mark silencing (CRISPRoff) is more durable than
 
 The application of molecular recording to developmental biology began with GESTALT (Genome Editing of Synthetic Target Arrays for Lineage Tracing), developed by McKenna, Findlay, and colleagues and published in Science in 2016. GESTALT uses an array of CRISPR/Cas9 target sites as a genomically integrated barcode. During development, Cas9-induced mutations accumulate in the barcode array, generating unique patterns of insertions and deletions (indels) that serve as heritable lineage marks. By sequencing barcodes from hundreds of thousands of cells in adult zebrafish, McKenna and colleagues demonstrated that most cells in adult organs derive from relatively few embryonic progenitors and reconstructed phylogenetic lineage trees based on shared mutation patterns (McKenna et al., 2016).
 
-Raj, Shendure, and colleagues extended this approach with scGESTALT, which combines CRISPR barcode recording with single-cell RNA sequencing. This integration enabled simultaneous readout of lineage histories and cell-type identities from individual cells in the developing zebrafish brain, revealing that transcriptionally similar cell types can arise from distinct lineage origins — a finding with profound implications for understanding the relationship between cell identity and developmental history (Raj et al., 2018).
+Raj extended this approach with scGESTALT, which combines CRISPR barcode recording with single-cell RNA sequencing. This integration enabled simultaneous readout of lineage histories and cell-type identities from individual cells in the developing zebrafish brain, revealing that transcriptionally similar cell types can arise from distinct lineage origins — a finding with profound implications for understanding the relationship between cell identity and developmental history (Raj et al., 2025).
 
 ### 5.2 CARLIN: Inducible Lineage Recording in Mice
 
 Bowling, Sritharan, and colleagues developed CARLIN (CRISPR Array Repair Lineage Tracing), the first inducible lineage recording system in mice. The CARLIN mouse carries a stably integrated array of Cas9 target sites and an inducible Cas9 transgene, enabling lineage recording to be initiated at any point during development or adulthood. Upon Cas9 induction, mutations accumulate in the target array, generating up to 44,000 distinguishable transcribed barcodes. Critically, because the barcodes are transcribed, they can be simultaneously captured with single-cell transcriptomics, enabling joint readout of lineage and gene expression (Bowling et al., 2020).
 
-CARLIN has been applied to study hematopoietic stem cell dynamics, tissue homeostasis, and tumor evolution, demonstrating the power of inducible recording for longitudinal studies in adult organisms. The system has been further refined as DARLIN, with enhanced clonal diversity and improved lineage resolution (Li et al., 2025).
+CARLIN has been applied to study hematopoietic stem cell dynamics, tissue homeostasis, and tumor evolution, demonstrating the power of inducible recording for longitudinal studies in adult organisms. The system has been further refined as DARLIN, with enhanced clonal diversity and improved lineage resolution (Yang et al., 2025).
 
 ### 5.3 BASELINE: The 4,300-Bit Barrier
 
-As described in Section 2.2, BASELINE's 4,300-bit recording capacity represents a 50-fold improvement over prior lineage recording systems. When applied to a mouse model of pancreatic cancer, BASELINE resolved fine-grained clonal structures within tumors, identified rare clones with distinct transcriptional programs, and tracked clonal evolution during tumor progression — demonstrating that high-information recording enables biological insights that were previously invisible at lower resolution (Salvador-Martínez et al., 2025).
+As described in Section 2.2, BASELINE's 4,300-bit recording capacity represents a 50-fold improvement over prior lineage recording systems. When applied to a mouse model of pancreatic cancer, BASELINE resolved fine-grained clonal structures within tumors, identified rare clones with distinct transcriptional programs, and tracked clonal evolution during tumor progression — demonstrating that high-information recording enables biological insights that were previously invisible at lower resolution (Winter et al., 2025).
 
 ### 5.4 DuTracer and Temporal Recording of Development
 
@@ -364,7 +364,7 @@ where I_ee is the diagonal element of the Fisher information matrix correspondin
 \mathcal{I}(\mu, b_e) = \frac{\mu^2 e^{-2\mu b_e}}{(1 - e^{-\mu b_e}) e^{-\mu b_e}} = \frac{\mu^2 e^{-\mu b_e}}{1 - e^{-\mu b_e}}
 ```
 
-This reveals a critical design tradeoff: **barcode complexity M determines resolution.** BASELINE's M = 50 sites with combinatorial edit patterns provides ~4,300 bits of barcode diversity, enabling discrimination of ~2^4300 unique lineage histories — vastly exceeding the ~10¹⁴ cells in a human body. The tree reconstruction accuracy scales as 1/√M, establishing a direct quantitative link between recording capacity and developmental cartography resolution (Salvador-Martínez et al., 2025).
+This reveals a critical design tradeoff: **barcode complexity M determines resolution.** BASELINE's M = 50 sites with combinatorial edit patterns provides ~4,300 bits of barcode diversity, enabling discrimination of ~2^4300 unique lineage histories — vastly exceeding the ~10¹⁴ cells in a human body. The tree reconstruction accuracy scales as 1/√M, establishing a direct quantitative link between recording capacity and developmental cartography resolution (Winter et al., 2025).
 
 **In vivo status.** Lineage recording represents the most mature in vivo application of molecular recording technology. CARLIN and DARLIN mice, the temporal recording platform, and BASELINE have all been demonstrated in living mice, including in disease models (cancer, development). Non-human primate studies are emerging. Human applications remain future goals, but the path from mouse to human is well-defined.
 
@@ -398,13 +398,13 @@ A breakthrough published in Nature in 2025 demonstrated that DNA molecules can b
 
 ### 6.5 DNA Decision Trees and Molecular Classifiers
 
-Zhang, Li, and colleagues published an interpretable molecular decision-making system in Nature Communications in 2025, demonstrating that classification rules could be modularly embedded into DNA strand displacement reaction cascades organized as decision trees. The system supports cascaded networks exceeding 10 layers, parallel computation of 13 decision trees in a Random Forest classifier involving 333 distinct DNA strands, and multimode operation (linear/nonlinear, binary/multi-class). When coupled with a DNA-methylation sensing module, the system translated biomarker profiles into molecular instructions for tree traversal, enabling accurate disease subtype classification directly from biological inputs (Zhang et al., 2025).
+Liu and colleagues published an interpretable molecular decision-making system in Nature Communications in 2025, demonstrating that classification rules could be modularly embedded into DNA strand displacement reaction cascades organized as decision trees. The system supports cascaded networks exceeding 10 layers, parallel computation of 13 decision trees in a Random Forest classifier involving 333 distinct DNA strands, and multimode operation (linear/nonlinear, binary/multi-class). When coupled with a DNA-methylation sensing module, the system translated biomarker profiles into molecular instructions for tree traversal, enabling accurate disease subtype classification directly from biological inputs (Liu et al., 2025).
 
 Complementarily, a spatially localized DNA integrated circuits classifier was constructed on two-dimensional DNA origami, using the origami as a framework with localized processing modules that execute arithmetic operations for efficient linear classification of complex molecular patterns for cancer diagnosis (Li et al., 2024).
 
 ### 6.6 Heat-Rechargeable DNA Circuits
 
-A fundamental limitation of DNA strand displacement computing is that reactions are thermodynamically irreversible — once a computation is performed, the circuit reaches equilibrium and cannot compute again without resynthesizing all components. Dalchau, Hernandez, and colleagues, publishing in Nature in 2025, demonstrated that heat can restore enzyme-free DNA circuits from equilibrium to out-of-equilibrium states, enabling complex logic operations and neural networks to perform multiple computations. During heating, nucleic acids with strong secondary structures reach kinetically trapped states, providing energy for subsequent computation upon cooling. The system demonstrated at least 16 rounds of computation with varying sequential inputs, using circuits with more than 200 distinct molecular species — establishing a universal energy source for molecular machines (Dalchau et al., 2025).
+A fundamental limitation of DNA strand displacement computing is that reactions are thermodynamically irreversible — once a computation is performed, the circuit reaches equilibrium and cannot compute again without resynthesizing all components. Song, Hernandez, and colleagues, publishing in Nature in 2025, demonstrated that heat can restore enzyme-free DNA circuits from equilibrium to out-of-equilibrium states, enabling complex logic operations and neural networks to perform multiple computations. During heating, nucleic acids with strong secondary structures reach kinetically trapped states, providing energy for subsequent computation upon cooling. The system demonstrated at least 16 rounds of computation with varying sequential inputs, using circuits with more than 200 distinct molecular species — establishing a universal energy source for molecular machines (Song et al., 2025).
 
 ### 6.7 Information-Theoretic Frameworks
 
@@ -488,13 +488,13 @@ The progression of computational interfaces from institutional mainframes to cel
 
 The evidence supporting the cellular computation hypothesis has grown substantially:
 
-1. **Information capacity is sufficient.** A single human cell can store >4,300 bits of recording information (BASELINE; Salvador-Martínez et al., 2025), capture ~210,000 bits of transcriptomic data (TimeVault; Horns et al., 2025), and maintain >100 bits of epigenetic state information (CRISPRoff; Nuñez et al., 2021). DNA data storage achieves 1.57 bits per nucleotide (Erlich & Zielinski, 2017), yielding ~10¹⁸ bytes per cubic millimeter — more than sufficient for any foreseeable therapeutic application.
+1. **Information capacity is sufficient.** A single human cell can store >4,300 bits of recording information (BASELINE; Winter et al., 2025), capture ~210,000 bits of transcriptomic data (TimeVault; Chao et al., 2026), and maintain >100 bits of epigenetic state information (CRISPRoff; Nuñez et al., 2021). DNA data storage achieves 1.57 bits per nucleotide (Erlich & Zielinski, 2017), yielding ~10¹⁸ bytes per cubic millimeter — more than sufficient for any foreseeable therapeutic application.
 
-2. **Computation in DNA is feasible.** DNA neural networks perform supervised learning (Cherry & Qian, 2025), DNA decision trees implement multi-class disease classification (Zhang et al., 2025), and heat-rechargeable circuits enable reusable computation (Dalchau et al., 2025).
+2. **Computation in DNA is feasible.** DNA neural networks perform supervised learning (Cherry & Qian, 2025), DNA decision trees implement multi-class disease classification (Liu et al., 2025), and heat-rechargeable circuits enable reusable computation (Song et al., 2025).
 
-3. **Durable memory is achievable.** CRISPRoff epigenetic silencing persists for nearly a year in vivo (Cappelluti et al., 2024), analog epigenetic memory maintains graded states through cell division (Bintu et al., 2025), and genomic recording (DNA Typewriter, BASELINE) is permanent.
+3. **Durable memory is achievable.** CRISPRoff epigenetic silencing persists for nearly a year in vivo (Cappelluti et al., 2024), analog epigenetic memory maintains graded states through cell division (Palacios et al., 2025), and genomic recording (DNA Typewriter, BASELINE) is permanent.
 
-4. **In vivo operation is advancing.** Lineage recording works in living mice (CARLIN, BASELINE, temporal recording), epigenome editing is durable in vivo (Cappelluti et al., 2024), and retron engineering has achieved mammalian efficiency (Cai et al., 2025).
+4. **In vivo operation is advancing.** Lineage recording works in living mice (CARLIN, BASELINE, temporal recording), epigenome editing is durable in vivo (Cappelluti et al., 2024), and retron engineering has achieved mammalian efficiency (Buffington et al., 2025).
 
 ### 7.3 Comparative Analysis: Three Challenges Synthesized
 
@@ -556,124 +556,124 @@ The path forward requires interdisciplinary collaboration spanning genome engine
 
 ## References
 
-1. Abifadel, M., et al. (2025). Programmable epigenome editing by transient delivery of CRISPR epigenome editor ribonucleoproteins. *Nature Communications*, 16, 4892. PMID: 40263456
+1. Xu, D., Besselink, S., Ramadoss, G.N. et al. Programmable epigenome editing by transient delivery of CRISPR epigenome editor ribonucleoproteins. Nat Commun 16, 7948 (2025). https://doi.org/10.1038/s41467-025-63167-x
 
-2. Allis, C. D., & Jenuwein, T. (2016). The molecular hallmarks of epigenetic control. *Nature Reviews Genetics*, 17(8), 487–500. PMID: 27346641
+3. Allis, C. D., & Jenuwein, T. (2016). The molecular hallmarks of epigenetic control. *Nature Reviews Genetics*, 17(8), 487–500.
 
-3. Billinghurst, M., Clark, A., & Lee, G. (2015). A survey of augmented reality. *Foundations and Trends in Human-Computer Interaction*, 8(2–3), 73–272.
+4. Billinghurst, M., Clark, A., & Lee, G. (2015). A survey of augmented reality. *Foundations and Trends in Human-Computer Interaction*, 8(2–3), 73–272.
 
-4. Barrangou, R., et al. (2007). CRISPR provides acquired resistance against viruses in prokaryotes. *Science*, 315(5819), 1709–1712. PMID: 17379808
+5. Barrangou, R., et al. (2007). CRISPR provides acquired resistance against viruses in prokaryotes. *Science*, 315(5819), 1709–1712.
 
-5. Bartlett, P. L., et al. (2019). Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks. *Journal of Machine Learning Research*, 20(63), 1–17.
+6. Bartlett, P. L., et al. (2019). Nearly-tight VC-dimension and pseudodimension bounds for piecewise linear neural networks. *Journal of Machine Learning Research*, 20(63), 1–17.
 
-6. Bhatt, D. M., et al. (2023). Temporally resolved transcriptional recording in E. coli DNA using a Retro-Cascorder. *Nature Protocols*, 18, 1687–1710. PMID: 36997784
+7. Lear, S. K., Lopez, S. C., González-Delgado, A., Bhattarai-Kline, S., & Shipman, S. L. (2023). Temporally resolved transcriptional recording in E. coli DNA using a Retro-Cascorder. Nature protocols, 18(6), 1866-1892.
 
-7. Bintu, L., et al. (2025). Analog epigenetic memory revealed by targeted chromatin editing. *Cell Genomics*, 5(7), 100732. PMID: 40930103
+8. Palacios, S., Bruno, S., Weiss, R., Salibi, E., Goodchild-Michelman, I., Kane, A., ... & Del Vecchio, D. (2025). Analog epigenetic memory revealed by targeted chromatin editing. Cell Genomics, 5(11).
 
-8. Bowling, S., et al. (2020). An engineered CRISPR-Cas9 mouse line for simultaneous readout of lineage histories and gene expression profiles in single cells. *Cell*, 181(6), 1410–1422. PMID: 32413320
+9. Bowling, S., et al. (2020). An engineered CRISPR-Cas9 mouse line for simultaneous readout of lineage histories and gene expression profiles in single cells. *Cell*, 181(6), 1410–1422. PMID: 32413320
 
-9. Cai, Y., et al. (2025). Discovery and engineering of retrons for precise genome editing. *Nature Biotechnology*, 43, 1068–1078. PMID: 41131151
+10. Buffington, J. D., Kuo, H. C., Hu, K., Chang, Y. C., Javanmardi, K., Voigt, B., ... & Finkelstein, I. J. (2025). Discovery and engineering of retrons for precise genome editing. Nature biotechnology, 1-11.
 
-10. Cappelluti, M. A., et al. (2024). Durable and efficient gene silencing in vivo by hit-and-run epigenome editing. *Nature*, 627, 416–423. PMID: 38418872
+11. Cappelluti, M. A., et al. (2024). Durable and efficient gene silencing in vivo by hit-and-run epigenome editing. *Nature*, 627, 416–423.
 
-11. Chen, C., et al. (2025a). Dual-nuclease single-cell lineage tracing by Cas9 and Cas12a. *Cell Reports*, 44(1), 115105. PMID: 39721023
+12. Chen, C., et al. (2025a). Dual-nuclease single-cell lineage tracing by Cas9 and Cas12a. *Cell Reports*, 44(1), 115105.
 
-12. Chen, W., Choi, J., et al. (2022). A time-resolved, multi-symbol molecular recorder via sequential genome editing. *Nature*, 608, 98–107. PMID: 35794474
+13. Choi, J., Chen, W., Minkina, A., Chardon, F. M., Suiter, C. C., Regalado, S. G., ... & Shendure, J. (2022). A time-resolved, multi-symbol molecular recorder via sequential genome editing. Nature, 608(7921), 98-107.
 
-13. Chen, W., et al. (2024). Molecular recording using DNA Typewriter. *Nature Protocols*, 19, 1940–1965. PMID: 38844553
+14. Liao, H., Choi, J., & Shendure, J. (2024). Molecular recording using DNA Typewriter. Nature Protocols, 19(10), 2833-2862.
 
-14. Cherry, K. M., & Qian, L. (2018). Scaling up molecular pattern recognition with DNA-based winner-take-all neural networks. *Nature*, 559, 370–376. PMID: 29973727
+15. Cherry, K. M., & Qian, L. (2018). Scaling up molecular pattern recognition with DNA-based winner-take-all neural networks. *Nature*, 559, 370–376.
 
-15. Cherry, K. M., & Qian, L. (2025). Supervised learning in DNA neural networks. *Nature*, 645, 639–647. PMID: 40903583
+16. Cherry, K. M., & Qian, L. (2025). Supervised learning in DNA neural networks. *Nature*, 645, 639–647.
 
-16. Choi, J., Chen, W., et al. (2024). Symbolic recording of signalling and cis-regulatory element activity to DNA. *Nature*, 632, 1073–1081. PMID: 39020177
+17. Chen, W., Choi, J., Li, X., Nathans, J. F., Martin, B., Yang, W., ... & Shendure, J. (2024). Symbolic recording of signalling and cis-regulatory element activity to DNA. Nature, 632(8027), 1073-1081.
 
-17. Choi, J., et al. (2025). Multichannel genomic recording of biological information with ENGRAM. *Nature Protocols*, 20, 425–455. PMID: 41673323
+18. Nathans, J. F., McDiarmid, T. A., Chen, W., & Shendure, J. (2026). Multichannel genomic recording of biological information with ENGRAM. Nature Protocols, 1-26.
 
-18. Church, G. M., Gao, Y., & Kosuri, S. (2012). Next-generation digital information storage in DNA. *Science*, 337(6102), 1628. PMID: 22903519
+19. Church, G. M., Gao, Y., & Kosuri, S. (2012). Next-generation digital information storage in DNA. *Science*, 337(6102), 1628.
 
-19. da Cruz, L., et al. (2020). Five-year safety and performance results from the Argus II retinal prosthesis system clinical trial. *Ophthalmology*, 127(12), 1703–1715. PMID: 32473212
+20. da Cruz, L., et al. (2016). Five-year safety and performance results from the Argus II retinal prosthesis system clinical trial. *Ophthalmology*, 127(12), 1703–1715.
 
-20. Dalchau, N., Hernandez, A., et al. (2025). Heat-rechargeable computation in DNA logic circuits and neural networks. *Nature*, 646, 315–322. PMID: 41034583
+21. Song, T., & Qian, L. (2025). Heat-rechargeable computation in DNA logic circuits and neural networks. Nature, 646(8084), 315-322.
 
-21. Davidson, E. H. (2010). Emerging properties of animal gene regulatory networks. *Nature*, 468, 911–920. PMID: 21164479
+22. Davidson, E. H. (2010). Emerging properties of animal gene regulatory networks. *Nature*, 468, 911–920.
 
-22. Cameron, D. E., Bashor, C. J., & Collins, J. J. (2014). A brief history of synthetic biology. *Nature Reviews Microbiology*, 12(5), 381–390. PMID: 24686414
+23. Cameron, D. E., Bashor, C. J., & Collins, J. J. (2014). A brief history of synthetic biology. *Nature Reviews Microbiology*, 12(5), 381–390.
 
-23. Erlich, Y., & Zielinski, D. (2017). DNA Fountain enables a robust and efficient storage architecture. *Science*, 355(6328), 950–954. PMID: 28254941
+24. Erlich, Y., & Zielinski, D. (2017). DNA Fountain enables a robust and efficient storage architecture. *Science*, 355(6328), 950–954.
 
-24. Farber, D. L., Netea, M. G., Radbruch, A., Rajewsky, K., & Zinkernagel, R. M. (2016). Immunological memory: Lessons from the past and a look to the future. *Nature Reviews Immunology*, 16(2), 124–128. PMID: 26831526
+25. Farber, D. L., Netea, M. G., et al. (2016). Immunological memory: Lessons from the past and a look to the future. *Nature Reviews Immunology*, 16(2), 124–128.
 
-25. Farzadfard, F., & Lu, T. K. (2014). Genomically encoded analog memory with precise in vivo DNA writing in living cell populations. *Science*, 346(6211), 1256272. PMID: 25395541
+26. Farzadfard, F., & Lu, T. K. (2014). Genomically encoded analog memory with precise in vivo DNA writing in living cell populations. *Science*, 346(6211), 1256272.
 
-26. Farzadfard, F., et al. (2019). Single-nucleotide-resolution computing and memory in living cells. *Molecular Cell*, 75(4), 769–780. PMID: 31442423
+27. Farzadfard, F., et al. (2019). Single-nucleotide-resolution computing and memory in living cells. *Molecular Cell*, 75(4), 769–780.
 
-27. Nurk, S., et al. (2022). The complete sequence of a human genome. *Science*, 376(6588), 44–53. PMID: 35357919
+28. Nurk, S., et al. (2022). The complete sequence of a human genome. *Science*, 376(6588), 44–53.
 
-28. Wilson, B. S., & Dorman, M. F. (2008). Cochlear implants: A remarkable past and a brilliant future. *Hearing Research*, 242(1–2), 3–21. PMID: 18616994
+29. Wilson, B. S., & Dorman, M. F. (2008). Cochlear implants: A remarkable past and a brilliant future. *Hearing Research*, 242(1–2), 3–21.
 
-29. Grass, R. N., Heckel, R., Puddu, M., Paunescu, D., & Stark, W. J. (2015). Robust chemical preservation of digital information on DNA in silica with error-correcting codes. *Angewandte Chemie International Edition*, 54(8), 2552–2555. PMID: 25650567
+30. Grass, R. N., Heckel, R., et al. (2015). Robust chemical preservation of digital information on DNA in silica with error-correcting codes. *Angewandte Chemie International Edition*, 54(8), 2552–2555.
 
-30. Hochberg, L. R., et al. (2012). Reach and grasp by people with tetraplegia using a neurally controlled robotic arm. *Nature*, 485, 372–375. PMID: 22596161
+31. Hochberg, L. R., et al. (2012). Reach and grasp by people with tetraplegia using a neurally controlled robotic arm. *Nature*, 485, 372–375.
 
-31. Horns, F., et al. (2025). A genetically encoded device for transcriptome storage in mammalian cells. *Science*, 389(6738), eadz9353. PMID: 41538410
+32. Chao, Y. K., Wu, M., Gong, Q., & Chen, F. (2026). A genetically encoded device for transcriptome storage in mammalian cells. Science, eadz9353.
 
-32. Yang, Z., & Rannala, B. (2012). Molecular phylogenetics: Principles and practice. *Nature Reviews Genetics*, 13(5), 303–314. PMID: 22456349
+33. Yang, Z., & Rannala, B. (2012). Molecular phylogenetics: Principles and practice. *Nature Reviews Genetics*, 13(5), 303–314.
 
-33. Islam, M., et al. (2024). Temporal recording of mammalian development and precancer. *Nature*, 634, 1187–1195. PMID: 39478207
+34. Islam, M., et al. (2024). Temporal recording of mammalian development and precancer. *Nature*, 634, 1187–1195.
 
-34. Lee, Y., et al. (2018). A 0.6-V 8-MHz 83-µW 39.5-fJ/conv.-step 2nd-order delta–sigma modulator in 28-nm FDSOI for IoT sensor nodes. *IEEE Journal of Solid-State Circuits*, 53(10), 2861–2871.
+35. Lee, Y., et al. (2018). A 0.6-V 8-MHz 83-µW 39.5-fJ/conv.-step 2nd-order delta–sigma modulator in 28-nm FDSOI for IoT sensor nodes. *IEEE Journal of Solid-State Circuits*, 53(10), 2861–2871.
 
-35. Li, X., et al. (2024). A spatially localized DNA linear classifier for cancer diagnosis. *Nature Communications*, 15, 5184. PMID: 38866757
+36. Yang, L., Tang, Q., Zhang, M., Tian, Y., Chen, X., Xu, R., ... & Han, D. (2024). A spatially localized DNA linear classifier for cancer diagnosis. Nature Communications, 15(1), 4583.
 
-36. Li, Y., et al. (2025). DARLIN mouse for in vivo lineage tracing at high efficiency and clonal diversity. *Nature Methods*, 22, 576–585. PMID: 40119004
+37. Li, L., Bowling, S., Lin, H., Chen, D., Wang, S. W., & Camargo, F. D. (2025). DARLIN mouse for in vivo lineage tracing at high efficiency and clonal diversity. Nature Protocols, 20(8), 2319-2344.
 
-37. Liu, P., et al. (2025). Engineered living memory microspheroid-based archival file system for random accessible in vivo DNA storage. *Advanced Materials*, 37(10), 2414567. PMID: 39981833
+38. Luo, H., Huang, W., He, Z., Fang, Y., Tian, Y., & Xiong, Z. (2025). Engineered living memory microspheroid‐based archival file system for random accessible in vivo DNA storage. Advanced Materials, 37(13), 2415358.
 
-38. Lopez, S. C., et al. (2024). Simultaneous multi-site editing of individual genomes using retron arrays. *Nature Chemical Biology*, 20, 1434–1444. PMID: 38982310
+39. González-Delgado, A., Lopez, S. C., Rojas-Montero, M., Fishman, C. B., & Shipman, S. L. (2024). Simultaneous multi-site editing of individual genomes using retron arrays. Nature chemical biology, 20(11), 1482-1492.
 
-39. Loveless, T. B., et al. (2024). Open-ended molecular recording of sequential cellular events into DNA. *Nature Chemical Biology*, 20, 1622–1631. PMID: 39543397
+40. Loveless, T. B., et al. (2025). Open-ended molecular recording of sequential cellular events into DNA. *Nature Chemical Biology*, 20, 1622–1631. PMID: 39543397
 
-40. McKenna, A., et al. (2016). Whole-organism lineage tracing by combinatorial and cumulative genome editing. *Science*, 353(6298), aaf7907. PMID: 27229144
+41. McKenna, A., et al. (2016). Whole-organism lineage tracing by combinatorial and cumulative genome editing. *Science*, 353(6298), aaf7907.
 
-41. Waldrop, M. M. (2016). The chips are down for Moore's law. *Nature*, 530, 144–147. PMID: 26863965
+42. Waldrop, M. M. (2016). The chips are down for Moore's law. *Nature*, 530, 144–147. PMID: 26863965
 
-42. Morsut, L., et al. (2016). Engineering customized cell sensing and response behaviors using synthetic notch receptors. *Cell*, 164(4), 780–791. PMID: 26830878
+43. Morsut, L., et al. (2016). Engineering customized cell sensing and response behaviors using synthetic notch receptors. *Cell*, 164(4), 780–791.
 
-43. Nuñez, J. K., et al. (2021). Genome-wide programmable transcriptional memory by CRISPR-based epigenome editing. *Cell*, 184(9), 2503–2519. PMID: 33838111
+44. Nuñez, J. K., et al. (2021). Genome-wide programmable transcriptional memory by CRISPR-based epigenome editing. *Cell*, 184(9), 2503–2519.
 
-44. Organick, L., et al. (2018). Random access in large-scale DNA data storage. *Nature Biotechnology*, 36(3), 242–248. PMID: 29457795
+45. Organick, L., et al. (2018). Random access in large-scale DNA data storage. *Nature Biotechnology*, 36(3), 242–248.
 
-45. Piwek, L., et al. (2016). The rise of consumer health wearables: Promises and barriers. *PLoS Medicine*, 13(2), e1001953. PMID: 26836780
+46. Piwek, L., et al. (2016). The rise of consumer health wearables: Promises and barriers. *PLoS Medicine*, 13(2), e1001953.
 
-46. Purvis, J. E., & Bhatt, D. M. (2024). Signal transduction as analog computation. *Annual Review of Biomedical Engineering*, 26, 167–190.
+47. Pietak, A., & Levin, M. (2025). Harnessing the analog computing power of regulatory networks with the Regulatory Network Machine. iScience, 28(6), 112536. https://doi.org/10.1016/j.isci.2025.112536
 
-47. Qian, L., & Winfree, E. (2011). Scaling up digital circuit computation with DNA strand displacement cascades. *Science*, 332(6034), 1196–1201. PMID: 21636773
+48. Qian, L., & Winfree, E. (2011). Scaling up digital circuit computation with DNA strand displacement cascades. *Science*, 332(6034), 1196–1201.
 
-48. Raj, B., et al. (2018). Simultaneous single-cell profiling of lineages and cell types in the vertebrate brain. *Nature Biotechnology*, 36, 442–450. PMID: 29608178
+49. Raj, B. (2025). Single-Cell Profiling of Lineages and Cell Types in the Vertebrate Brain. In Lineage Tracing: Methods and Protocols (pp. 299-310). New York, NY: Springer US.
 
-49. Roybal, K. T., et al. (2016). Precision tumor recognition by T cells with combinatorial antigen-sensing circuits. *Cell*, 164(4), 770–779. PMID: 26830879
+50. Roybal, K. T., et al. (2016). Precision tumor recognition by T cells with combinatorial antigen-sensing circuits. *Cell*, 164(4), 770–779.
 
-50. Salvador-Martínez, I., et al. (2025). BASELINE: A CRISPR base editing platform for mammalian-scale single-cell lineage tracing. *Cell*, 188(5), 1267–1282. PMID: 40166145
+51. Winter, E., Emiliani, F., Cook, A., Abderrahim, A., & McKenna, A. 
 
-51. Sheth, R. U., Yim, S. S., Wu, F. L., & Wang, H. H. (2017). Multiplex recording of cellular events over time on CRISPR biological tape. *Science*, 358(6369), 1457–1461. PMID: 29170279
+52. Sheth, R. U., Yim, S. S., Wu, F. L., & Wang, H. H. (2017). Multiplex recording of cellular events over time on CRISPR biological tape. *Science*, 358(6369), 1457–1461. PMID: 29170279
 
-52. Simeral, J. D., et al. (2021). Home use of a percutaneous wireless intracortical brain-computer interface by individuals with tetraplegia. *IEEE Transactions on Biomedical Engineering*, 68(7), 2313–2325. PMID: 33784612
+53. Simeral, J. D., et al. (2021). Home use of a percutaneous wireless intracortical brain-computer interface by individuals with tetraplegia. *IEEE Transactions on Biomedical Engineering*, 68(7), 2313–2325.
 
-53. Takagi, Y., & Nishimoto, S. (2023). High-resolution image reconstruction with latent diffusion models from human brain activity. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 14453–14463.
+54. Takagi, Y., & Nishimoto, S. (2023). High-resolution image reconstruction with latent diffusion models from human brain activity. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 14453–14463.
 
-54. Tang, W., & Liu, D. R. (2018). Rewritable multi-event analog recording in bacterial and mammalian cells. *Science*, 360(6385), 149–153. PMID: 29449507
+55. Tang, W., & Liu, D. R. (2018). Rewritable multi-event analog recording in bacterial and mammalian cells. *Science*, 360(6385), 149–153.
 
-55. Tycko, J., et al. (2025). CRISPRoff epigenome editing for programmable gene silencing in human cell lines and primary T cells. *Nature Biotechnology*, 43, 710–722. PMID: 40121086
+56. Pattali, R. K., Ornelas, I. J., Nguyen, C. D., Xu, D., Divekar, N. S., & Nuñez, J. K. (2025). CRISPRoff epigenome editing for programmable gene silencing in human cell lines and primary T cells. In Methods in enzymology (Vol. 712, pp. 517-551). Academic Press.
 
-56. Wang, C., et al. (2025). mRNA-engineered CRISPR-Cas epigenetic editors enable durable and efficient gene silencing in vivo. *The Innovation*, 6(5), 100892.
+57. Xu, C., Zeng, C., Wang, M., Wei, X., Song, M., Liu, X., ... & Zhu, J. K. (2026). mRNA-engineered CRISPR-Cas epigenetic editors enable durable and efficient gene silencing in vivo. The Innovation, 7(3).
 
-57. West, J., & Mace, M. (2010). Browsing as the killer app: Explaining the rapid success of Apple's iPhone. *Telecommunications Policy*, 34(5–6), 270–286.
+58. West, J., & Mace, M. (2010). Browsing as the killer app: Explaining the rapid success of Apple's iPhone. *Telecommunications Policy*, 34(5–6), 270–286.
 
-58. Willett, F. R., et al. (2023). A high-performance speech neuroprosthesis. *Nature*, 620, 1031–1036. PMID: 37612505
+59. Willett, F. R., et al. (2023). A high-performance speech neuroprosthesis. *Nature*, 620, 1031–1036.
 
-59. Shipman, S. L., Nivala, J., Macklis, J. D., & Church, G. M. (2017). CRISPR-Cas encoding of a digital movie into the genomes of a population of living bacteria. *Nature*, 547, 345–349. PMID: 28700573
+60. Shipman, S. L., Nivala, J., Macklis, J. D., & Church, G. M. (2017). CRISPR-Cas encoding of a digital movie into the genomes of a population of living bacteria. *Nature*, 547, 345–349.
 
-60. Zhang, X., et al. (2025). Interpretable molecular decision-making with DNA-based scalable and memory-efficient tree computation. *Nature Communications*, 16, 5721.
+61. Liu, J., Tang, Q., Han, Y., Song, J., Wang, F., Guo, P., ... & Han, D. (2025). Interpretable molecular decision-making with DNA-based scalable and memory-efficient tree computation. Nature Communications, 16(1), 10311.
 
-61. Zhao, B., et al. (2024). An enhanced Eco1 retron editor enables precision genome engineering in human cells without double-strand breaks. *Nature Methods*, 21, 2173–2183. PMID: 39149392
+62. Cattle, M. A., Aguado, L. C., Sze, S., Venkittu, S., Wang, Y., Papagiannakopoulos, T., ... & Poirier, J. T. (2025). An enhanced Eco1 retron editor enables precision genome engineering in human cells without double-strand breaks. Nucleic acids research, 53(14), gkaf716
