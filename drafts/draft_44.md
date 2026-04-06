@@ -296,27 +296,23 @@ Ding (2025) proposed a comprehensive framework for therapeutic reprogramming as 
 
 The dose-response relationship for partial reprogramming has not been systematically characterized in any tissue. How much factor exposure is needed to achieve a clinically meaningful rejuvenation in human retinal ganglion cells? In cardiomyocytes? In hepatocytes? Answering these questions requires quantitative pharmacodynamic studies using epigenetic clocks and functional assays as endpoints, ideally in nonhuman primates where tissue sampling is feasible.
 
-### 9.2 Can Chemical Partial Reprogramming Match Genetic Approaches?
-
-While chemical reprogramming can generate iPSCs and reverse aging hallmarks in cell culture, whether chemical partial rejuvenation can achieve the same depth and durability as OSK-mediated rejuvenation in vivo remains undemonstrated. The identification of specific small molecule combinations optimized for partial rather than complete reprogramming is an urgent priority.
-
-### 9.3 How Do Aged and Young Cells Respond Differently?
+### 9.2 How Do Aged and Young Cells Respond Differently?
 
 Within any tissue, cells exist on a spectrum of biological ages. Do highly aged cells (high p16, low H3K9me3, active SASP) respond differently to the same reprogramming dose than younger neighboring cells? The Cdkn2a-promoter-driven approach of Sahu et al. (2024) exploits this heterogeneity, but the underlying dose-response relationship — whether aged cells are more or less sensitive to reprogramming than young cells — has not been quantified.
 
-### 9.4 Can Real-Time Biomarker Feedback Enable Closed-Loop Control?
+### 9.3 Can Real-Time Biomarker Feedback Enable Closed-Loop Control?
 
 The ultimate precision reprogramming system would use real-time biomarker monitoring to adjust factor expression in a closed-loop control system. Wearable biosensors measuring circulating aging biomarkers (e.g., GDF15, SASP factors), combined with inducible genetic systems, could in principle enable personalized dosing protocols that titrate reprogramming to each patient's response. This remains speculative but represents the logical endpoint of precision reprogramming.
 
-### 9.5 Long-Term Consequences of Repeated Cycles
+### 9.4 Long-Term Consequences of Repeated Cycles
 
 If partial reprogramming is to serve as a chronic anti-aging therapy, patients may undergo repeated cycles over decades. The long-term consequences of iterative epigenetic resetting — including potential effects on genomic stability, transposon activity, and immune function — are entirely unknown. Multi-decade safety studies in long-lived species will be required before chronic partial reprogramming can be recommended.
 
-### 9.6 Species Translation
+### 9.65 Species Translation
 
 The mouse-to-human translation gap is a critical uncertainty. Human cells have longer cell cycle times, different telomere biology, more complex immune surveillance, and distinct epigenetic landscapes compared to mouse cells. The ER-100 clinical trial will provide the first data on whether the rejuvenation observed in mouse RGCs translates to human optic neuropathy — a result that will profoundly shape the field's trajectory.
 
-### 9.7 Framework F321: Tissue-Level Reprogramming Heterogeneity
+### 9.6 Framework F321: Tissue-Level Reprogramming Heterogeneity
 
 The heterogeneity of reprogramming response across cells within a tissue can be modeled using a beta-distributed sensitivity parameter. Let each cell $i$ in a tissue have a reprogramming sensitivity $s_i \sim \text{Beta}(\alpha, \beta)$, where the shape parameters $\alpha$ and $\beta$ capture the mean sensitivity and cell-to-cell variability, respectively. The effective rejuvenation dose for cell $i$ is $D_{\text{eff},i} = s_i \cdot D$, where $D$ is the administered dose.
 
