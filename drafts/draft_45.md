@@ -427,7 +427,7 @@ Antibody-based conditioning (briquilimab, CD117-ADC, CD45-ADC) has demonstrated 
 
 The mathematical frameworks presented here provide a quantitative foundation for optimizing the transition from myeloablative to conditioning-free regimens: from engraftment kinetics that predict the conditioning intensity needed for target chimerism, to Moran process models that calculate how fitness advantage reduces that requirement, to branching process models that assess the long-term clonal sustainability of in vivo-edited populations.
 
-The path forward is clear: near-term clinical deployment of antibody-based reduced-intensity conditioning for ex vivo gene therapy, combined with aggressive development of in vivo HSC editing platforms that will ultimately make conditioning obsolete. When that day arrives—likely within the decade—a child born with sickle cell disease in Accra or Lagos will have the same access to a genetic cure as one born in Boston or London.
+The path forward is clear: near-term clinical deployment of antibody-based reduced-intensity conditioning for ex vivo gene therapy, combined with aggressive development of in vivo HSC editing platforms that will ultimately make conditioning obsolete.
 
 ---
 
