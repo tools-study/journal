@@ -136,13 +136,23 @@ A central challenge in spatially-guided medicine is mapping a reference tissue a
 T^* = \arg\min_{T: T_\# \mu_{\text{ref}} = \nu_{\text{patient}}} \int_{\mathcal{X}} c(\mathbf{r}, T(\mathbf{r})) \, d\mu_{\text{ref}}(\mathbf{r})
 ```
 
-where $c(\mathbf{r}, T(\mathbf{r}))$ is the cost of mapping position $\mathbf{r}$ in the reference atlas to position $T(\mathbf{r})$ in the patient tissue, and $T_\# \mu_{\text{ref}}$ denotes the pushforward measure. The cost function incorporates both spatial distance and transcriptional similarity:
+where $c(\mathbf{r}, T(\mathbf{r}))$ is the cost of mapping position $\mathbf{r}$ in the reference atlas to position $T(\mathbf{r})$ in the patient tissue, and 
+```math
+$T_{\#} \mu_{\text{ref}}$
+```
+denotes the pushforward measure. The cost function incorporates both spatial distance and transcriptional similarity:
 
 ```math
 c(\mathbf{r}_i, \mathbf{r}_j) = \alpha \, \|\mathbf{r}_i - \mathbf{r}_j\|^2 + (1-\alpha) \, \|\mathbf{g}_i - \mathbf{g}_j\|^2
 ```
 
-where $\mathbf{g}_i$ and $\mathbf{g}_j$ are gene expression vectors, and $\alpha \in [0,1]$ balances spatial and transcriptional matching. The Wasserstein distance $W_2(\mu_{\text{ref}}, \nu_{\text{patient}}) = \left(\min_T \int c \, d\mu\right)^{1/2}$ quantifies the overall dissimilarity between reference and patient tissue organization — providing a metric for spatial disease staging and treatment response monitoring. This framework has been implemented in tools including moscot, which enables multimodal, scalable single-cell analyses across spatial and temporal dimensions (Klein et al., 2025), and STORIES, which learns spatially informed potentials for cell fate analysis (Nitzan et al., 2025).
+where $\mathbf{g}_i$ and $\mathbf{g}_j$ are gene expression vectors, and $\alpha \in [0,1]$ balances spatial and transcriptional matching. The Wasserstein distance 
+
+```math
+$W_2(\mu_{\text{ref}}, \nu_{\text{patient}}) = \left( \min_T \int c \, d\mu \right)^{1/2}$
+```
+
+quantifies the overall dissimilarity between reference and patient tissue organization — providing a metric for spatial disease staging and treatment response monitoring. This framework has been implemented in tools including moscot, which enables multimodal, scalable single-cell analyses across spatial and temporal dimensions (Klein et al., 2025), and STORIES, which learns spatially informed potentials for cell fate analysis (Nitzan et al., 2025).
 
 ---
 
