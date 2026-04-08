@@ -573,3 +573,5 @@ The mathematical frameworks developed in this review formalize the quantitative 
 41. Young, A. I., Benonisdottir, S., Segurel, L., & Kong, A. (2025). Estimation of the proportion of trait heritability captured by whole-genome sequencing. *Nature*, 639, 210–218. PMID: 41225014
 
 42. Yuan, K., Longchamps, R. J., Pardiñas, A. F., Yu, M., Chen, T.-T., Thibord, F., ... & Huang, H. (2024). Fine-mapping across diverse ancestries drives the discovery of putative causal variants underlying human complex traits and diseases. *Nature Genetics*, 56(9), 1841–1850. PMID: 39187616
+
+43. Karr, J. R., Sanghvi, J. C., Macklin, D. N., Gutschow, M. V., Jacobs, J. M., Bolival, B., ... & Covert, M. W. (2012). A whole-cell computational model predicts phenotype from genotype. Cell, 150(2), 389-401.
