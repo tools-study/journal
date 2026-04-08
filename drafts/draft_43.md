@@ -1,4 +1,4 @@
-# Genotype-Phenotype Mapping Review
+# Genotype to Phenotype Mapping Review
 
 ---
 
