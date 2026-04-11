@@ -1,4 +1,4 @@
-# The Whole-Body Reprogramming Challenges
+# Whole-Body Reprogramming Challenges
 
 ## Abstract
 
