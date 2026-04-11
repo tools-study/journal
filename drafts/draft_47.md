@@ -252,7 +252,15 @@ i.e., the elasticity of the achievable MTI with respect to fractional changes in
 S_{\text{MTI}}(\sigma_A) \approx \frac{2 \mu_D^2 \sigma_A^2 / D_{50}^2}{\sigma_X^2 + \mu_D^2 \sigma_A^2 / D_{50}^2} \cdot \frac{1}{1 - (\sigma_X^* / \sigma_X)^2}
 ```
 
-in the regime $\sigma_X > \sigma_X^*$ (i.e., when the mosaic ceiling is active). For realistic parameter values — $\mu_D = 10 D_{50}$, $\sigma_A/\mu_A = 0.5$, $\sigma_X^* / \sigma_X \approx 0.3$ — the sensitivity $S_{\text{MTI}}$ is approximately 2.5, meaning that a 50% reduction in $\sigma_A$ yields more than a threefold increase in achievable MTI. This is the quantitative prediction of the accessibility-aware delivery strategy: halving the per-cell chromatin accessibility CV triples the achievable functional therapeutic index at fixed delivered dose.
+in the regime 
+$\sigma_X > \sigma_X^* $
+(i.e., when the mosaic ceiling is active). For realistic parameter values — 
+$\mu_D = 10 D_{50} $
+, 
+$\sigma_A/\mu_A = 0.5 $
+, 
+$\sigma_X^* / \sigma_X \approx 0.3 $
+— the sensitivity $S_{\text{MTI}}$ is approximately 2.5, meaning that a 50% reduction in $\sigma_A$ yields more than a threefold increase in achievable MTI. This is the quantitative prediction of the accessibility-aware delivery strategy: halving the per-cell chromatin accessibility CV triples the achievable functional therapeutic index at fixed delivered dose.
 
 The framework also predicts diminishing returns once $\sigma_A$ falls below a critical threshold where the Poisson delivery variance dominates (first term of F335), at which point further compression of $\sigma_A$ no longer reduces the total variance and the MTI is instead bounded by delivery stochasticity. For the clinically relevant regime where delivery is not the limiting term, the 30–50% $\sigma_A$ reduction from HDAC pre-priming corresponds to a 2–3.5× MTI improvement — a gain that is unattainable by any of the strategies in Section 5.
 
