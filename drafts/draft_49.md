@@ -224,7 +224,7 @@ The 2025 Parkinson's disease trial results from two independent teams establishe
 
 ## 6. Open Questions and Experimental Roadmap
 
-Six questions remain that a Harvard-PI-scale R01 could bring to decisive answers in a two-to-four-year horizon.
+Six questions in a two-to-four-year horizon.
 
 **First**, is the Ciceri epigenetic barrier generalizable beyond cortical neurons to β-cells, cardiomyocytes, and hepatocytes? Hergenreder's cross-lineage data are encouraging (Hergenreder et al., 2024) but single-cell chromatin profiling of the relevant progenitor populations in each lineage — with systematic loss-of-function of EZH2, EHMT1/2, and DOT1L — is needed.
 
