@@ -168,7 +168,7 @@ None of these individual interventions can compress per-cell variance below the 
 
 ---
 
-## 4. Empirical Evidence that the Ceiling Is Real
+## 4. Empirical Evidence
 
 The foregoing framework is quantitative but relies on empirical estimates of its inputs. This section reviews the primary experimental evidence that per-cell variance in the four sources is large enough to saturate the ceiling in clinically relevant target tissues.
 
