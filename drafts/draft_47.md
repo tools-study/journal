@@ -1,4 +1,4 @@
-# The Mosaic Ceiling
+# The Mosaic Ceiling in Genome Editing
 
 ## Abstract
 
@@ -419,3 +419,5 @@ Yekelchyk, M., et al.(2024). Single-nucleus ATAC-seq for mapping chromatin acces
 Zhang, H., et al. (2024). txci-ATAC-seq: A massive-scale single-cell technique to profile chromatin accessibility. *Genome Biology*, 25(1), 78. PMID: 38515199
 
 Zhou, C., Sun, Y., Yan, R., Liu, Y., Zuo, E., Gu, C., Han, L., Wei, Y., Hu, X., Zeng, R., Li, Y., Zhou, H., Guo, F., & Yang, H. (2019). Off-target RNA mutation induced by DNA base editing and its elimination by mutagenesis. *Nature*, 571(7764), 275–278. PMID: 31181567
+
+van den Brink, M., Althuis, T. Y., Danelon, C., & Claassens, N. J. (2025). MOSAIC: A Highly Efficient, One-Step Recombineering Approach to Plasmid Editing and Diversification. ACS synthetic biology, 14(10), 3880–3889. https://doi.org/10.1021/acssynbio.4c00657
