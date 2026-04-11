@@ -134,9 +134,21 @@ Substituting and taking the toxicity threshold $\theta_T > \theta_F$ with a simi
 
 which simplifies (after careful treatment of the regions where $f(\mu_X)$ lies relative to each threshold) to a monotone decreasing function of $\sigma_X$ for $\sigma_X$ above a critical value $\sigma_X^* = (\theta_T - \theta_F) / (2 |f'(\mu_X)|)$.
 
-The critical variance $\sigma_X^*$ is the practically important quantity: for $\sigma_X < \sigma_X^*$, the MTI is effectively bounded only by the mean, and dose titration can achieve arbitrarily high functional fractions without crossing the toxicity threshold. For $\sigma_X > \sigma_X^*$, the MTI is bounded above by a decreasing function of $\sigma_X$, and dose escalation *trades* between functional and toxic cells with diminishing returns.
+The critical variance 
+$\sigma_X^* $
+is the practically important quantity: for 
+$\sigma_X < \sigma_X^* $
+, the MTI is effectively bounded only by the mean, and dose titration can achieve arbitrarily high functional fractions without crossing the toxicity threshold. For 
+$\sigma_X > \sigma_X^* $
+, the MTI is bounded above by a decreasing function of 
+$\sigma_X $
+, and dose escalation *trades* between functional and toxic cells with diminishing returns.
 
-The central prediction of F336 is that for any combination of target functional threshold, toxicity threshold, Hill coefficient, and mean dose, there exists a critical per-cell variance above which the therapy cannot achieve an MTI above any desired target level, regardless of dose. This is the "mosaic ceiling" of the paper's title. For realistic clinical parameters — $n \approx 2$, $K \approx 0.3$, $\theta_F / \theta_T \approx 0.5 / 0.9$ — the critical variance $\sigma_X^*$ lies in the range 0.15–0.25, which is below the minimum per-cell CV imposed by scATAC variance alone (Section 2.2). This observation is the core technical contribution of the paper: the variance of chromatin accessibility alone can be sufficient to saturate the mosaic ceiling, meaning that no amount of dose escalation, multiplexed guides, or repair biasing can rescue a treatment whose per-cell accessibility CV exceeds $\sigma_X^*$.
+The central prediction of F336 is that for any combination of target functional threshold, toxicity threshold, Hill coefficient, and mean dose, there exists a critical per-cell variance above which the therapy cannot achieve an MTI above any desired target level, regardless of dose. This is the "mosaic ceiling" of the paper's title. For realistic clinical parameters — $n \approx 2$, $K \approx 0.3$, $\theta_F / \theta_T \approx 0.5 / 0.9$ — the critical variance 
+$\sigma_X^* $
+lies in the range 0.15–0.25, which is below the minimum per-cell CV imposed by scATAC variance alone (Section 2.2). This observation is the core technical contribution of the paper: the variance of chromatin accessibility alone can be sufficient to saturate the mosaic ceiling, meaning that no amount of dose escalation, multiplexed guides, or repair biasing can rescue a treatment whose per-cell accessibility CV exceeds 
+$\sigma_X^* $
+.
 
 ### 3.4 Why existing solutions plateau
 
