@@ -240,7 +240,9 @@ with drift $b$, diffusion $\Sigma$, and standard Wiener process $W$. The value f
 ```
 with terminal condition $V(\mathbf{x}, T) = \Psi(\mathbf{x})$.
 
-**Variables:** $\mathbf{x}$ is the internal-state vector (dimension $n \approx 5$–$10$ corresponding to key cell-state markers), $u$ is the control input (e.g., verteporfin concentration or EN1-siRNA dose), $L$ is the per-unit-time cost of sub-optimal committment plus intervention cost, $\Psi$ is the terminal fibrotic-commitment penalty, $b$ and $\Sigma$ are calibrated to published fibroblast single-cell time-series data. The dimension of the partial differential equation is $n+1$, making direct numerical solution feasible for $n \leq 3$ and requiring dimensionality-reduction or deep-learning approximation for larger $n$.
+**Variables:** $\mathbf{x}$ is the internal-state vector (dimension $n \approx 5$–
+$10$
+corresponding to key cell-state markers), $u$ is the control input (e.g., verteporfin concentration or EN1-siRNA dose), $L$ is the per-unit-time cost of sub-optimal committment plus intervention cost, $\Psi$ is the terminal fibrotic-commitment penalty, $b$ and $\Sigma$ are calibrated to published fibroblast single-cell time-series data. The dimension of the partial differential equation is $n+1$, making direct numerical solution feasible for $n \leq 3$ and requiring dimensionality-reduction or deep-learning approximation for larger $n$.
 
 **Distinction from Pontryagin minimum principle:** This framework is distinct from the Lagrangian/Hamiltonian Pontryagin approach used in prior drafts because HJB is a partial differential equation for the value function whose solution yields the feedback optimal control $u^*(\mathbf{x}, t) = \arg\min_u[L + b\cdot \nabla V]$ as a closed-loop policy, whereas Pontryagin yields an open-loop optimal trajectory. The HJB formulation is uniquely appropriate for fibroblast commitment because the system is stochastic and the control must react to real-time measurements of cell state.
 
