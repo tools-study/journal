@@ -200,7 +200,9 @@ where $A > 0$ is the magnitude of the transient pro-regenerative (PDGF-AA-driven
 ```math
 \frac{dK}{d\tau}\bigg|_{\tau = t^*} = 0 \Longleftrightarrow \frac{A}{\tau_+}\,e^{-t^*/\tau_+} = \frac{B}{\tau_-}\,e^{-(t^* - \tau_{\mathrm{lag}})/\tau_-} \,\Theta(t^* - \tau_{\mathrm{lag}})
 ```
-For physiologically plausible parameters ($A = B$, $\tau_+ = 5$ days, $\tau_- = 20$ days, $\tau_{\mathrm{lag}} = 7$ days), solving numerically yields $t^* \approx 10$–$12$ days post-injury — precisely the window identified by Gasek et al. 2024 for beneficial p21-selective clearance.
+For physiologically plausible parameters ($A = B$, $\tau_+ = 5$ days, $\tau_- = 20$ days, $\tau_{\mathrm{lag}} = 7$ days), solving numerically yields $t^* \approx 10$–
+$12$
+days post-injury — precisely the window identified by Gasek et al. 2024 for beneficial p21-selective clearance.
 
 **Testable prediction:** The kernel's transient positive lobe and persistent negative lobe should be experimentally resolvable by time-course measurements of PDGF-AA and the pro-inflammatory component of the SASP during wound healing, with senolytic therapy maximally effective when administered after the transient positive lobe has decayed but before the persistent negative lobe dominates tissue inflammation. This is distinct from the simple exponential-decay models currently used to describe senescent-cell dynamics and provides a quantitative framework for senolytic-timing optimization.
 
