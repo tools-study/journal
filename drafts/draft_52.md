@@ -193,7 +193,7 @@ The free energy of nucleosome destabilisation by a pioneer TF is:
 \Delta G_{\text{pioneer}} = \Delta G_{\text{bind}} + \Delta G_{\text{deform}} + \Delta G_{\text{linker}}
 ```
 
-where $\Delta G_{\text{bind}}$ is the TF–DNA binding energy (~−12 to −15 kcal/mol for pioneer factors), $\Delta G_{\text{deform}}$ is the nucleosome deformation energy (~+3 to +8 kcal/mol), and $\Delta G_{\text{linker}}$ is the linker histone displacement energy (~+2 to +5 kcal/mol).
+where $\Delta G_{\text{bind}}$ is the TF–DNA binding energy (~ −12 to −15 kcal/mol for pioneer factors), $\Delta G_{\text{deform}}$ is the nucleosome deformation energy (~ +3 to +8 kcal/mol), and $\Delta G_{\text{linker}}$ is the linker histone displacement energy (~+2 to +5 kcal/mol).
 
 For chemical pioneers, the analogous energy is:
 
@@ -211,7 +211,25 @@ We define a Lyapunov function $V(x)$ over the epigenetic state vector $x = (m, h
 V(x) = -\left[ w_m \log\left(\frac{m}{m^*}\right) + w_h \log\left(\frac{h}{h^*}\right) + w_t \log\left(\frac{t}{t^*}\right) \right]
 ```
 
-where $m^*, h^*, t^*$ are the lock levels of the corresponding natively specified cell type, and $w_m, w_h, w_t$ are weights reflecting the relative contribution of each lock to identity maintenance. The converted state is a local minimum of $V$ if and only if all three lock levels are above a critical threshold: $m > m_c$, $h > h_c$, $t > t_c$. If any lock falls below its threshold, $V$ increases and the cell drifts toward the source-state attractor. The depth of the local minimum — $V(x^*_{\text{converted}}) - V(x_{\text{saddle}})$ — quantifies the basin-of-attraction depth and predicts the timescale of spontaneous reversion: $\tau_{\text{revert}} \propto \exp(\Delta V / k_B T_{\text{eff}})$, where $T_{\text{eff}}$ is an effective epigenetic temperature reflecting stochastic fluctuations in chromatin state.
+where 
+m*, h*, t*
+are the lock levels of the corresponding natively specified cell type, and $w_m, w_h, w_t$ are weights reflecting the relative contribution of each lock to identity maintenance. The converted state is a local minimum of 
+$V$
+if and only if all three lock levels are above a critical threshold: 
+```math
+m > m_c$, $h > h_c$, $t > t_c
+```
+. If any lock falls below its threshold, $V$ increases and the cell drifts toward the source-state attractor. The depth of the local minimum — 
+```math
+V(x^*_{\text{converted}}) - V(x_{\text{saddle}})
+```
+— quantifies the basin-of-attraction depth and predicts the timescale of spontaneous reversion: 
+```math
+\tau_{\text{revert}} \propto \exp(\Delta V / k_B T_{\text{eff}})
+```
+, where 
+$T_{\text{eff}}$
+is an effective epigenetic temperature reflecting stochastic fluctuations in chromatin state.
 
 ### F378: Reversion Hazard Model
 
