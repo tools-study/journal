@@ -283,8 +283,6 @@ The pioneer-transcription-factor / nucleosome / iPSC design space has — for th
 
 Three commitments distinguish CHROMAFORGE from adjacent self-driving-laboratory efforts. First, the generative core is structure-conditioned rather than sequence-only: it reasons about pioneer-TF variants with explicit awareness of the nucleosome geometry they will engage. Second, the causal-inference module is a first-class component rather than an afterthought: counterfactual queries about chromatin opening are computable from the observational data the platform naturally collects. Third, the mathematical framework is falsifiability-first: the F396 power criterion and the F395 contraction bound jointly commit the platform to honest sample sizes and quantified convergence rather than post-hoc rationalisation.
 
-The manual disease-specific iPSC pipeline of the Mullin-era textbook (Mullin et al., 2012) belongs to the past; a self-driving factory that honours the Vidarsson-era protocol intent (Vidarsson et al., 2010) while compressing its walltime by an order of magnitude is now an engineering problem rather than a basic-science one.
-
 ## References
 
 Abolhasani, Milad, and Eugenia Kumacheva. "The rise of self-driving labs in chemical and materials sciences." *Nature Synthesis* 2, no. 6 (2023): 483–495. https://doi.org/10.1038/s44160-022-00231-0.
