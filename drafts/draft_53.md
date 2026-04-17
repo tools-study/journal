@@ -291,7 +291,7 @@ Abramson, Josh, Jonas Adler, Jack Dunger, et al. "Accurate structure prediction 
 
 Benegas, Gonzalo, Cyril Ye, Carlos Albors, et al. "Genomic language models: opportunities and challenges." *Trends in Genetics* 41, no. 4 (2025): 286–302. https://doi.org/10.1016/j.tig.2024.12.003.
 
-Bershteyn, Marina, Sonja B. Hansen, Jessica Bernard, et al. "Human stem cell-derived GABAergic interneuron development reveals early emergence of subtype diversity and gradual electrochemical maturation." *Neuron* 113, no. 4 (2025): 550–566. https://doi.org/10.1016/j.neuron.2024.12.009.
+Bershteyn, Marina, Sonja B. Hansen, Jessica Bernard, et al. "Human stem cell-derived GABAergic interneuron development reveals early emergence of subtype diversity and gradual electrochemical maturation." *Neuron* 113, no. 4 (2025): 550–566.
 
 Biswas, Arpan, Yongtao Liu, Nicole Creange, et al. "A dynamic Bayesian optimized active recommender system for curiosity-driven partially Human-in-the-loop automated experiments." *npj Computational Materials* 10, no. 1 (2024): 29. https://doi.org/10.1038/s41524-024-01237-2.
 
