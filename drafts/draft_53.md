@@ -325,9 +325,9 @@ Hu, Hua, Jian Gan, and Peter Jonas. "Fast-spiking, parvalbumin+ GABAergic intern
 
 Hunt, Robert F., and Scott C. Baraban. "Interneuron Transplantation as a Treatment for Epilepsy." *Cold Spring Harbor Perspectives in Medicine* 5, no. 12 (2015): a022376. https://doi.org/10.1101/cshperspect.a022376.
 
-Ishikawa, Masato, Shingo Sashida, Yoshihito Ishida, et al. "RENGE infers gene regulatory networks using time-series single-cell RNA-seq data with CRISPR perturbations." *Communications Biology* 6, no. 1 (2023): 1290. https://doi.org/10.1038/s42003-023-05683-4.
+Ishikawa, Masato, Shingo Sashida, Yoshihito Ishida, et al. "RENGE infers gene regulatory networks using time-series single-cell RNA-seq data with CRISPR perturbations." *Communications Biology* 6, no. 1 (2023): 1290.
 
-Jin, Yaowei, Qi Huang, Ziyang Song, et al. "P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching." *Journal of Chemical Theory and Computation* 20, no. 21 (2024): 9608–9618. https://doi.org/10.1021/acs.jctc.4c00706.
+Jin, Yaowei, Qi Huang, Ziyang Song, et al. "P2DFlow: A Protein Ensemble Generative Model with SE(3) Flow Matching." *Journal of Chemical Theory and Computation* 20, no. 21 (2024): 9608–9618.
 
 Kantor, Ariel, Michelle E. McClements, and Robert E. MacLaren. "CRISPR-Cas9 DNA base-editing and prime-editing." *International Journal of Molecular Sciences* 21, no. 17 (2020): 6240. https://doi.org/10.3390/ijms21176240.
 
