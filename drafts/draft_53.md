@@ -30,7 +30,7 @@ The bHLH factor Cbf1 is the first bHLH pioneer to be structurally resolved on th
 
 ### §2.3 Inference infrastructure
 
-The empirical tooling required to train and evaluate any pioneer-TF design engine has also matured. ATAC-seq, particularly the Omni-ATAC protocol, offers high-resolution genome-wide mapping of accessible chromatin from small cell populations (Grandi et al., 2022). Variational-autoencoder-based tools such as SeATAC identify regions of differential accessibility and specifically recover the paradoxical finding that pioneer induction reduces accessibility at twenty to thirty per cent of its binding sites (Dsouza et al., 2022). Machine-learning-based prediction of nucleosome architecture is now competitive with MNase-seq (Sala et al., 2024). SeEN-seq, a recently published cryo-EM sample-preparation protocol, systematically identifies transcription-factor binding positions across a nucleosome library and produces homogeneous TF-nucleosome complexes suitable for single-particle analysis (Kobayashi et al., 2025). Automated single-particle workflows — including RELION-4 with adaptive-moment gradient descent, convolutional-neural-network 2D class selection, and metadata gathering (Kimanius et al., 2021), and the cryoDRGN pipeline for recovering continuous structural ensembles (Kinman et al., 2022) — have reduced the walltime from raw micrographs to structure by one to two orders of magnitude relative to 2019-era manual pipelines. Perturb-seq and its direct-capture derivative permit genome-scale single-cell transcriptional phenotyping of CRISPR interference perturbations (Replogle et al., 2020; Replogle et al., 2022). Causal-network inference from time-series perturbations has been formalised in the RENGE framework (Ishikawa et al., 2023) and benchmarked across real single-cell perturbation data in CausalBench (Chevalley et al., 2025). Benchmarks also reveal that published foundation models for single-cell data have non-trivial zero-shot reliability problems (Kedzierska et al., 2025), motivating domain-specific representations of the kind CHROMAFORGE proposes.
+The empirical tooling required to train and evaluate any pioneer-TF design engine has also matured. ATAC-seq, particularly the Omni-ATAC protocol, offers high-resolution genome-wide mapping of accessible chromatin from small cell populations (Grandi et al., 2022). Variational-autoencoder-based tools such as SeATAC identify regions of differential accessibility and specifically recover the paradoxical finding that pioneer induction reduces accessibility at twenty to thirty per cent of its binding sites (Gong et al., 2023). Machine-learning-based prediction of nucleosome architecture is now competitive with MNase-seq (Sala et al., 2024). SeEN-seq, a recently published cryo-EM sample-preparation protocol, systematically identifies transcription-factor binding positions across a nucleosome library and produces homogeneous TF-nucleosome complexes suitable for single-particle analysis (Kobayashi et al., 2025). Automated single-particle workflows — including RELION-4 with adaptive-moment gradient descent, convolutional-neural-network 2D class selection, and metadata gathering (Kimanius et al., 2021), and the cryoDRGN pipeline for recovering continuous structural ensembles (Kinman et al., 2022) — have reduced the walltime from raw micrographs to structure by one to two orders of magnitude relative to 2019-era manual pipelines. Perturb-seq and its direct-capture derivative permit genome-scale single-cell transcriptional phenotyping of CRISPR interference perturbations (Replogle et al., 2020; Replogle et al., 2022). Causal-network inference from time-series perturbations has been formalised in the RENGE framework (Ishikawa et al., 2023) and benchmarked across real single-cell perturbation data in CausalBench (Chevalley et al., 2025). Benchmarks also reveal that published foundation models for single-cell data have non-trivial zero-shot reliability problems (Kedzierska et al., 2025), motivating domain-specific representations of the kind CHROMAFORGE proposes.
 
 ### §2.4 What remains unsolved
 
@@ -137,7 +137,7 @@ The choice of PV+ cortical interneurons is motivated by three convergent lines o
 
 **Days 8–14: Transduction and culture.** Primary human cortical astrocytes are transduced at MOI 5. Cells are cultured in neural-conversion medium with Bcl2 co-expression (Marichal et al., 2024). One plate per variant is harvested on day 12 for ATAC-seq; parallel plates continue to day 21 for single-cell RNA-seq and electrophysiology.
 
-**Days 15–18: Omics readouts.** ATAC-seq libraries are sequenced on NovaSeq 6000. Peak calling via MACS2, differential-accessibility analysis via SeATAC (Dsouza et al., 2022), and nucleosome-architecture inference via the Sala et al. 2024 pipeline feed chromatin-opening metrics to the Causal Inference Module.
+**Days 15–18: Omics readouts.** ATAC-seq libraries are sequenced on NovaSeq 6000. Peak calling via MACS2, differential-accessibility analysis via SeATAC (Gong et al., 2023), and nucleosome-architecture inference via the Sala et al. 2024 pipeline feed chromatin-opening metrics to the Causal Inference Module.
 
 **Days 19–22: Single-cell transcriptomics.** 10x Chromium libraries are sequenced. Cell-type classification is performed against the Bershteyn et al. 2025 reference atlas via scGPT-based zero-shot projection (Cui et al., 2024), with reliability guardrails per Kedzierska et al. 2025 (Kedzierska et al., 2025). PV+ purity scores are computed per variant.
 
@@ -289,17 +289,17 @@ Abolhasani, Milad, and Eugenia Kumacheva. "The rise of self-driving labs in chem
 
 Abramson, Josh, Jonas Adler, Jack Dunger, et al. "Accurate structure prediction of biomolecular interactions with AlphaFold 3." *Nature* 630, no. 8016 (2024): 493–500. https://doi.org/10.1038/s41586-024-07487-w.
 
-Benegas, Gonzalo, Cyril Ye, Carlos Albors, et al. "Genomic language models: opportunities and challenges." *Trends in Genetics* 41, no. 4 (2025): 286–302. https://doi.org/10.1016/j.tig.2024.12.003.
+Benegas, Gonzalo, Cyril Ye, Carlos Albors, et al. "Genomic language models: opportunities and challenges." *Trends in Genetics* 41, no. 4 (2025): 286–302.
 
 Bershteyn, Marina, Sonja B. Hansen, Jessica Bernard, et al. "Human stem cell-derived GABAergic interneuron development reveals early emergence of subtype diversity and gradual electrochemical maturation." *Neuron* 113, no. 4 (2025): 550–566.
 
-Biswas, Arpan, Yongtao Liu, Nicole Creange, et al. "A dynamic Bayesian optimized active recommender system for curiosity-driven partially Human-in-the-loop automated experiments." *npj Computational Materials* 10, no. 1 (2024): 29. https://doi.org/10.1038/s41524-024-01237-2.
+Biswas, Arpan, Yongtao Liu, Nicole Creange, et al. "A dynamic Bayesian optimized active recommender system for curiosity-driven partially Human-in-the-loop automated experiments." *npj Computational Materials* 10, no. 1 (2024): 29.
 
-Chak, Martin, and Nikolas Kell. "Reflection coupling for unadjusted generalized Hamiltonian Monte Carlo in the nonconvex stochastic gradient case." *IMA Journal of Numerical Analysis* 44, no. 1 (2023): 1–31. https://doi.org/10.1093/imanum/drad083.
+Chak, Martin, and Nikolas Kell. "Reflection coupling for unadjusted generalized Hamiltonian Monte Carlo in the nonconvex stochastic gradient case." *IMA Journal of Numerical Analysis* 44, no. 1 (2023): 1–31.
 
-Chevalley, Mathieu, Yusuf Roohani, Arash Mehrjou, Jure Leskovec, and Patrick Schwab. "A large-scale benchmark for network inference from single-cell perturbation data." *Communications Biology* 8, no. 1 (2025): 84. https://doi.org/10.1038/s42003-024-07402-z.
+Chevalley, Mathieu, Yusuf Roohani, Arash Mehrjou, Jure Leskovec, and Patrick Schwab. "A large-scale benchmark for network inference from single-cell perturbation data." *Communications Biology* 8, no. 1 (2025): 84.
 
-Christenson, Anna E., and Clarisse G. Ricci. "CRISPR Epigenome Editing in Human Cells using Plasmid DNA Transfection and mRNA Nucleofection Delivery." *Journal of Visualized Experiments* 215 (2025): e67497. https://doi.org/10.3791/67497.
+Christenson, Anna E., and Clarisse G. Ricci. "CRISPR Epigenome Editing in Human Cells using Plasmid DNA Transfection and mRNA Nucleofection Delivery." *Journal of Visualized Experiments* 215 (2025): e67497.
 
 Cui, Haotian, Chloe Wang, Hassaan Maan, et al. "scGPT: toward building a foundation model for single-cell multi-omics using generative AI." *Nature Methods* 21, no. 8 (2024): 1470–1480. https://doi.org/10.1038/s41592-024-02201-0.
 
@@ -307,17 +307,17 @@ Dodonova, Svetlana O., Fangjie Zhu, Christian Dienemann, Jussi Taipale, and Patr
 
 Donovan, Benjamin T., Anand Chaturvedi, Elliot Quan, et al. "Basic helix-loop-helix pioneer factors interact with the histone octamer to invade nucleosomes and generate nucleosome-depleted regions." *Molecular Cell* 83, no. 8 (2023): 1251–1263. https://doi.org/10.1016/j.molcel.2023.03.006.
 
-Dsouza, Nikita R., Alexandria M. Doerfler, Nicholas S. Wilson, et al. "SeATAC: a tool for exploring the chromatin landscape and the role of pioneer factors." *Genome Biology* 24, no. 1 (2023): 30. https://doi.org/10.1186/s13059-023-02854-8.
+Gong, W., Dsouza, N., & Garry, D. J. (2023). SeATAC: a tool for exploring the chromatin landscape and the role of pioneer factors. Genome biology, 24(1), 125. https://doi.org/10.1186/s13059-023-02954-5
 
 Fishman, Veniamin, Yuri Kuratov, Maksim Petrov, et al. "GENA-LM: a family of open-source foundational DNA language models for long sequences." *Nucleic Acids Research* 53, no. 2 (2025): gkae1310. https://doi.org/10.1093/nar/gkae1310.
 
 Frederick, Megan A., Kristin E. Williamson, Meilin Fernandez Garcia, et al. "A pioneer factor locally opens compacted chromatin to enable targeted ATP-dependent nucleosome remodeling." *Nature Structural & Molecular Biology* 30, no. 1 (2023): 31–37. https://doi.org/10.1038/s41594-022-00886-5.
 
-Ghazale, Hussein, Eunjee Park, Lakshmy Vasan, et al. "MicroRNA-mediated neuronal detargeting alters astrocyte cell fate conversion trajectories in vivo." *Communications Biology* 8, no. 1 (2025): 312. https://doi.org/10.1038/s42003-025-07642-9.
+Ghazale, Hussein, Eunjee Park, Lakshmy Vasan, et al. "MicroRNA-mediated neuronal detargeting alters astrocyte cell fate conversion trajectories in vivo." *Communications Biology* 8, no. 1 (2025): 312.
 
 Giehrl-Schwab, Jessica, Florian Giesert, Benedict Rauser, et al. "Parkinson's disease motor symptoms rescue by CRISPRa-reprogramming astrocytes into GABAergic neurons." *EMBO Molecular Medicine* 14, no. 5 (2022): e14797. https://doi.org/10.15252/emmm.202114797.
 
-Godoy, Lívea D., Tamiris Prizon, Matheus T. Rossignoli, João P. Leite, and José L. Liberato. "Parvalbumin Role in Epilepsy and Psychiatric Comorbidities: From Mechanism to Intervention." *Frontiers in Integrative Neuroscience* 16 (2022): 765324. https://doi.org/10.3389/fnint.2022.765324.
+Godoy, Lívea D., Tamiris Prizon, Matheus T. Rossignoli, João P. Leite, and José L. Liberato. "Parvalbumin Role in Epilepsy and Psychiatric Comorbidities: From Mechanism to Intervention." *Frontiers in Integrative Neuroscience* 16 (2022): 765324.
 
 Grandi, Fiorella C., Hailey Modi, Lucas Kampman, and M. Ryan Corces. "Chromatin accessibility profiling by ATAC-seq." *Nature Protocols* 17, no. 6 (2022): 1518–1552. https://doi.org/10.1038/s41596-022-00692-9.
 
@@ -388,3 +388,5 @@ Watson, Joseph L., David Juergens, Nathaniel R. Bennett, et al. "De novo design 
 Xu, Da, Zhongtian Cai, Chengyu Zhang, et al. "Programmable epigenome editing by transient delivery of CRISPR epigenome editor ribonucleoproteins." *Nature Communications* 16, no. 1 (2025): 1842. https://doi.org/10.1038/s41467-025-57155-4.
 
 Yu, Tianhao, Aashutosh Girish Boob, Michael J. Volk, et al. "In vitro continuous protein evolution empowered by machine learning and automation." *Cell Systems* 14, no. 8 (2023): 633–644. https://doi.org/10.1016/j.cels.2023.04.007.
+
+Liu, Y., Zhangding, Z., Liu, X., & Hu, J. (2025). Chromatin-centric insights into DNA replication. Trends in genetics : TIG, 41(5), 412–424. https://doi.org/10.1016/j.tig.2024.12.003
