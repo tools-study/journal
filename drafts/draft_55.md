@@ -141,7 +141,11 @@ Let the ISA cascade consist of $L$ layers indexed $\ell \in \{0, 1, \dots, L-1\}
 
 **Assumption.** Each layer operator $T_\ell$ is $L_\ell$-Lipschitz in Hellinger distance, i.e., $H(T_\ell \mathbb{P} \,\Vert\, T_\ell \mathbb{Q}) \leq L_\ell \cdot H(\mathbb{P} \,\Vert\, \mathbb{Q})$ for all admissible $\mathbb{P}, \mathbb{Q}$.
 
-**Claim.** Let $\delta_\ell := H(\mathbb{P}_\ell \,\Vert\, \mathbb{Q}_\ell)$. Then
+**Claim.** Let 
+```math
+\delta_\ell := H(\mathbb{P}_\ell \,\Vert\, \mathbb{Q}_\ell)
+```
+. Then
 
 ```math
 D_{\mathrm{KL}}(\mathbb{P}_L \,\Vert\, \mathbb{Q}_L) \;\leq\; 2 \left( \sum_{\ell=0}^{L-1} \delta_\ell \prod_{k=\ell+1}^{L-1} L_k \right)^{\!2}.
