@@ -153,7 +153,11 @@ D_{\mathrm{KL}}(\mathbb{P}_L \,\Vert\, \mathbb{Q}_L) \;\leq\; 2 \left( \sum_{\el
 
 **Proof sketch.** By the Hellinger triangle inequality and Lipschitz continuity, total Hellinger divergence at the output accumulates as the weighted telescoping sum $\delta_{\mathrm{tot}} = \sum_\ell \delta_\ell \prod_{k > \ell} L_k$. The bound $D_{\mathrm{KL}} \leq 2 H^2$ for small Hellinger distances, valid whenever both measures are mutually absolutely continuous, then yields the claim.
 
-**Variables.** $\mathbb{P}_\ell, \mathbb{Q}_\ell$: simulator and real-world distribution at layer $\ell$; $L_\ell$: layer Lipschitz constant, estimable from paired simulator-vs-lab calibration data (Perturb-seq ground truth for L4, doubling time for L3, ClinVar for L1); $\delta_\ell$: empirical per-layer Hellinger miscalibration; $H$: Hellinger distance; $D_{\mathrm{KL}}$: Kullback–Leibler divergence.
+**Variables.** 
+```math
+\mathbb{P}_\ell, \mathbb{Q}_\ell
+```
+: simulator and real-world distribution at layer $\ell$; $L_\ell$: layer Lipschitz constant, estimable from paired simulator-vs-lab calibration data (Perturb-seq ground truth for L4, doubling time for L3, ClinVar for L1); $\delta_\ell$: empirical per-layer Hellinger miscalibration; $H$: Hellinger distance; $D_{\mathrm{KL}}$: Kullback–Leibler divergence.
 
 **Utility.** F403 tells the investigator how many dollars of cloud-lab measurement must be spent to drive $D_{\mathrm{KL}}$ below a tolerance required for a given downstream decision. If any single layer's $\delta_\ell$ is poorly estimated, its Lipschitz multiplier makes its uncertainty dominate. F403 identifies which layer to re-calibrate first.
 
