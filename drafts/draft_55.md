@@ -179,7 +179,7 @@ where $\psi_\ell$ is the dollar-driven precision contribution at layer $\ell$ (z
 
 **Variables.** $w_\ell$: decision sensitivity; $\phi_\ell, \psi_\ell$: concave cost-fidelity maps estimated from small pilot runs; $C, D$: compute and dollar budgets; the Lagrange multipliers $(\lambda_C, \lambda_D)$ are interpretable as shadow prices of compute and dollars.
 
-**Distinctness.** F404 allocates across heterogeneous simulators and real experiments simultaneously; F394 (Gaussian-process regret) allocates only within a single acquisition loop on a single surrogate.
+**Distinctness.** F404 allocates across heterogeneous simulators and real experiments simultaneously; Gaussian-process regret allocates only within a single acquisition loop on a single surrogate.
 
 ### §4.3 F405 — Sequential Probability Ratio Test for Heteroscedastic Simulator Claims
 
@@ -235,7 +235,7 @@ where $\tau_a$ is the wall-clock time of action $a$, $s$ is the current posterio
 
 **Variables.** $s$: current Bayesian posterior; $c_a, \tau_a$: cost and latency of action $a$; $\delta$: time-discount factor.
 
-**Distinctness.** F407 extends classical acquisition-function stopping by explicitly modeling heterogeneous-cost heterogeneous-latency actions, whereas prior GP-regret frameworks (F394) assume homogeneous action costs.
+**Distinctness.** F407 extends classical acquisition-function stopping by explicitly modeling heterogeneous-cost heterogeneous-latency actions, whereas prior GP-regret frameworks assume homogeneous action costs.
 
 ### §4.6 F408 — Structural-Identifiability Certificate for Virtual-Cell Claims
 
