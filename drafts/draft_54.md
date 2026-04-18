@@ -143,7 +143,11 @@ By the Dvoretzky-Kiefer-Wolfowitz inequality, for $M$ observed edits:
 \hat{F}_{\text{corr}}(x) = \frac{\sum_{i: x_i \le x} 1/p(x_i)}{\sum_i 1/p(x_i)}.
 ```
 
-The corrected CDF satisfies $\sup_x |\hat{F}_{\text{corr}}(x) - F_{\text{ref}}(x)| < \varepsilon$ with probability $\ge 1 - 2 e^{-2M\varepsilon^2}$, provided $M \ge \varepsilon^{-2} \log(2/\delta)$ for confidence $1 - \delta$. Because Wu and colleagues now provide 16 TadA variants covering every -1/+1 context, $p(x)$ is empirically measured rather than estimated (Wu et al.), which eliminates the variance term in the DKW bound.
+The corrected CDF satisfies 
+```math
+\sup_x |\hat{F}_{\text{corr}}(x) - F_{\text{ref}}(x)| < \varepsilon
+```
+with probability $\ge 1 - 2 e^{-2M\varepsilon^2}$, provided $M \ge \varepsilon^{-2} \log(2/\delta)$ for confidence $1 - \delta$. Because Wu and colleagues now provide 16 TadA variants covering every -1/+1 context, $p(x)$ is empirically measured rather than estimated (Wu et al.), which eliminates the variance term in the DKW bound.
 
 **Variables.** $D_{\text{KS}}$: Kolmogorov-Smirnov statistic; $F_{\text{obs}}, F_{\text{ref}}$: observed and reference CDFs; $p(x)$: per-context editor probability; $M$: number of observed edits; $\varepsilon$: target bias tolerance.
 
