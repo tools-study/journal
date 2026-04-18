@@ -64,7 +64,8 @@ We now develop mathematical frameworks that formalize clone-resolved structural 
 
 **Problem.** Given $K$ clones isolated via CloneSelect, $N_k$ cryo-EM particles collected from clone $k$, and a structural-latent space of dimension $d$ (coordinates of atomic positions in a low-rank representation), recover a posterior distribution over atomic-resolution structural classes conditional on clone identity, while propagating the uncertainty introduced by barcode-swap.
 
-**Model.** Let $L$ be the number of latent structural classes (determined by AlphaFold 3 or cryoDRGN as a prior), and let $\pi \in \Delta^{L-1}$ denote the population frequencies of those classes. Place a Dirichlet prior $\pi \sim \text{Dir}(\alpha)$ with concentration $\alpha \in \mathbb{R}^L_{+}$. Each particle $i$ of clone $k$ is observed together with a barcode call $b_i$ and is associated with a latent structural class $c_{k,i} \in \{1,\dots,L\}$. Let $p_{\text{swap}} \in [0,1]$ denote the barcode-swap probability (from F401; empirically $\sim$0.5 without CROP-seq, $\sim$0.06 with (Hill et al.; Xie et al.)). The barcode-contaminated likelihood is:
+**Model.** Let $L$ be the number of latent structural classes (determined by AlphaFold 3 or cryoDRGN as a prior), and let $\pi \in \Delta^{L-1}$ denote the population frequencies of those classes. Place a Dirichlet prior $\pi \sim \text{Dir}(\alpha)$ with concentration $\alpha \in \mathbb{R}^L_{+}$. Each particle $i$ of clone $k$ is observed together with a barcode call $b_i$ and is associated with a latent structural class $c_{k,i} \in \{1,\dots,L\}$. Let $p_{\text{swap}} \in [0,1]$ denote the barcode-swap probability (from F401; empirically 
+~0.5 without CROP-seq, ~0.06 with (Hill et al.; Xie et al.)). The barcode-contaminated likelihood is:
 
 ```math
 p(b_i = k \mid \text{true clone} = k') = (1-p_{\text{swap}}) \, \mathbb{1}[k = k'] + \frac{p_{\text{swap}}}{K}.
