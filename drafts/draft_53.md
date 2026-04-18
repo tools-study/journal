@@ -331,15 +331,15 @@ Jin, Yaowei, Qi Huang, Ziyang Song, et al. "P2DFlow: A Protein Ensemble Generati
 
 Kantor, Ariel, Michelle E. McClements, and Robert E. MacLaren. "CRISPR-Cas9 DNA base-editing and prime-editing." *International Journal of Molecular Sciences* 21, no. 17 (2020): 6240. https://doi.org/10.3390/ijms21176240.
 
-Karmakar, Subhasis, Priya Das, Debasmita Panda, et al. "A miniature alternative to Cas9 and Cas12: Transposon-associated TnpB mediates targeted genome editing in plants." *Plant Biotechnology Journal* 22, no. 1 (2024): 92–104. https://doi.org/10.1111/pbi.14223.
+Karmakar, Subhasis, Priya Das, Debasmita Panda, et al. "A miniature alternative to Cas9 and Cas12: Transposon-associated TnpB mediates targeted genome editing in plants." *Plant Biotechnology Journal* 22, no. 1 (2024): 92–104.
 
-Kedzierska, Kasia Z., Lorin Crawford, Ava P. Amini, and Alex X. Lu. "Zero-shot evaluation reveals limitations of single-cell foundation models." *Genome Biology* 26, no. 1 (2025): 101. https://doi.org/10.1186/s13059-025-03544-3.
+Kedzierska, Kasia Z., Lorin Crawford, Ava P. Amini, and Alex X. Lu. "Zero-shot evaluation reveals limitations of single-cell foundation models." *Genome Biology* 26, no. 1 (2025): 101.
 
 Kimanius, Dari, Liyi Dong, Grigory Sharov, Takanori Nakane, and Sjors H. W. Scheres. "New tools for automated cryo-EM single-particle analysis in RELION-4.0." *Biochemical Journal* 478, no. 24 (2021): 4169–4185. https://doi.org/10.1042/BCJ20210708.
 
 Kinman, Laurel F., Barrett M. Powell, Ellen D. Zhong, Bonnie Berger, and Joseph H. Davis. "Uncovering structural ensembles from single-particle cryo-EM data using cryoDRGN." *Nature Protocols* 18, no. 2 (2023): 319–339. https://doi.org/10.1038/s41596-022-00763-x.
 
-Kobayashi, Wataru, Fabio D. Steffen, Hiroki Tanaka, and Hitoshi Kurumizaka. "Protocol for integrative analysis of transcription factor-nucleosome interactions using SeEN-seq and cryo-EM structure determination." *STAR Protocols* 6, no. 1 (2025): 103469. https://doi.org/10.1016/j.xpro.2024.103469.
+Kobayashi, Wataru, Fabio D. Steffen, Hiroki Tanaka, and Hitoshi Kurumizaka. "Protocol for integrative analysis of transcription factor-nucleosome interactions using SeEN-seq and cryo-EM structure determination." *STAR Protocols* 6, no. 1 (2025): 103469.
 
 Krokidis, Marios G., Aris Koumbaroulis, Ioanna Kanterakis, and Aristidis Vrahatis. "AlphaFold3: An Overview of Applications and Performance Insights." *International Journal of Molecular Sciences* 26, no. 8 (2025): 3671. https://doi.org/10.3390/ijms26083671.
 
@@ -365,15 +365,15 @@ Replogle, Joseph M., Thomas M. Norman, Albert Xu, et al. "Combinatorial single-c
 
 Replogle, Joseph M., Reuben A. Saunders, Angela N. Pogson, et al. "Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq." *Cell* 185, no. 14 (2022): 2559–2575. https://doi.org/10.1016/j.cell.2022.05.013.
 
-Sala, Alba, Mireia Labrador, Diana Buitrago, et al. "An integrated machine-learning model to predict nucleosome architecture." *Nucleic Acids Research* 52, no. 4 (2024): 1837–1853. https://doi.org/10.1093/nar/gkae014.
+Sala, Alba, Mireia Labrador, Diana Buitrago, et al. "An integrated machine-learning model to predict nucleosome architecture." *Nucleic Acids Research* 52, no. 4 (2024): 1837–1853.
 
-Scheurer, Christoph, Matthias M. Kreuzer, Matthias Scheffler, and Karsten Reuter. "Role of the human-in-the-loop in emerging self-driving laboratories for heterogeneous catalysis." *Nature Catalysis* 8, no. 1 (2025): 13–19. https://doi.org/10.1038/s41929-024-01287-1.
+Scheurer, Christoph, Matthias M. Kreuzer, Matthias Scheffler, and Karsten Reuter. "Role of the human-in-the-loop in emerging self-driving laboratories for heterogeneous catalysis." *Nature Catalysis* 8, no. 1 (2025): 13–19.
 
-Spangler, Joseph R., Theresa J. Smith, and Igor L. Medintz. "Large scale screening of CRISPR guide RNAs using an optimized high throughput robotics system." *Scientific Reports* 12, no. 1 (2022): 21275. https://doi.org/10.1038/s41598-022-25750-w.
+Spangler, Joseph R., Theresa J. Smith, and Igor L. Medintz. "Large scale screening of CRISPR guide RNAs using an optimized high throughput robotics system." *Scientific Reports* 12, no. 1 (2022): 21275.
 
 Szymanski, Nathan J., Bernardus Rendy, Yuxing Fei, et al. "An autonomous laboratory for the accelerated synthesis of inorganic materials." *Nature* 624, no. 7990 (2023): 86–91. https://doi.org/10.1038/s41586-023-06734-w.
 
-Tang, Na, and Heng Zhang. "Miniature CRISPR-Cas12 Systems: Mechanisms, Engineering, and Genome Editing Applications." *ACS Chemical Biology* 19, no. 3 (2024): 537–549. https://doi.org/10.1021/acschembio.3c00717.
+Tang, Na, and Heng Zhang. "Miniature CRISPR-Cas12 Systems: Mechanisms, Engineering, and Genome Editing Applications." *ACS Chemical Biology* 19, no. 3 (2024): 537–549.
 
 Tanaka, Hiroki, Yasuhiro Takizawa, Mariko Takaku, et al. "Interaction of the pioneer transcription factor GATA3 with nucleosomes." *Nature Communications* 11, no. 1 (2020): 4136. https://doi.org/10.1038/s41467-020-17959-y.
 
@@ -385,8 +385,10 @@ Vidarsson, Hilmar, Johan Hyllner, and Peter Sartipy. "Differentiation of human e
 
 Watson, Joseph L., David Juergens, Nathaniel R. Bennett, et al. "De novo design of protein structure and function with RFdiffusion." *Nature* 620, no. 7976 (2023): 1089–1100. https://doi.org/10.1038/s41586-023-06415-8.
 
-Xu, Da, Zhongtian Cai, Chengyu Zhang, et al. "Programmable epigenome editing by transient delivery of CRISPR epigenome editor ribonucleoproteins." *Nature Communications* 16, no. 1 (2025): 1842. https://doi.org/10.1038/s41467-025-57155-4.
+Xu, D., Besselink, S., Ramadoss, G.N. et al. Programmable epigenome editing by transient delivery of CRISPR epigenome editor ribonucleoproteins. Nat Commun 16, 7948 (2025). https://doi.org/10.1038/s41467-025-63167-x
 
-Yu, Tianhao, Aashutosh Girish Boob, Michael J. Volk, et al. "In vitro continuous protein evolution empowered by machine learning and automation." *Cell Systems* 14, no. 8 (2023): 633–644. https://doi.org/10.1016/j.cels.2023.04.007.
+Yu, T., Boob, A. G., Singh, N., Su, Y., & Zhao, H. (2023). In vitro continuous protein evolution empowered by machine learning and automation. Cell systems, 14(8), 633–644. https://doi.org/10.1016/j.cels.2023.04.006
 
 Liu, Y., Zhangding, Z., Liu, X., & Hu, J. (2025). Chromatin-centric insights into DNA replication. Trends in genetics : TIG, 41(5), 412–424. https://doi.org/10.1016/j.tig.2024.12.003
+
+Kratz, Anton, et al. "A multi-scale map of protein assemblies in the DNA damage response." Cell systems 14.6 (2023): 447-463.
