@@ -16,7 +16,7 @@ The practical consequence is that many experiments that previously required a be
 
 This manuscript addresses that gap. We describe a seven-layer platform that we term IN-SILICO-AXIS (ISA) and introduce mathematical frameworks that provide the calibration, allocation, falsifiability, curriculum, deferred-decision, and identifiability backbone the stack has been missing. Our framing is deliberate: we treat the sim-to-real calibration gap as the primary obstacle, the specialized-assay lab bottleneck as a secondary resource-allocation problem, and identifiability and falsifiability as the gating criterion for whether a virtual-cell claim is publishable at all.
 
-**Scope.** ISA is designed for investigators studying induced pluripotency, transcription-factor biology, directed differentiation, partial reprogramming and cellular rejuvenation, gene-circuit construction, base and prime editing, and intracellular signal transduction. It is not a claim that lab biology can be eliminated; it is a claim that the ratio of simulation hours to bench hours can be inverted, so that lab actions are reserved for the narrow set of questions that are both identifiable in principle and decisive in practice.
+**Scope.** ISA is designed for investigators. It is not a claim that lab biology can be eliminated; it is a claim that the ratio of simulation hours to bench hours can be inverted, so that lab actions are reserved for the narrow set of questions that are both identifiable in principle and decisive in practice.
 
 ---
 
