@@ -95,7 +95,7 @@ flowchart TB
     IDF -. gates .-> OED
 ```
 
-**Figure 1.** Seven-layer IN-SILICO-AXIS architecture. Arrows denote information flow. The calibration block on the right (F403/F405/F406/F408) gates which outputs from any layer are permitted to leave that layer without a cloud-lab confirmation.
+**Figure 1.** Seven-layer IN-SILICO-AXIS architecture. Arrows denote information flow. The calibration block on the right gates which outputs from any layer are permitted to leave that layer without a cloud-lab confirmation.
 
 ### §3.1 L0 — Physical substrate
 
