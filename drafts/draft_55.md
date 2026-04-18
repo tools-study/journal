@@ -1,4 +1,4 @@
-# Simulated-Experiment Platform
+# Simulated Experiment Platform
 
 ---
 
