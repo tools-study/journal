@@ -226,7 +226,7 @@ Let $\rho$ denote the number of class-I-presented capsid-derived peptides per tr
 **Variables.** $k_{\text{kill}}$ is the bimolecular killing rate (empirically ≈10⁻⁴ d⁻¹ per capsid peptide per T cell); $\tau$ is a glucocorticoid-suppression factor (≈10 at prednisone dose 1 mg/kg/d); $\gamma$ is the glucocorticoid taper rate (1/τ = ≈1 week taper). The integrated transduced-cell elimination fraction over the critical 8–12 week post-dose window is:
 
 ```math
-\Delta E / E_0 \;=\; 1 - \exp\!\left[-\int_0^{12w} \psi_T^{CD8}\,dt\right]
+\Delta E / E_0 = 1 - \exp \left( -\, \int_0^{12w} \psi_T^{\text{CD8}} \, dt \right)
 ```
 
 Proteasome-resistant capsid mutants (e.g., AAV2-Y-F) reduce $\rho$ by approximately 10-fold (Martino et al., 2013), reducing $\Delta E / E_0$ from an unmitigated ~40% loss to ~5%. CpG-depleted vector genomes further reduce $\rho$ indirectly by lowering cross-priming of naive CD8 T cells (Bertolini et al., 2021). F434 therefore provides a dose-effect relationship that connects vector engineering to transduced-cell preservation, formalizing the benefit of capsid surface engineering and transgene codon optimization as durability levers.
