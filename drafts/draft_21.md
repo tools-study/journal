@@ -1296,3 +1296,4 @@ The stakes extend beyond academic understanding. Engineered proteins are central
 301. Doman JL et al. (2023) Phage-assisted evolution yields compact, efficient prime editors. *Cell* 186, 3983–4002. PMID:37657419.
 302. Schulz S et al. (2025) Epistatic hotspots organize antibody fitness landscape. *PNAS* 122, e2413884122. PMID:39773024.
 303. Xie WJ et al. (2024) ML-guided co-optimization of fitness and diversity in enzyme engineering. *Nature Communications* 15, 6392. PMID:39080249.
+304. Howorka, S. Sequencing peptides by reversing translation. Nat Biotechnol (2026). https://doi.org/10.1038/s41587-026-03108-1
