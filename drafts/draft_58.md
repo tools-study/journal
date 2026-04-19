@@ -322,11 +322,9 @@ A fifth second-order question, not anticipated in the prospective planning of th
 
 These second-order gaps are speculative by construction. Their enumeration here is not a research plan; it is an assertion that the seven gaps in this manuscript are not terminal, and that the field's work is not finished when they are closed. What remains after their closure is what the field should treat as its long-horizon agenda.
 
-The practical consequence of this manuscript for the reader is, therefore, modest and concrete. Pick one of the seven gaps whose subject matter resonates with an existing laboratory program. Read the three or four 2020–2026 papers that bound its current state. Implement one of the seven mathematical frameworks as a simulation or a data-analysis pipeline. Identify the one experiment whose completion would move the frontier most rapidly. This simple procedure — gap identification, boundary-paper reading, framework implementation, experiment scoping — is offered here as a general method for translating a literature audit into a research program.
-
 ---
 
-## 14. References
+## 13. References
 
 Abramson, Josh, et al. "Accurate Structure Prediction of Biomolecular Interactions with AlphaFold 3." *Nature*, vol. 630, 2024, pp. 493–500.
 
