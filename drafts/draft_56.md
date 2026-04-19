@@ -132,7 +132,7 @@ with *z* standard normal quantiles. For realistic experimental parameters (*k* =
 
 ---
 
-## 3. The Falsifiable Experiment
+## 3. The Experiment
 
 ### 3.1 Central Hypothesis and Null
 
