@@ -1064,6 +1064,6 @@ Regulatory frameworks are also evolving to accommodate these new modalities. The
 218. Anzalone, A. V., et al. (2020). Genome editing with CRISPR-Cas nucleases, base editors, transposases and prime editors. *Nature Biotechnology*, 38(7), 824–844. PMID: 32728205
 219. Chen, J., Dagdas, Y., Kleinstiver, B. et al. (2017) Enhanced proofreading governs CRISPR–Cas9 targeting accuracy. *Nature* 550, 407–410. https://doi.org/10.1038/nature24268
 220. Zheng, R., Lu, Z., Wei, R. et al. (2026). Improving the efficiency of high-fidelity Cas9 by enhancing PAM-distal interactions. *Nature Structural & Molecular Biology*. https://doi.org/10.1038/s41594-026-01753-3
-
+221. Shuto, Y., Nakagawa, R., Zhu, S. et al. Structural basis for pegRNA-guided reverse transcription by a prime editor. Nature 631, 224–231 (2024). https://doi.org/10.1038/s41586-024-07497-8
 
 
