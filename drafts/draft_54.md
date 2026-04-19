@@ -1,4 +1,4 @@
-# Barcode-Encoded Gene Editing
+# Barcode Encoded Gene Editing
 
 ---
 
