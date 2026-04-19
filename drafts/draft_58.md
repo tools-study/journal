@@ -455,3 +455,5 @@ Zhang, Yuebao, et al. "Lipids and Lipid Derivatives for RNA Delivery." *Chemical
 Zheng, Lining, et al. "Lipid Nanoparticle Topology Regulates Endosomal Escape and Delivery of RNA to the Cytoplasm." *Proceedings of the National Academy of Sciences*, vol. 120, 2023, p. e2301067120.
 
 Zimmerli, Christian E., et al. "Nuclear Pores Dilate and Constrict in Cellulo." *Science*, vol. 374, 2021, p. eabd9776.
+
+Prajapati, Hemant K., et al. "Nucleosome dynamics render heterochromatin accessible in living human cells." Nature Communications 16.1 (2025): 4577.
