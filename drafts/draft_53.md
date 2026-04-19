@@ -1,4 +1,4 @@
-# Nucleosome-Resolved Structural Biology
+# Nucleosome Resolved Structural Biology
 
 ## Abstract
 
