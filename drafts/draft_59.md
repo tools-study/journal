@@ -259,7 +259,7 @@ Secondary readouts include (a) MRI volumetry of graft and peri-infarct cortex at
 
 ---
 
-## 7. Novel Mathematical Frameworks
+## 7. Mathematical Frameworks
 
 This section consolidates the five quantitative frameworks introduced above and states one additional framework — the multiplicative-pillar closure model — that organizes the four preceding frameworks into a single testable claim.
 
