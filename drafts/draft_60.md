@@ -425,3 +425,7 @@ Witvliet, Daniel K., et al. "Connectomes across development reveal principles of
 Wittlieb, Jörg, et al. "Transgenic *Hydra* allow in vivo tracking of individual stem cells during morphogenesis." *Proceedings of the National Academy of Sciences USA* 103 (2006): 6208–6211.
 
 Yuste, Rafael. "Breaking the neural code of a cnidarian: learning principles of neuroscience from the 'vulgar' *Hydra*." *Current Opinion in Neurobiology* 87 (2024): 102859.
+
+Vaxenburg, Roman, et al. "Whole-body physics simulation of fruit fly locomotion." Nature 643.8074 (2025): 1312-1320.
+
+Jin, Zehao, et al. "Whole-Brain Connectomic Graph Model Enables Whole-Body Locomotion Control in Fruit Fly." arXiv preprint arXiv:2602.17997 (2026).
