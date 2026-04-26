@@ -96,9 +96,9 @@ The fiducial quantum-dot nanoparticles co-injected in §4.1 serve as multi-modal
 
 ---
 
-## §5. Mathematical Framework — The Long-Range Segmentation Fidelity Bound (F441–F446)
+## §5. Mathematical Framework — The Long-Range Segmentation Fidelity Bound
 
-We formalise the gating obstacle on whole-mouse-brain reconstruction — error compounding along long-range axons — as a renewal process. All formulas are new (none reuse F1–F440 from prior research drafts) and all variables are defined at first use.
+We formalise the gating obstacle on whole-mouse-brain reconstruction — error compounding along long-range axons — as a renewal process.
 
 ### F441 — Renewal-process error rate along neurites
 
